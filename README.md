@@ -1,4 +1,6 @@
-## Requisitos de software grupo: Spotify
+## Requisitos de software
+
+# Spotify
 
 
 
