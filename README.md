@@ -1,6 +1,6 @@
-## Requisitos de software
+# Requisitos de software
 
-# Spotify
+## Spotify
 
 
 
