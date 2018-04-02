@@ -10,9 +10,4 @@
 15/0057113|Amanda Bezerra da Silva|[amandabezerra](https://github.com/amandabezerra)
 15/0035756|Geovanne Santos Saraiva|[saraivinha97](https://github.com/saraivinha97)
 15/0021224|Renato Valerio Gomes|[renatovga2602](https://github.com/renatovga2602)
-
-
-
-
-
-
+15/0021224|Rodrigo Dadamos Lopes da Silva|[Rdadamos](https://github.com/Rdadamos)
