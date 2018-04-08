@@ -2,8 +2,8 @@
 
 ## Versão 1
 
- ![Argumentacao](img/Argumentação Pagamentos_v1.JPG)
+ ![Argumentacao](https://i.imgur.com/WuYPQAJ.jpg)
 
 
 ## Versão 2
-![Argumentacao](img/Argumentação pagameto_v2.png)
+![Argumentacao](https://i.imgur.com/9IGvCkX.png)

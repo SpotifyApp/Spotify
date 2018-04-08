@@ -5,10 +5,11 @@ Data | Responsável | Versão| Mudança realizada|
 :--------- | :------:| :--------:| :------------ |
 31/03/2018     | José Aquiles |   1.0   |  Primeira versão do plano de elicitação feitas a partir de uma introspecção de José Aquiles  |
 
-### storytelling
-<img src="storytelling.jpg" alt="storytelling">
+### Storytelling
 
-### introspecção
+![Storytelling](https://raw.githubusercontent.com/wiki/SpotifyApp/Spotify/storytelling.jpg)
+
+### Introspecção
 
 Como pode se observar no storytelling há três tipos publico alvo que o spotify vai tratar:
 

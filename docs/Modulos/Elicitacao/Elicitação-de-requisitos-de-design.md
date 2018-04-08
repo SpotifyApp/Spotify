@@ -45,7 +45,7 @@ Ainda em 2014, depois dos alinhamentos, o desafio era manter a consistência a p
   A Spotify disponibiliza uma página com seus recursos de design para seus parceiros juntamente com um guia para logos, cores e até mesmo mensagens.
 </p>
 
-<img src="design_guideline_1.png">
+![Design](https://raw.githubusercontent.com/wiki/SpotifyApp/Spotify/design_guideline_1.png)
 
 <h3> Referências </h3>
 

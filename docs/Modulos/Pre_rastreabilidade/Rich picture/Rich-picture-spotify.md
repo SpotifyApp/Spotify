@@ -4,14 +4,14 @@
 
 ### Mão livre
 
-![Spotify](img/Rich picture_v1_spotify.png)
+![Spotify](https://i.imgur.com/sCYoFay.png)
 
 ## Versão 2
 
 ### Mão livre
 
-![Spotify_geral](img/Rich picture_v2_spotify.JPG)
+![Spotify_geral](https://i.imgur.com/U2cOSiV.jpg)
 
 ### Ferramenta gráfica
 
-![Spotify_geral](img/Rich picture_v2_spotify.png)
+![Spotify_geral](https://i.imgur.com/5fKxpQU.png)

@@ -4,8 +4,9 @@
 
 ### Mão livre
 
-![Spotify_geral](img/Rich picture_v2_usuário.JPG)
+![usuario1](https://i.imgur.com/aj7S83A.jpg)
+
 
 ### Ferramenta gráfica
 
-![Spotify_usuário](img/Rich picture_v2_usuário.png)
+![usuario2](https://i.imgur.com/RbHh9tx.png)

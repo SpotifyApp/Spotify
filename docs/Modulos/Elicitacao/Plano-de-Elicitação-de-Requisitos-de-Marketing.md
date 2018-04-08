@@ -80,7 +80,7 @@ Foi decidido que cada membro da equipe iria levantar os requisitos do tema que c
 </p>
 </br>
 
-![Marketing](https://github.com/Eduardojvr/Spotify/blob/master/imagens/Captura%20de%20ecr%C3%A3%20de%202018-04-02%2000-37-52.png)
+![Marketing](https://i.imgur.com/JlJlGfp.png)
 
 ----
 <h3>Referências</h3>

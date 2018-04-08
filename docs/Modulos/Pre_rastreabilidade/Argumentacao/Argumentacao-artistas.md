@@ -1,5 +1,5 @@
 # Argumentação Artistas
 
-![Argumentacao](img/Argumentação artistas_v1.png)
+![Argumentacao](https://i.imgur.com/lxblHYZ.png)
 
 ----------------------------------------------------------------------------------------------

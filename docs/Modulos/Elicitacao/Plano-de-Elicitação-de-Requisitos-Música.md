@@ -91,9 +91,9 @@ Os vídeos utilizados durante esta técnica podem ser acessados [aqui](https://d
 <p align="justify">Técnica que se baseia na utilização de histórias em grupos de pessoas, incluindo organizações, como um método de comunicação para que os envolvidos possam compartilhar conhecimento.</p>
 
 * Levantamento do requisito de playlists de músicas nacionais:
-![Playlist nacional](https://github.com/Eduardojvr/Spotify/blob/master/imagens/Storytelling.png)
+![Playlist nacional](https://i.imgur.com/MgPa50v.png)
 * Levantamento do requisito de Lista de músicas tocadas recentemente
-![](https://github.com/Eduardojvr/Spotify/blob/master/imagens/Storytelling2.png)
+![Recentes](https://i.imgur.com/ZRDrYpY.png)
 
 <p align="justify">A seguir, está listado todos os requisitos elicitados durante esta técnica:</p>
 <ul>
