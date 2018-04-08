@@ -1,0 +1,10 @@
+site_name: Spotify
+
+theme:
+  name: 'rtd-dropdown'
+
+pages:
+    - Home: index.md
+    - Pré-Rastreabilidade:
+        - Rich Picture Spotify: Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify.md
+        - Rich Picture Usuário: Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usuário.md
