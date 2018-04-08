@@ -1,4 +1,4 @@
-<h1>Elicitação de requisitos de usuário</h1>
+<h1><center>Elicitação de requisitos de usuário</h1>
 <h3>Histórico de revisão</h3>
 
 Data | Responsável | Versão| Mudança realizada|
@@ -11,7 +11,7 @@ Data | Responsável | Versão| Mudança realizada|
 Este documento foi desenvolvido para a disciplina de Requisitos em Software, da Universidade de Brasília, no qual o grupo procura elicitar o aplicativo Spotify, que é obter o máximo de informações necessárias para o conhecimento de um objeto. No contexto da engenharia de software, a elicitação de requisitos provê o mais correto e completo entendimento do que é demandado de um determinado software. A análise foi dividida em tópicos, os mesmos são: usuário, marketing,  monetização, música, integração e design.
 
 <h3> Objetivo </h3>
-O documento presente visa definir as técnicas que serão aplicadas como forma de levantar requisitos de Usuário do Spotify, focando nos processos de elicitação: observação participativa e HistoryTelling. 
+O documento presente visa definir as técnicas que serão aplicadas como forma de levantar requisitos de Usuário do Spotify, focando nos processos de elicitação: observação participativa e HistoryTelling.
 
 <h3> Universo de informação </h3>
 As informações necessárias para coleta de requisitos e para a construção de todo o trabalho foram mapeadas pelas seguintes fontes:<br />
@@ -39,9 +39,9 @@ Por orientação dos professores que estão acompanhando a elicitação dos requ
 
 * Perfil de usuário padrão
   * Cadastro como perfil de usuário padrão
-  * Adquirir o plano premium e planos promocionais, como: plano família e plano estudantil. 
+  * Adquirir o plano premium e planos promocionais, como: plano família e plano estudantil.
   * Pausar as músicas.
-  * Passar para próxima música. 
+  * Passar para próxima música.
   * Voltar para música anterior.
   * Seguir playlists de outros usuários.
   * Seguir amigos para conhecer o que eles ouvem.
@@ -73,7 +73,7 @@ Consiste em entender quais propriedades o sistema deve possuir para ser um suces
 6. Atualizar sua foto de perfil, ou do seu álbum.<br />
 7. Controlar a música na parte superior do perfil do artista. É uma ótima maneira de informar aos fãs sobre uma faixa em que você participa, anunciar sua próxima turnê, exibir uma nova playlist. Escolha qualquer faixa, álbum ou lista de reprodução e adicione uma imagem legal dos bastidores e uma breve mensagem sobre por que você adora isso. <br />
 8. Permitir o artista colocar os locais onde serão feitos os shows, no próprio profile.
- 
+
 <h2>🎧 Moscow (priorização de requisitos)</h2>
 Os requisitos listados abaixo foram obtidos a partir das técnicas de elicitação apresentadas anteriormente. As fontes utilizadas (vídeos gravados durante o uso e notas de observações) podem ser consultadas pelos links abaixo:
 

@@ -5,11 +5,13 @@ theme:
 
 pages:
     - Home: index.md
+
     - Pré-Rastreabilidade:
         - Rich Picture Spotify: Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify.md
         - Rich Picture Usuário: Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usuário.md
-    - Argumentação Artista: Modulos/Pre_rastreabilidade/Argumentacao/Argumentação-artistas.md
-    - Argumentação Pagamento: Modulos/Pre_rastreabilidade/Argumentacao/Argumentação-pagamento.md
+        - Modelo de Argumentação Artista: Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-artistas.md
+        - Modelo de Argumentação Pagamento: Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento.md
+
     - Elicitação:
         - Elicitação de Música: Modulos/Elicitacao/Plano-de-Elicitação-de-Requisitos-Música.md
         - Elicitação de Integração: Modulos/Elicitacao/Elicitação-Módulo-Integração-do-uso-do-Spotify-em-diferentes-Hardwares.md

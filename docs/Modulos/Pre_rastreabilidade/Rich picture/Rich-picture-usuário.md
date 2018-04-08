@@ -2,10 +2,10 @@
 
 ## Versão 1
 
-* ### Mão livre
+### Mão livre
 
 ![Spotify_geral](img/Rich picture_v2_usuário.JPG)
 
-* ### Ferramenta gráfica
+### Ferramenta gráfica
 
 ![Spotify_usuário](img/Rich picture_v2_usuário.png)

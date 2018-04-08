@@ -1,4 +1,4 @@
-<h1><center>Elicitação - Módulo: Integração do uso do Spotify em diferentes Hardwares<\center></h1>
+<h1><center>Elicitação - Módulo: Integração do uso do Spotify em diferentes Hardwares</h1>
 <h3>Histórico de revisão</h3>
 
 Data | Responsável | Versão| Mudança realizada|
@@ -26,7 +26,7 @@ Data | Responsável | Versão| Mudança realizada|
 * **Usuários do Spotify na equipe**
   >* Lucas Filipe
 
-	
+
 </p>
 
 ----
@@ -34,12 +34,12 @@ Data | Responsável | Versão| Mudança realizada|
 <p>De acordo com José Leite[3], cabe ao engenheiro de requisitos selecionar as técnicas a serem utilizadas bem como o esquema de integração entre elas de acordo com o Universo de Informações(Contexto). No desenvolvimento da elicitação de requisitos de integração do Spotify foram utliizadas as seguintes técnicas:  </p>
 
 <h3>3.1 Observação</h3>
-<p>Técnica no qual o engenheiro de requisitos estabelece uma posição passiva dentro do universo de informações observando ambiente onde vai acontecer/acontece o uso do software, permitindo uma percepção aprimorada dos objetos, processos e linguagem do ambiente e no caso de reengenharia: uso do software. Para elicitação de requisitos de integração foi realizada duas observações que foram registradas em vídeo(links abaixo), no primeiro vídeo acontece a observação da tentativa/realização da integração de uso do Spotify nos dispositivos Ipad e PC, no segundo a tentativa/realização da integração do uso do Spotify nos dispositivos Playstation 4 e Celular Android. 
+<p>Técnica no qual o engenheiro de requisitos estabelece uma posição passiva dentro do universo de informações observando ambiente onde vai acontecer/acontece o uso do software, permitindo uma percepção aprimorada dos objetos, processos e linguagem do ambiente e no caso de reengenharia: uso do software. Para elicitação de requisitos de integração foi realizada duas observações que foram registradas em vídeo(links abaixo), no primeiro vídeo acontece a observação da tentativa/realização da integração de uso do Spotify nos dispositivos Ipad e PC, no segundo a tentativa/realização da integração do uso do Spotify nos dispositivos Playstation 4 e Celular Android.
 </p>
 </br>
 
 * [Observação 1 - Integração Ipad e WebBrowser.](https://www.youtube.com/watch?v=xC-69a_j0A8)
-* [Observação 2 - Integração PlayStation4 e Celular.] 
+* [Observação 2 - Integração PlayStation4 e Celular.]
 
 <h3>3.2 Análise de Protocolo</h3>
 <p> Técnica que analisa o trabalho/uso de determinada pessoa, através da verbalização no ato da execução da tarefa, ou através da verbalização detalhada de um trabalho que já foi feito, o objetivo dessa técnica de coleta de dados é procurar estabelecer o raciocínio do usuário enquanto executa uma determinada tarefa facilitando a obteção de fatos não facilmente observáveis visto que todos os atos são verbalizados. Para melhor aproveitamento das fontes de informações foi decidido fazer uma análise de protocolo do perfeito uso do Spotify alternando entre os dois dispositivos distintos( celular e computador), para melhor extração de informações a análise de protocolo foi registrada em vídeo(link abaixo).
@@ -57,12 +57,12 @@ Tabela com os requisitos e suas respectivas origens, em caso de dúvida consulte
 Requisito | Observação 1 | Observação 2 | Análise de Protocolo 1|
 :--------- | :------:| :--------:| :------------: |
 R01 - Listar dispositivos disponíveis.    | X |  | X |  
-R02 - Alertar sobre reprodução de música ativa em outros dispositivos logados com o mesma conta.    | X |   |  | 
-R03 - Visualizar informações de reprodução em outros dispositivos logados  com a mesma conta.    | X |  | X | 
-R04 - Controlar reprodução em outros dispositivos logados com o mesmo usuário.    | X | X | X | 
+R02 - Alertar sobre reprodução de música ativa em outros dispositivos logados com o mesma conta.    | X |   |  |
+R03 - Visualizar informações de reprodução em outros dispositivos logados  com a mesma conta.    | X |  | X |
+R04 - Controlar reprodução em outros dispositivos logados com o mesmo usuário.    | X | X | X |
 R05 - Selecionar músicas/playlists para reprodução em dispositivo ativo através de outro dispositivo logado na mesma conta. | X | X | X |
-R06 - Controlar volume de dispositivo com reprodução ativa através do aplicativo logado na mesma conta em outro dispositivo. | X | X | X | 
-R07 - Controlar volume de dispositivo com reprodução ativa através de controles de volume do hardware de outro dispositivo logado com a mesma conta. | X |  | X | 
+R06 - Controlar volume de dispositivo com reprodução ativa através do aplicativo logado na mesma conta em outro dispositivo. | X | X | X |
+R07 - Controlar volume de dispositivo com reprodução ativa através de controles de volume do hardware de outro dispositivo logado com a mesma conta. | X |  | X |
 R08 - Trazer reprodução ativa de um dispositivo para outro logado na mesma conta. | X |  | X |
 R09 - Listar dispositivos ativos para reprodução conectados pela mesma rede wi-fi. | | X |  |
 R10 - Possibilitar login através de outro dispositivo já logado que esteja na mesma rede wi-fi. | | X |  |

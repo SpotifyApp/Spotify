@@ -1,4 +1,4 @@
-<h1><center>Elicitação de requisitos de Marketing<\center></h1>
+<h1><center>Elicitação de requisitos de Marketing</h1>
 <h3>Histórico de revisão</h3>
 
 Data | Responsável | Versão| Mudança realizada|
@@ -16,7 +16,7 @@ Data | Responsável | Versão| Mudança realizada|
 <p>O Documento presente visa definir as técnicas que serão aplicadas como forma de levantar requisitos de Marketing do Spotify, focando na pré-rastreabilidade dos requisitos como forma segura de manter os dados, que pode ser definida como o estudo do domínio a partir do qual serão levantados os requisitos. Sendo assim, dois desses procedimentos serão abordados neste nível, as técnicas usadas serão :
 
 >* Observação participativa
->* Storytelling 
+>* Storytelling
 
 </p>
 
@@ -33,7 +33,7 @@ Data | Responsável | Versão| Mudança realizada|
   >* integração com redes socias
   >* Facebook
   >* YouTube
-  >* Instagram 
+  >* Instagram
   >* Twiter
   >* publicidade usando figuras públicas
 
@@ -48,7 +48,7 @@ Data | Responsável | Versão| Mudança realizada|
   >* José Aquiles
   >* Amanda Bezerra
   >* Lucas Filipe
-  >* Rodrigo Dadamos	
+  >* Rodrigo Dadamos
 
 * **Usuários do Spotify**
   >* Formulários
@@ -58,7 +58,7 @@ Data | Responsável | Versão| Mudança realizada|
   >* Facebook (avaliação)
   >* Comentários nas redes sociais
   >* Spotify Brasil
-	
+
 </p>
 
 ----

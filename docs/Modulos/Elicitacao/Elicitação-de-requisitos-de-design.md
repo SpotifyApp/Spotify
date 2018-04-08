@@ -1,4 +1,4 @@
-<h1><center>Elicitação de requisitos de Design<\center></h1>
+<h1><center>Elicitação de requisitos de Design</h1>
 <h3>Histórico de revisão</h3>
 
 Data | Responsável | Versão| Mudança realizada|

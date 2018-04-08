@@ -1,4 +1,4 @@
-<h1>✅ Elicitação de requisitos de Músicas</h1>
+<h1><center> Elicitação de requisitos de Músicas</h1>
 <h3>Histórico de revisão</h3>
 
 Data | Responsável | Versão| Mudança realizada|
@@ -9,7 +9,7 @@ Data | Responsável | Versão| Mudança realizada|
 
 <h2> 🎧 Introdução </h2>
 
-<p align="justify">Esse plano de elicitação foi desenvolvido para a disciplina de Requisitos de software da Universidade de Brasília, campus Gama. Visa obter a maior quantidade de informações a respeito  da "área de música" do Spotify app. Esse artefato faz parte de um conjunto de outros artefatos do módulo 3 (elicitação de requisitos) que foram divididos nas seguintes áreas: usuário, marketing, monetização, música, integração e design.</p> 
+<p align="justify">Esse plano de elicitação foi desenvolvido para a disciplina de Requisitos de software da Universidade de Brasília, campus Gama. Visa obter a maior quantidade de informações a respeito  da "área de música" do Spotify app. Esse artefato faz parte de um conjunto de outros artefatos do módulo 3 (elicitação de requisitos) que foram divididos nas seguintes áreas: usuário, marketing, monetização, música, integração e design.</p>
 
 <h2> 🎧 Objetivo </h2>
 
@@ -28,7 +28,7 @@ As informações foram obtidas a partir das seguintes fontes:
 
 <h2>🎧 Plano de elicitação</h2>
 
-Optou-se por utilizar as técnicas de Observação  e Storytelling para a elicitação dos requisitos relacionados à área de músicas do spotify. Logo abaixo apresentamos uma breve descrição de cada um. 
+Optou-se por utilizar as técnicas de Observação  e Storytelling para a elicitação dos requisitos relacionados à área de músicas do spotify. Logo abaixo apresentamos uma breve descrição de cada um.
 
 <h3>🔍 Observação Participativa</h3>
 
@@ -131,5 +131,3 @@ Informações sobre músicas|Top virais do país|Top 50 mais tocadas no mundo|Au
 Playlists nacionais|Top virais global|Top 50 nacionais mais tocadas    |Podcasts de músicas|
 Salvar músicas|||
 Álbuns|||
-
-
