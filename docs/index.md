@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Documentação de Requisitos do Spotify
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## Sobre
+Este é um projeto desenvolvido para a disciplina de Requisitos de Software da UnB - FGA.
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Equipe
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+|Matrícula|Nome|GitHub|
+|---------|---------|---------------|
+14/0168192|Eduardo Júnio Veloso Rodrigues |[Eduardojvr](https://github.com/Eduardojvr)
+15/0057113|Amanda Bezerra da Silva|[amandabezerra](https://github.com/amandabezerra)
+18/0053817|Lucas Filipe de Carvalho Cunha  |[Lcunha](https://github.com/Lcunha)
+16/0010331|José Aquiles Guedes de Rezende|[aquiles23](https://github.com/aquiles23)
+15/0021224| Renato Valério Gomes Alencar de Vasconcelos | [Renatovga2602](https://github.com/Renatovga2602)
+15/0035756 | Geovanne Santos | [saraivinha97](https://github.com/saraivinha97)
+15/0064535 | Rodrigo Dadamos Lopes da Silva | [Rdadamos](https://github.com/Rdadamos)
