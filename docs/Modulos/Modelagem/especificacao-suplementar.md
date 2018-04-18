@@ -2,7 +2,7 @@
 
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 17/04/2018 | 0.1 | Criação, funcionalidade, interfaces | Eduardo Júnio |
+| 17/04/2018 | 0.1 | Criação, funcionalidade, interfaces de comunicações, interfaces de Software, interfaces de hardware, interfaces de usuário, usabilidade | Eduardo Júnio |
 | 17/04/2018 | 0.2 | Finalidade, Definições e acrônimos e abreviações | Renato Valério |
 | 17/04/2018 | 0.3 | Requisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observações Legais, de Direitos Autorais etc | Amanda Bezerra |
 
@@ -90,16 +90,16 @@ RNF 13 | Yandex | Qualquer dispositivo | 1 ou superior.
 ## 3.1 Facilidade de uso
 <p align="justify">Os recursos e funcionalidades do serviço devem apresentar-se de forma intuitiva para que o usuário possa facilmente navegar por eles, não sendo necessário a realização de qualquer tipo de treinamento prévio por parte do usuário.
 
-## 3.2  Mensagens de Erro
+## 3.2 Mensagens de Erro
 <p align="justify">O serviço deve apresentar mensagens de erro de forma clara e objetiva, localizadas próximas ao conteúdo ou ação que motivou o erro.
 
-## 3.3  Requisito de usabilidade 3
+## 3.3  Eficiência
 <p align="justify">O sistema deve fornecer rápido acesso a qualquer funcionalidade.
 
-## 3.4 Requisito de usabilidade 4
+## 3.4 Consistência e padronização
 <p align="justify">O sistema deve manter a maior parte da interface a mesma para cada tipo de usuário, apenas adicionando alguns detalhes sobre a mesma de acordo com o nível de cada tipo de usuário.
 
-## 3.5 Requisito de usabilidade 5
+## 3.5 Design simples
 <p align="justify">O sistema deve ter ícones intuitivos.
 Para cada tipo de usuário haverá um certo nível de funcionalidades disponíveis
 
