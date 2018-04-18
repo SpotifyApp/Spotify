@@ -1,4 +1,4 @@
-## UC02 - Gerenciar artistas salvos
+## [UC02] - Gerenciar artistas salvos
 ### 1. Nome do Caso de Uso
 - Gerenciar artistas salvos
 
