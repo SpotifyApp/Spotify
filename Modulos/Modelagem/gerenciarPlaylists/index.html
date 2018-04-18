@@ -8,7 +8,7 @@
   
   
   <link rel="shortcut icon" href="../../../img/favicon.ico">
-  <title>Caso de Uso Editar Dados - Spotify</title>
+  <title>Caso de Uso Gerenciar Playlists - Spotify</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
   <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
 
@@ -18,9 +18,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Caso de Uso Editar Dados";
-    var mkdocs_page_input_path = "Modulos/Modelagem/especificacao-caso-editar_dados_de_conta.md";
-    var mkdocs_page_url = "/Modulos/Modelagem/especificacao-caso-editar_dados_de_conta/";
+    var mkdocs_page_name = "Caso de Uso Gerenciar Playlists";
+    var mkdocs_page_input_path = "Modulos/Modelagem/gerenciarPlaylists.md";
+    var mkdocs_page_url = "/Modulos/Modelagem/gerenciarPlaylists/";
   </script>
   
   <script src="../../../js/jquery-2.1.1.min.js"></script>
@@ -259,29 +259,138 @@
 </li>
     
       
-<li class="current toctree-l1">
-  <a href="./" title="Caso de Uso Editar Dados"
-      class="current">
+<li class=" toctree-l1">
+  <a href="../especificacao-caso-editar_dados_de_conta/" title="Caso de Uso Editar Dados"
+      class="">
     Caso de Uso Editar Dados
   </a>
 
   
   
-    
-    
-      
-    
-  
 </li>
     
       
-<li class=" toctree-l1">
-  <a href="../gerenciarPlaylists/" title="Caso de Uso Gerenciar Playlists"
-      class="">
+<li class="current toctree-l1">
+  <a href="./" title="Caso de Uso Gerenciar Playlists"
+      class="current">
     Caso de Uso Gerenciar Playlists
   </a>
 
   
+  
+    
+    
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  <ul class="current subnav">
+    
+      
+
+  
+  
+  
+
+
+  <li class="toctree-l2 toc-item">
+    <a href="#1-nome-do-caso-de-uso" title="Caso de Uso Gerenciar Playlists">1. Nome do Caso de Uso</a>
+  </li>
+
+    
+      
+
+  
+  
+
+
+  <li class="toctree-l2 toc-item">
+    <a href="#2-breve-descricao" title="Caso de Uso Gerenciar Playlists">2.  Breve descrição</a>
+  </li>
+
+    
+      
+
+  
+  
+
+
+  <li class="toctree-l2 toc-item">
+    <a href="#3-atores" title="Caso de Uso Gerenciar Playlists">3.  Atores</a>
+  </li>
+
+    
+      
+
+  
+  
+
+
+  <li class=" toctree-l2">
+    
+      <a href="#4-fluxo-de-eventos" title="Caso de Uso Gerenciar Playlists"
+          class="">
+        4.  Fluxo de eventos
+      </a>
+    
+    <ul class=" subnav">
+      
+        
+
+  
+  
+
+
+  <li class="toctree-l2 toc-item">
+    <a href="#41-fluxo-basico" title="Caso de Uso Gerenciar Playlists">4.1 Fluxo básico</a>
+  </li>
+
+      
+    </ul>
+  </li>
+
+    
+      
+
+  
+  
+
+
+  <li class="toctree-l2 toc-item">
+    <a href="#42-fluxos-alternativos" title="Caso de Uso Gerenciar Playlists">4.2 Fluxos alternativos</a>
+  </li>
+
+    
+      
+
+  
+  
+
+
+  <li class="toctree-l2 toc-item">
+    <a href="#43-fluxos-de-excecao" title="Caso de Uso Gerenciar Playlists">4.3 Fluxos de Exceção</a>
+  </li>
+
+    
+      
+
+  
+  
+
+
+  <li class="toctree-l2 toc-item">
+    <a href="#5-pre-condicoes" title="Caso de Uso Gerenciar Playlists">5. Pré-condições</a>
+  </li>
+
+    
+  </ul>
+
+    
   
 </li>
     
@@ -332,7 +441,7 @@
         
       
     
-    <li>Caso de Uso Editar Dados</li>
+    <li>Caso de Uso Gerenciar Playlists</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -342,63 +451,49 @@
           <div role="main">
             <div class="section">
               
-                <table>
-<thead>
-<tr>
-<th>Data</th>
-<th>Versão</th>
-<th>Descrição</th>
-<th>Autor</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>18/04/2018</td>
-<td>1.0</td>
-<td>Especificação da UC08</td>
-<td>Geovanne Santos</td>
-</tr>
-</tbody>
-</table>
-<h1>RF14 - Editar dados de conta</h1>
-
-<p><object width="700" height="600" data="caso_de_uso_editar_dados.png"></object></p>
-<h4>Descrição:</h4>
-
-<p><br />
-Editar as informações pessoais do usuário.<br />
-<h4>Atores:</h4>
-Usuário cadastrado<br />
-<h4>Pré-condição:<br /></h4>
-O usuário deve possuir uma conta no spotify.<br /></p>
-<h4>Fluxo Principal:</h4>
-
+                <h2 id="1-nome-do-caso-de-uso">1. Nome do Caso de Uso</h2>
 <ul>
-  <li>Faz o login.</li>
-  <li>O usuário vai na página web do site.</li>
-  <li>O usuário clica em editar perfil.</li>
-  <li>Modifica os dados.</li>
-  <li>Clica em salvar.</li>
+<li>Gerenciar playlists</li>
 </ul>
-
-<h4>Fluxos Alternativos</h4>
-
-<h6>[FA01]Usuário clica em modificar somente senha:</h6>
-
-<p>O usuário entra no site spotify.<br />
-O usuário faz o login.<br />
-O usuário clica em modificar somente senha.<br />
-Modifica o dado.<br />
-Clica em salvar.<br />
-<h6>[FA02]Usuário modifica a foto do perfil pelo aplicativo:</h6>
-O usuário entra no aplicativo spotify.<br />
-vai no seu perfil.<br />
-O usuário modifica sua foto de perfil.<br /></p>
-<h4>Fluxo de Exceção:</h4>
-
-<h6>[FE01] Tenta modificar os dados que não sejam a foto de perfil pelo aplicativo:</h6>
-
-<p>O aplicativo não possui essa funcionalidade .</p>
+<h2 id="2-breve-descricao">2.  Breve descrição</h2>
+<ul>
+<li>Gerenciar minhas playlists salvas</li>
+</ul>
+<h2 id="3-atores">3.  Atores</h2>
+<ul>
+<li>Usuário</li>
+</ul>
+<h2 id="4-fluxo-de-eventos">4.  Fluxo de eventos</h2>
+<h3 id="41-fluxo-basico">4.1 Fluxo básico</h3>
+<ul>
+<li>O usuário abre o aplicativo</li>
+<li>O aplicativo exibe a tela inicial</li>
+<li>O usuário seleciona a opção “Sua biblioteca”</li>
+<li>O aplicativo apresenta um menu com várias opções</li>
+<li>O usuário seleciona a opção “playlists”</li>
+<li>O aplicativo lista todas as playlists salvas</li>
+<li>O usuário pode compartilhar, excluir, renomear ou reproduzir suas playlists</li>
+</ul>
+<h2 id="42-fluxos-alternativos">4.2 Fluxos alternativos</h2>
+<ul>
+<li>O usuário não possui nenhuma playlist salva</li>
+<li>O aplicativo informa que o usuário não possui nenhuma playlist salva, logo ele não tem acesso às opções de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).</li>
+<li>O aplicativo apresenta a opção de “Criar sua primeira playlist”</li>
+<li>Ao criar uma nova playlists, as opções de gerenciamento ficam novamente disponíveis.</li>
+<li>O fluxo principal é retomado.</li>
+</ul>
+<h2 id="43-fluxos-de-excecao">4.3 Fluxos de Exceção</h2>
+<ul>
+<li>Aplicativo perder conexão com a internet</li>
+<li>O sistema informa que o aplicativo está offline.</li>
+<li>As funcionalidades não podem ser acessadas.</li>
+</ul>
+<h2 id="5-pre-condicoes">5. Pré-condições</h2>
+<ul>
+<li>Ter o aplicativo do Spotify instalado</li>
+<li>Estar conectado à internet.</li>
+<li>Possuir conta de usuário no Spotify</li>
+</ul>
               
             </div>
           </div>
@@ -406,10 +501,10 @@ O usuário modifica sua foto de perfil.<br /></p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../gerenciarPlaylists/" class="btn btn-neutral float-right" title="Caso de Uso Gerenciar Playlists">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../gerenciarArtistas/" class="btn btn-neutral float-right" title="Caso de Uso Gerenciar Artistas">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../especificacao-suplementar/" class="btn btn-neutral" title="Especificação Suplementar"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../especificacao-caso-editar_dados_de_conta/" class="btn btn-neutral" title="Caso de Uso Editar Dados"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -435,10 +530,10 @@ O usuário modifica sua foto de perfil.<br /></p>
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../especificacao-suplementar/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../especificacao-caso-editar_dados_de_conta/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../gerenciarPlaylists/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../gerenciarArtistas/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>

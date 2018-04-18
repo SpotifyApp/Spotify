@@ -377,8 +377,103 @@
         }, 
         {
             "location": "/Modulos/Modelagem/especificacao-caso-editar_dados_de_conta/", 
-            "text": "Data\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor\n\n\n\n\n\n\n\n\n\n\n18/04/2018\n\n\n1.0\n\n\nEspecifica\u00e7\u00e3o da UC08\n\n\nGeovanne Santos\n\n\n\n\n\n\n\n\nRF14 - Editar dados de conta\n\n\n\nDescri\u00e7\u00e3o:\n\n\n\n\nEditar as informa\u00e7\u00f5es pessoais do usu\u00e1rio.\n\n\nAtores:\n\nUsu\u00e1rio cadastrado\n\n\nPr\u00e9-condi\u00e7\u00e3o:\n\nO usu\u00e1rio deve possuir uma conta no spotify.\n\n\nFluxo Principal:\n\n\n\n\n  \nFaz o login.\n\n  \nO usu\u00e1rio vai na p\u00e1gina web do site.\n\n  \nO usu\u00e1rio clica em editar perfil.\n\n  \nModifica os dados.\n\n  \nClica em salvar.\n\n\n\n\n\nFluxos Alternativos\n\n\n\n[FA01]Usu\u00e1rio clica em modificar somente senha:\n\n\n\nO usu\u00e1rio entra no site spotify.\n\nO usu\u00e1rio faz o login.\n\nO usu\u00e1rio clica em modificar somente senha.\n\nModifica o dado.\n\nClica em salvar.\n\n\n[FA02]Usu\u00e1rio modifica a foto do perfil pelo aplicativo:\n\nO usu\u00e1rio entra no aplicativo spotify.\n\nvai no seu perfil.\n\nO usu\u00e1rio modifica sua foto de perfil.\n\n\nFluxo de Exce\u00e7\u00e3o:\n\n\n\n[FE01] Tenta modificar os dados que n\u00e3o sejam a foto de perfil pelo aplicativo:\n\n\n\nO aplicativo n\u00e3o possui essa funcionalidade .", 
+            "text": "Data\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor\n\n\n\n\n\n\n\n\n\n\n18/04/2018\n\n\n1.0\n\n\nEspecifica\u00e7\u00e3o da UC08\n\n\nGeovanne Santos\n\n\n\n\n\n\n\n\nRF14 - Editar dados de conta\n\n\n\n\n\nDescri\u00e7\u00e3o:\n\n\n\n\nEditar as informa\u00e7\u00f5es pessoais do usu\u00e1rio.\n\n\nAtores:\n\nUsu\u00e1rio cadastrado\n\n\nPr\u00e9-condi\u00e7\u00e3o:\n\nO usu\u00e1rio deve possuir uma conta no spotify.\n\n\nFluxo Principal:\n\n\n\n\n  \nFaz o login.\n\n  \nO usu\u00e1rio vai na p\u00e1gina web do site.\n\n  \nO usu\u00e1rio clica em editar perfil.\n\n  \nModifica os dados.\n\n  \nClica em salvar.\n\n\n\n\n\nFluxos Alternativos\n\n\n\n[FA01]Usu\u00e1rio clica em modificar somente senha:\n\n\n\nO usu\u00e1rio entra no site spotify.\n\nO usu\u00e1rio faz o login.\n\nO usu\u00e1rio clica em modificar somente senha.\n\nModifica o dado.\n\nClica em salvar.\n\n\n[FA02]Usu\u00e1rio modifica a foto do perfil pelo aplicativo:\n\nO usu\u00e1rio entra no aplicativo spotify.\n\nvai no seu perfil.\n\nO usu\u00e1rio modifica sua foto de perfil.\n\n\nFluxo de Exce\u00e7\u00e3o:\n\n\n\n[FE01] Tenta modificar os dados que n\u00e3o sejam a foto de perfil pelo aplicativo:\n\n\n\nO aplicativo n\u00e3o possui essa funcionalidade .", 
             "title": "Caso de Uso Editar Dados"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/", 
+            "text": "1. Nome do Caso de Uso\n\n\n\n\nGerenciar playlists\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nGerenciar minhas playlists salvas\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio\n\n\n\n\n4.  Fluxo de eventos\n\n\n4.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio abre o aplicativo\n\n\nO aplicativo exibe a tela inicial\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d\n\n\nO aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cplaylists\u201d\n\n\nO aplicativo lista todas as playlists salvas\n\n\nO usu\u00e1rio pode compartilhar, excluir, renomear ou reproduzir suas playlists\n\n\n\n\n4.2 Fluxos alternativos\n\n\n\n\nO usu\u00e1rio n\u00e3o possui nenhuma playlist salva\n\n\nO aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhuma playlist salva, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).\n\n\nO aplicativo apresenta a op\u00e7\u00e3o de \u201cCriar sua primeira playlist\u201d\n\n\nAo criar uma nova playlists, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.\n\n\nO fluxo principal \u00e9 retomado.\n\n\n\n\n4.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n5. Pr\u00e9-condi\u00e7\u00f5es\n\n\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nPossuir conta de usu\u00e1rio no Spotify", 
+            "title": "Caso de Uso Gerenciar Playlists"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#1-nome-do-caso-de-uso", 
+            "text": "Gerenciar playlists", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#2-breve-descricao", 
+            "text": "Gerenciar minhas playlists salvas", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#3-atores", 
+            "text": "Usu\u00e1rio", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#4-fluxo-de-eventos", 
+            "text": "", 
+            "title": "4.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#41-fluxo-basico", 
+            "text": "O usu\u00e1rio abre o aplicativo  O aplicativo exibe a tela inicial  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d  O aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cplaylists\u201d  O aplicativo lista todas as playlists salvas  O usu\u00e1rio pode compartilhar, excluir, renomear ou reproduzir suas playlists", 
+            "title": "4.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#42-fluxos-alternativos", 
+            "text": "O usu\u00e1rio n\u00e3o possui nenhuma playlist salva  O aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhuma playlist salva, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).  O aplicativo apresenta a op\u00e7\u00e3o de \u201cCriar sua primeira playlist\u201d  Ao criar uma nova playlists, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.  O fluxo principal \u00e9 retomado.", 
+            "title": "4.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#43-fluxos-de-excecao", 
+            "text": "Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.  As funcionalidades n\u00e3o podem ser acessadas.", 
+            "title": "4.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#5-pre-condicoes", 
+            "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
+            "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/", 
+            "text": "UC02 - Gerenciar artistas salvos\n\n\n1. Nome do Caso de Uso\n\n\n\n\nGerenciar artistas salvos\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nGerenciar meus artistas salvos\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio\n\n\n\n\n4.  Fluxo de eventos\n\n\n4.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio abre o aplicativo\n\n\nO aplicativo exibe a tela inicial\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d\n\n\nO aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cartistas\u201d\n\n\nO aplicativo lista todas os artistas salvas    \n\n\nO usu\u00e1rio pode ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou adicionar perfil do artista \u00e0 tela inicial do celular\n\n\n\n\n4.2 Fluxos alternativos\n\n\n\n\nO usu\u00e1rio n\u00e3o possui nenhum artista salvo\n\n\nO aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhum artista salvo, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de artistas salvos (ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou reproduzir suas playlists).\n\n\nO aplicativo apresenta a op\u00e7\u00e3o de salvar m\u00fasicas de artistas\n\n\nAo salvar m\u00fasicas de um artista ou seguir um perfil de artista, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.\n\n\nO fluxo principal \u00e9 retomado.\n\n\n\n\n4.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n5. Pr\u00e9-condi\u00e7\u00f5es\n\n\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nPossuir conta de usu\u00e1rio no Spotify", 
+            "title": "Caso de Uso Gerenciar Artistas"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#uc02-gerenciar-artistas-salvos", 
+            "text": "", 
+            "title": "UC02 - Gerenciar artistas salvos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#1-nome-do-caso-de-uso", 
+            "text": "Gerenciar artistas salvos", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#2-breve-descricao", 
+            "text": "Gerenciar meus artistas salvos", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#3-atores", 
+            "text": "Usu\u00e1rio", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#4-fluxo-de-eventos", 
+            "text": "", 
+            "title": "4.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#41-fluxo-basico", 
+            "text": "O usu\u00e1rio abre o aplicativo  O aplicativo exibe a tela inicial  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d  O aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cartistas\u201d  O aplicativo lista todas os artistas salvas      O usu\u00e1rio pode ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou adicionar perfil do artista \u00e0 tela inicial do celular", 
+            "title": "4.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#42-fluxos-alternativos", 
+            "text": "O usu\u00e1rio n\u00e3o possui nenhum artista salvo  O aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhum artista salvo, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de artistas salvos (ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou reproduzir suas playlists).  O aplicativo apresenta a op\u00e7\u00e3o de salvar m\u00fasicas de artistas  Ao salvar m\u00fasicas de um artista ou seguir um perfil de artista, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.  O fluxo principal \u00e9 retomado.", 
+            "title": "4.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#43-fluxos-de-excecao", 
+            "text": "Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.  As funcionalidades n\u00e3o podem ser acessadas.", 
+            "title": "4.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#5-pre-condicoes", 
+            "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
+            "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
         }
     ]
 }
