@@ -374,6 +374,11 @@
             "location": "/Modulos/Modelagem/especificacao-suplementar/#12-observacoes-legais-de-direitos-autorais-e-outros", 
             "text": "Todas as marcas comerciais, marcas de servi\u00e7o, nomes comerciais, logotipos, nomes de dom\u00ednio s\u00e3o de propriedade exclusiva da empresa Spotify. N\u00e3o \u00e9 concedido qualquer direito ao usu\u00e1rio de utilizar os recursos da marca Spotify, comercialmente ou n\u00e3o.", 
             "title": "12. Observa\u00e7\u00f5es Legais, de Direitos Autorais e outros"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-editar_dados_de_conta/", 
+            "text": "Data\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor\n\n\n\n\n\n\n\n\n\n\n18/04/2018\n\n\n1.0\n\n\nEspecifica\u00e7\u00e3o da UC08\n\n\nGeovanne Santos\n\n\n\n\n\n\n\n\nRF14 - Editar dados de conta\n\n\n\nDescri\u00e7\u00e3o:\n\n\n\n\nEditar as informa\u00e7\u00f5es pessoais do usu\u00e1rio.\n\n\nAtores:\n\nUsu\u00e1rio cadastrado\n\n\nPr\u00e9-condi\u00e7\u00e3o:\n\nO usu\u00e1rio deve possuir uma conta no spotify.\n\n\nFluxo Principal:\n\n\n\n\n  \nFaz o login.\n\n  \nO usu\u00e1rio vai na p\u00e1gina web do site.\n\n  \nO usu\u00e1rio clica em editar perfil.\n\n  \nModifica os dados.\n\n  \nClica em salvar.\n\n\n\n\n\nFluxos Alternativos\n\n\n\n[FA01]Usu\u00e1rio clica em modificar somente senha:\n\n\n\nO usu\u00e1rio entra no site spotify.\n\nO usu\u00e1rio faz o login.\n\nO usu\u00e1rio clica em modificar somente senha.\n\nModifica o dado.\n\nClica em salvar.\n\n\n[FA02]Usu\u00e1rio modifica a foto do perfil pelo aplicativo:\n\nO usu\u00e1rio entra no aplicativo spotify.\n\nvai no seu perfil.\n\nO usu\u00e1rio modifica sua foto de perfil.\n\n\nFluxo de Exce\u00e7\u00e3o:\n\n\n\n[FE01] Tenta modificar os dados que n\u00e3o sejam a foto de perfil pelo aplicativo:\n\n\n\nO aplicativo n\u00e3o possui essa funcionalidade .", 
+            "title": "Caso de Uso Editar Dados"
         }
     ]
 }
