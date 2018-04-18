@@ -18,18 +18,18 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 ## 1.3 Definições, Acrônimos e Abreviações  
 <p align="justify">Alguns termos utilizados neste documento, são derivados de outra língua, possui origem estrangeira, são abreviações ou acrônimos. Os mais relevantes são os seguintes:
 
-+ Streaming: streaming ou Broadcast é o nome da transmissão de áudio e/ou vídeo pela internet, tecnologia esta que permite a transmissão de áudio e vídeo sem que seja necessário fazer o download de todo o conteúdo a ser transmitido, antes de ouvir ou assistir, como era feito antigamente, a transmissão do conteúdo é feita de modo contínuo, ou seja, enquanto a pessoa está ouvindo/assistindo.
-+ Broadcast: broadcasting (do inglês to broadcast, "transmitir") é um método de transferência de mensagem para todos os receptores simultaneamente.
-+ Freemium: Modelo de negócios baseado em planos, onde existe um plano gratuito com algumas funcionalidades, que servem para captação de usuários, e que influencia a migração para o plano “Premium” que possui acesso as outras funcionalidades e geralmente é pago.  
++ **Streaming**: streaming ou Broadcast é o nome da transmissão de áudio e/ou vídeo pela internet, tecnologia esta que permite a transmissão de áudio e vídeo sem que seja necessário fazer o download de todo o conteúdo a ser transmitido, antes de ouvir ou assistir, como era feito antigamente, a transmissão do conteúdo é feita de modo contínuo, ou seja, enquanto a pessoa está ouvindo/assistindo.
++ **Broadcast**: broadcasting (do inglês to broadcast, "transmitir") é um método de transferência de mensagem para todos os receptores simultaneamente.
++ **Freemium**: Modelo de negócios baseado em planos, onde existe um plano gratuito com algumas funcionalidades, que servem para captação de usuários, e que influencia a migração para o plano “Premium” que possui acesso as outras funcionalidades e geralmente é pago.  
 
 
 ## 1.4 Referências
-+ “Broadcasting”. Disponível em https://pt.wikipedia.org/wiki/Broadcasting_(rede_de_computadores)
-+ “Streaming”. Disponível em https://www.sitehosting.com.br/streaming/
-+ “Spotify - Integrações”. Disponível em https://support.spotify.com/br/using_spotify/app_integrations/
-+ “Spotify - Carros” Disponível em https://support.spotify.com/br/listen_everywhere/in_the_car/
-+ “Termos e Condições de Uso do Spotify”. Disponível em https://www.spotify.com/br/legal/end-user-agreement/
-+ “Suporte - Spotify”. Disponível em https://support.spotify.com/br/
++ “Broadcasting”. Disponível [aqui](https://pt.wikipedia.org/wiki/Broadcasting_)
++ “Streaming”. Disponível [aqui](https://www.sitehosting.com.br/streaming/)
++ “Spotify - Integrações”. Disponível [aqui](https://support.spotify.com/br/using_spotify/app_integrations/)
++ “Spotify - Carros” Disponível [aqui](https://support.spotify.com/br/listen_everywhere/in_the_car/)
++ “Termos e Condições de Uso do Spotify”. Disponível [aqui](https://www.spotify.com/br/legal/end-user-agreement/)
++ “Suporte - Spotify”. Disponível [aqui](https://support.spotify.com/br/)
 
 ## 1.5 Visão Geral
 <p align="justify">Essa especificação define os requisitos não-funcionais do sistema, como confiabilidade, usabilidade, desempenho e suportabilidade, bem como os requisitos funcionais comuns a vários casos de uso.

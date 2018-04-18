@@ -1,0 +1,579 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Documenta\u00e7\u00e3o de Requisitos do Spotify\n\n\nSobre\n\n\nEste \u00e9 um projeto desenvolvido para a disciplina de Requisitos de Software da UnB - FGA.\n\n\nEquipe\n\n\n\n\n\n\n\n\nMatr\u00edcula\n\n\nNome\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n14/0168192\n\n\nEduardo J\u00fanio Veloso Rodrigues\n\n\nEduardojvr\n\n\n\n\n\n\n15/0057113\n\n\nAmanda Bezerra da Silva\n\n\namandabezerra\n\n\n\n\n\n\n18/0053817\n\n\nLucas Filipe de Carvalho Cunha\n\n\nLcunha\n\n\n\n\n\n\n16/0010331\n\n\nJos\u00e9 Aquiles Guedes de Rezende\n\n\naquiles23\n\n\n\n\n\n\n15/0021224\n\n\nRenato Val\u00e9rio Gomes Alencar de Vasconcelos\n\n\nRenatovga2602\n\n\n\n\n\n\n15/0035756\n\n\nGeovanne Santos\n\n\nsaraivinha97\n\n\n\n\n\n\n15/0064535\n\n\nRodrigo Dadamos Lopes da Silva\n\n\nRdadamos", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#documentacao-de-requisitos-do-spotify", 
+            "text": "", 
+            "title": "Documenta\u00e7\u00e3o de Requisitos do Spotify"
+        }, 
+        {
+            "location": "/#sobre", 
+            "text": "Este \u00e9 um projeto desenvolvido para a disciplina de Requisitos de Software da UnB - FGA.", 
+            "title": "Sobre"
+        }, 
+        {
+            "location": "/#equipe", 
+            "text": "Matr\u00edcula  Nome  GitHub      14/0168192  Eduardo J\u00fanio Veloso Rodrigues  Eduardojvr    15/0057113  Amanda Bezerra da Silva  amandabezerra    18/0053817  Lucas Filipe de Carvalho Cunha  Lcunha    16/0010331  Jos\u00e9 Aquiles Guedes de Rezende  aquiles23    15/0021224  Renato Val\u00e9rio Gomes Alencar de Vasconcelos  Renatovga2602    15/0035756  Geovanne Santos  saraivinha97    15/0064535  Rodrigo Dadamos Lopes da Silva  Rdadamos", 
+            "title": "Equipe"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/", 
+            "text": "Rich Picture Spotify\n\n\nVers\u00e3o 1\n\n\nM\u00e3o livre\n\n\n\n\nVers\u00e3o 2\n\n\nM\u00e3o livre\n\n\n\n\nFerramenta gr\u00e1fica", 
+            "title": "Rich Picture Spotify"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#rich-picture-spotify", 
+            "text": "", 
+            "title": "Rich Picture Spotify"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#versao-1", 
+            "text": "", 
+            "title": "Vers\u00e3o 1"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#mao-livre", 
+            "text": "", 
+            "title": "M\u00e3o livre"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#versao-2", 
+            "text": "", 
+            "title": "Vers\u00e3o 2"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#mao-livre_1", 
+            "text": "", 
+            "title": "M\u00e3o livre"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#ferramenta-grafica", 
+            "text": "", 
+            "title": "Ferramenta gr\u00e1fica"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/", 
+            "text": "Rich Picture Usu\u00e1rio\n\n\nVers\u00e3o 1\n\n\nM\u00e3o livre\n\n\n\n\nFerramenta gr\u00e1fica", 
+            "title": "Rich Picture Usu\u00e1rio"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#rich-picture-usuario", 
+            "text": "", 
+            "title": "Rich Picture Usu\u00e1rio"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#versao-1", 
+            "text": "", 
+            "title": "Vers\u00e3o 1"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#mao-livre", 
+            "text": "", 
+            "title": "M\u00e3o livre"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#ferramenta-grafica", 
+            "text": "", 
+            "title": "Ferramenta gr\u00e1fica"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-artistas/", 
+            "text": "Argumenta\u00e7\u00e3o Artistas", 
+            "title": "Modelo de Argumenta\u00e7\u00e3o Artista"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-artistas/#argumentacao-artistas", 
+            "text": "", 
+            "title": "Argumenta\u00e7\u00e3o Artistas"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento/", 
+            "text": "Argumenta\u00e7\u00e3o Pagamento\n\n\nVers\u00e3o 1\n\n\n\n\nVers\u00e3o 2", 
+            "title": "Modelo de Argumenta\u00e7\u00e3o Pagamento"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento/#argumentacao-pagamento", 
+            "text": "", 
+            "title": "Argumenta\u00e7\u00e3o Pagamento"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento/#versao-1", 
+            "text": "", 
+            "title": "Vers\u00e3o 1"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento/#versao-2", 
+            "text": "", 
+            "title": "Vers\u00e3o 2"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Plano-de-Elicita\u00e7\u00e3o-de-Requisitos-M\u00fasica/", 
+            "text": "Elicita\u00e7\u00e3o de requisitos de M\u00fasicas\n\n\n\nHist\u00f3rico de revis\u00e3o\n\n\n\n\n\n\n\n\n\nData\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\nMudan\u00e7a realizada\n\n\n\n\n\n\n\n\n\n\n31/03/2018\n\n\nEduardo J\u00fanio\n\n\n1.0\n\n\nPrimeira vers\u00e3o do plano de elicita\u00e7\u00e3o\n\n\n\n\n\n\n02/04/2018\n\n\nAmanda Bezerra\n\n\n2.0\n\n\nSegunda vers\u00e3o do plano de elicita\u00e7\u00e3o\n\n\n\n\n\n\n\n\n \ud83c\udfa7 Introdu\u00e7\u00e3o \n\n\n\nEsse plano de elicita\u00e7\u00e3o foi desenvolvido para a disciplina de Requisitos de software da Universidade de Bras\u00edlia, campus Gama. Visa obter a maior quantidade de informa\u00e7\u00f5es a respeito  da \"\u00e1rea de m\u00fasica\" do Spotify app. Esse artefato faz parte de um conjunto de outros artefatos do m\u00f3dulo 3 (elicita\u00e7\u00e3o de requisitos) que foram divididos nas seguintes \u00e1reas: usu\u00e1rio, marketing, monetiza\u00e7\u00e3o, m\u00fasica, integra\u00e7\u00e3o e design.\n\n\n\n \ud83c\udfa7 Objetivo \n\n\n\nEsse documento tem como objetivo apresentar as t\u00e9cnicas aplicadas no levantamento de requisitos da parte de m\u00fasica do spotify, focando tamb\u00e9m na rastreabilidade, afim de identificar a fonte do levantamento dos requisitos e a base para tomada de decis\u00f5es. As t\u00e9cnicas utilizadas foram: Observa\u00e7\u00e3o participativa e Storytelling.\n\n\n\n \u2139\ufe0f Universo de informa\u00e7\u00e3o \n\n\n\nAs informa\u00e7\u00f5es foram obtidas a partir das seguintes fontes:\n\n\n  \nUsu\u00e1rios do Spotify: Eduardo J\u00fanio e Amanda Bezerra\n\n  \nObserva\u00e7\u00e3o participativa\n\n  \nV\u00eddeos de dois usu\u00e1rios utilizando o aplicativo\n\n  \nSite de informa\u00e7\u00f5es/documenta\u00e7\u00e3o do spotify\n\n  \nStorytelling\n\n\n\n\n\ud83c\udfa7 Plano de elicita\u00e7\u00e3o\n\n\n\nOptou-se por utilizar as t\u00e9cnicas de Observa\u00e7\u00e3o  e Storytelling para a elicita\u00e7\u00e3o dos requisitos relacionados \u00e0 \u00e1rea de m\u00fasicas do spotify. Logo abaixo apresentamos uma breve descri\u00e7\u00e3o de cada um.\n\n\n\ud83d\udd0d Observa\u00e7\u00e3o Participativa\n\n\n\nA observa\u00e7\u00e3o \u00e9 uma t\u00e9cnica que possibilita observar, no pr\u00f3prio ambiente no qual o software ser\u00e1 implementado, as tarefas sendo executadas pelos interessados, sem interferir no ambiente. Obt\u00e9m-se os requisitos com base nas tarefas realizadas pelos interessados.\n\n\n\nForam capturados v\u00eddeos a partir da tela dos usu\u00e1rios Amanda e Eduardo enquanto estes utilizavam o aplicativo e posteriormente foram realizadas an\u00e1lises e anota\u00e7\u00f5es para se realizar o levantamento de requisitos.\n\n\n\nOptou-se por organizar as anota\u00e7\u00f5es em \"intera\u00e7\u00f5es\" que detalham uma determinada intera\u00e7\u00e3o do usu\u00e1rio com o aplicativo. Para cada intera\u00e7\u00e3o \u00e9 listado o que o usu\u00e1rio fez,  anexado um ou mais prints retirados dos v\u00eddeos gravados enquanto o usu\u00e1rio realizava a intera\u00e7\u00e3o e em seguida \u00e9 feito um levantamento de quais foram as necessidades e a\u00e7\u00f5es do usu\u00e1rio observadas durante as intera\u00e7\u00f5es.\n\n\n\nAs anota\u00e7\u00f5es realizadas nesta t\u00e9cnica podem ser acessadas \naqui\n                                                                  \n\nOs v\u00eddeos utilizados durante esta t\u00e9cnica podem ser acessados \naqui\n\n\nA seguir, est\u00e1 listado todos os requisitos elicitados durante esta t\u00e9cnica:\n\n\n\n\n    \nAcessar a biblioteca\n\n    \nCriar playlist\n\n    \nExcluir playlist\n\n    \nRenomear playlist\n\n    \nSeguir playlist\n\n    \nAcessar lista de playlists\n\n    \nReproduzir playlist\n\n    \nAcessar r\u00e1dio de uma playlist\n\n    \nBuscar playlist\n\n    \nReproduzir m\u00fasica\n\n    \nAdicionar m\u00fasica a uma playlist\n\n    \nAdicionar m\u00fasica \u00e0 fila de reprodu\u00e7\u00e3o\n\n    \nAcessar r\u00e1dio de uma m\u00fasica\n\n    \nSalvar m\u00fasica\n\n    \nRemover m\u00fasica salva\n\n    \nBuscar m\u00fasica\n\n    \nSalvar \u00e1lbuns completos\n\n    \nRemover \u00e1lbum salvo\n\n    \nAcessar lista de \u00e1lbuns salvo\n\n    \nReproduzir um \u00e1lbum\n\n    \nAcessar r\u00e1dio de um \u00e1lbum\n\n    \nBuscar \u00e1lbum\n\n    \nVisualizar perfil de um artista\n\n    \nSeguir artista\n\n    \nAcessar lista de artistas seguidos\n\n    \nBuscar artista\n\n    \nAcessar lista de artistas relacionados a um artista\n\n    \nSeguir podcast\n\n    \nAcessar lista de podcasts seguidos\n\n    \nDeixar de seguir podcast\n\n    \nAcessar lista de epis\u00f3dios de um podcast\n\n    \nReproduzir um epis\u00f3dio de podcast\n\n    \nAcessar lista de epis\u00f3dios de podcast n\u00e3o reproduzidos\n\n    \nBuscar podcast\n\n    \nSeguir programadas de v\u00eddeos\n\n    \nAcessar lista de programas seguidos\n\n    \nDeixar de seguir um programa\n\n    \nAcessar lista de v\u00eddeos de um programa\n\n    \nReproduzir um v\u00eddeo\n\n    \nAcessar lista de v\u00eddeos n\u00e3o reproduzidos\n\n    \nBuscar v\u00eddeos\n\n\n\n\n\n\ud83c\udfad Storytelling\n\n\n\nT\u00e9cnica que se baseia na utiliza\u00e7\u00e3o de hist\u00f3rias em grupos de pessoas, incluindo organiza\u00e7\u00f5es, como um m\u00e9todo de comunica\u00e7\u00e3o para que os envolvidos possam compartilhar conhecimento.\n\n\n\n\n\nLevantamento do requisito de playlists de m\u00fasicas nacionais:\n\n\n\nLevantamento do requisito de Lista de m\u00fasicas tocadas recentemente\n\n\n\n\n\nA seguir, est\u00e1 listado todos os requisitos elicitados durante esta t\u00e9cnica:\n\n\n\n\n    \nM\u00fasicas regionais\n\n    \nM\u00fasicas nacionais\n\n    \nTop 50 mais tocadas no mundo\n\n    \nTop 50 nacionais mais tocadas\n\n    \nTop virais do pa\u00eds\n\n    \nTop virais global\n\n    \nNovidade da semana\n\n    \nPodcasts de m\u00fasicas\n\n    \nPlaylists nacionais\n\n    \nInforma\u00e7\u00f5es sobre m\u00fasicas\n\n    \n\u00c1lbuns\n\n    \nDaily music: playlists autom\u00e1ticas que v\u00e3o se formando e adaptando a medida que os gostos mudam.\n\n    \nAutoplay: Quando termina a reprodu\u00e7\u00e3o de um \u00e1lbum, uma playlist ou uma sele\u00e7\u00e3o de faixas, o Spotify vai tocar automaticamente m\u00fasicas parecidas para que o som n\u00e3o pare nunca.\n\n    \nLista de m\u00fasicas tocadas recentemente\n\n    \nRecomenda\u00e7\u00f5es de m\u00fasicas\n\n    \nPlaylist de m\u00fasicas\n\n    \nR\u00e1dio de m\u00fasicas\n\n    \nPlaylists Fresh finds: playlist de artistas independentes e emergentes\n\n    \nSalvar m\u00fasicas\n\n\n\n\n\n\ud83c\udfa7 Moscow (prioriza\u00e7\u00e3o de requisitos)\n\n\n\nA partir das t\u00e9cnicas de elicita\u00e7\u00e3o apresentadas anteriormente foi constru\u00eddo o seguinte Moscow:\n\n\n\n\n\n\n\n\nMust(deve ter)\n\n\nShould(deveria ter)\n\n\nCould(poderia ter)\n\n\nWould(seria legal ter)\n\n\n\n\n\n\n\n\n\n\nPlaylist de m\u00fasicas\n\n\nLista de m\u00fasicas tocadas recentemente\n\n\nR\u00e1dio de m\u00fasicas\n\n\nRecomenda\u00e7\u00f5es de m\u00fasicas\n\n\n\n\n\n\nM\u00fasicas regionais\n\n\nNovidade da semana\n\n\nDaily music\n\n\nPlaylists Fresh finds: playlist de artistas independentes e emergentes\n\n\n\n\n\n\nInforma\u00e7\u00f5es sobre m\u00fasicas\n\n\nTop virais do pa\u00eds\n\n\nTop 50 mais tocadas no mundo\n\n\nAutoplay\n\n\n\n\n\n\nPlaylists nacionais\n\n\nTop virais global\n\n\nTop 50 nacionais mais tocadas\n\n\nPodcasts de m\u00fasicas\n\n\n\n\n\n\nSalvar m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\u00c1lbuns", 
+            "title": "Elicita\u00e7\u00e3o de M\u00fasica"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Elicita\u00e7\u00e3o-M\u00f3dulo-Integra\u00e7\u00e3o-do-uso-do-Spotify-em-diferentes-Hardwares/", 
+            "text": "Elicita\u00e7\u00e3o - M\u00f3dulo: Integra\u00e7\u00e3o do uso do Spotify em diferentes Hardwares\n\n\n\nHist\u00f3rico de revis\u00e3o\n\n\n\n\n\n\n\n\n\nData\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\nMudan\u00e7a realizada\n\n\n\n\n\n\n\n\n\n\n01/04/2018\n\n\nLucas Filipe\n\n\n1.0\n\n\nConstru\u00e7\u00e3o do corpo do documento.\n\n\n\n\n\n\n01/04/2018\n\n\nLucas Filipe\n\n\n1.1\n\n\nPreenchimento de Conceitos e metodologia realizada para elicita\u00e7\u00e3o.\n\n\n\n\n\n\n\n\n 1.Introdu\u00e7\u00e3o \n\n\n\n A palavra Elicitar significa : \ndescobrir, tornar explicito, obter o m\u00e1ximo de informa\u00e7\u00f5es para o conhecimento do objetivo em quest\u00e3o\n. De acordo com J\u00falio Leite em Livro Vivo:Engenharia de Requisitos[1]: \"Dentro da engenharia de requisitos cabe a Elicita\u00e7\u00e3o a tarefa de identificar os fatos que comp\u00f5e os requisitos do sistema, de forma a prover o mais correto e mais completo entendimento do que \u00e9 demandado daquele software.\" As tarefas que comp\u00f5e a Elicita\u00e7\u00e3o s\u00e3o: Identifica\u00e7\u00e3o das fontes de informa\u00e7\u00e3o dentro do Universo de Informa\u00e7\u00f5es(UdI), emprego de t\u00e9cnicas de coletas de fatos e plano de comunica\u00e7\u00e3o.  \n\n\n\n\n\n 2.Universo de informa\u00e7\u00e3o(UdI) \n\n\n De Acordo com Leite,Jos\u00e9[2] o universo de informa\u00e7\u00e3o \u00e9 onde cont\u00e9m todas as fontes de informa\u00e7\u00e3o que vamos utilizar na elicita\u00e7\u00e3o.\n\n\nAs fontes de informa\u00e7\u00f5es utilizadas para a realiza\u00e7\u00e3o dessa elicita\u00e7\u00e3o foram:\n\n\n\n\n\n\nSpotify\n\n\n\n\n\n\nAplicativo para celular Android.\n\n\nAplicativo para PlayStation4.\n\n\nAplicativo para Ipad.\n\n\nAplicativo para SmartTv.\n\n\nWebPlayer para Chrome.\n\n\nDocumentos Spotify Labs.\n\n\nSpotify for Developers.\n\n\n\n\n\n\n\n\n\n\nUsu\u00e1rios do Spotify na equipe\n\n\n\n\n\n\nLucas Filipe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.T\u00e9cnicas de Coleta de Dados\n\n\nDe acordo com Jos\u00e9 Leite[3], cabe ao engenheiro de requisitos selecionar as t\u00e9cnicas a serem utilizadas bem como o esquema de integra\u00e7\u00e3o entre elas de acordo com o Universo de Informa\u00e7\u00f5es(Contexto). No desenvolvimento da elicita\u00e7\u00e3o de requisitos de integra\u00e7\u00e3o do Spotify foram utliizadas as seguintes t\u00e9cnicas:  \n\n\n3.1 Observa\u00e7\u00e3o\n\n\n\nT\u00e9cnica no qual o engenheiro de requisitos estabelece uma posi\u00e7\u00e3o passiva dentro do universo de informa\u00e7\u00f5es observando ambiente onde vai acontecer/acontece o uso do software, permitindo uma percep\u00e7\u00e3o aprimorada dos objetos, processos e linguagem do ambiente e no caso de reengenharia: uso do software. Para elicita\u00e7\u00e3o de requisitos de integra\u00e7\u00e3o foi realizada duas observa\u00e7\u00f5es que foram registradas em v\u00eddeo(links abaixo), no primeiro v\u00eddeo acontece a observa\u00e7\u00e3o da tentativa/realiza\u00e7\u00e3o da integra\u00e7\u00e3o de uso do Spotify nos dispositivos Ipad e PC, no segundo a tentativa/realiza\u00e7\u00e3o da integra\u00e7\u00e3o do uso do Spotify nos dispositivos Playstation 4 e Celular Android.\n\n\n\n\n\n\n\n\nObserva\u00e7\u00e3o 1 - Integra\u00e7\u00e3o Ipad e WebBrowser.\n\n\n[Observa\u00e7\u00e3o 2 - Integra\u00e7\u00e3o PlayStation4 e Celular.]\n\n\n\n\n3.2 An\u00e1lise de Protocolo\n\n\n\n T\u00e9cnica que analisa o trabalho/uso de determinada pessoa, atrav\u00e9s da verbaliza\u00e7\u00e3o no ato da execu\u00e7\u00e3o da tarefa, ou atrav\u00e9s da verbaliza\u00e7\u00e3o detalhada de um trabalho que j\u00e1 foi feito, o objetivo dessa t\u00e9cnica de coleta de dados \u00e9 procurar estabelecer o racioc\u00ednio do usu\u00e1rio enquanto executa uma determinada tarefa facilitando a obte\u00e7\u00e3o de fatos n\u00e3o facilmente observ\u00e1veis visto que todos os atos s\u00e3o verbalizados. Para melhor aproveitamento das fontes de informa\u00e7\u00f5es foi decidido fazer uma an\u00e1lise de protocolo do perfeito uso do Spotify alternando entre os dois dispositivos distintos( celular e computador), para melhor extra\u00e7\u00e3o de informa\u00e7\u00f5es a an\u00e1lise de protocolo foi registrada em v\u00eddeo(link abaixo).\n\n\n\n\n\n\n\n\nAn\u00e1lise de Protocolo 1 - Integra\u00e7\u00e3o do Celular Android e WebBrowser.\n\n\n\n\n\n\n4. Elicita\u00e7\u00e3o dos Requisitos.\n\n\nTabela com os requisitos e suas respectivas origens, em caso de d\u00favida consulte o item 2 deste documento.\n\n\n\n\n\n\n\n\nRequisito\n\n\nObserva\u00e7\u00e3o 1\n\n\nObserva\u00e7\u00e3o 2\n\n\nAn\u00e1lise de Protocolo 1\n\n\n\n\n\n\n\n\n\n\nR01 - Listar dispositivos dispon\u00edveis.\n\n\nX\n\n\n\n\nX\n\n\n\n\n\n\nR02 - Alertar sobre reprodu\u00e7\u00e3o de m\u00fasica ativa em outros dispositivos logados com o mesma conta.\n\n\nX\n\n\n\n\n\n\n\n\n\n\nR03 - Visualizar informa\u00e7\u00f5es de reprodu\u00e7\u00e3o em outros dispositivos logados  com a mesma conta.\n\n\nX\n\n\n\n\nX\n\n\n\n\n\n\nR04 - Controlar reprodu\u00e7\u00e3o em outros dispositivos logados com o mesmo usu\u00e1rio.\n\n\nX\n\n\nX\n\n\nX\n\n\n\n\n\n\nR05 - Selecionar m\u00fasicas/playlists para reprodu\u00e7\u00e3o em dispositivo ativo atrav\u00e9s de outro dispositivo logado na mesma conta.\n\n\nX\n\n\nX\n\n\nX\n\n\n\n\n\n\nR06 - Controlar volume de dispositivo com reprodu\u00e7\u00e3o ativa atrav\u00e9s do aplicativo logado na mesma conta em outro dispositivo.\n\n\nX\n\n\nX\n\n\nX\n\n\n\n\n\n\nR07 - Controlar volume de dispositivo com reprodu\u00e7\u00e3o ativa atrav\u00e9s de controles de volume do hardware de outro dispositivo logado com a mesma conta.\n\n\nX\n\n\n\n\nX\n\n\n\n\n\n\nR08 - Trazer reprodu\u00e7\u00e3o ativa de um dispositivo para outro logado na mesma conta.\n\n\nX\n\n\n\n\nX\n\n\n\n\n\n\nR09 - Listar dispositivos ativos para reprodu\u00e7\u00e3o conectados pela mesma rede wi-fi.\n\n\n\n\nX\n\n\n\n\n\n\n\n\nR10 - Possibilitar login atrav\u00e9s de outro dispositivo j\u00e1 logado que esteja na mesma rede wi-fi.\n\n\n\n\nX\n\n\n\n\n\n\n\n\nR11 - Conectar conta do SPotify com conta da PSN.\n\n\n\n\nX\n\n\n\n\n\n\n\n\nR12 - Reproduzir m\u00fasica enquanto jogo estiver sendo executado\n\n\n\n\nX\n\n\n\n\n\n\n\n\nR13 - Listar preferencialmente m\u00fasicas e playlists mais compat\u00edveis com o dispositivo logado.\n\n\n\n\nX\n\n\n\n\n\n\n\n\n\n\n\n\n5. Prioriza\u00e7\u00e3o dos Requisitos. \n\n\nPlanilha detalhada de prioriza\u00e7\u00e3o com suas devidas justificativas.\n\n\n\n\n\n\n\n\nMust(deve ter)\n\n\nShould(deveria ter)\n\n\nCould(poderia ter)\n\n\nWould(seria legal ter)\n\n\n\n\n\n\n\n\n\n\nR01\n\n\nR03\n\n\nR06\n\n\nR11\n\n\n\n\n\n\nR02\n\n\nR04\n\n\nR07\n\n\nR10\n\n\n\n\n\n\nR08\n\n\nR05\n\n\n\n\nR13\n\n\n\n\n\n\nR09\n\n\nR12\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 6. Refer\u00eancias\n\n\n\n\n[1][Open Access] Leite, Julio Cesar Sampaio do Prado. Livro Vivo- Engenharia de Requisitos. \nDispon\u00edvel Aqui.\n Acesso em: 01 de Abril de 2018.\n\n\n[2][Open Access] Leite, Julio Cesar Sampaio do Prado. Livro Vivo : Engenharia de Requisitos - Universo de Informa\u00e7\u00f5es. \nDispon\u00edvel Aqui.\n Acesso em: 01 de Abril de 2018.\n\n\n[3][Open Access]Leite, Julio Cesar Sampaio do Prado. Livro Vivo- Engenharia de Requisitos - Notas de Aula. \nDispon\u00edvel Aqui.\n Acesso em: 01 de Abril de 2018.", 
+            "title": "Elicita\u00e7\u00e3o de Integra\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Plano-de-elicita\u00e7\u00e3o-de-requisitos/", 
+            "text": "Elicita\u00e7\u00e3o de requisitos de usu\u00e1rio\n\n\n\nHist\u00f3rico de revis\u00e3o\n\n\n\n\n\n\n\n\n\nData\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\nMudan\u00e7a realizada\n\n\n\n\n\n\n\n\n\n\n29/03/2018\n\n\nGeovanne Saraiva\n\n\n1.0\n\n\nPrimeira vers\u00e3o do plano de elicita\u00e7\u00e3o\n\n\n\n\n\n\n02/04/2018\n\n\nGeovanne Saraiva\n\n\n1.1\n\n\nSegunda vers\u00e3o do plano de elicita\u00e7\u00e3o\n\n\n\n\n\n\n03/04/2018\n\n\nGeovanne Saraiva\n\n\n1.2\n\n\nTerceira vers\u00e3o do plano de elicita\u00e7\u00e3o\n\n\n\n\n\n\n\n\n Introdu\u00e7\u00e3o \n\n\n\nEste documento foi desenvolvido para a disciplina de Requisitos em Software, da Universidade de Bras\u00edlia, no qual o grupo procura elicitar o aplicativo Spotify, que \u00e9 obter o m\u00e1ximo de informa\u00e7\u00f5es necess\u00e1rias para o conhecimento de um objeto. No contexto da engenharia de software, a elicita\u00e7\u00e3o de requisitos prov\u00ea o mais correto e completo entendimento do que \u00e9 demandado de um determinado software. A an\u00e1lise foi dividida em t\u00f3picos, os mesmos s\u00e3o: usu\u00e1rio, marketing,  monetiza\u00e7\u00e3o, m\u00fasica, integra\u00e7\u00e3o e design.\n\n\n Objetivo \n\n\n\nO documento presente visa definir as t\u00e9cnicas que ser\u00e3o aplicadas como forma de levantar requisitos de Usu\u00e1rio do Spotify, focando nos processos de elicita\u00e7\u00e3o: observa\u00e7\u00e3o participativa e HistoryTelling.\n\n\n Universo de informa\u00e7\u00e3o \n\n\n\nAs informa\u00e7\u00f5es necess\u00e1rias para coleta de requisitos e para a constru\u00e7\u00e3o de todo o trabalho foram mapeadas pelas seguintes fontes:\n\n\n\n  \nUsu\u00e1rios do Spotify: Geovanne Santos e Renato Valerio\n\n  \nObserva\u00e7\u00e3o participativa\n\n  \nE-mail\n\n  \nHistoryTelling\n\n  \nRedes Sociais: Facebook e Instagram\n\n  \nSites e Revistas\n\n\n\n\nPlano de elicita\u00e7\u00e3o\n\n\n\nN\u00e3o h\u00e1 uma t\u00e9cnica padr\u00e3o de elicita\u00e7\u00e3o de requisitos, por isso \u00e9 necess\u00e1rio conhecer diversas t\u00e9cnicas e avaliar qual/quais ser\u00e3o mais adequadas ao projeto, facilitando o processo de elicita\u00e7\u00e3o. No desenvolvimento deste projeto ser\u00e3o utilizadas as t\u00e9cnicas a seguir:\n\n\nObserva\u00e7\u00e3o Participativa\n\n\n\nA observa\u00e7\u00e3o participante \u00e9 uma t\u00e9cnica de investiga\u00e7\u00e3o social em que o observador partilha, na medida em que as circunst\u00e2ncias o permitam, as atividades, as ocasi\u00f5es, os interesses e os afetos de um grupo de pessoas ou de uma comunidade (Anguera, Metodologia de la observaci\u00f3n en las Ciencias Humanas, 1985).\n\nPor orienta\u00e7\u00e3o dos professores que est\u00e3o acompanhando a elicita\u00e7\u00e3o dos requisitos, foi feito um video no qual gravamos a utiliza\u00e7\u00e3o do aplicativo, por um usu\u00e1rio(Geovanne Saraiva) e depois analisamos o video e levantamos os requisitos do mesmo, que foram:\n\n\n\n\nPerfil de artista\n\n\nCadastro como perfil de artista\n\n\nPostar m\u00fasicas  \n\n\nReceber royalties pagos pelo aplicativo spotify\n\n\n\n\nVer o relat\u00f3rio de informa\u00e7\u00f5es sobre suas m\u00fasicas e seus respectivos \u00e1lbuns, um feedback que mostra a frequ\u00eancia com que os \u00e1lbuns s\u00e3o acessados.\n\n\n\n\n\n\nPerfil de usu\u00e1rio padr\u00e3o\n\n\n\n\nCadastro como perfil de usu\u00e1rio padr\u00e3o\n\n\nAdquirir o plano premium e planos promocionais, como: plano fam\u00edlia e plano estudantil.\n\n\nPausar as m\u00fasicas.\n\n\nPassar para pr\u00f3xima m\u00fasica.\n\n\nVoltar para m\u00fasica anterior.\n\n\nSeguir playlists de outros usu\u00e1rios.\n\n\nSeguir amigos para conhecer o que eles ouvem.\n\n\nMostrar m\u00fasicas indispon\u00edveis.\n\n\nEscolher as notifica\u00e7\u00f5es que deseja receber.\n\n\nCurtir m\u00fasicas.\n\n\nCriar playlists.\n\n\nPesquisar m\u00fasicas pelo nome.\n\n\nVer videoclipes.\n\n\nFazer download das m\u00fasicas.\n\n\nFicar em modo offline, onde s\u00f3 tocar\u00e1 m\u00fasicas baixadas.\n\n\nSair da conta.\n\n\nApagar cache e dados salvos.\n\n\nEditar dados de conta.\n\n\nAjustar o volume de acordo com o seu ambiente.\n\n\nEscutar playlists de modo aleat\u00f3rio.\n\n\nCompartilhar \u00e1lbuns e m\u00fasicas.\n\n\nMudar o perfil padr\u00e3o para perfil de artista.\n\n\n\n\nIntrospec\u00e7\u00e3o\n\n\n\nConsiste em entender quais propriedades o sistema deve possuir para ser um sucesso, deve-se imaginar o que o usu\u00e1rio gostaria, se lhe tivesse dado uma respectiva tarefa, neste caso ser\u00e1 analisado o usu\u00e1rio padr\u00e3o e artista do aplicativo spotify. \n\n\nRelato de introspec\u00e7\u00e3o: comportamento de usu\u00e1rio artista logado\n\n\nRelator: Geovanne Santos\n\n1. Atualizar sua biografia. \n\n2. Compartilhar suas playlists. \n\n3. Promover sua m\u00fasica. \n\n4. Controlar como os f\u00e3ns te veem no spotify. \n\n5. Ver uma s\u00e9rie de gr\u00e1ficos, com dados de como suas m\u00fasicas est\u00e3o sendo ouvidas pelos usu\u00e1rios, como est\u00e3o descobrindo e ouvindo suas m\u00fasicas, estas informa\u00e7\u00f5es podem te ajudar a promover campanhas, fazer novas m\u00fasicas e planejar novas rotas pra uma futura turn\u00ea. \n\n6. Atualizar sua foto de perfil, ou do seu \u00e1lbum.\n\n7. Controlar a m\u00fasica na parte superior do perfil do artista. \u00c9 uma \u00f3tima maneira de informar aos f\u00e3s sobre uma faixa em que voc\u00ea participa, anunciar sua pr\u00f3xima turn\u00ea, exibir uma nova playlist. Escolha qualquer faixa, \u00e1lbum ou lista de reprodu\u00e7\u00e3o e adicione uma imagem legal dos bastidores e uma breve mensagem sobre por que voc\u00ea adora isso. \n\n8. Permitir o artista colocar os locais onde ser\u00e3o feitos os shows, no pr\u00f3prio profile.\n\n\n\ud83c\udfa7 Moscow (prioriza\u00e7\u00e3o de requisitos)\n\n\n\nOs requisitos listados abaixo foram obtidos a partir das t\u00e9cnicas de elicita\u00e7\u00e3o apresentadas anteriormente. As fontes utilizadas (v\u00eddeos gravados durante o uso e notas de observa\u00e7\u00f5es) podem ser consultadas pelos links abaixo:\n\n\n\n\nV\u00eddeo 1\n   usu\u00e1rio: Eduardo J\u00fanio\n\n\nV\u00eddeo 2\n   usu\u00e1rio: Eduardo J\u00fanio\n\n\nV\u00eddeo 3\n   usu\u00e1rio: Eduardo J\u00fanio\n\n\nV\u00eddeo 4\n   usu\u00e1rio: Amanda Bezerra\n\nExplica\u00e7\u00e3o de como foi avaliado os requisitos em: must, should, could, would.\n\n\n\n\nMust: O que acontece se esse requisito n\u00e3o for atendido? \u201dSe a resposta for cancelar o projeto ent\u00e3o deve se usar o must, n\u00e3o \u00e9 poss\u00edvel entregar na data prevista sem isso, Inseguro sem isso.\n\n\n\n\n\nShould: Importante, mas n\u00e3o vital, pode ser doloroso deixar de fora, mas a solu\u00e7\u00e3o ainda \u00e9 vi\u00e1vel.\n\n\n\n\n\nCould: Os requisitos rotulados como Could s\u00e3o desej\u00e1veis, mas n\u00e3o necess\u00e1rios, e podem melhorar a experi\u00eancia do usu\u00e1rio ou a satisfa\u00e7\u00e3o do cliente por um pequeno custo de desenvolvimento. Estes ser\u00e3o tipicamente inclu\u00eddos se o tempo e os recursos permitirem..\n\n\n\n\n\nWould: Requisitos rotulados como Would ter\u00e3o que ser acordados pelas partes interessadas como os itens menos cr\u00edticos e de menor retorno, ou n\u00e3o s\u00e3o apropriados naquele momento. Como resultado, os requisitos n\u00e3o ser\u00e3o planejados no cronograma do pr\u00f3ximo timebox de entrega. Os requisitos n\u00e3o ser\u00e3o eliminados ou reconsiderados para inclus\u00e3o em um timebox posterior..\n\n\n\nA primeira tabela de prioriza\u00e7\u00e3o foi avaliada pelo relator: Geovanne Santos\n\n\n\n\n\n\n\n\n\n\nRequisitos\n\n\nMust(deve ter)\n\n\nShould(deveria ter)\n\n\nCould(poderia ter)\n\n\nWould(seria legal ter)\n\n\n\n\n\n\n\n\n\n\nCadastro como perfil de artista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPostar m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReceber royalties pagos pelo aplicativo spotify\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVer o relat\u00f3rio de informa\u00e7\u00f5es sobre seus \u00e1lbuns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCadastro como perfil de usu\u00e1rio padr\u00e3o\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdquirir o plano premium e planos promocionais\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPausar as m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassar para pr\u00f3xima m\u00fasica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeguir playlists de outros usu\u00e1rios\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVoltar para m\u00fasica anterior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeguir playlists de outros usu\u00e1rios\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeguir amigos para conhecer o que eles ouvem\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMostrar m\u00fasicas indispon\u00edveis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEscolher as notifica\u00e7\u00f5es que deseja receber\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurtir m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCriar playlists\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPesquisar m\u00fasicas pelo nome\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVer videoclipes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFazer download das m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFicar em modo offline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSair da conta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApagar cache e dados salvos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEditar dados de conta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAjustar o volume\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEscutar playlists de modo aleat\u00f3rio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompartilhar \u00e1lbuns e m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudar o perfil padr\u00e3o para perfil de artista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtualizar sua biografia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPromover sua m\u00fasica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtualizar sua foto de perfil, ou do seu \u00e1lbum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nControlar a m\u00fasica na parte superior do perfil do artista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nColocar os locais onde ser\u00e3o feitos os shows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA segunda tabela de prioriza\u00e7\u00e3o foi avaliada pelo grupo do spotify\n\n\n\n\n\n\n\n\n\nRequisitos\n\n\nMust(deve ter)\n\n\nShould(deveria ter)\n\n\nCould(poderia ter)\n\n\nWould(seria legal ter)\n\n\n\n\n\n\n\n\n\n\nCadastro como perfil de artista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPostar m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReceber royalties pagos pelo aplicativo spotify\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVer o relat\u00f3rio de informa\u00e7\u00f5es sobre seus \u00e1lbuns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCadastro como perfil de usu\u00e1rio padr\u00e3o\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdquirir o plano premium e planos promocionais\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPausar as m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassar para pr\u00f3xima m\u00fasica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeguir playlists de outros usu\u00e1rios\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVoltar para m\u00fasica anterior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeguir playlists de outros usu\u00e1rios\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeguir amigos para conhecer o que eles ouvem\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMostrar m\u00fasicas indispon\u00edveis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEscolher as notifica\u00e7\u00f5es que deseja receber\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurtir m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCriar playlists\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPesquisar m\u00fasicas pelo nome\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVer videoclipes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFazer download das m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFicar em modo offline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSair da conta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApagar cache e dados salvos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEditar dados de conta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAjustar o volume\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEscutar playlists de modo aleat\u00f3rio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompartilhar \u00e1lbuns e m\u00fasicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudar o perfil padr\u00e3o para perfil de artista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtualizar sua biografia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPromover sua m\u00fasica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtualizar sua foto de perfil, ou do seu \u00e1lbum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nControlar a m\u00fasica na parte superior do perfil do artista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nColocar os locais onde ser\u00e3o feitos os shows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Bibliografia \n\n\n\n\n\nAnguera, Metodologia de la observaci\u00f3n en las Ciencias Humanas, 1985. \n\n\nhttps://artists.spotify.com/guide/spotify-for-artists\n\n\nMcIntyre, John (October 20, 2016). \"Moscow or Kano - how do you prioritize?", 
+            "title": "Elicita\u00e7\u00e3o de Usu\u00e1rio"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Plano-de-Elicita\u00e7\u00e3o-de-Requisitos-de-Marketing/", 
+            "text": "Elicita\u00e7\u00e3o de requisitos de Marketing\n\n\n\nHist\u00f3rico de revis\u00e3o\n\n\n\n\n\n\n\n\n\nData\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\nMudan\u00e7a realizada\n\n\n\n\n\n\n\n\n\n\n29/03/2018\n\n\nRenato Val\u00e9rio\n\n\n1.0\n\n\nPrimeira vers\u00e3o do plano de elicita\u00e7\u00e3o\n\n\n\n\n\n\n01/04/2018\n\n\nRenato Val\u00e9rio\n\n\n1.1\n\n\nInser\u00e7\u00e3o da observa\u00e7\u00e3o Participativa\n\n\n\n\n\n\n01/04/2018\n\n\nRenato Val\u00e9rio\n\n\n1.2\n\n\nInser\u00e7\u00e3o da Storytelling\n\n\n\n\n\n\n\n\n Introdu\u00e7\u00e3o \n\n\n\n Este Documento foi desenvolvido para elicitar os requisitos e o planejamento do Spotify, para a diciplina de Requisitos de Software, focando na parte de Marketing e o contexto que a envolve, tanto na parte mobile como em desktop, focando na multiplataforma.  \n\n\n\n\n\n Objetivo \n\n\nO Documento presente visa definir as t\u00e9cnicas que ser\u00e3o aplicadas como forma de levantar requisitos de Marketing do Spotify, focando na pr\u00e9-rastreabilidade dos requisitos como forma segura de manter os dados, que pode ser definida como o estudo do dom\u00ednio a partir do qual ser\u00e3o levantados os requisitos. Sendo assim, dois desses procedimentos ser\u00e3o abordados neste n\u00edvel, as t\u00e9cnicas usadas ser\u00e3o :\n\n\n\n\n\n\nObserva\u00e7\u00e3o participativa\n\n\nStorytelling\n\n\n\n\n\n\n\n\n\n\n\n Universo de informa\u00e7\u00e3o \n\n\nAs informa\u00e7\u00f5es necess\u00e1rias para a coleta de requisitos e para a constru\u00e7\u00e3o de todo o trabalho foram mapeadas pelas seguintes fontes:\n\n\n\n\n\n\nSpotify\n\n\n\n\n\n\nvinhetas durante a programa\u00e7\u00e3o musical para quem n\u00e3o \u00e9 assinante\n\n\nexibi\u00e7\u00e3o de v\u00eddeos\n\n\nexibi\u00e7\u00e3o de banners\n\n\nplaylists de m\u00fasica\n\n\nmodelo de neg\u00f3cios \u201c Freemium \u201d incentiva a ades\u00e3o do Plano pago\n\n\nintegra\u00e7\u00e3o com redes socias\n\n\nFacebook\n\n\nYouTube\n\n\nInstagram\n\n\nTwiter\n\n\npublicidade usando figuras p\u00fablicas\n\n\n\n\n\n\n\n\n\n\nRevistas,Sites e Jornais\n\n\n\n\n\n\nArtigos\n\n\nOlhar Digital\n\n\nWikip\u00e9dia\n\n\n\n\n\n\n\n\n\n\nUsu\u00e1rios do Spotify na equipe\n\n\n\n\n\n\nGeovanne Saraiva\n\n\nRenato Val\u00e9rio\n\n\nJos\u00e9 Aquiles\n\n\nAmanda Bezerra\n\n\nLucas Filipe\n\n\nRodrigo Dadamos\n\n\n\n\n\n\n\n\n\n\nUsu\u00e1rios do Spotify\n\n\n\n\n\n\nFormul\u00e1rios\n\n\nQuestion\u00e1rios\n\n\nApple Store (avalia\u00e7\u00e3o)\n\n\nPlay Store (avalia\u00e7\u00e3o)\n\n\nFacebook (avalia\u00e7\u00e3o)\n\n\nComent\u00e1rios nas redes sociais\n\n\nSpotify Brasil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlano de elicita\u00e7\u00e3o\n\n\nN\u00e3o h\u00e1 uma tecnica que seja padr\u00e3o para elicitar os requisitos de um software, por isso \u00e9 necess\u00e1rio conhecer diversas t\u00e9cnicas e avaliar quais ser\u00e3o mais adequadas ao projeto, facilitando o processo. No desenvolvimento deste projeto ser\u00e3o utilizadas as t\u00e9cnicas a seguir:\n\n\nObserva\u00e7\u00e3o Participativa\n\n\n\nT\u00e9cnica de observa\u00e7\u00e3o que os observadores partilham na medida que as circunst\u00e2ncias os permitem  as atividades, as ocasi\u00f5es, os interesses e os afetos de um grupo de pessoas ou de uma comunidade . O objetivo fundamental que subjaz \u00e0 utiliza\u00e7\u00e3o desta t\u00e9cnica \u00e9 a capta\u00e7\u00e3o do meio analizado, sendo em grupo, como individual. Al\u00e9m disso possibilita graus diversos de integra\u00e7\u00e3o com o grupo e desistematiza\u00e7\u00e3o dos procedimentos de recolha de informa\u00e7\u00f5es.\n\nFoi decidido que cada membro da equipe iria levantar os requisitos do tema que cada um ficou, fazendo uma observa\u00e7\u00e3o participativa como usu\u00e1rio dos servi\u00e7os que o Spotify oferece. No que se da ao processo de extra\u00e7\u00e3o de informa\u00e7\u00f5es, optou-se por notas escritas, onde o analista (os membros da equipe) toma nota de todo o procedimento que foi executado.\n\n\n\n\n\n\n\n\nObserva\u00e7\u00e3o Participativa\n\n\n\n\n\n\nStorytelling\n\n\n\u00c9 a atividade que consiste em transmitir eventosem formas de palavras, imagens, e sons muita das vezes pela improvisa\u00e7\u00e3o ou embelezamento. Hist\u00f3rias ou narrativas foram compartilhdas em cada cultura e em toda a terra como um meio de entretenimento e educa\u00e7\u00e3o. Elementos cruciais de hist\u00f3rias e narrativas incluem enredo e personagens, bem como o ponto de vista narrativo.\n\nFoi decidido que cada membro da equipe iria levantar os requisitos do tema que cada um ficou, fazendo uma observa\u00e7\u00e3o participativa como usu\u00e1rio dos servi\u00e7os que o Spotify oferece. No que se da ao processo de extra\u00e7\u00e3o de informa\u00e7\u00f5es, optou-se por notas escritas, onde o analista (os membros da equipe) toma nota de todo o procedimento que foi executado.\n\n\n\n\n\n\n\n\n\nRefer\u00eancias\n\n\n\n\n[1]https://en.wikipedia.org/wiki/Storytelling\n\n\n[2]observa\u00e7\u00e3o participante in Artigos de apoio Infop\u00e9dia [em linha].Porto:Porto Editora, 2003-2018.[consult.2018-03-30 03:28:40].\n\n\n[3]https://pt.wikipedia.org/wiki/Narra%C3%A7%C3%A3o_de_hist%C3%B3rias\n\n\n[4]https://www.infopedia.pt/$observacao-participante\n\n\n[5]https://www.oficinadanet.com.br/artigos/spotify", 
+            "title": "Elicita\u00e7\u00e3o de Marketing"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Elicita\u00e7\u00e3o-de-requisitos-de-monetiza\u00e7\u00e3o/", 
+            "text": "Elicita\u00e7\u00e3o de requisitos de monetiza\u00e7\u00e3o\n\n\n\nHist\u00f3rico de revis\u00e3o\n\n\n\n\n\n\n\n\n\nData\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\nMudan\u00e7a realizada\n\n\n\n\n\n\n\n\n\n\n31/03/2018\n\n\nJos\u00e9 Aquiles\n\n\n1.0\n\n\nPrimeira vers\u00e3o do plano de elicita\u00e7\u00e3o feitas a partir de uma introspec\u00e7\u00e3o de Jos\u00e9 Aquiles\n\n\n\n\n\n\n\n\nStorytelling\n\n\n\n\nIntrospec\u00e7\u00e3o\n\n\nComo pode se observar no storytelling h\u00e1 tr\u00eas tipos publico alvo que o spotify vai tratar:\n\n\nPessoas que est\u00e3o dispostas a pagar para mais benef\u00edcios: este publico simplesmente tem dinheiro de sobra ou se gostariam de pagar uma assinatura para ter um servi\u00e7o de qualidade.\n\n\nUniversit\u00e1rios: muitos deles tem que trabalhar para poder pagar a universidade e quase n\u00e3o sobra dinheiro para ele mesmo.Visto que \u00e9 poss\u00edvel comprovar se a pessoa \u00e9 universit\u00e1ria ou n\u00e3o e pela maioria serem jovens s\u00e3o possiveis clientes.Ent\u00e3o para atrair este tipo de cliente podemos cobrar menos em cima da mensalidade.\n\n\nPessoas que n\u00e3o est\u00e3o dispostas a pagar para mais benef\u00edcios ou n\u00e3o podem: eles ir\u00e3o utilizar uma vers\u00e3o com menos recursos e para gerar lucro a empresa e encorajar a comprarem a vers\u00e3o com mais recursos eles ir\u00e3o ver propagandas.\n\n\nMoSCoW\n\n\n\n\n\n\n\n\nMust\n\n\nShould\n\n\nCould\n\n\nWould\n\n\n\n\n\n\n\n\n\n\nvers\u00e3o paga com mais benef\u00edcios\n\n\nvers\u00e3o gratuita com limita\u00e7\u00f5es\n\n\ndesconto para universitarios\n\n\nseguir usuario\n\n\n\n\n\n\nadicionar amigos\n\n\n\n\n\n\n\n\n\n\n\n\ncompartilhar musicas", 
+            "title": "Elicita\u00e7\u00e3o de Monetiza\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Elicita\u00e7\u00e3o-de-requisitos-de-monetiza\u00e7\u00e3o/#storytelling", 
+            "text": "", 
+            "title": "Storytelling"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Elicita\u00e7\u00e3o-de-requisitos-de-monetiza\u00e7\u00e3o/#introspeccao", 
+            "text": "Como pode se observar no storytelling h\u00e1 tr\u00eas tipos publico alvo que o spotify vai tratar:  Pessoas que est\u00e3o dispostas a pagar para mais benef\u00edcios: este publico simplesmente tem dinheiro de sobra ou se gostariam de pagar uma assinatura para ter um servi\u00e7o de qualidade.  Universit\u00e1rios: muitos deles tem que trabalhar para poder pagar a universidade e quase n\u00e3o sobra dinheiro para ele mesmo.Visto que \u00e9 poss\u00edvel comprovar se a pessoa \u00e9 universit\u00e1ria ou n\u00e3o e pela maioria serem jovens s\u00e3o possiveis clientes.Ent\u00e3o para atrair este tipo de cliente podemos cobrar menos em cima da mensalidade.  Pessoas que n\u00e3o est\u00e3o dispostas a pagar para mais benef\u00edcios ou n\u00e3o podem: eles ir\u00e3o utilizar uma vers\u00e3o com menos recursos e para gerar lucro a empresa e encorajar a comprarem a vers\u00e3o com mais recursos eles ir\u00e3o ver propagandas.", 
+            "title": "Introspec\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Elicita\u00e7\u00e3o-de-requisitos-de-monetiza\u00e7\u00e3o/#moscow", 
+            "text": "Must  Should  Could  Would      vers\u00e3o paga com mais benef\u00edcios  vers\u00e3o gratuita com limita\u00e7\u00f5es  desconto para universitarios  seguir usuario    adicionar amigos       compartilhar musicas", 
+            "title": "MoSCoW"
+        }, 
+        {
+            "location": "/Modulos/Elicitacao/Elicita\u00e7\u00e3o-de-requisitos-de-design/", 
+            "text": "Elicita\u00e7\u00e3o de requisitos de Design\n\n\n\nHist\u00f3rico de revis\u00e3o\n\n\n\n\n\n\n\n\n\nData\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\nMudan\u00e7a realizada\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\nRodrigo Dadamos\n\n\n1.0\n\n\nPrimeira vers\u00e3o\n\n\n\n\n\n\n\n\n Introdu\u00e7\u00e3o \n\n\n\n Este documento descreve os requisitos de Design e Experi\u00eancia do Usu\u00e1rio (UX) do Spotify para a diciplina de Requisitos de Software utilizando t\u00e9cnicas de elicita\u00e7\u00e3o vistas em sala de aula. \n\n\n\n Objetivo \n\n\n\nDefinir e utilizar t\u00e9cnicas de elecita\u00e7\u00e3o mantendo pr\u00e9-rastreabilidade dos requisitos de Design e Experi\u00eancia do Usu\u00e1rio (UX) do Spotify. \n\n\n\n Universo de informa\u00e7\u00e3o \n\n\n\n As informa\u00e7\u00f5es foram obtidas a partir das seguintes fontes: \n\n\n\n\n  \nUsu\u00e1rios do Spotify: Eduardo J\u00fanio e Amanda Bezerra\n\n  \nObserva\u00e7\u00e3o participativa\n\n  \nV\u00eddeo de um usu\u00e1rio utilizando o aplicativo\n\n  \nSite de informa\u00e7\u00f5es/documenta\u00e7\u00e3o do spotify\n\n\n\n\n\n Design do Spotify \n\n\n\n Stanley Wood, diretor de design do spotify desde de 2012, escreveu que ficou chocado com o n\u00edvel de inconsist\u00eancia e fragmenta\u00e7\u00e3o quando se juntou a equipe. Como as cores, as fontes, imagens, intera\u00e7\u00f5es deviam ser tratados n\u00e3o estavam definidos em nenhum lugar[1]. Ele notou que a equipe estava frustada tamb\u00e9m e que a fragmenta\u00e7\u00e3o do produto era reflexo da fragmenta\u00e7\u00e3o da equipe.\n \n\n\n\n\n Em 2013, ele e sua equipe resolveram escrever alguns princ\u00edpios para que a equipe de design compartilhassem um ponto de vista em comum, que serviram de base para os alinhamentos de design em 2014.\n\n \n\n\n\nAinda em 2014, depois dos alinhamentos, o desafio era manter a consist\u00eancia a partir da\u00ed. Para ser usado como guia, Stanley Wood e sua equipe criaram um sistema de linguagem de design do Spotify, o GLUE (Global Language for a Unified Experience) documentando estilos, componentes e padr\u00f5es, em um site dispon\u00edvel para todos que trabalhavam no Spotify.\n\n\n\n\n\nEm 2015, uma equipe foi formada para dedicar-se somente ao GLUE. \n\n\nMais recentemente, eles est\u00e3o usando um acr\u00f4nimo para considerar todas as partes da experi\u00eancia envolvidas, como a sensa\u00e7\u00e3o de usar o Spotify, para garantir a qualidade no design, o TUNE: \n\n\n\n\n  \nTom. Estamos usando o tipo certo de tom de voz para nossa marca?\n\n  \nUtiliz\u00e1vel. \u00c9 acess\u00edvel a todos?\n\n  \nNecess\u00e1rio. Essa funcionalidade \u00e9 realmente necess\u00e1ria?\n\n  \nEmotivo. \u00c9 bom us\u00e1-lo? Parece como que algu\u00e9m se importa?\n\n\n\n\n\n\n  A Spotify disponibiliza uma p\u00e1gina com seus recursos de design para seus parceiros juntamente com um guia para logos, cores e at\u00e9 mesmo mensagens.\n\n\n\n\n\n\n Refer\u00eancias \n\n\n\n\n\n[1][Open Access] Wood, Stanley. Design Doesn\u2019t Scale. \nDispon\u00edvel Aqui.\n Acesso em: 02 de Abril de 2018.\n\n\n[2][Open Access] Sandberg, Lauren. Spotify and feelings: a reflection on product design. \nDispon\u00edvel Aqui.\n Acesso em: 02 de Abril de 2018.\n\n\n[3][Open Access] Spotify. Design Resources. \nDispon\u00edvel Aqui.\n Acesso em: 02 de Abril de 2018.\n\n\n[4][Open Access] Spotify. Partner Guidelines Logo \n Colour + Messaging. \nDispon\u00edvel Aqui.\n Acesso em: 02 de Abril de 2018.", 
+            "title": "Elicita\u00e7\u00e3o de Design"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/", 
+            "text": "Hist\u00f3rico da Revis\u00e3o\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor\n\n\n\n\n\n\n\n\n\n\n17/04/2018\n\n\n0.1\n\n\nCria\u00e7\u00e3o, funcionalidade, interfaces de comunica\u00e7\u00f5es, interfaces de Software, interfaces de hardware, interfaces de usu\u00e1rio, usabilidade\n\n\nEduardo J\u00fanio\n\n\n\n\n\n\n17/04/2018\n\n\n0.2\n\n\nFinalidade, Defini\u00e7\u00f5es e acr\u00f4nimos e abrevia\u00e7\u00f5es\n\n\nRenato Val\u00e9rio\n\n\n\n\n\n\n17/04/2018\n\n\n0.3\n\n\nRequisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documenta\u00e7\u00e3o de Usu\u00e1rio On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observa\u00e7\u00f5es Legais, de Direitos Autorais etc\n\n\nAmanda Bezerra\n\n\n\n\n\n\n\n\n1.Introdu\u00e7\u00e3o\n\n\n1.1 Finalidade\n\n\nO objetivo deste documento de especifica\u00e7\u00e3o suplementar \u00e9 detalhar todos os aspectos n\u00e3o abordados diretamente nos documentos de vis\u00e3o, caso de uso ou arquitetura. S\u00e3o estes aspectos, legais e reguladores, como as normas estabelecidas para bom funcionamento do sistema, atributos de qualidade, como padr\u00f5es de usabilidade, confiabilidade, desempenho e suportabilidade.\n\n\n1.2 Escopo\n\n\nEsta especifica\u00e7\u00e3o suplementar documenta aspectos do Spotify, servi\u00e7o de streaming desenvolvido e mantido pela empresa Spotify AB.\nO software de m\u00fasica permitir\u00e1 que os assinantes possam ouvir qualquer \u00e1lbum e m\u00fasica de todos os artistas no qual a gravadora tenha contrato com a empresa spotify.\n\n\n1.3 Defini\u00e7\u00f5es, Acr\u00f4nimos e Abrevia\u00e7\u00f5es\n\n\nAlguns termos utilizados neste documento, s\u00e3o derivados de outra l\u00edngua, possui origem estrangeira, s\u00e3o abrevia\u00e7\u00f5es ou acr\u00f4nimos. Os mais relevantes s\u00e3o os seguintes:\n\n\n\n\nStreaming\n: streaming ou Broadcast \u00e9 o nome da transmiss\u00e3o de \u00e1udio e/ou v\u00eddeo pela internet, tecnologia esta que permite a transmiss\u00e3o de \u00e1udio e v\u00eddeo sem que seja necess\u00e1rio fazer o download de todo o conte\u00fado a ser transmitido, antes de ouvir ou assistir, como era feito antigamente, a transmiss\u00e3o do conte\u00fado \u00e9 feita de modo cont\u00ednuo, ou seja, enquanto a pessoa est\u00e1 ouvindo/assistindo.\n\n\nBroadcast\n: broadcasting (do ingl\u00eas to broadcast, \"transmitir\") \u00e9 um m\u00e9todo de transfer\u00eancia de mensagem para todos os receptores simultaneamente.\n\n\nFreemium\n: Modelo de neg\u00f3cios baseado em planos, onde existe um plano gratuito com algumas funcionalidades, que servem para capta\u00e7\u00e3o de usu\u00e1rios, e que influencia a migra\u00e7\u00e3o para o plano \u201cPremium\u201d que possui acesso as outras funcionalidades e geralmente \u00e9 pago.  \n\n\n\n\n1.4 Refer\u00eancias\n\n\n\n\n\u201cBroadcasting\u201d. Dispon\u00edvel \naqui\n\n\n\u201cStreaming\u201d. Dispon\u00edvel \naqui\n\n\n\u201cSpotify - Integra\u00e7\u00f5es\u201d. Dispon\u00edvel \naqui\n\n\n\u201cSpotify - Carros\u201d Dispon\u00edvel \naqui\n\n\n\u201cTermos e Condi\u00e7\u00f5es de Uso do Spotify\u201d. Dispon\u00edvel \naqui\n\n\n\u201cSuporte - Spotify\u201d. Dispon\u00edvel \naqui\n\n\n\n\n1.5 Vis\u00e3o Geral\n\n\nEssa especifica\u00e7\u00e3o define os requisitos n\u00e3o-funcionais do sistema, como confiabilidade, usabilidade, desempenho e suportabilidade, bem como os requisitos funcionais comuns a v\u00e1rios casos de uso.\n\n\n2. Funcionalidade\n\n\nAbaixo apresentamos uma lista com os requisitos funcionais,  alguns desses ser\u00e3o abordados nos diagramas de caso de uso.\n\n\n\n\n\n\n\n\nIdentificador\n\n\nFuncionalidade\n\n\n\n\n\n\n\n\n\n\nRF 01\n\n\nAcessar biblioteca\n\n\n\n\n\n\nRF 02\n\n\nAcessar op\u00e7\u00f5es de busca\n\n\n\n\n\n\nRF 03\n\n\nAcessar playlists\n\n\n\n\n\n\nRF 04\n\n\nAcessar r\u00e1dio\n\n\n\n\n\n\nRF 05\n\n\nAdicionar m\u00fasica a uma playlist\n\n\n\n\n\n\nRF 06\n\n\nAdquirir o plano premiun\n\n\n\n\n\n\nRF 07\n\n\nCadastro com perfil de artista\n\n\n\n\n\n\nRF 08\n\n\nCadastro de usu\u00e1rio\n\n\n\n\n\n\nRF 09\n\n\nColocar a agenda de shows\n\n\n\n\n\n\nRF 10\n\n\nControle de reprodu\u00e7\u00e3o.\n\n\n\n\n\n\nRF 11\n\n\nCriar esta\u00e7\u00e3o\n\n\n\n\n\n\nRF 12\n\n\nCriar playlist\n\n\n\n\n\n\nRF 13\n\n\nDivulga\u00e7\u00e3o de m\u00fasicas pr\u00f3prias\n\n\n\n\n\n\nRF 14\n\n\nEditar dados de conta\n\n\n\n\n\n\nRF 15\n\n\nExcluir playlist\n\n\n\n\n\n\nRF 16\n\n\nFicar em modo offline\n\n\n\n\n\n\nRF 17\n\n\nInforma\u00e7\u00f5es de reprodu\u00e7\u00e3o.\n\n\n\n\n\n\nRF 18\n\n\nInscreva-se gr\u00e1tis\n\n\n\n\n\n\nRF 19\n\n\nMudar o tipo de perfil\n\n\n\n\n\n\nRF 20\n\n\nMudar reprodu\u00e7\u00e3o ativa.\n\n\n\n\n\n\nRF 21\n\n\nNavegar\n\n\n\n\n\n\nRF 22\n\n\nOuvir lan\u00e7amentos\n\n\n\n\n\n\nRF 23\n\n\nPostar uma m\u00fasica\n\n\n\n\n\n\nRF 24\n\n\nRealizar busca por c\u00f3digo\n\n\n\n\n\n\nRF 25\n\n\nRealizar busca por texto\n\n\n\n\n\n\nRF 26\n\n\nRenomear playlists\n\n\n\n\n\n\nRF 27\n\n\nSair do aplicativo\n\n\n\n\n\n\nRF 28\n\n\nRequisitos n\u00e3o funcionais\n\n\n\n\n\n\nRF 29\n\n\nFazer login\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdentificador\n\n\nDispositivos\n\n\nModelo\n\n\nSistema operacional\n\n\n\n\n\n\n\n\n\n\nRNF 01\n\n\nIphone\n\n\niPhone 4S ou superior\n\n\niOS 9 ou superior. 100 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 02\n\n\nIpad\n\n\niPad 2 ou superior\n\n\niOS 9 ou superior. 100 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 03\n\n\nIpod\n\n\niPod Touch de 5\u00aa gera\u00e7\u00e3o ou superior.\n\n\niOS 9 ou superior. 100 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 04\n\n\nSmartphones Android\n\n\nQualquer dispositivo\n\n\nAndroid OS 4.0.3 ou superior. 500 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 05\n\n\nTablets Android\n\n\nQualquer dispositivo\n\n\nAndroid OS 4.0.3 ou superior. 500 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 06\n\n\nMac\n\n\nQualquer dispositivo\n\n\nOS X 10.9 ou superior\n\n\n\n\n\n\nRNF 07\n\n\nWindows\n\n\nQualquer dispositivo\n\n\nWindows 7 ou superior\n\n\n\n\n\n\nRNF 08\n\n\nSafari\n\n\nQualquer dispositivo\n\n\nVers\u00e3o 6 ou superior.\n\n\n\n\n\n\nRNF 09\n\n\nInternet Explorer\n\n\nQualquer dispositivo\n\n\nVers\u00e3o 10 ou superior.\n\n\n\n\n\n\nRNF 10\n\n\nGoogle Chrome\n\n\nQualquer dispositivo\n\n\n\u00daltima vers\u00e3o\n\n\n\n\n\n\nRNF 11\n\n\nMozilla Firefox\n\n\nQualquer dispositivo\n\n\nvers\u00e3o mais recente ou imediatamente anterior\n\n\n\n\n\n\nRNF 12\n\n\nOpera\n\n\nQualquer dispositivo\n\n\n12 ou superior.\n\n\n\n\n\n\nRNF 13\n\n\nYandex\n\n\nQualquer dispositivo\n\n\n1 ou superior.\n\n\n\n\n\n\n\n\n3. Usabilidade\n\n\n3.1 Facilidade de uso\n\n\nOs recursos e funcionalidades do servi\u00e7o devem apresentar-se de forma intuitiva para que o usu\u00e1rio possa facilmente navegar por eles, n\u00e3o sendo necess\u00e1rio a realiza\u00e7\u00e3o de qualquer tipo de treinamento pr\u00e9vio por parte do usu\u00e1rio.\n\n\n3.2 Mensagens de Erro\n\n\nO servi\u00e7o deve apresentar mensagens de erro de forma clara e objetiva, localizadas pr\u00f3ximas ao conte\u00fado ou a\u00e7\u00e3o que motivou o erro.\n\n\n3.3  Efici\u00eancia\n\n\nO sistema deve fornecer r\u00e1pido acesso a qualquer funcionalidade.\n\n\n3.4 Consist\u00eancia e padroniza\u00e7\u00e3o\n\n\nO sistema deve manter a maior parte da interface a mesma para cada tipo de usu\u00e1rio, apenas adicionando alguns detalhes sobre a mesma de acordo com o n\u00edvel de cada tipo de usu\u00e1rio.\n\n\n3.5 Design simples\n\n\nO sistema deve ter \u00edcones intuitivos.\nPara cada tipo de usu\u00e1rio haver\u00e1 um certo n\u00edvel de funcionalidades dispon\u00edveis\n\n\n4. Confiabilidade\n\n\n4.1 Disponibilidade\n\n\nO sistema estar\u00e1 dispon\u00edvel no modo 24/7.\n\n\n4.2 Requisito de Confiabilidade dois\n\n\nO sistema deve suportar 4 bilh\u00f5es de usu\u00e1rios ativos simultaneamente.\n\n\n4.3 Requisito de Confiabilidade tr\u00eas\n\n\nO sistema deve garantir que os direitos autorais dos artistas seja preservado\n\n\n4.4 Requisito de Confiabilidade quatro\n\n\nA senha do usu\u00e1rio dever\u00e1 ser guardada de forma segura, al\u00e9m de dados pessoais em geral.\n\n\n5. Desempenho\n\n\n5.1 Tempo de resposta\n\n\nO aplicativo tem de responder as a\u00e7\u00f5es do usu\u00e1rio de imediato, como passar m\u00fasica, pausar, procurar por algum artista . Agora situa\u00e7\u00f5es de casos de uso mais espec\u00edficos, como a autentica\u00e7\u00e3o do perfil de artista, ser\u00e1 relatado em um documento individual, assim como seu tempo de execu\u00e7\u00e3o particular.\n\n\n5.2 Volume de assinantes\n\n\nO sistema ser\u00e1 capaz de suportar 4 bilh\u00f5es de usu\u00e1rios ativos simultaneamente, tanto que em 2018 o aplicativo chegou a marca de 140 milh\u00f5es de usu\u00e1rios .\n\n\n5.3 Modo de degrada\u00e7\u00e3o\n\n\nSe o sistema estiver sofrendo com algo que degrade o aplicativo, como a internet com sinal fraco, ter\u00e1 p\u00e1ginas que n\u00e3o ser\u00e3o carregadas, mas a maioria delas funcionar\u00e3o da mesma forma, com apenas uma espera de alguns segundos a mais para aparecer as informa\u00e7\u00f5es requeridas .\n\n\n5.4 Utiliza\u00e7\u00e3o de recursos\n\n\n\n\niOS 9 ou superior.\n100 MB de espa\u00e7o livre\n\n\niOS 9 ou superior.\n100 MB de espa\u00e7o livre\n\n\niOS 9 ou superior.\n100 MB de espa\u00e7o livre\n\n\nAndroid OS 4.0.3 ou superior.\n500 MB de espa\u00e7o livre\n\n\nAndroid OS 4.0.3 ou superior.\n500 MB de espa\u00e7o livre\n\n\nOS X 10.9 ou superior\n\n\nWindows 7 ou superior\n\n\nVers\u00e3o 6 ou superior.\n\n\n\n\n6. Suportabilidade\n\n\n6.1 Software do assinante\n\n\nO assinante ser\u00e1 capaz de utilizar o sistema atrav\u00e9s de um aplicativo dispon\u00edvel para android e ios. N\u00e3o ser\u00e1 necess\u00e1rio que nenhum software personalizado resida no smartphone do assinante. Estes s\u00e3o os requisitos de sistema para usar o Spotify e acessar seu conte\u00fado por meio do aplicativo\n\n\n\n\n\n\n\n\nDispositivo\n\n\nModelo\n\n\n\n\n\n\n\n\n\n\nIphone\n\n\niPhone 4S ou superior\n\n\n\n\n\n\nIpad\n\n\niPad 2 ou superior\n\n\n\n\n\n\nIpod\n\n\niPod Touch de 5\u00aa gera\u00e7\u00e3o ou superior\n\n\n\n\n\n\nSmartphones Android\n\n\nQualquer dispositivo\n\n\n\n\n\n\nTablets Android\n\n\nQualquer dispositivo\n\n\n\n\n\n\nMac\n\n\nQualquer dispositivo\n\n\n\n\n\n\n\n\n7. Restri\u00e7\u00f5es de Design\n\n\n7.1 Restri\u00e7\u00e3o de Design Um\n\n\nO sistema dever\u00e1 ser disponibilizado em diversas l\u00ednguas, quando o usu\u00e1rio mudar o idioma do celular o aplicativo tamb\u00e9m se modificar\u00e1.\n\n\n7.2 Restri\u00e7\u00e3o de Design Dois\n\n\nO sistema dever\u00e1 se ajustar de forma responsiva, ou seja, ajustando todo o conte\u00fado da tela \u00e0 plataforma que o usu\u00e1rio estiver utilizando, android ou ios.\n\n\n7.3 Restri\u00e7\u00e3o de Design Tr\u00eas\n\n\nOs cincos escopos de telas principais do aplicativo dever\u00e3o estar na parte de baixo do aplicativo, elas s\u00e3o: in\u00edcio, navegar, buscar, r\u00e1dio e sua biblioteca.\n\n\n7.4 Restri\u00e7\u00e3o de Design Quatro\n\n\nAs op\u00e7\u00f5es de compartilhamento dever\u00e3o ser com o s\u00edmbolo da rede social na qual se deseja compartilhar algo.\n\n\n7.5  Restri\u00e7\u00e3o de Design Cinco\n\n\nAntes do usu\u00e1rio poder ver as funcionalidades do aplicativo, ter\u00e1 que ter uma tela inicial com a op\u00e7\u00e3o de login e cadastro.\n\n\n7.6 Restri\u00e7\u00e3o de Design Seis\n\n\nO bot\u00e3o de compartilhamento de m\u00fasica dever\u00e1 ser colocado abaixo da foto da m\u00fasica no canto direito, assim como a op\u00e7\u00e3o de adicionar a m\u00fasica sua biblioteca ser\u00e1 colocada abaixo da foto da m\u00fasica no canto esquerdo.\n\n\n7.7 Restri\u00e7\u00e3o de Design Sete\n\n\nO nome da p\u00e1gina sempre estar\u00e1 no topo do layout, se a p\u00e1gina do aplicativo est\u00e1 na parte de busca, no topo da tela estar\u00e1 escrito busca.\n\n\n8. Requisitos de Sistema de Ajuda e de Documenta\u00e7\u00e3o de Usu\u00e1rio On-line\n\n\nO servi\u00e7o dever\u00e1 possuir uma se\u00e7\u00e3o destinada a ajudar o usu\u00e1rio a utilizar o servi\u00e7o, responder suas d\u00favidas e encontrar solu\u00e7\u00f5es. Esta se\u00e7\u00e3o dever\u00e1 disponibilizar:\n+ \u00c1rea de busca para encontrar solu\u00e7\u00f5es para as quest\u00f5es mais frequentes\n+ Tutoriais claros e objetivos de como o usu\u00e1rio pode utilizar os recursos do servi\u00e7o\n+ F\u00f3rum para que os usu\u00e1rios possam interagir e compartilhar solu\u00e7\u00f5es e ideias\n\n\n9. Componentes de Terceiros\n\n\nDevido a grande quantidade de softwares de terceiros utilizados pelo servi\u00e7o Spotify, n\u00e3o cabe a esta especifica\u00e7\u00e3o suplementar descrever todas as restri\u00e7\u00f5es e informa\u00e7\u00f5es de licenciamento, que dever\u00e3o ser reunidas em documento pr\u00f3prio a ser disponibilizado no servi\u00e7o em \u00e1rea de f\u00e1cil acesso ao usu\u00e1rio.\n\n\n10. Interfaces\n\n\n10.1 Interfaces de Usu\u00e1rio\n\n\nO usu\u00e1rio interage com o sistema por meio das interfaces. Abaixo apresentamos alguns exemplos de interfaces dispon\u00edveis aos usu\u00e1rios.\n+ Tela onde o usu\u00e1rio pode fazer Login.\n+ Tela onde o usu\u00e1rio pode se cadastrar.\n+ Tela inicial onde o usu\u00e1rio pode escolher por qual funcionalidade navegar.\n\n\n10.2 Interfaces de Hardware\n\n\nO software oferece suporte aos dispositivos apresentados abaixo.\n+ Smartphones.\n+ Computadores Notebooks.\n+ Computadores Desktop.\n+ Carros\n+ Videogames\n+ Televisores\n\n\n10.3 Interfaces de Software\n\n\nO Spotify possui integra\u00e7\u00f5es com outros softwares e servi\u00e7os, abaixo apresentamos alguns desses\n\n\n\n\nIntegra\u00e7\u00e3o com o waze\n\n\nPlaylists em grupo com o Messenger\n\n\nLast.fm\n\n\nDiscord\n\n\nShazam\n\n\nRunkeeper\n\n\nNike+ Run Club\n\n\nTinder\n\n\nBumble\n\n\nWhoSampled\n\n\n\n\n10.4 Interfaces de Comunica\u00e7\u00f5es\n\n\nAs comunica\u00e7\u00f5es entre os servi\u00e7os s\u00e3o feitas por meio de conex\u00e3o  remota via internet (wifi, internet m\u00f3vel e etc)\n\n\n11. Requisitos de Licenciamento\n\n\nTodo o conte\u00fado e o pr\u00f3prio Servi\u00e7o Spotify s\u00e3o de propriedade da empresa Spotify. Ao usu\u00e1rio \u00e9 concedido apenas uma licen\u00e7a limitada e n\u00e3o comercial para que este fa\u00e7a uso pessoal do conte\u00fado e do servi\u00e7o.\n\n\n12. Observa\u00e7\u00f5es Legais, de Direitos Autorais e outros\n\n\nTodas as marcas comerciais, marcas de servi\u00e7o, nomes comerciais, logotipos, nomes de dom\u00ednio s\u00e3o de propriedade exclusiva da empresa Spotify. N\u00e3o \u00e9 concedido qualquer direito ao usu\u00e1rio de utilizar os recursos da marca Spotify, comercialmente ou n\u00e3o.", 
+            "title": "Especifica\u00e7\u00e3o Suplementar"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#historico-da-revisao", 
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor      17/04/2018  0.1  Cria\u00e7\u00e3o, funcionalidade, interfaces de comunica\u00e7\u00f5es, interfaces de Software, interfaces de hardware, interfaces de usu\u00e1rio, usabilidade  Eduardo J\u00fanio    17/04/2018  0.2  Finalidade, Defini\u00e7\u00f5es e acr\u00f4nimos e abrevia\u00e7\u00f5es  Renato Val\u00e9rio    17/04/2018  0.3  Requisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documenta\u00e7\u00e3o de Usu\u00e1rio On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observa\u00e7\u00f5es Legais, de Direitos Autorais etc  Amanda Bezerra", 
+            "title": "Hist\u00f3rico da Revis\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#1introducao", 
+            "text": "", 
+            "title": "1.Introdu\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#11-finalidade", 
+            "text": "O objetivo deste documento de especifica\u00e7\u00e3o suplementar \u00e9 detalhar todos os aspectos n\u00e3o abordados diretamente nos documentos de vis\u00e3o, caso de uso ou arquitetura. S\u00e3o estes aspectos, legais e reguladores, como as normas estabelecidas para bom funcionamento do sistema, atributos de qualidade, como padr\u00f5es de usabilidade, confiabilidade, desempenho e suportabilidade.", 
+            "title": "1.1 Finalidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#12-escopo", 
+            "text": "Esta especifica\u00e7\u00e3o suplementar documenta aspectos do Spotify, servi\u00e7o de streaming desenvolvido e mantido pela empresa Spotify AB.\nO software de m\u00fasica permitir\u00e1 que os assinantes possam ouvir qualquer \u00e1lbum e m\u00fasica de todos os artistas no qual a gravadora tenha contrato com a empresa spotify.", 
+            "title": "1.2 Escopo"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#13-definicoes-acronimos-e-abreviacoes", 
+            "text": "Alguns termos utilizados neste documento, s\u00e3o derivados de outra l\u00edngua, possui origem estrangeira, s\u00e3o abrevia\u00e7\u00f5es ou acr\u00f4nimos. Os mais relevantes s\u00e3o os seguintes:   Streaming : streaming ou Broadcast \u00e9 o nome da transmiss\u00e3o de \u00e1udio e/ou v\u00eddeo pela internet, tecnologia esta que permite a transmiss\u00e3o de \u00e1udio e v\u00eddeo sem que seja necess\u00e1rio fazer o download de todo o conte\u00fado a ser transmitido, antes de ouvir ou assistir, como era feito antigamente, a transmiss\u00e3o do conte\u00fado \u00e9 feita de modo cont\u00ednuo, ou seja, enquanto a pessoa est\u00e1 ouvindo/assistindo.  Broadcast : broadcasting (do ingl\u00eas to broadcast, \"transmitir\") \u00e9 um m\u00e9todo de transfer\u00eancia de mensagem para todos os receptores simultaneamente.  Freemium : Modelo de neg\u00f3cios baseado em planos, onde existe um plano gratuito com algumas funcionalidades, que servem para capta\u00e7\u00e3o de usu\u00e1rios, e que influencia a migra\u00e7\u00e3o para o plano \u201cPremium\u201d que possui acesso as outras funcionalidades e geralmente \u00e9 pago.", 
+            "title": "1.3 Defini\u00e7\u00f5es, Acr\u00f4nimos e Abrevia\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#14-referencias", 
+            "text": "\u201cBroadcasting\u201d. Dispon\u00edvel  aqui  \u201cStreaming\u201d. Dispon\u00edvel  aqui  \u201cSpotify - Integra\u00e7\u00f5es\u201d. Dispon\u00edvel  aqui  \u201cSpotify - Carros\u201d Dispon\u00edvel  aqui  \u201cTermos e Condi\u00e7\u00f5es de Uso do Spotify\u201d. Dispon\u00edvel  aqui  \u201cSuporte - Spotify\u201d. Dispon\u00edvel  aqui", 
+            "title": "1.4 Refer\u00eancias"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#15-visao-geral", 
+            "text": "Essa especifica\u00e7\u00e3o define os requisitos n\u00e3o-funcionais do sistema, como confiabilidade, usabilidade, desempenho e suportabilidade, bem como os requisitos funcionais comuns a v\u00e1rios casos de uso.", 
+            "title": "1.5 Vis\u00e3o Geral"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#2-funcionalidade", 
+            "text": "Abaixo apresentamos uma lista com os requisitos funcionais,  alguns desses ser\u00e3o abordados nos diagramas de caso de uso.     Identificador  Funcionalidade      RF 01  Acessar biblioteca    RF 02  Acessar op\u00e7\u00f5es de busca    RF 03  Acessar playlists    RF 04  Acessar r\u00e1dio    RF 05  Adicionar m\u00fasica a uma playlist    RF 06  Adquirir o plano premiun    RF 07  Cadastro com perfil de artista    RF 08  Cadastro de usu\u00e1rio    RF 09  Colocar a agenda de shows    RF 10  Controle de reprodu\u00e7\u00e3o.    RF 11  Criar esta\u00e7\u00e3o    RF 12  Criar playlist    RF 13  Divulga\u00e7\u00e3o de m\u00fasicas pr\u00f3prias    RF 14  Editar dados de conta    RF 15  Excluir playlist    RF 16  Ficar em modo offline    RF 17  Informa\u00e7\u00f5es de reprodu\u00e7\u00e3o.    RF 18  Inscreva-se gr\u00e1tis    RF 19  Mudar o tipo de perfil    RF 20  Mudar reprodu\u00e7\u00e3o ativa.    RF 21  Navegar    RF 22  Ouvir lan\u00e7amentos    RF 23  Postar uma m\u00fasica    RF 24  Realizar busca por c\u00f3digo    RF 25  Realizar busca por texto    RF 26  Renomear playlists    RF 27  Sair do aplicativo    RF 28  Requisitos n\u00e3o funcionais    RF 29  Fazer login        Identificador  Dispositivos  Modelo  Sistema operacional      RNF 01  Iphone  iPhone 4S ou superior  iOS 9 ou superior. 100 MB de espa\u00e7o livre    RNF 02  Ipad  iPad 2 ou superior  iOS 9 ou superior. 100 MB de espa\u00e7o livre    RNF 03  Ipod  iPod Touch de 5\u00aa gera\u00e7\u00e3o ou superior.  iOS 9 ou superior. 100 MB de espa\u00e7o livre    RNF 04  Smartphones Android  Qualquer dispositivo  Android OS 4.0.3 ou superior. 500 MB de espa\u00e7o livre    RNF 05  Tablets Android  Qualquer dispositivo  Android OS 4.0.3 ou superior. 500 MB de espa\u00e7o livre    RNF 06  Mac  Qualquer dispositivo  OS X 10.9 ou superior    RNF 07  Windows  Qualquer dispositivo  Windows 7 ou superior    RNF 08  Safari  Qualquer dispositivo  Vers\u00e3o 6 ou superior.    RNF 09  Internet Explorer  Qualquer dispositivo  Vers\u00e3o 10 ou superior.    RNF 10  Google Chrome  Qualquer dispositivo  \u00daltima vers\u00e3o    RNF 11  Mozilla Firefox  Qualquer dispositivo  vers\u00e3o mais recente ou imediatamente anterior    RNF 12  Opera  Qualquer dispositivo  12 ou superior.    RNF 13  Yandex  Qualquer dispositivo  1 ou superior.", 
+            "title": "2. Funcionalidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#3-usabilidade", 
+            "text": "", 
+            "title": "3. Usabilidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#31-facilidade-de-uso", 
+            "text": "Os recursos e funcionalidades do servi\u00e7o devem apresentar-se de forma intuitiva para que o usu\u00e1rio possa facilmente navegar por eles, n\u00e3o sendo necess\u00e1rio a realiza\u00e7\u00e3o de qualquer tipo de treinamento pr\u00e9vio por parte do usu\u00e1rio.", 
+            "title": "3.1 Facilidade de uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#32-mensagens-de-erro", 
+            "text": "O servi\u00e7o deve apresentar mensagens de erro de forma clara e objetiva, localizadas pr\u00f3ximas ao conte\u00fado ou a\u00e7\u00e3o que motivou o erro.", 
+            "title": "3.2 Mensagens de Erro"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#33-eficiencia", 
+            "text": "O sistema deve fornecer r\u00e1pido acesso a qualquer funcionalidade.", 
+            "title": "3.3  Efici\u00eancia"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#34-consistencia-e-padronizacao", 
+            "text": "O sistema deve manter a maior parte da interface a mesma para cada tipo de usu\u00e1rio, apenas adicionando alguns detalhes sobre a mesma de acordo com o n\u00edvel de cada tipo de usu\u00e1rio.", 
+            "title": "3.4 Consist\u00eancia e padroniza\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#35-design-simples", 
+            "text": "O sistema deve ter \u00edcones intuitivos.\nPara cada tipo de usu\u00e1rio haver\u00e1 um certo n\u00edvel de funcionalidades dispon\u00edveis", 
+            "title": "3.5 Design simples"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#4-confiabilidade", 
+            "text": "", 
+            "title": "4. Confiabilidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#41-disponibilidade", 
+            "text": "O sistema estar\u00e1 dispon\u00edvel no modo 24/7.", 
+            "title": "4.1 Disponibilidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#42-requisito-de-confiabilidade-dois", 
+            "text": "O sistema deve suportar 4 bilh\u00f5es de usu\u00e1rios ativos simultaneamente.", 
+            "title": "4.2 Requisito de Confiabilidade dois"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#43-requisito-de-confiabilidade-tres", 
+            "text": "O sistema deve garantir que os direitos autorais dos artistas seja preservado", 
+            "title": "4.3 Requisito de Confiabilidade tr\u00eas"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#44-requisito-de-confiabilidade-quatro", 
+            "text": "A senha do usu\u00e1rio dever\u00e1 ser guardada de forma segura, al\u00e9m de dados pessoais em geral.", 
+            "title": "4.4 Requisito de Confiabilidade quatro"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#5-desempenho", 
+            "text": "", 
+            "title": "5. Desempenho"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#51-tempo-de-resposta", 
+            "text": "O aplicativo tem de responder as a\u00e7\u00f5es do usu\u00e1rio de imediato, como passar m\u00fasica, pausar, procurar por algum artista . Agora situa\u00e7\u00f5es de casos de uso mais espec\u00edficos, como a autentica\u00e7\u00e3o do perfil de artista, ser\u00e1 relatado em um documento individual, assim como seu tempo de execu\u00e7\u00e3o particular.", 
+            "title": "5.1 Tempo de resposta"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#52-volume-de-assinantes", 
+            "text": "O sistema ser\u00e1 capaz de suportar 4 bilh\u00f5es de usu\u00e1rios ativos simultaneamente, tanto que em 2018 o aplicativo chegou a marca de 140 milh\u00f5es de usu\u00e1rios .", 
+            "title": "5.2 Volume de assinantes"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#53-modo-de-degradacao", 
+            "text": "Se o sistema estiver sofrendo com algo que degrade o aplicativo, como a internet com sinal fraco, ter\u00e1 p\u00e1ginas que n\u00e3o ser\u00e3o carregadas, mas a maioria delas funcionar\u00e3o da mesma forma, com apenas uma espera de alguns segundos a mais para aparecer as informa\u00e7\u00f5es requeridas .", 
+            "title": "5.3 Modo de degrada\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#54-utilizacao-de-recursos", 
+            "text": "iOS 9 ou superior.\n100 MB de espa\u00e7o livre  iOS 9 ou superior.\n100 MB de espa\u00e7o livre  iOS 9 ou superior.\n100 MB de espa\u00e7o livre  Android OS 4.0.3 ou superior.\n500 MB de espa\u00e7o livre  Android OS 4.0.3 ou superior.\n500 MB de espa\u00e7o livre  OS X 10.9 ou superior  Windows 7 ou superior  Vers\u00e3o 6 ou superior.", 
+            "title": "5.4 Utiliza\u00e7\u00e3o de recursos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#6-suportabilidade", 
+            "text": "", 
+            "title": "6. Suportabilidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#61-software-do-assinante", 
+            "text": "O assinante ser\u00e1 capaz de utilizar o sistema atrav\u00e9s de um aplicativo dispon\u00edvel para android e ios. N\u00e3o ser\u00e1 necess\u00e1rio que nenhum software personalizado resida no smartphone do assinante. Estes s\u00e3o os requisitos de sistema para usar o Spotify e acessar seu conte\u00fado por meio do aplicativo     Dispositivo  Modelo      Iphone  iPhone 4S ou superior    Ipad  iPad 2 ou superior    Ipod  iPod Touch de 5\u00aa gera\u00e7\u00e3o ou superior    Smartphones Android  Qualquer dispositivo    Tablets Android  Qualquer dispositivo    Mac  Qualquer dispositivo", 
+            "title": "6.1 Software do assinante"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#7-restricoes-de-design", 
+            "text": "", 
+            "title": "7. Restri\u00e7\u00f5es de Design"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#71-restricao-de-design-um", 
+            "text": "O sistema dever\u00e1 ser disponibilizado em diversas l\u00ednguas, quando o usu\u00e1rio mudar o idioma do celular o aplicativo tamb\u00e9m se modificar\u00e1.", 
+            "title": "7.1 Restri\u00e7\u00e3o de Design Um"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#72-restricao-de-design-dois", 
+            "text": "O sistema dever\u00e1 se ajustar de forma responsiva, ou seja, ajustando todo o conte\u00fado da tela \u00e0 plataforma que o usu\u00e1rio estiver utilizando, android ou ios.", 
+            "title": "7.2 Restri\u00e7\u00e3o de Design Dois"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#73-restricao-de-design-tres", 
+            "text": "Os cincos escopos de telas principais do aplicativo dever\u00e3o estar na parte de baixo do aplicativo, elas s\u00e3o: in\u00edcio, navegar, buscar, r\u00e1dio e sua biblioteca.", 
+            "title": "7.3 Restri\u00e7\u00e3o de Design Tr\u00eas"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#74-restricao-de-design-quatro", 
+            "text": "As op\u00e7\u00f5es de compartilhamento dever\u00e3o ser com o s\u00edmbolo da rede social na qual se deseja compartilhar algo.", 
+            "title": "7.4 Restri\u00e7\u00e3o de Design Quatro"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#75-restricao-de-design-cinco", 
+            "text": "Antes do usu\u00e1rio poder ver as funcionalidades do aplicativo, ter\u00e1 que ter uma tela inicial com a op\u00e7\u00e3o de login e cadastro.", 
+            "title": "7.5  Restri\u00e7\u00e3o de Design Cinco"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#76-restricao-de-design-seis", 
+            "text": "O bot\u00e3o de compartilhamento de m\u00fasica dever\u00e1 ser colocado abaixo da foto da m\u00fasica no canto direito, assim como a op\u00e7\u00e3o de adicionar a m\u00fasica sua biblioteca ser\u00e1 colocada abaixo da foto da m\u00fasica no canto esquerdo.", 
+            "title": "7.6 Restri\u00e7\u00e3o de Design Seis"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#77-restricao-de-design-sete", 
+            "text": "O nome da p\u00e1gina sempre estar\u00e1 no topo do layout, se a p\u00e1gina do aplicativo est\u00e1 na parte de busca, no topo da tela estar\u00e1 escrito busca.", 
+            "title": "7.7 Restri\u00e7\u00e3o de Design Sete"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#8-requisitos-de-sistema-de-ajuda-e-de-documentacao-de-usuario-on-line", 
+            "text": "O servi\u00e7o dever\u00e1 possuir uma se\u00e7\u00e3o destinada a ajudar o usu\u00e1rio a utilizar o servi\u00e7o, responder suas d\u00favidas e encontrar solu\u00e7\u00f5es. Esta se\u00e7\u00e3o dever\u00e1 disponibilizar:\n+ \u00c1rea de busca para encontrar solu\u00e7\u00f5es para as quest\u00f5es mais frequentes\n+ Tutoriais claros e objetivos de como o usu\u00e1rio pode utilizar os recursos do servi\u00e7o\n+ F\u00f3rum para que os usu\u00e1rios possam interagir e compartilhar solu\u00e7\u00f5es e ideias", 
+            "title": "8. Requisitos de Sistema de Ajuda e de Documenta\u00e7\u00e3o de Usu\u00e1rio On-line"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#9-componentes-de-terceiros", 
+            "text": "Devido a grande quantidade de softwares de terceiros utilizados pelo servi\u00e7o Spotify, n\u00e3o cabe a esta especifica\u00e7\u00e3o suplementar descrever todas as restri\u00e7\u00f5es e informa\u00e7\u00f5es de licenciamento, que dever\u00e3o ser reunidas em documento pr\u00f3prio a ser disponibilizado no servi\u00e7o em \u00e1rea de f\u00e1cil acesso ao usu\u00e1rio.", 
+            "title": "9. Componentes de Terceiros"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#10-interfaces", 
+            "text": "", 
+            "title": "10. Interfaces"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#101-interfaces-de-usuario", 
+            "text": "O usu\u00e1rio interage com o sistema por meio das interfaces. Abaixo apresentamos alguns exemplos de interfaces dispon\u00edveis aos usu\u00e1rios.\n+ Tela onde o usu\u00e1rio pode fazer Login.\n+ Tela onde o usu\u00e1rio pode se cadastrar.\n+ Tela inicial onde o usu\u00e1rio pode escolher por qual funcionalidade navegar.", 
+            "title": "10.1 Interfaces de Usu\u00e1rio"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#102-interfaces-de-hardware", 
+            "text": "O software oferece suporte aos dispositivos apresentados abaixo.\n+ Smartphones.\n+ Computadores Notebooks.\n+ Computadores Desktop.\n+ Carros\n+ Videogames\n+ Televisores", 
+            "title": "10.2 Interfaces de Hardware"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#103-interfaces-de-software", 
+            "text": "O Spotify possui integra\u00e7\u00f5es com outros softwares e servi\u00e7os, abaixo apresentamos alguns desses   Integra\u00e7\u00e3o com o waze  Playlists em grupo com o Messenger  Last.fm  Discord  Shazam  Runkeeper  Nike+ Run Club  Tinder  Bumble  WhoSampled", 
+            "title": "10.3 Interfaces de Software"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#104-interfaces-de-comunicacoes", 
+            "text": "As comunica\u00e7\u00f5es entre os servi\u00e7os s\u00e3o feitas por meio de conex\u00e3o  remota via internet (wifi, internet m\u00f3vel e etc)", 
+            "title": "10.4 Interfaces de Comunica\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#11-requisitos-de-licenciamento", 
+            "text": "Todo o conte\u00fado e o pr\u00f3prio Servi\u00e7o Spotify s\u00e3o de propriedade da empresa Spotify. Ao usu\u00e1rio \u00e9 concedido apenas uma licen\u00e7a limitada e n\u00e3o comercial para que este fa\u00e7a uso pessoal do conte\u00fado e do servi\u00e7o.", 
+            "title": "11. Requisitos de Licenciamento"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#12-observacoes-legais-de-direitos-autorais-e-outros", 
+            "text": "Todas as marcas comerciais, marcas de servi\u00e7o, nomes comerciais, logotipos, nomes de dom\u00ednio s\u00e3o de propriedade exclusiva da empresa Spotify. N\u00e3o \u00e9 concedido qualquer direito ao usu\u00e1rio de utilizar os recursos da marca Spotify, comercialmente ou n\u00e3o.", 
+            "title": "12. Observa\u00e7\u00f5es Legais, de Direitos Autorais e outros"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-biblioteca/", 
+            "text": "Acessar Biblioteca", 
+            "title": "Caso de Uso Biblioteca"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-biblioteca/#acessar-biblioteca", 
+            "text": "", 
+            "title": "Acessar Biblioteca"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/", 
+            "text": "Gerenciar playlists\n\n\n\n\n1. Nome do Caso de Uso\n\n\n\n\nGerenciar playlists\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nGerenciar minhas playlists salvas\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio\n\n\n\n\n4.  Fluxo de eventos\n\n\n4.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio abre o aplicativo\n\n\nO aplicativo exibe a tela inicial\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d\n\n\nO aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cplaylists\u201d\n\n\nO aplicativo lista todas as playlists salvas\n\n\nO usu\u00e1rio pode compartilhar, excluir, renomear ou reproduzir suas playlists\n\n\n\n\n4.2 Fluxos alternativos\n\n\n\n\nO usu\u00e1rio n\u00e3o possui nenhuma playlist salva\n\n\nO aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhuma playlist salva, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).\n\n\nO aplicativo apresenta a op\u00e7\u00e3o de \u201cCriar sua primeira playlist\u201d\n\n\nAo criar uma nova playlists, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.\n\n\nO fluxo principal \u00e9 retomado.\n\n\n\n\n4.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n5. Pr\u00e9-condi\u00e7\u00f5es\n\n\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nPossuir conta de usu\u00e1rio no Spotify", 
+            "title": "Caso de Uso Gerenciar Playlists"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#gerenciar-playlists", 
+            "text": "", 
+            "title": "Gerenciar playlists"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#1-nome-do-caso-de-uso", 
+            "text": "Gerenciar playlists", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#2-breve-descricao", 
+            "text": "Gerenciar minhas playlists salvas", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#3-atores", 
+            "text": "Usu\u00e1rio", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#4-fluxo-de-eventos", 
+            "text": "", 
+            "title": "4.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#41-fluxo-basico", 
+            "text": "O usu\u00e1rio abre o aplicativo  O aplicativo exibe a tela inicial  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d  O aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cplaylists\u201d  O aplicativo lista todas as playlists salvas  O usu\u00e1rio pode compartilhar, excluir, renomear ou reproduzir suas playlists", 
+            "title": "4.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#42-fluxos-alternativos", 
+            "text": "O usu\u00e1rio n\u00e3o possui nenhuma playlist salva  O aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhuma playlist salva, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).  O aplicativo apresenta a op\u00e7\u00e3o de \u201cCriar sua primeira playlist\u201d  Ao criar uma nova playlists, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.  O fluxo principal \u00e9 retomado.", 
+            "title": "4.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#43-fluxos-de-excecao", 
+            "text": "Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.  As funcionalidades n\u00e3o podem ser acessadas.", 
+            "title": "4.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarPlaylists/#5-pre-condicoes", 
+            "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
+            "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/", 
+            "text": "Gerenciar artistas salvos\n\n\n\n\n1. Nome do Caso de Uso\n\n\n\n\nGerenciar artistas salvos\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nGerenciar meus artistas salvos\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio\n\n\n\n\n4.  Fluxo de eventos\n\n\n4.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio abre o aplicativo\n\n\nO aplicativo exibe a tela inicial\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d\n\n\nO aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cartistas\u201d\n\n\nO aplicativo lista todas os artistas salvas    \n\n\nO usu\u00e1rio pode ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou adicionar perfil do artista \u00e0 tela inicial do celular\n\n\n\n\n4.2 Fluxos alternativos\n\n\n\n\nO usu\u00e1rio n\u00e3o possui nenhum artista salvo\n\n\nO aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhum artista salvo, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de artistas salvos (ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou reproduzir suas playlists).\n\n\nO aplicativo apresenta a op\u00e7\u00e3o de salvar m\u00fasicas de artistas\n\n\nAo salvar m\u00fasicas de um artista ou seguir um perfil de artista, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.\n\n\nO fluxo principal \u00e9 retomado.\n\n\n\n\n4.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n5. Pr\u00e9-condi\u00e7\u00f5es\n\n\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nPossuir conta de usu\u00e1rio no Spotify", 
+            "title": "Caso de Uso Gerenciar Artistas"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#gerenciar-artistas-salvos", 
+            "text": "", 
+            "title": "Gerenciar artistas salvos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#1-nome-do-caso-de-uso", 
+            "text": "Gerenciar artistas salvos", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#2-breve-descricao", 
+            "text": "Gerenciar meus artistas salvos", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#3-atores", 
+            "text": "Usu\u00e1rio", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#4-fluxo-de-eventos", 
+            "text": "", 
+            "title": "4.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#41-fluxo-basico", 
+            "text": "O usu\u00e1rio abre o aplicativo  O aplicativo exibe a tela inicial  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d  O aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cartistas\u201d  O aplicativo lista todas os artistas salvas      O usu\u00e1rio pode ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou adicionar perfil do artista \u00e0 tela inicial do celular", 
+            "title": "4.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#42-fluxos-alternativos", 
+            "text": "O usu\u00e1rio n\u00e3o possui nenhum artista salvo  O aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhum artista salvo, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de artistas salvos (ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou reproduzir suas playlists).  O aplicativo apresenta a op\u00e7\u00e3o de salvar m\u00fasicas de artistas  Ao salvar m\u00fasicas de um artista ou seguir um perfil de artista, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.  O fluxo principal \u00e9 retomado.", 
+            "title": "4.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#43-fluxos-de-excecao", 
+            "text": "Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.  As funcionalidades n\u00e3o podem ser acessadas.", 
+            "title": "4.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/gerenciarArtistas/#5-pre-condicoes", 
+            "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
+            "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/caso-usuario/", 
+            "text": "Usu\u00e1rio", 
+            "title": "Caso de Uso Usu\u00e1rio"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/caso-usuario/#usuario", 
+            "text": "", 
+            "title": "Usu\u00e1rio"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-editar_dados_de_conta/", 
+            "text": "Data\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor\n\n\n\n\n\n\n\n\n\n\n18/04/2018\n\n\n1.0\n\n\nEspecifica\u00e7\u00e3o da UC08\n\n\nGeovanne Santos\n\n\n\n\n\n\n\n\nRF14 - Editar dados de conta\n\n\n\nDescri\u00e7\u00e3o:\n\n\n\n\nEditar as informa\u00e7\u00f5es pessoais do usu\u00e1rio.\n\n\nAtores:\n\nUsu\u00e1rio cadastrado\n\n\nPr\u00e9-condi\u00e7\u00e3o:\n\nO usu\u00e1rio deve possuir uma conta no spotify.\n\n\nFluxo Principal:\n\n\n\n\n  \nFaz o login.\n\n  \nO usu\u00e1rio vai na p\u00e1gina web do site.\n\n  \nO usu\u00e1rio clica em editar perfil.\n\n  \nModifica os dados.\n\n  \nClica em salvar.\n\n\n\n\n\nFluxos Alternativos\n\n\n\n[FA01]Usu\u00e1rio clica em modificar somente senha:\n\n\n\nO usu\u00e1rio entra no site spotify.\n\nO usu\u00e1rio faz o login.\n\nO usu\u00e1rio clica em modificar somente senha.\n\nModifica o dado.\n\nClica em salvar.\n\n\n[FA02]Usu\u00e1rio modifica a foto do perfil pelo aplicativo:\n\nO usu\u00e1rio entra no aplicativo spotify.\n\nvai no seu perfil.\n\nO usu\u00e1rio modifica sua foto de perfil.\n\n\nFluxo de Exce\u00e7\u00e3o:\n\n\n\n[FE01] Tenta modificar os dados que n\u00e3o sejam a foto de perfil pelo aplicativo:\n\n\n\nO aplicativo n\u00e3o possui essa funcionalidade .", 
+            "title": "Caso de Uso Editar Dados"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/", 
+            "text": "Integra\u00e7\u00e3o com redes Sociais\n\n\n\n\nIndice Anal\u00edtico\n\n\n\n\nNome do Caso de Uso\n\n\nBreve descri\u00e7\u00e3o\n\n\n\n\n\n\nFluxo de eventos\n\n\nFluxo B\u00e1sico\n\n\nFluxos Alternativos\n\n\nVisualizar Caderno de Acordo com a Cronologia e Categoria das Tarefas\n\n\n\n\n\n\nFluxos de Exce\u00e7\u00e3o\n\n\nVisualizar Caderno Inexistente\n\n\n\n\n\n\n\n\n\n\nRequisitos Especiais\n\n\nPrimeiro Requisito Especial\n\n\n\n\n\n\nCondi\u00e7\u00f5es Pr\u00e9vias   \n\n\nCondi\u00e7\u00e3o Pr\u00e9via Um\n\n\n\n\n\n\nMensagens\n\n\n\n\nEspecifica\u00e7\u00e3o de Caso de Uso \n\n\n1. #UC1 \u2013 Integra\u00e7\u00e3o de Redes sociais\n\n\n1.1 Breve Descri\u00e7\u00e3o\n\n\nDescri\u00e7\u00e3o - Este caso de uso permite ao usu\u00e1rio facilidade de compartilhamento, usabilidade, podendo compartilhar playlists e m\u00fasicas, entre outras funcioalidades.\n\n\n2. Fluxo de Eventos\n\n\n2.1 Fluxo B\u00e1sico\n\n\n\n\nO fluxo b\u00e1sico come\u00e7a quando o usu\u00e1rio acessa a plataforma Spotify e come\u00e7a a utilizar o aplicativo (#R21 \u2013 Navegar (de acordo com o documento de Especifica\u00e7\u00e3o suplementar)) .\n\n\nO usu\u00e1rio acessa o Aplicativo.\n\n\nO usu\u00e1rio navega dentro do aplicativo. [RF 21]\n\n\nO usu\u00e1rio tem diversas op\u00e7\u00f5es dentro das funcionalidades dispon\u00edveis.\n\n\nO usu\u00e1rio acessa uma playlist [RF 03] ou uma m\u00fasica\n\n\nDentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.\n\n\n\n\n2.2 Fluxo Alternativo\n\n\n\n\nBuscar uma m\u00fasica sem necessariamente acessar uma playlist.\n\n\nO usu\u00e1rio acessa o Aplicativo.\n\n\nO usu\u00e1rio navega dentro do aplicativo. [RF 21]\n\n\nO busca por uma m\u00fasica em especifica.\n\n\nDentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.\n\n\n\n\n\n\n\n\n2.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nErro na integra\u00e7\u00e3o com outra rede social\n\n\nO usu\u00e1rio solicita alguma funcionalidade que exige dados de outra rede social.\n\n\nO sistema tenta o acesso e apresenta erro.\n\n\nO sistema volta para a p\u00e1gina anterior.\n\n\n\n\n\n\n\n\n3. Requisitos Especiais\n\n\n\n\nNenhum requisito especial identificado.\n\n\n\n\n4. Condi\u00e7\u00f5es Pr\u00e9vias\n\n\n\n\nEstar conectado com a internet.\n\n\nPossuir acesso as outras redes sociais.\n\n\n\n\n5. Mensagens\n\n\n[MES01] \u201cErro ao conectar ao aplicativo\u201d.", 
+            "title": "Caso de Uso Redes Sociais"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#integracao-com-redes-sociais", 
+            "text": "", 
+            "title": "Integra\u00e7\u00e3o com redes Sociais"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#indice-analitico", 
+            "text": "Nome do Caso de Uso  Breve descri\u00e7\u00e3o    Fluxo de eventos  Fluxo B\u00e1sico  Fluxos Alternativos  Visualizar Caderno de Acordo com a Cronologia e Categoria das Tarefas    Fluxos de Exce\u00e7\u00e3o  Visualizar Caderno Inexistente      Requisitos Especiais  Primeiro Requisito Especial    Condi\u00e7\u00f5es Pr\u00e9vias     Condi\u00e7\u00e3o Pr\u00e9via Um    Mensagens", 
+            "title": "Indice Anal\u00edtico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#especificacao-de-caso-de-uso", 
+            "text": "", 
+            "title": "Especifica\u00e7\u00e3o de Caso de Uso "
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#1-uc1-integracao-de-redes-sociais", 
+            "text": "", 
+            "title": "1. #UC1 \u2013 Integra\u00e7\u00e3o de Redes sociais"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#11-breve-descricao", 
+            "text": "Descri\u00e7\u00e3o - Este caso de uso permite ao usu\u00e1rio facilidade de compartilhamento, usabilidade, podendo compartilhar playlists e m\u00fasicas, entre outras funcioalidades.", 
+            "title": "1.1 Breve Descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#2-fluxo-de-eventos", 
+            "text": "", 
+            "title": "2. Fluxo de Eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#21-fluxo-basico", 
+            "text": "O fluxo b\u00e1sico come\u00e7a quando o usu\u00e1rio acessa a plataforma Spotify e come\u00e7a a utilizar o aplicativo (#R21 \u2013 Navegar (de acordo com o documento de Especifica\u00e7\u00e3o suplementar)) .  O usu\u00e1rio acessa o Aplicativo.  O usu\u00e1rio navega dentro do aplicativo. [RF 21]  O usu\u00e1rio tem diversas op\u00e7\u00f5es dentro das funcionalidades dispon\u00edveis.  O usu\u00e1rio acessa uma playlist [RF 03] ou uma m\u00fasica  Dentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.", 
+            "title": "2.1 Fluxo B\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#22-fluxo-alternativo", 
+            "text": "Buscar uma m\u00fasica sem necessariamente acessar uma playlist.  O usu\u00e1rio acessa o Aplicativo.  O usu\u00e1rio navega dentro do aplicativo. [RF 21]  O busca por uma m\u00fasica em especifica.  Dentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.", 
+            "title": "2.2 Fluxo Alternativo"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#23-fluxos-de-excecao", 
+            "text": "Erro na integra\u00e7\u00e3o com outra rede social  O usu\u00e1rio solicita alguma funcionalidade que exige dados de outra rede social.  O sistema tenta o acesso e apresenta erro.  O sistema volta para a p\u00e1gina anterior.", 
+            "title": "2.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#3-requisitos-especiais", 
+            "text": "Nenhum requisito especial identificado.", 
+            "title": "3. Requisitos Especiais"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#4-condicoes-previas", 
+            "text": "Estar conectado com a internet.  Possuir acesso as outras redes sociais.", 
+            "title": "4. Condi\u00e7\u00f5es Pr\u00e9vias"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#5-mensagens", 
+            "text": "[MES01] \u201cErro ao conectar ao aplicativo\u201d.", 
+            "title": "5. Mensagens"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/", 
+            "text": "Plano free", 
+            "title": "Caso de Uso Planos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/#plano-free", 
+            "text": "", 
+            "title": "Plano free"
+        }
+    ]
+}
