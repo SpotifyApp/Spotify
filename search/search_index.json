@@ -154,6 +154,226 @@
             "location": "/Modulos/Elicitacao/Elicita\u00e7\u00e3o-de-requisitos-de-design/", 
             "text": "Elicita\u00e7\u00e3o de requisitos de Design\n\n\n\nHist\u00f3rico de revis\u00e3o\n\n\n\n\n\n\n\n\n\nData\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\nMudan\u00e7a realizada\n\n\n\n\n\n\n\n\n\n\n02/04/2018\n\n\nRodrigo Dadamos\n\n\n1.0\n\n\nPrimeira vers\u00e3o\n\n\n\n\n\n\n\n\n Introdu\u00e7\u00e3o \n\n\n\n Este documento descreve os requisitos de Design e Experi\u00eancia do Usu\u00e1rio (UX) do Spotify para a diciplina de Requisitos de Software utilizando t\u00e9cnicas de elicita\u00e7\u00e3o vistas em sala de aula. \n\n\n\n Objetivo \n\n\n\nDefinir e utilizar t\u00e9cnicas de elecita\u00e7\u00e3o mantendo pr\u00e9-rastreabilidade dos requisitos de Design e Experi\u00eancia do Usu\u00e1rio (UX) do Spotify. \n\n\n\n Universo de informa\u00e7\u00e3o \n\n\n\n As informa\u00e7\u00f5es foram obtidas a partir das seguintes fontes: \n\n\n\n\n  \nUsu\u00e1rios do Spotify: Eduardo J\u00fanio e Amanda Bezerra\n\n  \nObserva\u00e7\u00e3o participativa\n\n  \nV\u00eddeo de um usu\u00e1rio utilizando o aplicativo\n\n  \nSite de informa\u00e7\u00f5es/documenta\u00e7\u00e3o do spotify\n\n\n\n\n\n Design do Spotify \n\n\n\n Stanley Wood, diretor de design do spotify desde de 2012, escreveu que ficou chocado com o n\u00edvel de inconsist\u00eancia e fragmenta\u00e7\u00e3o quando se juntou a equipe. Como as cores, as fontes, imagens, intera\u00e7\u00f5es deviam ser tratados n\u00e3o estavam definidos em nenhum lugar[1]. Ele notou que a equipe estava frustada tamb\u00e9m e que a fragmenta\u00e7\u00e3o do produto era reflexo da fragmenta\u00e7\u00e3o da equipe.\n \n\n\n\n\n Em 2013, ele e sua equipe resolveram escrever alguns princ\u00edpios para que a equipe de design compartilhassem um ponto de vista em comum, que serviram de base para os alinhamentos de design em 2014.\n\n \n\n\n\nAinda em 2014, depois dos alinhamentos, o desafio era manter a consist\u00eancia a partir da\u00ed. Para ser usado como guia, Stanley Wood e sua equipe criaram um sistema de linguagem de design do Spotify, o GLUE (Global Language for a Unified Experience) documentando estilos, componentes e padr\u00f5es, em um site dispon\u00edvel para todos que trabalhavam no Spotify.\n\n\n\n\n\nEm 2015, uma equipe foi formada para dedicar-se somente ao GLUE. \n\n\nMais recentemente, eles est\u00e3o usando um acr\u00f4nimo para considerar todas as partes da experi\u00eancia envolvidas, como a sensa\u00e7\u00e3o de usar o Spotify, para garantir a qualidade no design, o TUNE: \n\n\n\n\n  \nTom. Estamos usando o tipo certo de tom de voz para nossa marca?\n\n  \nUtiliz\u00e1vel. \u00c9 acess\u00edvel a todos?\n\n  \nNecess\u00e1rio. Essa funcionalidade \u00e9 realmente necess\u00e1ria?\n\n  \nEmotivo. \u00c9 bom us\u00e1-lo? Parece como que algu\u00e9m se importa?\n\n\n\n\n\n\n  A Spotify disponibiliza uma p\u00e1gina com seus recursos de design para seus parceiros juntamente com um guia para logos, cores e at\u00e9 mesmo mensagens.\n\n\n\n\n\n\n Refer\u00eancias \n\n\n\n\n\n[1][Open Access] Wood, Stanley. Design Doesn\u2019t Scale. \nDispon\u00edvel Aqui.\n Acesso em: 02 de Abril de 2018.\n\n\n[2][Open Access] Sandberg, Lauren. Spotify and feelings: a reflection on product design. \nDispon\u00edvel Aqui.\n Acesso em: 02 de Abril de 2018.\n\n\n[3][Open Access] Spotify. Design Resources. \nDispon\u00edvel Aqui.\n Acesso em: 02 de Abril de 2018.\n\n\n[4][Open Access] Spotify. Partner Guidelines Logo \n Colour + Messaging. \nDispon\u00edvel Aqui.\n Acesso em: 02 de Abril de 2018.", 
             "title": "Elicita\u00e7\u00e3o de Design"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/", 
+            "text": "Hist\u00f3rico da Revis\u00e3o\n\n\n\n\n\n\n\n\nData\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor\n\n\n\n\n\n\n\n\n\n\n17/04/2018\n\n\n0.1\n\n\nCria\u00e7\u00e3o, funcionalidade, interfaces\n\n\nEduardo J\u00fanio\n\n\n\n\n\n\n17/04/2018\n\n\n0.2\n\n\nFinalidade, Defini\u00e7\u00f5es e acr\u00f4nimos e abrevia\u00e7\u00f5es\n\n\nRenato Val\u00e9rio\n\n\n\n\n\n\n17/04/2018\n\n\n0.3\n\n\nRequisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documenta\u00e7\u00e3o de Usu\u00e1rio On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observa\u00e7\u00f5es Legais, de Direitos Autorais etc\n\n\nAmanda Bezerra\n\n\n\n\n\n\n\n\n1.Introdu\u00e7\u00e3o\n\n\n1.1 Finalidade\n\n\nO objetivo deste documento de especifica\u00e7\u00e3o suplementar \u00e9 detalhar todos os aspectos n\u00e3o abordados diretamente nos documentos de vis\u00e3o, caso de uso ou arquitetura. S\u00e3o estes aspectos, legais e reguladores, como as normas estabelecidas para bom funcionamento do sistema, atributos de qualidade, como padr\u00f5es de usabilidade, confiabilidade, desempenho e suportabilidade.\n\n\n1.2 Escopo\n\n\nEsta especifica\u00e7\u00e3o suplementar documenta aspectos do Spotify, servi\u00e7o de streaming desenvolvido e mantido pela empresa Spotify AB.\nO software de m\u00fasica permitir\u00e1 que os assinantes possam ouvir qualquer \u00e1lbum e m\u00fasica de todos os artistas no qual a gravadora tenha contrato com a empresa spotify.\n\n\n1.3 Defini\u00e7\u00f5es, Acr\u00f4nimos e Abrevia\u00e7\u00f5es\n\n\nAlguns termos utilizados neste documento, s\u00e3o derivados de outra l\u00edngua, possui origem estrangeira, s\u00e3o abrevia\u00e7\u00f5es ou acr\u00f4nimos. Os mais relevantes s\u00e3o os seguintes:\n\n\n\n\nStreaming: streaming ou Broadcast \u00e9 o nome da transmiss\u00e3o de \u00e1udio e/ou v\u00eddeo pela internet, tecnologia esta que permite a transmiss\u00e3o de \u00e1udio e v\u00eddeo sem que seja necess\u00e1rio fazer o download de todo o conte\u00fado a ser transmitido, antes de ouvir ou assistir, como era feito antigamente, a transmiss\u00e3o do conte\u00fado \u00e9 feita de modo cont\u00ednuo, ou seja, enquanto a pessoa est\u00e1 ouvindo/assistindo.\n\n\nBroadcast: broadcasting (do ingl\u00eas to broadcast, \"transmitir\") \u00e9 um m\u00e9todo de transfer\u00eancia de mensagem para todos os receptores simultaneamente.\n\n\nFreemium: Modelo de neg\u00f3cios baseado em planos, onde existe um plano gratuito com algumas funcionalidades, que servem para capta\u00e7\u00e3o de usu\u00e1rios, e que influencia a migra\u00e7\u00e3o para o plano \u201cPremium\u201d que possui acesso as outras funcionalidades e geralmente \u00e9 pago.  \n\n\n\n\n1.4 Refer\u00eancias\n\n\n\n\n\u201cBroadcasting\u201d. Dispon\u00edvel em https://pt.wikipedia.org/wiki/Broadcasting_(rede_de_computadores)\n\n\n\u201cStreaming\u201d. Dispon\u00edvel em https://www.sitehosting.com.br/streaming/\n\n\n\u201cSpotify - Integra\u00e7\u00f5es\u201d. Dispon\u00edvel em https://support.spotify.com/br/using_spotify/app_integrations/\n\n\n\u201cSpotify - Carros\u201d Dispon\u00edvel em https://support.spotify.com/br/listen_everywhere/in_the_car/\n\n\n\u201cTermos e Condi\u00e7\u00f5es de Uso do Spotify\u201d. Dispon\u00edvel em https://www.spotify.com/br/legal/end-user-agreement/\n\n\n\u201cSuporte - Spotify\u201d. Dispon\u00edvel em https://support.spotify.com/br/\n\n\n\n\n1.5 Vis\u00e3o Geral\n\n\nEssa especifica\u00e7\u00e3o define os requisitos n\u00e3o-funcionais do sistema, como confiabilidade, usabilidade, desempenho e suportabilidade, bem como os requisitos funcionais comuns a v\u00e1rios casos de uso.\n\n\n2. Funcionalidade\n\n\nAbaixo apresentamos uma lista com os requisitos funcionais,  alguns desses ser\u00e3o abordados nos diagramas de caso de uso.\n\n\n\n\n\n\n\n\nIdentificador\n\n\nFuncionalidade\n\n\n\n\n\n\n\n\n\n\nRF 01\n\n\nAcessar biblioteca\n\n\n\n\n\n\nRF 02\n\n\nAcessar op\u00e7\u00f5es de busca\n\n\n\n\n\n\nRF 03\n\n\nAcessar playlists\n\n\n\n\n\n\nRF 04\n\n\nAcessar r\u00e1dio\n\n\n\n\n\n\nRF 05\n\n\nAdicionar m\u00fasica a uma playlist\n\n\n\n\n\n\nRF 06\n\n\nAdquirir o plano premiun\n\n\n\n\n\n\nRF 07\n\n\nCadastro com perfil de artista\n\n\n\n\n\n\nRF 08\n\n\nCadastro de usu\u00e1rio\n\n\n\n\n\n\nRF 09\n\n\nColocar a agenda de shows\n\n\n\n\n\n\nRF 10\n\n\nControle de reprodu\u00e7\u00e3o.\n\n\n\n\n\n\nRF 11\n\n\nCriar esta\u00e7\u00e3o\n\n\n\n\n\n\nRF 12\n\n\nCriar playlist\n\n\n\n\n\n\nRF 13\n\n\nDivulga\u00e7\u00e3o de m\u00fasicas pr\u00f3prias\n\n\n\n\n\n\nRF 14\n\n\nEditar dados de conta\n\n\n\n\n\n\nRF 15\n\n\nExcluir playlist\n\n\n\n\n\n\nRF 16\n\n\nFicar em modo offline\n\n\n\n\n\n\nRF 17\n\n\nInforma\u00e7\u00f5es de reprodu\u00e7\u00e3o.\n\n\n\n\n\n\nRF 18\n\n\nInscreva-se gr\u00e1tis\n\n\n\n\n\n\nRF 19\n\n\nMudar o tipo de perfil\n\n\n\n\n\n\nRF 20\n\n\nMudar reprodu\u00e7\u00e3o ativa.\n\n\n\n\n\n\nRF 21\n\n\nNavegar\n\n\n\n\n\n\nRF 22\n\n\nOuvir lan\u00e7amentos\n\n\n\n\n\n\nRF 23\n\n\nPostar uma m\u00fasica\n\n\n\n\n\n\nRF 24\n\n\nRealizar busca por c\u00f3digo\n\n\n\n\n\n\nRF 25\n\n\nRealizar busca por texto\n\n\n\n\n\n\nRF 26\n\n\nRenomear playlists\n\n\n\n\n\n\nRF 27\n\n\nSair do aplicativo\n\n\n\n\n\n\nRF 28\n\n\nRequisitos n\u00e3o funcionais\n\n\n\n\n\n\nRF 29\n\n\nFazer login\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdentificador\n\n\nDispositivos\n\n\nModelo\n\n\nSistema operacional\n\n\n\n\n\n\n\n\n\n\nRNF 01\n\n\nIphone\n\n\niPhone 4S ou superior\n\n\niOS 9 ou superior. 100 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 02\n\n\nIpad\n\n\niPad 2 ou superior\n\n\niOS 9 ou superior. 100 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 03\n\n\nIpod\n\n\niPod Touch de 5\u00aa gera\u00e7\u00e3o ou superior.\n\n\niOS 9 ou superior. 100 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 04\n\n\nSmartphones Android\n\n\nQualquer dispositivo\n\n\nAndroid OS 4.0.3 ou superior. 500 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 05\n\n\nTablets Android\n\n\nQualquer dispositivo\n\n\nAndroid OS 4.0.3 ou superior. 500 MB de espa\u00e7o livre\n\n\n\n\n\n\nRNF 06\n\n\nMac\n\n\nQualquer dispositivo\n\n\nOS X 10.9 ou superior\n\n\n\n\n\n\nRNF 07\n\n\nWindows\n\n\nQualquer dispositivo\n\n\nWindows 7 ou superior\n\n\n\n\n\n\nRNF 08\n\n\nSafari\n\n\nQualquer dispositivo\n\n\nVers\u00e3o 6 ou superior.\n\n\n\n\n\n\nRNF 09\n\n\nInternet Explorer\n\n\nQualquer dispositivo\n\n\nVers\u00e3o 10 ou superior.\n\n\n\n\n\n\nRNF 10\n\n\nGoogle Chrome\n\n\nQualquer dispositivo\n\n\n\u00daltima vers\u00e3o\n\n\n\n\n\n\nRNF 11\n\n\nMozilla Firefox\n\n\nQualquer dispositivo\n\n\nvers\u00e3o mais recente ou imediatamente anterior\n\n\n\n\n\n\nRNF 12\n\n\nOpera\n\n\nQualquer dispositivo\n\n\n12 ou superior.\n\n\n\n\n\n\nRNF 13\n\n\nYandex\n\n\nQualquer dispositivo\n\n\n1 ou superior.\n\n\n\n\n\n\n\n\n3. Usabilidade\n\n\n3.1 Facilidade de uso\n\n\nOs recursos e funcionalidades do servi\u00e7o devem apresentar-se de forma intuitiva para que o usu\u00e1rio possa facilmente navegar por eles, n\u00e3o sendo necess\u00e1rio a realiza\u00e7\u00e3o de qualquer tipo de treinamento pr\u00e9vio por parte do usu\u00e1rio.\n\n\n3.2  Mensagens de Erro\n\n\nO servi\u00e7o deve apresentar mensagens de erro de forma clara e objetiva, localizadas pr\u00f3ximas ao conte\u00fado ou a\u00e7\u00e3o que motivou o erro.\n\n\n3.3  Requisito de usabilidade 3\n\n\nO sistema deve fornecer r\u00e1pido acesso a qualquer funcionalidade.\n\n\n3.4 Requisito de usabilidade 4\n\n\nO sistema deve manter a maior parte da interface a mesma para cada tipo de usu\u00e1rio, apenas adicionando alguns detalhes sobre a mesma de acordo com o n\u00edvel de cada tipo de usu\u00e1rio.\n\n\n3.5 Requisito de usabilidade 5\n\n\nO sistema deve ter \u00edcones intuitivos.\nPara cada tipo de usu\u00e1rio haver\u00e1 um certo n\u00edvel de funcionalidades dispon\u00edveis\n\n\n4. Confiabilidade\n\n\n4.1 Disponibilidade\n\n\nO sistema estar\u00e1 dispon\u00edvel no modo 24/7.\n\n\n4.2 Requisito de Confiabilidade dois\n\n\nO sistema deve suportar 4 bilh\u00f5es de usu\u00e1rios ativos simultaneamente.\n\n\n4.3 Requisito de Confiabilidade tr\u00eas\n\n\nO sistema deve garantir que os direitos autorais dos artistas seja preservado\n\n\n4.4 Requisito de Confiabilidade quatro\n\n\nA senha do usu\u00e1rio dever\u00e1 ser guardada de forma segura, al\u00e9m de dados pessoais em geral.\n\n\n5. Desempenho\n\n\n5.1 Tempo de resposta\n\n\nO aplicativo tem de responder as a\u00e7\u00f5es do usu\u00e1rio de imediato, como passar m\u00fasica, pausar, procurar por algum artista . Agora situa\u00e7\u00f5es de casos de uso mais espec\u00edficos, como a autentica\u00e7\u00e3o do perfil de artista, ser\u00e1 relatado em um documento individual, assim como seu tempo de execu\u00e7\u00e3o particular.\n\n\n5.2 Volume de assinantes\n\n\nO sistema ser\u00e1 capaz de suportar 4 bilh\u00f5es de usu\u00e1rios ativos simultaneamente, tanto que em 2018 o aplicativo chegou a marca de 140 milh\u00f5es de usu\u00e1rios .\n\n\n5.3 Modo de degrada\u00e7\u00e3o\n\n\nSe o sistema estiver sofrendo com algo que degrade o aplicativo, como a internet com sinal fraco, ter\u00e1 p\u00e1ginas que n\u00e3o ser\u00e3o carregadas, mas a maioria delas funcionar\u00e3o da mesma forma, com apenas uma espera de alguns segundos a mais para aparecer as informa\u00e7\u00f5es requeridas .\n\n\n5.4 Utiliza\u00e7\u00e3o de recursos\n\n\n6. Suportabilidade\n\n\n6.1 Software do assinante\n\n\nO assinante ser\u00e1 capaz de utilizar o sistema atrav\u00e9s de um aplicativo dispon\u00edvel para android e ios. N\u00e3o ser\u00e1 necess\u00e1rio que nenhum software personalizado resida no smartphone do assinante. Estes s\u00e3o os requisitos de sistema para usar o Spotify e acessar seu conte\u00fado por meio do aplicativo\n\n\n7. Restri\u00e7\u00f5es de Design\n\n\n7.1 Restri\u00e7\u00e3o de Design Um\n\n\nO sistema dever\u00e1 ser disponibilizado em diversas l\u00ednguas, quando o usu\u00e1rio mudar o idioma do celular o aplicativo tamb\u00e9m se modificar\u00e1.\n\n\n7.2 Restri\u00e7\u00e3o de Design Dois\n\n\nO sistema dever\u00e1 se ajustar de forma responsiva, ou seja, ajustando todo o conte\u00fado da tela \u00e0 plataforma que o usu\u00e1rio estiver utilizando, android ou ios.\n\n\n7.3 Restri\u00e7\u00e3o de Design Tr\u00eas\n\n\nOs cincos escopos de telas principais do aplicativo dever\u00e3o estar na parte de baixo do aplicativo, elas s\u00e3o: in\u00edcio, navegar, buscar, r\u00e1dio e sua biblioteca.\n\n\n7.4 Restri\u00e7\u00e3o de Design Quatro\n\n\nAs op\u00e7\u00f5es de compartilhamento dever\u00e3o ser com o s\u00edmbolo da rede social na qual se deseja compartilhar algo.\n\n\n7.5  Restri\u00e7\u00e3o de Design Cinco\n\n\nAntes do usu\u00e1rio poder ver as funcionalidades do aplicativo, ter\u00e1 que ter uma tela inicial com a op\u00e7\u00e3o de login e cadastro.\n\n\n7.6 Restri\u00e7\u00e3o de Design Seis\n\n\nO bot\u00e3o de compartilhamento de m\u00fasica dever\u00e1 ser colocado abaixo da foto da m\u00fasica no canto direito, assim como a op\u00e7\u00e3o de adicionar a m\u00fasica sua biblioteca ser\u00e1 colocada abaixo da foto da m\u00fasica no canto esquerdo.\n\n\n7.7 Restri\u00e7\u00e3o de Design Sete\n\n\nO nome da p\u00e1gina sempre estar\u00e1 no topo do layout, se a p\u00e1gina do aplicativo est\u00e1 na parte de busca, no topo da tela estar\u00e1 escrito busca.\n\n\n8. Requisitos de Sistema de Ajuda e de Documenta\u00e7\u00e3o de Usu\u00e1rio On-line\n\n\nO servi\u00e7o dever\u00e1 possuir uma se\u00e7\u00e3o destinada a ajudar o usu\u00e1rio a utilizar o servi\u00e7o, responder suas d\u00favidas e encontrar solu\u00e7\u00f5es. Esta se\u00e7\u00e3o dever\u00e1 disponibilizar:\n+ \u00c1rea de busca para encontrar solu\u00e7\u00f5es para as quest\u00f5es mais frequentes\n+ Tutoriais claros e objetivos de como o usu\u00e1rio pode utilizar os recursos do servi\u00e7o\n+ F\u00f3rum para que os usu\u00e1rios possam interagir e compartilhar solu\u00e7\u00f5es e ideias\n\n\n9. Componentes de Terceiros\n\n\nDevido a grande quantidade de softwares de terceiros utilizados pelo servi\u00e7o Spotify, n\u00e3o cabe a esta especifica\u00e7\u00e3o suplementar descrever todas as restri\u00e7\u00f5es e informa\u00e7\u00f5es de licenciamento, que dever\u00e3o ser reunidas em documento pr\u00f3prio a ser disponibilizado no servi\u00e7o em \u00e1rea de f\u00e1cil acesso ao usu\u00e1rio.\n\n\n10. Interfaces\n\n\n10.1 Interfaces de Usu\u00e1rio\n\n\nO usu\u00e1rio interage com o sistema por meio das interfaces. Abaixo apresentamos alguns exemplos de interfaces dispon\u00edveis aos usu\u00e1rios.\n+ Tela onde o usu\u00e1rio pode fazer Login.\n+ Tela onde o usu\u00e1rio pode se cadastrar.\n+ Tela inicial onde o usu\u00e1rio pode escolher por qual funcionalidade navegar.\n\n\n10.2 Interfaces de Hardware\n\n\nO software oferece suporte aos dispositivos apresentados abaixo.\n+ Smartphones.\n+ Computadores Notebooks.\n+ Computadores Desktop.\n+ Carros\n+ Videogames\n+ Televisores\n\n\n10.3 Interfaces de Software\n\n\nO Spotify possui integra\u00e7\u00f5es com outros softwares e servi\u00e7os, abaixo apresentamos alguns desses\n\n\n\n\nIntegra\u00e7\u00e3o com o waze\n\n\nPlaylists em grupo com o Messenger\n\n\nLast.fm\n\n\nDiscord\n\n\nShazam\n\n\nRunkeeper\n\n\nNike+ Run Club\n\n\nTinder\n\n\nBumble\n\n\nWhoSampled\n\n\n\n\n10.4 Interfaces de Comunica\u00e7\u00f5es\n\n\nAs comunica\u00e7\u00f5es entre os servi\u00e7os s\u00e3o feitas por meio de conex\u00e3o  remota via internet (wifi, internet m\u00f3vel e etc)\n\n\n11. Requisitos de Licenciamento\n\n\nTodo o conte\u00fado e o pr\u00f3prio Servi\u00e7o Spotify s\u00e3o de propriedade da empresa Spotify. Ao usu\u00e1rio \u00e9 concedido apenas uma licen\u00e7a limitada e n\u00e3o comercial para que este fa\u00e7a uso pessoal do conte\u00fado e do servi\u00e7o.\n\n\n12. Observa\u00e7\u00f5es Legais, de Direitos Autorais e outros\n\n\nTodas as marcas comerciais, marcas de servi\u00e7o, nomes comerciais, logotipos, nomes de dom\u00ednio s\u00e3o de propriedade exclusiva da empresa Spotify. N\u00e3o \u00e9 concedido qualquer direito ao usu\u00e1rio de utilizar os recursos da marca Spotify, comercialmente ou n\u00e3o.", 
+            "title": "Especifica\u00e7\u00e3o Suplementar"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#historico-da-revisao", 
+            "text": "Data  Vers\u00e3o  Descri\u00e7\u00e3o  Autor      17/04/2018  0.1  Cria\u00e7\u00e3o, funcionalidade, interfaces  Eduardo J\u00fanio    17/04/2018  0.2  Finalidade, Defini\u00e7\u00f5es e acr\u00f4nimos e abrevia\u00e7\u00f5es  Renato Val\u00e9rio    17/04/2018  0.3  Requisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documenta\u00e7\u00e3o de Usu\u00e1rio On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observa\u00e7\u00f5es Legais, de Direitos Autorais etc  Amanda Bezerra", 
+            "title": "Hist\u00f3rico da Revis\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#1introducao", 
+            "text": "", 
+            "title": "1.Introdu\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#11-finalidade", 
+            "text": "O objetivo deste documento de especifica\u00e7\u00e3o suplementar \u00e9 detalhar todos os aspectos n\u00e3o abordados diretamente nos documentos de vis\u00e3o, caso de uso ou arquitetura. S\u00e3o estes aspectos, legais e reguladores, como as normas estabelecidas para bom funcionamento do sistema, atributos de qualidade, como padr\u00f5es de usabilidade, confiabilidade, desempenho e suportabilidade.", 
+            "title": "1.1 Finalidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#12-escopo", 
+            "text": "Esta especifica\u00e7\u00e3o suplementar documenta aspectos do Spotify, servi\u00e7o de streaming desenvolvido e mantido pela empresa Spotify AB.\nO software de m\u00fasica permitir\u00e1 que os assinantes possam ouvir qualquer \u00e1lbum e m\u00fasica de todos os artistas no qual a gravadora tenha contrato com a empresa spotify.", 
+            "title": "1.2 Escopo"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#13-definicoes-acronimos-e-abreviacoes", 
+            "text": "Alguns termos utilizados neste documento, s\u00e3o derivados de outra l\u00edngua, possui origem estrangeira, s\u00e3o abrevia\u00e7\u00f5es ou acr\u00f4nimos. Os mais relevantes s\u00e3o os seguintes:   Streaming: streaming ou Broadcast \u00e9 o nome da transmiss\u00e3o de \u00e1udio e/ou v\u00eddeo pela internet, tecnologia esta que permite a transmiss\u00e3o de \u00e1udio e v\u00eddeo sem que seja necess\u00e1rio fazer o download de todo o conte\u00fado a ser transmitido, antes de ouvir ou assistir, como era feito antigamente, a transmiss\u00e3o do conte\u00fado \u00e9 feita de modo cont\u00ednuo, ou seja, enquanto a pessoa est\u00e1 ouvindo/assistindo.  Broadcast: broadcasting (do ingl\u00eas to broadcast, \"transmitir\") \u00e9 um m\u00e9todo de transfer\u00eancia de mensagem para todos os receptores simultaneamente.  Freemium: Modelo de neg\u00f3cios baseado em planos, onde existe um plano gratuito com algumas funcionalidades, que servem para capta\u00e7\u00e3o de usu\u00e1rios, e que influencia a migra\u00e7\u00e3o para o plano \u201cPremium\u201d que possui acesso as outras funcionalidades e geralmente \u00e9 pago.", 
+            "title": "1.3 Defini\u00e7\u00f5es, Acr\u00f4nimos e Abrevia\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#14-referencias", 
+            "text": "\u201cBroadcasting\u201d. Dispon\u00edvel em https://pt.wikipedia.org/wiki/Broadcasting_(rede_de_computadores)  \u201cStreaming\u201d. Dispon\u00edvel em https://www.sitehosting.com.br/streaming/  \u201cSpotify - Integra\u00e7\u00f5es\u201d. Dispon\u00edvel em https://support.spotify.com/br/using_spotify/app_integrations/  \u201cSpotify - Carros\u201d Dispon\u00edvel em https://support.spotify.com/br/listen_everywhere/in_the_car/  \u201cTermos e Condi\u00e7\u00f5es de Uso do Spotify\u201d. Dispon\u00edvel em https://www.spotify.com/br/legal/end-user-agreement/  \u201cSuporte - Spotify\u201d. Dispon\u00edvel em https://support.spotify.com/br/", 
+            "title": "1.4 Refer\u00eancias"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#15-visao-geral", 
+            "text": "Essa especifica\u00e7\u00e3o define os requisitos n\u00e3o-funcionais do sistema, como confiabilidade, usabilidade, desempenho e suportabilidade, bem como os requisitos funcionais comuns a v\u00e1rios casos de uso.", 
+            "title": "1.5 Vis\u00e3o Geral"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#2-funcionalidade", 
+            "text": "Abaixo apresentamos uma lista com os requisitos funcionais,  alguns desses ser\u00e3o abordados nos diagramas de caso de uso.     Identificador  Funcionalidade      RF 01  Acessar biblioteca    RF 02  Acessar op\u00e7\u00f5es de busca    RF 03  Acessar playlists    RF 04  Acessar r\u00e1dio    RF 05  Adicionar m\u00fasica a uma playlist    RF 06  Adquirir o plano premiun    RF 07  Cadastro com perfil de artista    RF 08  Cadastro de usu\u00e1rio    RF 09  Colocar a agenda de shows    RF 10  Controle de reprodu\u00e7\u00e3o.    RF 11  Criar esta\u00e7\u00e3o    RF 12  Criar playlist    RF 13  Divulga\u00e7\u00e3o de m\u00fasicas pr\u00f3prias    RF 14  Editar dados de conta    RF 15  Excluir playlist    RF 16  Ficar em modo offline    RF 17  Informa\u00e7\u00f5es de reprodu\u00e7\u00e3o.    RF 18  Inscreva-se gr\u00e1tis    RF 19  Mudar o tipo de perfil    RF 20  Mudar reprodu\u00e7\u00e3o ativa.    RF 21  Navegar    RF 22  Ouvir lan\u00e7amentos    RF 23  Postar uma m\u00fasica    RF 24  Realizar busca por c\u00f3digo    RF 25  Realizar busca por texto    RF 26  Renomear playlists    RF 27  Sair do aplicativo    RF 28  Requisitos n\u00e3o funcionais    RF 29  Fazer login        Identificador  Dispositivos  Modelo  Sistema operacional      RNF 01  Iphone  iPhone 4S ou superior  iOS 9 ou superior. 100 MB de espa\u00e7o livre    RNF 02  Ipad  iPad 2 ou superior  iOS 9 ou superior. 100 MB de espa\u00e7o livre    RNF 03  Ipod  iPod Touch de 5\u00aa gera\u00e7\u00e3o ou superior.  iOS 9 ou superior. 100 MB de espa\u00e7o livre    RNF 04  Smartphones Android  Qualquer dispositivo  Android OS 4.0.3 ou superior. 500 MB de espa\u00e7o livre    RNF 05  Tablets Android  Qualquer dispositivo  Android OS 4.0.3 ou superior. 500 MB de espa\u00e7o livre    RNF 06  Mac  Qualquer dispositivo  OS X 10.9 ou superior    RNF 07  Windows  Qualquer dispositivo  Windows 7 ou superior    RNF 08  Safari  Qualquer dispositivo  Vers\u00e3o 6 ou superior.    RNF 09  Internet Explorer  Qualquer dispositivo  Vers\u00e3o 10 ou superior.    RNF 10  Google Chrome  Qualquer dispositivo  \u00daltima vers\u00e3o    RNF 11  Mozilla Firefox  Qualquer dispositivo  vers\u00e3o mais recente ou imediatamente anterior    RNF 12  Opera  Qualquer dispositivo  12 ou superior.    RNF 13  Yandex  Qualquer dispositivo  1 ou superior.", 
+            "title": "2. Funcionalidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#3-usabilidade", 
+            "text": "", 
+            "title": "3. Usabilidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#31-facilidade-de-uso", 
+            "text": "Os recursos e funcionalidades do servi\u00e7o devem apresentar-se de forma intuitiva para que o usu\u00e1rio possa facilmente navegar por eles, n\u00e3o sendo necess\u00e1rio a realiza\u00e7\u00e3o de qualquer tipo de treinamento pr\u00e9vio por parte do usu\u00e1rio.", 
+            "title": "3.1 Facilidade de uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#32-mensagens-de-erro", 
+            "text": "O servi\u00e7o deve apresentar mensagens de erro de forma clara e objetiva, localizadas pr\u00f3ximas ao conte\u00fado ou a\u00e7\u00e3o que motivou o erro.", 
+            "title": "3.2  Mensagens de Erro"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#33-requisito-de-usabilidade-3", 
+            "text": "O sistema deve fornecer r\u00e1pido acesso a qualquer funcionalidade.", 
+            "title": "3.3  Requisito de usabilidade 3"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#34-requisito-de-usabilidade-4", 
+            "text": "O sistema deve manter a maior parte da interface a mesma para cada tipo de usu\u00e1rio, apenas adicionando alguns detalhes sobre a mesma de acordo com o n\u00edvel de cada tipo de usu\u00e1rio.", 
+            "title": "3.4 Requisito de usabilidade 4"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#35-requisito-de-usabilidade-5", 
+            "text": "O sistema deve ter \u00edcones intuitivos.\nPara cada tipo de usu\u00e1rio haver\u00e1 um certo n\u00edvel de funcionalidades dispon\u00edveis", 
+            "title": "3.5 Requisito de usabilidade 5"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#4-confiabilidade", 
+            "text": "", 
+            "title": "4. Confiabilidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#41-disponibilidade", 
+            "text": "O sistema estar\u00e1 dispon\u00edvel no modo 24/7.", 
+            "title": "4.1 Disponibilidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#42-requisito-de-confiabilidade-dois", 
+            "text": "O sistema deve suportar 4 bilh\u00f5es de usu\u00e1rios ativos simultaneamente.", 
+            "title": "4.2 Requisito de Confiabilidade dois"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#43-requisito-de-confiabilidade-tres", 
+            "text": "O sistema deve garantir que os direitos autorais dos artistas seja preservado", 
+            "title": "4.3 Requisito de Confiabilidade tr\u00eas"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#44-requisito-de-confiabilidade-quatro", 
+            "text": "A senha do usu\u00e1rio dever\u00e1 ser guardada de forma segura, al\u00e9m de dados pessoais em geral.", 
+            "title": "4.4 Requisito de Confiabilidade quatro"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#5-desempenho", 
+            "text": "", 
+            "title": "5. Desempenho"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#51-tempo-de-resposta", 
+            "text": "O aplicativo tem de responder as a\u00e7\u00f5es do usu\u00e1rio de imediato, como passar m\u00fasica, pausar, procurar por algum artista . Agora situa\u00e7\u00f5es de casos de uso mais espec\u00edficos, como a autentica\u00e7\u00e3o do perfil de artista, ser\u00e1 relatado em um documento individual, assim como seu tempo de execu\u00e7\u00e3o particular.", 
+            "title": "5.1 Tempo de resposta"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#52-volume-de-assinantes", 
+            "text": "O sistema ser\u00e1 capaz de suportar 4 bilh\u00f5es de usu\u00e1rios ativos simultaneamente, tanto que em 2018 o aplicativo chegou a marca de 140 milh\u00f5es de usu\u00e1rios .", 
+            "title": "5.2 Volume de assinantes"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#53-modo-de-degradacao", 
+            "text": "Se o sistema estiver sofrendo com algo que degrade o aplicativo, como a internet com sinal fraco, ter\u00e1 p\u00e1ginas que n\u00e3o ser\u00e3o carregadas, mas a maioria delas funcionar\u00e3o da mesma forma, com apenas uma espera de alguns segundos a mais para aparecer as informa\u00e7\u00f5es requeridas .", 
+            "title": "5.3 Modo de degrada\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#54-utilizacao-de-recursos", 
+            "text": "", 
+            "title": "5.4 Utiliza\u00e7\u00e3o de recursos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#6-suportabilidade", 
+            "text": "", 
+            "title": "6. Suportabilidade"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#61-software-do-assinante", 
+            "text": "O assinante ser\u00e1 capaz de utilizar o sistema atrav\u00e9s de um aplicativo dispon\u00edvel para android e ios. N\u00e3o ser\u00e1 necess\u00e1rio que nenhum software personalizado resida no smartphone do assinante. Estes s\u00e3o os requisitos de sistema para usar o Spotify e acessar seu conte\u00fado por meio do aplicativo", 
+            "title": "6.1 Software do assinante"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#7-restricoes-de-design", 
+            "text": "", 
+            "title": "7. Restri\u00e7\u00f5es de Design"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#71-restricao-de-design-um", 
+            "text": "O sistema dever\u00e1 ser disponibilizado em diversas l\u00ednguas, quando o usu\u00e1rio mudar o idioma do celular o aplicativo tamb\u00e9m se modificar\u00e1.", 
+            "title": "7.1 Restri\u00e7\u00e3o de Design Um"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#72-restricao-de-design-dois", 
+            "text": "O sistema dever\u00e1 se ajustar de forma responsiva, ou seja, ajustando todo o conte\u00fado da tela \u00e0 plataforma que o usu\u00e1rio estiver utilizando, android ou ios.", 
+            "title": "7.2 Restri\u00e7\u00e3o de Design Dois"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#73-restricao-de-design-tres", 
+            "text": "Os cincos escopos de telas principais do aplicativo dever\u00e3o estar na parte de baixo do aplicativo, elas s\u00e3o: in\u00edcio, navegar, buscar, r\u00e1dio e sua biblioteca.", 
+            "title": "7.3 Restri\u00e7\u00e3o de Design Tr\u00eas"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#74-restricao-de-design-quatro", 
+            "text": "As op\u00e7\u00f5es de compartilhamento dever\u00e3o ser com o s\u00edmbolo da rede social na qual se deseja compartilhar algo.", 
+            "title": "7.4 Restri\u00e7\u00e3o de Design Quatro"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#75-restricao-de-design-cinco", 
+            "text": "Antes do usu\u00e1rio poder ver as funcionalidades do aplicativo, ter\u00e1 que ter uma tela inicial com a op\u00e7\u00e3o de login e cadastro.", 
+            "title": "7.5  Restri\u00e7\u00e3o de Design Cinco"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#76-restricao-de-design-seis", 
+            "text": "O bot\u00e3o de compartilhamento de m\u00fasica dever\u00e1 ser colocado abaixo da foto da m\u00fasica no canto direito, assim como a op\u00e7\u00e3o de adicionar a m\u00fasica sua biblioteca ser\u00e1 colocada abaixo da foto da m\u00fasica no canto esquerdo.", 
+            "title": "7.6 Restri\u00e7\u00e3o de Design Seis"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#77-restricao-de-design-sete", 
+            "text": "O nome da p\u00e1gina sempre estar\u00e1 no topo do layout, se a p\u00e1gina do aplicativo est\u00e1 na parte de busca, no topo da tela estar\u00e1 escrito busca.", 
+            "title": "7.7 Restri\u00e7\u00e3o de Design Sete"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#8-requisitos-de-sistema-de-ajuda-e-de-documentacao-de-usuario-on-line", 
+            "text": "O servi\u00e7o dever\u00e1 possuir uma se\u00e7\u00e3o destinada a ajudar o usu\u00e1rio a utilizar o servi\u00e7o, responder suas d\u00favidas e encontrar solu\u00e7\u00f5es. Esta se\u00e7\u00e3o dever\u00e1 disponibilizar:\n+ \u00c1rea de busca para encontrar solu\u00e7\u00f5es para as quest\u00f5es mais frequentes\n+ Tutoriais claros e objetivos de como o usu\u00e1rio pode utilizar os recursos do servi\u00e7o\n+ F\u00f3rum para que os usu\u00e1rios possam interagir e compartilhar solu\u00e7\u00f5es e ideias", 
+            "title": "8. Requisitos de Sistema de Ajuda e de Documenta\u00e7\u00e3o de Usu\u00e1rio On-line"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#9-componentes-de-terceiros", 
+            "text": "Devido a grande quantidade de softwares de terceiros utilizados pelo servi\u00e7o Spotify, n\u00e3o cabe a esta especifica\u00e7\u00e3o suplementar descrever todas as restri\u00e7\u00f5es e informa\u00e7\u00f5es de licenciamento, que dever\u00e3o ser reunidas em documento pr\u00f3prio a ser disponibilizado no servi\u00e7o em \u00e1rea de f\u00e1cil acesso ao usu\u00e1rio.", 
+            "title": "9. Componentes de Terceiros"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#10-interfaces", 
+            "text": "", 
+            "title": "10. Interfaces"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#101-interfaces-de-usuario", 
+            "text": "O usu\u00e1rio interage com o sistema por meio das interfaces. Abaixo apresentamos alguns exemplos de interfaces dispon\u00edveis aos usu\u00e1rios.\n+ Tela onde o usu\u00e1rio pode fazer Login.\n+ Tela onde o usu\u00e1rio pode se cadastrar.\n+ Tela inicial onde o usu\u00e1rio pode escolher por qual funcionalidade navegar.", 
+            "title": "10.1 Interfaces de Usu\u00e1rio"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#102-interfaces-de-hardware", 
+            "text": "O software oferece suporte aos dispositivos apresentados abaixo.\n+ Smartphones.\n+ Computadores Notebooks.\n+ Computadores Desktop.\n+ Carros\n+ Videogames\n+ Televisores", 
+            "title": "10.2 Interfaces de Hardware"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#103-interfaces-de-software", 
+            "text": "O Spotify possui integra\u00e7\u00f5es com outros softwares e servi\u00e7os, abaixo apresentamos alguns desses   Integra\u00e7\u00e3o com o waze  Playlists em grupo com o Messenger  Last.fm  Discord  Shazam  Runkeeper  Nike+ Run Club  Tinder  Bumble  WhoSampled", 
+            "title": "10.3 Interfaces de Software"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#104-interfaces-de-comunicacoes", 
+            "text": "As comunica\u00e7\u00f5es entre os servi\u00e7os s\u00e3o feitas por meio de conex\u00e3o  remota via internet (wifi, internet m\u00f3vel e etc)", 
+            "title": "10.4 Interfaces de Comunica\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#11-requisitos-de-licenciamento", 
+            "text": "Todo o conte\u00fado e o pr\u00f3prio Servi\u00e7o Spotify s\u00e3o de propriedade da empresa Spotify. Ao usu\u00e1rio \u00e9 concedido apenas uma licen\u00e7a limitada e n\u00e3o comercial para que este fa\u00e7a uso pessoal do conte\u00fado e do servi\u00e7o.", 
+            "title": "11. Requisitos de Licenciamento"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-suplementar/#12-observacoes-legais-de-direitos-autorais-e-outros", 
+            "text": "Todas as marcas comerciais, marcas de servi\u00e7o, nomes comerciais, logotipos, nomes de dom\u00ednio s\u00e3o de propriedade exclusiva da empresa Spotify. N\u00e3o \u00e9 concedido qualquer direito ao usu\u00e1rio de utilizar os recursos da marca Spotify, comercialmente ou n\u00e3o.", 
+            "title": "12. Observa\u00e7\u00f5es Legais, de Direitos Autorais e outros"
         }
     ]
 }
