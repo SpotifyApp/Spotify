@@ -567,13 +567,38 @@
         }, 
         {
             "location": "/Modulos/Modelagem/especificacao-caso-planos/", 
-            "text": "Plano free", 
+            "text": "Plano free\n\n\n\n\n1 Breve descri\u00e7\u00e3o\n\n\nModo de se usar o spotify sem a assinatura mensal.\n2 Breve descri\u00e7\u00e3o dos atores\n2.1 Usu\u00e1rio: quem usa o sistema\n2.2     patrocinador: quem fornece dinheiro em troca de marketing\n\n\n3 Precondi\u00e7\u00f5es\n\n\nSer usu\u00e1rio \"Free\".\nTer acesso a internet.\nEstar logado no aplicativo.\nTer o aplicativo Instalado.\n\n\n4 fluxo baisco\n\n\n\n\nO caso de uso come\u00e7a quando o usu\u00e1rio acessa o spotify\n\n\nusu\u00e1rio come\u00e7a a usar o aplicativo e ouvir as m\u00fasicas\n\n\nusu\u00e1rio n\u00e3o pode baixar m\u00fasicas, ouvir offline\n\n\nusu\u00e1rio tem restri\u00e7\u00e3o de passagens por ser \"Free\"\n\n\nThe use case ends.\n\n\n\n\n5 fluxo alternativo\n\n\nSe no passo 1 o usu\u00e1rio escolher clicar em adquirir pacote premium ent\u00e3o\n1. usu\u00e1rio free coloca as informa\u00e7\u00f5es do cart\u00e3o de cr\u00e9dito ou informa\u00e7\u00f5es pra gerar boleto\n2. usu\u00e1rio free paga a mensalidade ou paga por forma trimestral e semestral\n3. usu\u00e1rio free se torna usu\u00e1rio premium\n\n\n6 Fluxo de excess\u00e3o\n\n\nSem acesso \u00e0 internet          n\u00e3o pode acessar o sistema\nSer usu\u00e1rio premium            descrito em outro caso de uso", 
             "title": "Caso de Uso Planos"
         }, 
         {
             "location": "/Modulos/Modelagem/especificacao-caso-planos/#plano-free", 
             "text": "", 
             "title": "Plano free"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/#1-breve-descricao", 
+            "text": "Modo de se usar o spotify sem a assinatura mensal.\n2 Breve descri\u00e7\u00e3o dos atores\n2.1 Usu\u00e1rio: quem usa o sistema\n2.2     patrocinador: quem fornece dinheiro em troca de marketing", 
+            "title": "1 Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/#3-precondicoes", 
+            "text": "Ser usu\u00e1rio \"Free\".\nTer acesso a internet.\nEstar logado no aplicativo.\nTer o aplicativo Instalado.", 
+            "title": "3 Precondi\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/#4-fluxo-baisco", 
+            "text": "O caso de uso come\u00e7a quando o usu\u00e1rio acessa o spotify  usu\u00e1rio come\u00e7a a usar o aplicativo e ouvir as m\u00fasicas  usu\u00e1rio n\u00e3o pode baixar m\u00fasicas, ouvir offline  usu\u00e1rio tem restri\u00e7\u00e3o de passagens por ser \"Free\"  The use case ends.", 
+            "title": "4 fluxo baisco"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/#5-fluxo-alternativo", 
+            "text": "Se no passo 1 o usu\u00e1rio escolher clicar em adquirir pacote premium ent\u00e3o\n1. usu\u00e1rio free coloca as informa\u00e7\u00f5es do cart\u00e3o de cr\u00e9dito ou informa\u00e7\u00f5es pra gerar boleto\n2. usu\u00e1rio free paga a mensalidade ou paga por forma trimestral e semestral\n3. usu\u00e1rio free se torna usu\u00e1rio premium", 
+            "title": "5 fluxo alternativo"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/#6-fluxo-de-excessao", 
+            "text": "Sem acesso \u00e0 internet          n\u00e3o pode acessar o sistema\nSer usu\u00e1rio premium            descrito em outro caso de uso", 
+            "title": "6 Fluxo de excess\u00e3o"
         }
     ]
 }
