@@ -107,13 +107,13 @@ Para cada tipo de usuário haverá um certo nível de funcionalidades disponíve
 ## 4.1 Disponibilidade
 O sistema estará disponível no modo 24/7.
 
-## 4.2 Requisito de Confiabilidade dois
+## 4.2 Suportabilidade
 O sistema deve suportar 4 bilhões de usuários ativos simultaneamente.
 
-## 4.3 Requisito de Confiabilidade três
+## 4.3 Direitos autorais
 O sistema deve garantir que os direitos autorais dos artistas seja preservado
 
-## 4.4 Requisito de Confiabilidade quatro
+## 4.4 Segurança
 A senha do usuário deverá ser guardada de forma segura, além de dados pessoais em geral.
 
 # 5. Desempenho
@@ -143,8 +143,6 @@ A senha do usuário deverá ser guardada de forma segura, além de dados pessoai
 + Versão 6 ou superior.
 
 
-
-
 # 6. Suportabilidade
 ## 6.1 Software do assinante
 <p align="justify">O assinante será capaz de utilizar o sistema através de um aplicativo disponível para android e ios. Não será necessário que nenhum software personalizado resida no smartphone do assinante. Estes são os requisitos de sistema para usar o Spotify e acessar seu conteúdo por meio do aplicativo
@@ -163,7 +161,7 @@ Mac | Qualquer dispositivo
 ## 7.1 Restrição de Design Um
 <p align="justify">O sistema deverá ser disponibilizado em diversas línguas, quando o usuário mudar o idioma do celular o aplicativo também se modificará.
 
-## 7.2 Restrição de Design Dois
+## 7.2 Responsividade
 <p align="justify">O sistema deverá se ajustar de forma responsiva, ou seja, ajustando todo o conteúdo da tela à plataforma que o usuário estiver utilizando, android ou ios.
 
 ## 7.3 Restrição de Design Três

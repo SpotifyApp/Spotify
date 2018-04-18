@@ -1,12 +1,11 @@
+#  Plano premium
 
 <img src="https://i.imgur.com/7tmai3s.jpg" alt="plano premium">
 
-
-# Use-Case: Plano premium
 ## 1 Breve descrição
 Modo de se usar o spotify com uma assinatura mensal.
 2 Breve descrição dos atores
-2.1 Usuário: quem usa o sistema 
+2.1 Usuário: quem usa o sistema
 ## 3 Precondições
 Ser usuário "Premium".
 Estar logado no aplicativo.

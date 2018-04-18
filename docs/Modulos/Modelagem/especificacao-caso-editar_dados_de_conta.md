@@ -3,7 +3,7 @@
 |18/04/2018|1.0|Especificação da UC08|Geovanne Santos|
 
 <h1>RF14 - Editar dados de conta</h1>
-<h4>Descrição:</h4><br />
+<h4>Descrição:</h4>
 Editar as informações pessoais do usuário.<br />
 <h4>Atores:</h4>
 Usuário cadastrado<br />
