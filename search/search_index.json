@@ -544,6 +544,16 @@
             "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#5-mensagens", 
             "text": "[MES01] \u201cErro ao conectar ao aplicativo\u201d.", 
             "title": "5. Mensagens"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/", 
+            "text": "Plano free", 
+            "title": "Caso de Uso Planos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/especificacao-caso-planos/#plano-free", 
+            "text": "", 
+            "title": "Plano free"
         }
     ]
 }
