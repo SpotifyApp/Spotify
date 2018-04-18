@@ -479,6 +479,71 @@
             "location": "/Modulos/Modelagem/gerenciarArtistas/#5-pre-condicoes", 
             "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
             "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/", 
+            "text": "Integra\u00e7\u00e3o com redes Sociais\n\n\n\n\nIndice Anal\u00edtico\n\n\n\n\nNome do Caso de Uso\n\n\nBreve descri\u00e7\u00e3o\n\n\n\n\n\n\nFluxo de eventos\n\n\nFluxo B\u00e1sico\n\n\nFluxos Alternativos\n\n\nVisualizar Caderno de Acordo com a Cronologia e Categoria das Tarefas\n\n\n\n\n\n\nFluxos de Exce\u00e7\u00e3o\n\n\nVisualizar Caderno Inexistente\n\n\n\n\n\n\n\n\n\n\nRequisitos Especiais\n\n\nPrimeiro Requisito Especial\n\n\n\n\n\n\nCondi\u00e7\u00f5es Pr\u00e9vias   \n\n\nCondi\u00e7\u00e3o Pr\u00e9via Um\n\n\n\n\n\n\nMensagens\n\n\n\n\nEspecifica\u00e7\u00e3o de Caso de Uso \n\n\n1. #UC1 \u2013 Integra\u00e7\u00e3o de Redes sociais\n\n\n1.1 Breve Descri\u00e7\u00e3o\n\n\nDescri\u00e7\u00e3o - Este caso de uso permite ao usu\u00e1rio facilidade de compartilhamento, usabilidade, podendo compartilhar playlists e m\u00fasicas, entre outras funcioalidades.\n\n\n2. Fluxo de Eventos\n\n\n2.1 Fluxo B\u00e1sico\n\n\n\n\nO fluxo b\u00e1sico come\u00e7a quando o usu\u00e1rio acessa a plataforma Spotify e come\u00e7a a utilizar o aplicativo (#R21 \u2013 Navegar (de acordo com o documento de Especifica\u00e7\u00e3o suplementar)) .\n\n\nO usu\u00e1rio acessa o Aplicativo.\n\n\nO usu\u00e1rio navega dentro do aplicativo. [RF 21]\n\n\nO usu\u00e1rio tem diversas op\u00e7\u00f5es dentro das funcionalidades dispon\u00edveis.\n\n\nO usu\u00e1rio acessa uma playlist [RF 03] ou uma m\u00fasica\n\n\nDentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.\n\n\n\n\n2.2 Fluxo Alternativo\n\n\n\n\nBuscar uma m\u00fasica sem necessariamente acessar uma playlist.\n\n\nO usu\u00e1rio acessa o Aplicativo.\n\n\nO usu\u00e1rio navega dentro do aplicativo. [RF 21]\n\n\nO busca por uma m\u00fasica em especifica.\n\n\nDentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.\n\n\n\n\n\n\n\n\n2.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nErro na integra\u00e7\u00e3o com outra rede social\n\n\nO usu\u00e1rio solicita alguma funcionalidade que exige dados de outra rede social.\n\n\nO sistema tenta o acesso e apresenta erro.\n\n\nO sistema volta para a p\u00e1gina anterior.\n\n\n\n\n\n\n\n\n3. Requisitos Especiais\n\n\n\n\nNenhum requisito especial identificado.\n\n\n\n\n4. Condi\u00e7\u00f5es Pr\u00e9vias\n\n\n\n\nEstar conectado com a internet.\n\n\nPossuir acesso as outras redes sociais.\n\n\n\n\n5. Mensagens\n\n\n[MES01] \u201cErro ao conectar ao aplicativo\u201d.", 
+            "title": "Caso de Uso Redes Sociais"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#integracao-com-redes-sociais", 
+            "text": "", 
+            "title": "Integra\u00e7\u00e3o com redes Sociais"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#indice-analitico", 
+            "text": "Nome do Caso de Uso  Breve descri\u00e7\u00e3o    Fluxo de eventos  Fluxo B\u00e1sico  Fluxos Alternativos  Visualizar Caderno de Acordo com a Cronologia e Categoria das Tarefas    Fluxos de Exce\u00e7\u00e3o  Visualizar Caderno Inexistente      Requisitos Especiais  Primeiro Requisito Especial    Condi\u00e7\u00f5es Pr\u00e9vias     Condi\u00e7\u00e3o Pr\u00e9via Um    Mensagens", 
+            "title": "Indice Anal\u00edtico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#especificacao-de-caso-de-uso", 
+            "text": "", 
+            "title": "Especifica\u00e7\u00e3o de Caso de Uso "
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#1-uc1-integracao-de-redes-sociais", 
+            "text": "", 
+            "title": "1. #UC1 \u2013 Integra\u00e7\u00e3o de Redes sociais"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#11-breve-descricao", 
+            "text": "Descri\u00e7\u00e3o - Este caso de uso permite ao usu\u00e1rio facilidade de compartilhamento, usabilidade, podendo compartilhar playlists e m\u00fasicas, entre outras funcioalidades.", 
+            "title": "1.1 Breve Descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#2-fluxo-de-eventos", 
+            "text": "", 
+            "title": "2. Fluxo de Eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#21-fluxo-basico", 
+            "text": "O fluxo b\u00e1sico come\u00e7a quando o usu\u00e1rio acessa a plataforma Spotify e come\u00e7a a utilizar o aplicativo (#R21 \u2013 Navegar (de acordo com o documento de Especifica\u00e7\u00e3o suplementar)) .  O usu\u00e1rio acessa o Aplicativo.  O usu\u00e1rio navega dentro do aplicativo. [RF 21]  O usu\u00e1rio tem diversas op\u00e7\u00f5es dentro das funcionalidades dispon\u00edveis.  O usu\u00e1rio acessa uma playlist [RF 03] ou uma m\u00fasica  Dentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.", 
+            "title": "2.1 Fluxo B\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#22-fluxo-alternativo", 
+            "text": "Buscar uma m\u00fasica sem necessariamente acessar uma playlist.  O usu\u00e1rio acessa o Aplicativo.  O usu\u00e1rio navega dentro do aplicativo. [RF 21]  O busca por uma m\u00fasica em especifica.  Dentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.", 
+            "title": "2.2 Fluxo Alternativo"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#23-fluxos-de-excecao", 
+            "text": "Erro na integra\u00e7\u00e3o com outra rede social  O usu\u00e1rio solicita alguma funcionalidade que exige dados de outra rede social.  O sistema tenta o acesso e apresenta erro.  O sistema volta para a p\u00e1gina anterior.", 
+            "title": "2.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#3-requisitos-especiais", 
+            "text": "Nenhum requisito especial identificado.", 
+            "title": "3. Requisitos Especiais"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#4-condicoes-previas", 
+            "text": "Estar conectado com a internet.  Possuir acesso as outras redes sociais.", 
+            "title": "4. Condi\u00e7\u00f5es Pr\u00e9vias"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/IntegracaoRedesSociais/#5-mensagens", 
+            "text": "[MES01] \u201cErro ao conectar ao aplicativo\u201d.", 
+            "title": "5. Mensagens"
         }
     ]
 }
