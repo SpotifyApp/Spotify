@@ -128,10 +128,35 @@ A senha do usuário deverá ser guardada de forma segura, além de dados pessoai
 
 ## 5.4 Utilização de recursos
 
++ iOS 9 ou superior.
+100 MB de espaço livre
++ iOS 9 ou superior.
+100 MB de espaço livre
++ iOS 9 ou superior.
+100 MB de espaço livre
++ Android OS 4.0.3 ou superior.
+500 MB de espaço livre
++ Android OS 4.0.3 ou superior.
+500 MB de espaço livre
++ OS X 10.9 ou superior
++ Windows 7 ou superior
++ Versão 6 ou superior.
+
+
+
+
 # 6. Suportabilidade
 ## 6.1 Software do assinante
 <p align="justify">O assinante será capaz de utilizar o sistema através de um aplicativo disponível para android e ios. Não será necessário que nenhum software personalizado resida no smartphone do assinante. Estes são os requisitos de sistema para usar o Spotify e acessar seu conteúdo por meio do aplicativo
 
+Dispositivo | Modelo
+-- | --
+Iphone | iPhone 4S ou superior
+Ipad  | iPad 2 ou superior
+Ipod | iPod Touch de 5ª geração ou superior
+Smartphones Android | Qualquer dispositivo
+Tablets Android | Qualquer dispositivo
+Mac | Qualquer dispositivo
 
 
 # 7. Restrições de Design
