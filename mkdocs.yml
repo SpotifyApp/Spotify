@@ -21,3 +21,9 @@ pages:
         - Elicitação de Design: Modulos/Elicitacao/Elicitação-de-requisitos-de-design.md
     - Modelagem:
         - Especificação Suplementar: Modulos/Modelagem/especificacao-suplementar.md
+        - Caso de Uso Biblioteca: Modulos/Modelagem/especificacao-caso-biblioteca.md
+        - Caso de Uso Editar Dados: Modulos/Modelagem/especificacao-caso-editar_dados_de_conta.md
+        - Caso de Uso Gerenciar Playlists:  Modulos/Modelagem/gerenciarPlaylists.md
+        - Caso de Uso Gerenciar Artistas:  Modulos/Modelagem/gerenciarArtistas.md
+        - Caso de Uso Redes Sociais:  Modulos/Modelagem/IntegracaoRedesSociais.md
+        - Caso de Uso Planos:  Modulos/Modelagem/especificacao-caso-planos.md

@@ -1,6 +1,6 @@
-# Marketing
+# Integração com redes Sociais
 
-# UC01 – Integração com redes Sociais
+<object width="700" height="600" data="../caso-integracao_redes.png"></object>
 
 # Indice Analítico
 
@@ -13,11 +13,11 @@
     3. Fluxos de Exceção
         1. Visualizar Caderno Inexistente
 3. Requisitos Especiais
-    1. Primeiro Requisito Especial 
+    1. Primeiro Requisito Especial
 4. Condições Prévias   
-    1. Condição Prévia Um 
+    1. Condição Prévia Um
 5. Mensagens
-   
+
 
 # Especificação de Caso de Uso <Visualizar Caderno>
 
@@ -31,7 +31,7 @@ Descrição - Este caso de uso permite ao usuário facilidade de compartilhament
 
 ### 2.1 Fluxo Básico
 1. O fluxo básico começa quando o usuário acessa a plataforma Spotify e começa a utilizar o aplicativo (#R21 – Navegar (de acordo com o documento de Especificação suplementar)) .
-1. O usuário acessa o Aplicativo. 
+1. O usuário acessa o Aplicativo.
 2. O usuário navega dentro do aplicativo. [RF 21]
 3. O usuário tem diversas opções dentro das funcionalidades disponíveis.
 4. O usuário acessa uma playlist [RF 03] ou uma música
@@ -41,9 +41,9 @@ Descrição - Este caso de uso permite ao usuário facilidade de compartilhament
 1. Buscar uma música sem necessariamente acessar uma playlist.
     1. O usuário acessa o Aplicativo.
     2. O usuário navega dentro do aplicativo. [RF 21]
-    3. O busca por uma música em especifica. 
+    3. O busca por uma música em especifica.
     4. Dentro dessa funcionalidade ele pode compartilhar uma playlist ou músicas entre as redes sociais integradas, como o whatsapp e facebook.
-    
+
 ### 2.3 Fluxos de Exceção
 1. Erro na integração com outra rede social
     1. O usuário solicita alguma funcionalidade que exige dados de outra rede social.
@@ -59,17 +59,3 @@ Descrição - Este caso de uso permite ao usuário facilidade de compartilhament
 
 ## 5. Mensagens
 [MES01] “Erro ao conectar ao aplicativo”.
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-  

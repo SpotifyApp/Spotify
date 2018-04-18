@@ -1,10 +1,13 @@
-## UC02 - Gerenciar artistas salvos
-### 1. Nome do Caso de Uso
+# Gerenciar artistas salvos
+
+<object width="700" height="600" data="../caso-gerenciar_artistas.png"></object>
+
+## 1. Nome do Caso de Uso
 - Gerenciar artistas salvos
 
 ## 2.  Breve descrição
 - Gerenciar meus artistas salvos
- 
+
 ## 3.  Atores
 - Usuário
 
@@ -36,6 +39,3 @@
 - Ter o aplicativo do Spotify instalado
 - Estar conectado à internet.
 - Possuir conta de usuário no Spotify
-
-
-
