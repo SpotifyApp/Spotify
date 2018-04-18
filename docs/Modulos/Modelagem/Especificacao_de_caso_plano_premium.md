@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/7tmai3s.jpg" alt="plano premium">
 
 
-# Use-Case: Plano free
+# Use-Case: Plano premium
 ## 1 Breve descrição
 Modo de se usar o spotify com uma assinatura mensal.
 2 Breve descrição dos atores
