@@ -1,3 +1,5 @@
+✅ UC01   Gerenciar playlists
+
 ## 1. Nome do Caso de Uso
 - Gerenciar playlists
 
