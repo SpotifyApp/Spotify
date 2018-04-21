@@ -47,11 +47,13 @@ Os vídeos utilizados durante esta técnica podem ser acessados [aqui](https://d
 	<li>Renomear playlist</li>
 	<li>Seguir playlist</li>
 	<li>Acessar lista de playlists</li>
-	<li>Reproduzir playlist</li>
+	<li>Reproduzir playlist de modo aleatório</li>
 	<li>Acessar rádio de uma playlist</li>
 	<li>Buscar playlist</li>
+  <li>Tornar playlist secreta</li>
 	<li>Reproduzir música</li>
 	<li>Adicionar música a uma playlist</li>
+  <li>Remover música de uma playlist</li>
 	<li>Adicionar música à fila de reprodução</li>
 	<li>Acessar rádio de uma música</li>
 	<li>Salvar música</li>
@@ -82,6 +84,7 @@ Os vídeos utilizados durante esta técnica podem ser acessados [aqui](https://d
 	<li>Reproduzir um vídeo</li>
 	<li>Acessar lista de vídeos não reproduzidos</li>
 	<li>Buscar vídeos</li>
+  <li>Recuperar playlist</li>
 </ul>
 
 

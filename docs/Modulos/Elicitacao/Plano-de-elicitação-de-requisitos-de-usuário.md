@@ -1,4 +1,4 @@
-<h1><center>Elicitação de requisitos de usuário</h1>
+<h1>Elicitação de requisitos de usuário</h1>
 <h3>Histórico de revisão</h3>
 
 Data | Responsável | Versão| Mudança realizada|
@@ -6,6 +6,8 @@ Data | Responsável | Versão| Mudança realizada|
 29/03/2018     | Geovanne Saraiva |   1.0   |  Primeira versão do plano de elicitação   |
 02/04/2018     | Geovanne Saraiva |   1.1   |  Segunda versão do plano de elicitação   |
 03/04/2018     | Geovanne Saraiva |   1.2   |  Terceira versão do plano de elicitação   |
+020/04/2018     | Geovanne Saraiva |   1.3   |  Terceira versão do plano de elicitação   |
+
 
 <h3> Introdução </h3>
 Este documento foi desenvolvido para a disciplina de Requisitos em Software, da Universidade de Brasília, no qual o grupo procura elicitar o aplicativo Spotify, que é obter o máximo de informações necessárias para o conhecimento de um objeto. No contexto da engenharia de software, a elicitação de requisitos provê o mais correto e completo entendimento do que é demandado de um determinado software. A análise foi dividida em tópicos, os mesmos são: usuário, marketing,  monetização, música, integração e design.
@@ -36,28 +38,21 @@ Por orientação dos professores que estão acompanhando a elicitação dos requ
   * Postar músicas  
   * Receber royalties pagos pelo aplicativo spotify
   * Ver o relatório de informações sobre suas músicas e seus respectivos álbuns, um feedback que mostra a frequência com que os álbuns são acessados.
+  * Verificar se o perfil de artista realmente pertence ao artista.
 
 * Perfil de usuário padrão
   * Cadastro como perfil de usuário padrão
-  * Adquirir o plano premium e planos promocionais, como: plano família e plano estudantil.
-  * Pausar as músicas.
-  * Passar para próxima música.
-  * Voltar para música anterior.
-  * Seguir playlists de outros usuários.
+  * Adquirir o plano premium como: plano família, plano estudantil e plano tradicional.
   * Seguir amigos para conhecer o que eles ouvem.
-  * Mostrar músicas indisponíveis.
   * Escolher as notificações que deseja receber.
-  * Curtir músicas.
-  * Criar playlists.
-  * Pesquisar músicas pelo nome.
-  * Ver videoclipes.
-  * Fazer download das músicas.
   * Ficar em modo offline, onde só tocará músicas baixadas.
   * Sair da conta.
+  * Fazer login
   * Apagar cache e dados salvos.
   * Editar dados de conta.
+  * Mudar senha.
+  * Editar foto de perfil.
   * Ajustar o volume de acordo com o seu ambiente.
-  * Escutar playlists de modo aleatório.
   * Compartilhar álbuns e músicas.
   * Mudar o perfil padrão para perfil de artista.
 
@@ -67,7 +62,7 @@ Consiste em entender quais propriedades o sistema deve possuir para ser um suces
 <h5>Relator: Geovanne Santos</h5>
 1. Atualizar sua biografia. <br />
 2. Compartilhar suas playlists. <br />
-3. Promover sua música. <br />
+3. Comprar planos de divulgação do aplicativo sua música. <br />
 4. Controlar como os fãns te veem no spotify. <br />
 5. Ver uma série de gráficos, com dados de como suas músicas estão sendo ouvidas pelos usuários, como estão descobrindo e ouvindo suas músicas, estas informações podem te ajudar a promover campanhas, fazer novas músicas e planejar novas rotas pra uma futura turnê. <br />
 6. Atualizar sua foto de perfil, ou do seu álbum.<br />
@@ -98,75 +93,65 @@ Os requisitos listados abaixo foram obtidos a partir das técnicas de elicitaç�
 
 Requisitos|Must(deve ter)|Should(deveria ter)  |Could(poderia ter)  |Would(seria legal ter)|
 ---------------- |---------------- | ---------------| ------------------| ---------------------- |
-Cadastro como perfil de artista| | | | |
-Postar músicas| | | | |
-Receber royalties pagos pelo aplicativo spotify| | | | |
-Ver o relatório de informações sobre seus álbuns| | | | |
-Cadastro como perfil de usuário padrão| | | | |
-Adquirir o plano premium e planos promocionais| | | | |
-Pausar as músicas| | | | |
-Passar para próxima música| | | | |
-Seguir playlists de outros usuários| | | | |
-Voltar para música anterior| | | | |
-Seguir playlists de outros usuários| | | | |
-Seguir amigos para conhecer o que eles ouvem| | | | |
-Mostrar músicas indisponíveis| | | | |
-Escolher as notificações que deseja receber| | | | |
-Curtir músicas| | | | |
-Criar playlists| | | | |
-Pesquisar músicas pelo nome| | | | |
-Ver videoclipes| | | | |
-Fazer download das músicas| | | | |
-Ficar em modo offline| | | | |
-Sair da conta| | | | |
-Apagar cache e dados salvos| | | | |
-Editar dados de conta| | | | |
-Ajustar o volume| | | | |
-Escutar playlists de modo aleatório| | | | |
-Compartilhar álbuns e músicas| | | | |
-Mudar o perfil padrão para perfil de artista| | | | |
-Atualizar sua biografia| | | | |
-Promover sua música| | | | |
-Atualizar sua foto de perfil, ou do seu álbum.| | | | |
-Controlar a música na parte superior do perfil do artista| | | | |
-Colocar os locais onde serão feitos os shows| | | | |
+Adquirir o plano premium| | x | | |
+Apagar cache e dados salvos| | | x | |
+Atualizar sua biografia| | x | | |
+Atualizar a foto do seu álbum| | x | | |
+Ativar o status de transmissão(permitir outros apps verificarem o que está ouvindo)| | x | | |
+Cadastro como perfil de artista| x | | | |
+Cadastro como perfil de usuário comum| x | | | |
+Compartilhar álbuns e músicas| | | x | |
+Comprar planos para promover sua música| | x | | |
+Controlar a música que aparecerá na parte superior do perfil do artista| | x | | |
+Conectar-se com o facebook| | x | | |
+Configurar o volume| x | | | |
+Colocar a agenda de shows| | | x | |
+Escolher as notificações que deseja receber| | | x | |
+Editar foto de pefil conta| x | | | |
+Fazer login| x | | | |
+Fazer download das músicas| | x | | |
+Ficar em modo offline| | x | | |
+Importar músicas do seu celular para o aplicativo| | | X | |
+Postar músicas| x | | | |
+Mudar o perfil de usuário comum para perfil de artista| | x | | |
+Mudar senha| x | | | |
+Seguir playlists de outros usuários| | | x | |
+Seguir amigos para conhecer o que eles ouvem| | | x | |
+Sair da conta| x | | | |
+Ver os relatórios de informações sobre seus álbuns| | x | | |
+Verificar a autenticidade do perfil de artista| x | | | |
 
 <h5>A segunda tabela de priorização foi avaliada pelo grupo do spotify</h5>
 
 Requisitos|Must(deve ter)|Should(deveria ter)  |Could(poderia ter)  |Would(seria legal ter)|
 ---------------- |---------------- | ---------------| ------------------| ---------------------- |
+Adquirir o plano premium| | | | |
+Apagar cache e dados salvos| | | | |
+Atualizar sua biografia| | | | |
+Atualizar a foto do seu álbum| | | | |
+Ativar o status de transmissão(permitir outros apps verificarem o que está ouvindo)| | | | |
 Cadastro como perfil de artista| | | | |
-Postar músicas| | | | |
-Receber royalties pagos pelo aplicativo spotify| | | | |
-Ver o relatório de informações sobre seus álbuns| | | | |
-Cadastro como perfil de usuário padrão| | | | |
-Adquirir o plano premium e planos promocionais| | | | |
-Pausar as músicas| | | | |
-Passar para próxima música| | | | |
-Seguir playlists de outros usuários| | | | |
-Voltar para música anterior| | | | |
-Seguir playlists de outros usuários| | | | |
-Seguir amigos para conhecer o que eles ouvem| | | | |
-Mostrar músicas indisponíveis| | | | |
+Cadastro como perfil de usuário comum| | | | |
+Compartilhar álbuns e músicas| | | | |
+Comprar planos para promover sua música| | | | |
+Controlar a música que aparecerá na parte superior do perfil do artista| | | | |
+Conectar-se com o facebook| | | | |
+Configurar o volume| | | | |
+Colocar a agenda de shows| | | | |
 Escolher as notificações que deseja receber| | | | |
-Curtir músicas| | | | |
-Criar playlists| | | | |
-Pesquisar músicas pelo nome| | | | |
-Ver videoclipes| | | | |
+Editar foto de pefil conta| | | | |
+Fazer login| | | | |
 Fazer download das músicas| | | | |
 Ficar em modo offline| | | | |
+Importar músicas do seu celular para o aplicativo| | | | |
+Postar músicas| | | | |
+Mudar o perfil de usuário comum para perfil de artista| | | | |
+Mudar senha| | | | |
+Seguir playlists de outros usuários| | | | |
+Seguir amigos para conhecer o que eles ouvem| | | | |
 Sair da conta| | | | |
-Apagar cache e dados salvos| | | | |
-Editar dados de conta| | | | |
-Ajustar o volume| | | | |
-Escutar playlists de modo aleatório| | | | |
-Compartilhar álbuns e músicas| | | | |
-Mudar o perfil padrão para perfil de artista| | | | |
-Atualizar sua biografia| | | | |
-Promover sua música| | | | |
-Atualizar sua foto de perfil, ou do seu álbum.| | | | |
-Controlar a música na parte superior do perfil do artista| | | | |
-Colocar os locais onde serão feitos os shows| | | | |
+Ver os relatórios de informações sobre seus álbuns| | | | |
+Verificar a autenticidade do perfil de artista| | | | |
 
 
 <h2> Bibliografia </h2>

@@ -5,7 +5,7 @@
 | 17/04/2018 | 0.1 | Criação, funcionalidade, interfaces de comunicações, interfaces de Software, interfaces de hardware, interfaces de usuário, usabilidade | Eduardo Júnio |
 | 17/04/2018 | 0.2 | Finalidade, Definições e acrônimos e abreviações | Renato Valério |
 | 17/04/2018 | 0.3 | Requisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observações Legais, de Direitos Autorais etc | Amanda Bezerra |
-
+| 17/04/2018 | 0.4 | --- | Geovanne Santos |
 
 # 1.Introdução
 ## 1.1 Finalidade
@@ -43,31 +43,41 @@ RF 01 | Acessar biblioteca
 RF 02 | Acessar opções de busca
 RF 03 | Acessar playlists
 RF 04 | Acessar rádio
+Atualizar sua biografia
 RF 05 | Adicionar música a uma playlist
 RF 06 | Adquirir o plano premiun
+RF 32 | Ativar o status de transmissão(permitir outros apps verificarem o que está ouvindo)
+RF 33 | Atualizar a foto do álbum
 RF 07 | Cadastro com perfil de artista
-RF 08 | Cadastro de usuário
+RF 08 | Cadastro de usuário comum
 RF 09 | Colocar a agenda de shows
 RF 10 | Controle de reprodução.
 RF 11 | Criar estação
 RF 12 | Criar playlist
-RF 13 | Divulgação de músicas próprias
-RF 14 | Editar dados de conta
+RF 13 | Comprar plano de divulgação de músicas próprias
+RF 34 | Configurar o volume
+RF 14 | Editar foto de pefil conta
+RF 38 | Editar dados de conta
 RF 15 | Excluir playlist
+RF 29 | Fazer login
 RF 16 | Ficar em modo offline
 RF 17 | Informações de reprodução.
-RF 18 | Inscreva-se grátis
+RF 35 | Importar músicas do seu celular para o aplicativo
 RF 19 | Mudar o tipo de perfil
+RF 36 | Mudar senha
 RF 20 | Mudar reprodução ativa.
-RF 21 | Navegar
+RF 21 | Integração redes sociais
 RF 22 | Ouvir lançamentos
+RF 18 | Ocultar playlist
 RF 23 | Postar uma música
 RF 24 | Realizar busca por código
 RF 25 | Realizar busca por texto
 RF 26 | Renomear playlists
 RF 27 | Sair do aplicativo
+RF 31 | Seguir amigos para conhecer o que eles ouvem
 RF 28 | Requisitos não funcionais
-RF 29 | Fazer login
+RF 30 | Ver os relatórios de informações sobre seus álbuns
+RF 37 | Verificar a autenticidade do perfil de artista
 
 Identificador | Dispositivos | Modelo | Sistema operacional
 --- | --- | --- | ---
