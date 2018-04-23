@@ -1,11 +1,13 @@
 # ✅ [UC01] - Gerenciar playlists
 
+<object width="700" height="600" data="../diagrama_de_uso/caso-gerenciar_playlist.png"></object>
+
 ## 1. Nome do Caso de Uso
 - Gerenciar playlists
 
 ## 2.  Breve descrição
 - Gerenciar minhas playlists salvas
- 
+
 ## 3.  Atores
 - Usuário
 
@@ -41,5 +43,3 @@
 - Ter o aplicativo do Spotify instalado
 - Estar conectado à internet.
 - Possuir conta de usuário no Spotify
-
-

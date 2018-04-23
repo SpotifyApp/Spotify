@@ -43,7 +43,7 @@ RF 01 | Acessar biblioteca
 RF 02 | Acessar opções de busca
 RF 03 | Acessar playlists
 RF 04 | Acessar rádio
-Atualizar sua biografia
+RF 39 | Atualizar biografia do artista
 RF 05 | Adicionar música a uma playlist
 RF 06 | Adquirir o plano premiun
 RF 32 | Ativar o status de transmissão(permitir outros apps verificarem o que está ouvindo)

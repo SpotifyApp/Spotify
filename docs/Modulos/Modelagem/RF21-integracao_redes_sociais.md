@@ -1,6 +1,6 @@
 # Integração com redes Sociais
 
-<object width="700" height="600" data="../caso-integracao_redes.png"></object>
+<object width="700" height="600" data="../diagrama_de_uso/caso-integracao_redes.png"></object>
 
 # Indice Analítico
 

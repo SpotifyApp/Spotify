@@ -1,6 +1,6 @@
 # Gerenciar artistas salvos
 
-<object width="700" height="600" data="../caso-gerenciar_artistas.png"></object>
+<object width="700" height="600" data="../diagrama_de_uso/caso-gerenciar_artistas.png"></object>
 
 ## 1. Nome do Caso de Uso
 - Gerenciar artistas salvos

@@ -2,20 +2,20 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC06] - Adquirir o plano premiun
+# ✅ [UC06] - Mudar o tipo de perfil
 
 ## 1. Nome do Caso de Uso
-- Adquirir o plano premiun
+- Mudar o tipo de perfil
 
 ## 2.  Breve descrição
-- Comprar o plano premiun, com mais funcionalidades.
+- O usuário comum deseja se tornar usuário artista.
 
 ## 3.  Atores
-- Usuário free.
+- Usuário comum.
 
 ## 4.  Pré-Condição
-- O usuário deve ser free.
-- Ter o aplicativo do Spotify instalado
+- O usuário deve ser comum.
+- Ter o aplicativo desktop do Spotify instalado
 - Estar conectado à internet.
 
 ## 5.  Fluxo de eventos
@@ -24,18 +24,13 @@ Data | Responsável | Versão|
 
 - O usuário instala o spotify.
 - O usuário abre o aplicativa e faz o login.
-- O usuário clica em adquirir plano premiun.
-- Usuário coloca as informações para o contrato do plano ser firmado.
-- O usuário escolhe a forma de pagamento.
-- O usuário paga a fatura e mude do plano free para o plano premiun de imediato.
+- O usuário clica em requerir o perfil artista.
+- Usuário coloca as informações necessárias, tais como a agência que irá distribuir a música para o aplicativo, o Twitter e outros.
+- O usuário espera o aplicativo autenticar o perfil requerido para usar as funcionalidades novas.
 
 ## 5.2 Fluxos alternativos
 
-- [FA01]
-- Adquirir um plano premiun, pelo pacote estudantil.
-
-- [FA02]
-- Adquirir um plano premiun, pelo pacote família.
+- Não existe.
 
 ## 5.3 Fluxos de Exceção
 - [FE01]
@@ -48,9 +43,10 @@ Data | Responsável | Versão|
 - O sistema permanece na mesma página.
 - O sistema destaca o box com a informação inválida.
 
-- [FE03] Usuário não paga a fatura:
-- O sistema não muda de free para premiun .
+- [FE03] Usuário tenta criar um perfil fake:
+- O sistema não irá autorizar o requerimento do perfil.
 
 
 ## 6 Mensagens
 - [M1] O dado da mensagem está inválido, por favor insira novamente o dado da mensagem.
+- [M2] O requerimento do perfil não foi autorizado.
