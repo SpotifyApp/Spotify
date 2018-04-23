@@ -27,3 +27,7 @@ pages:
         - Caso de Uso RF38-Editar Dados De Conta: Modulos/Modelagem/RF38-editar_dados_de_conta.md
         - Caso de Uso RF21-Integração Redes Sociais:  Modulos/Modelagem/RF21-integração_redes_sociais.md
         - Caso de Uso RF07-Cadastro Como Perfil De Artista:  Modulos/Modelagem/RF07-cadastro_como_perfil_de_artista.md
+    - Diagrama De Uso:
+        - Diagrama de usuário comum: Modulos/Modelagem/diagrama_de_uso/diagrama_usuario_comum.png
+        - Diagrama de usuário artista: Modulos/Modelagem/diagrama_de_uso/diagrama_usuario_artista.png
+        - Diagrama de usuário não cadastrado: Modulos/Modelagem/diagrama_de_uso/diagrama_usuario_nao_cadastrado.png
