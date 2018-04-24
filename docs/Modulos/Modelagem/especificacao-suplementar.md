@@ -71,8 +71,8 @@ RF 22 | Ouvir lançamentos
 RF 18 | Ocultar playlist
 RF 23 | Postar uma música
 RF 39 | Procurar playlist
-RF 24 | Realizar busca por código
-RF 25 | Realizar busca por texto
+RF 24 |
+RF 25 | 
 RF 26 | Renomear playlists
 RF 27 | Sair do aplicativo
 RF 28 | Seguir amigos para conhecer o que eles ouvem
