@@ -78,6 +78,9 @@ RF 27 | Sair do aplicativo
 RF 31 | Seguir amigos para conhecer o que eles ouvem
 RF 28 | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
+RF 31 | Salvar músicas
+RF 32 | Download de playlists
+
 
 Identificador | Dispositivos | Modelo | Sistema operacional
 --- | --- | --- | ---
