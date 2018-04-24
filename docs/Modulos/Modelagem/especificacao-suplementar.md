@@ -43,7 +43,7 @@ RF 01 | Acessar biblioteca
 RF 02 | Acessar opções de busca
 RF 03 | Acessar playlists
 RF 04 | Acessar rádio
-RF 39 | Atualizar biografia do artista
+RF 38 | Atualizar biografia do artista
 RF 05 | Adicionar música a uma playlist
 RF 06 | Adquirir o plano premiun
 RF 32 | Ativar o status de transmissão(permitir outros apps verificarem o que está ouvindo)
@@ -57,27 +57,27 @@ RF 12 | Criar playlist
 RF 13 | Comprar plano de divulgação de músicas próprias
 RF 34 | Configurar o volume
 RF 14 | Editar foto de pefil conta
-RF 38 | Editar dados de conta
+RF 37 | Editar dados de conta
 RF 15 | Excluir playlist
 RF 29 | Fazer login
 RF 16 | Ficar em modo offline
 RF 17 | Informações de reprodução.
 RF 35 | Importar músicas do seu celular para o aplicativo
+RF 21 | Integração redes sociais
 RF 19 | Mudar o tipo de perfil
 RF 36 | Mudar senha
 RF 20 | Mudar reprodução ativa.
-RF 21 | Integração redes sociais
 RF 22 | Ouvir lançamentos
 RF 18 | Ocultar playlist
 RF 23 | Postar uma música
+RF 39 | Procurar playlist
 RF 24 | Realizar busca por código
 RF 25 | Realizar busca por texto
 RF 26 | Renomear playlists
 RF 27 | Sair do aplicativo
 RF 31 | Seguir amigos para conhecer o que eles ouvem
-RF 28 | Requisitos não funcionais
-RF 30 | Ver os relatórios de informações sobre seus álbuns
-RF 37 | Verificar a autenticidade do perfil de artista
+RF 28 | Verificar a autenticidade do perfil de artista
+RF 30 | Ver gráficos de rendimento sobre seus álbuns
 
 Identificador | Dispositivos | Modelo | Sistema operacional
 --- | --- | --- | ---
