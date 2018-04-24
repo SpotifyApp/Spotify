@@ -75,8 +75,8 @@ RF 24 | Realizar busca por código
 RF 25 | Realizar busca por texto
 RF 26 | Renomear playlists
 RF 27 | Sair do aplicativo
-RF 31 | Seguir amigos para conhecer o que eles ouvem
-RF 28 | Verificar a autenticidade do perfil de artista
+RF 28 | Seguir amigos para conhecer o que eles ouvem
+RF 29 | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
 RF 31 | Salvar músicas
 RF 32 | Download de playlists
