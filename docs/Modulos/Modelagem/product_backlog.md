@@ -21,3 +21,4 @@
 |RF 15|usuário|excluir uma playlist|eu possa me desfazer de uma playlist indesejada ou que não é mais usada|Alta|To do|
 |RF 25|usuário|seguir artistas|eu possa acompanhar seus lançamentos e informações|Baixa|To do|
 |RF 32|usuário|baixar playlists|ouvi-las sem precisar estar  conectado à internet|Alta|To do|
+|RF 36|usuário| mudar minha senha|eu possa modificar minha senha anterior|Alta|To do|
