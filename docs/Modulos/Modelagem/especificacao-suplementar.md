@@ -47,6 +47,7 @@ RF 03 | Acessar playlists
 RF 47 | Acessar podcasts na biblioteca
 RF 04 | Acessar rádio
 RF 48 | Acessar videos na biblioteca
+RF 50 | Alertar Reprodução Ativa
 RF 38 | Atualizar biografia do artista
 RF 05 | Adicionar música a uma playlist
 RF 06 | Adquirir o plano premiun
@@ -55,6 +56,9 @@ RF 33 | Atualizar a foto do álbum
 RF 07 | Cadastro com perfil de artista
 RF 08 | Cadastro de usuário comum
 RF 09 | Colocar a agenda de shows
+RF 51 | Controlar Músicas/Playlists através de outros Dispositivos
+RF 52 | Controlar Reprodução Ativa
+RF 53 | Controlar Volume em dispositivo secundário
 RF 10 | Controle de reprodução.
 RF 11 | Criar estação
 RF 12 | Criar playlist
@@ -65,15 +69,17 @@ RF 34 | Configurar o volume
 RF 32 | Download de playlists
 RF 14 | Editar foto de pefil conta
 RF 37 | Editar dados de conta
+RF 55 | Efetuar Login por dispositivo secundário
 RF 15 | Excluir playlist
 RF 29 | Fazer login
 RF 16 | Ficar em modo offline
-RF 17 | Informações de reprodução.
+RF 17 | Informações de reprodução
 RF 35 | Importar músicas do seu celular para o aplicativo
 RF 21 | Integração redes sociais
+RF 49 | Listar Dispositivos Disponíveis
 RF 19 | Mudar o tipo de perfil
 RF 36 | Mudar senha
-RF 20 | Mudar reprodução ativa.
+RF 20 | Mudar reprodução ativa
 RF 22 | Ouvir lançamentos
 RF 18 | Ocultar playlist
 RF 23 | Postar uma música
@@ -93,7 +99,6 @@ RF ## | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
 
 
-
 ## Requisitos não funcionais
 
 |Identificador | Descrição
@@ -106,6 +111,7 @@ RF 30 | Ver gráficos de rendimento sobre seus álbuns
 |RNF 06|vinhetas durante a programação musical para quem está no modelo “Free”
 |RNF 07|Limitações de uso ao plano gratuito
 |RNF 08|Limitações de Passagens de música (6 por hora) no modelo “Free”
+|RNF 09| Vincular contas com PSN.
 
 ## Requisitos para plataformas específicas
 
@@ -124,6 +130,7 @@ RNF 10 | Google Chrome | Qualquer dispositivo | Última versão
 RNF 11 | Mozilla Firefox | Qualquer dispositivo | versão mais recente ou imediatamente anterior
 RNF 12 | Opera | Qualquer dispositivo| 12 ou superior.
 RNF 13 | Yandex | Qualquer dispositivo | 1 ou superior.
+RNF 14 | PS4 | 94 MB de espaço livre.
 
 
 # 3. Usabilidade

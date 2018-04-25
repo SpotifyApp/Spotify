@@ -53,3 +53,5 @@
 | RF 46 | usuário | acessar funcionalidades de reproducao de videos | possa assisti-los quando quiser | Baixa |To do|
 | RF 47 | usuário | acessar podcasts na biblioteca | possa visualizar os episodios de podcasts que eu sigo | Baixa |To do|
 | RF 48 | usuário | acessar videos na biblioteca | possa visualizar os videos de programas que eu sigo | Baixa |To do|
+| RF 49 | usuário | listar dispositivos disponíveis | possa visualizar onde posso reproduzir as músicas | Média | To do
+| RF 50 | usuário | 
