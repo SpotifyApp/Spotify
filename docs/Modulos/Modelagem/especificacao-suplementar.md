@@ -44,7 +44,9 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 RF 01 | Acessar biblioteca
 RF 02 | Acessar opções de busca
 RF 03 | Acessar playlists
+RF 47 | Acessar podcasts na biblioteca
 RF 04 | Acessar rádio
+RF 48 | Acessar videos na biblioteca
 RF 38 | Atualizar biografia do artista
 RF 05 | Adicionar música a uma playlist
 RF 06 | Adquirir o plano premiun
@@ -56,8 +58,11 @@ RF 09 | Colocar a agenda de shows
 RF 10 | Controle de reprodução.
 RF 11 | Criar estação
 RF 12 | Criar playlist
+RF 43 | Compartilhar podcasts
+RF 44 | Compartilhar programas de videos
 RF 13 | Comprar plano de divulgação de músicas próprias
 RF 34 | Configurar o volume
+RF 32 | Download de playlists
 RF 14 | Editar foto de pefil conta
 RF 37 | Editar dados de conta
 RF 15 | Excluir playlist
@@ -76,18 +81,23 @@ RF 39 | Procurar playlist
 RF 24 | Compartilhar playlists
 RF 25 | Seguir artistas
 RF 26 | Renomear playlists
+RF 45 | Reproduzir episodios de podcasts
+RF 46 | Reproduzir videos
 RF 27 | Sair do aplicativo
 RF 28 | Seguir amigos para conhecer o que eles ouvem
+RF 31 | Salvar músicas
+RF 41 | Seguir podcasts
+RF 42 | Seguir programas de videos
+RF 40 | Suporte técnico
 RF ## | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
-RF 31 | Salvar músicas
-RF 32 | Download de playlists
-RF 40 | Suporte técnico
+
+
 
 ## Requisitos não funcionais
 
-Identificador | Descrição
---- | ---
+|Identificador | Descrição
+|--- | ---
 |RNF 01|sistema de autenticação de usuário
 |RNF 02|serviço de busca
 |RNF 03|telas de interação responsivas
