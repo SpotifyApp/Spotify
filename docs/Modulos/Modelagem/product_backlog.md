@@ -24,8 +24,9 @@
 |RF 24|usuário|compartilhar playlists|meus amigos possam ter acesso as mesmas playlists que estou ouvindo|Baixa|To do|
 |RF 25|usuário|seguir artistas|eu possa acompanhar seus lançamentos e informações|Baixa|To do|
 |RF 26|usuário|Renomear minhas playlists|eu possa modificar o nome atual|Média|To do|
+|RF 28 |usuário|Seguir amigos|para conhecer/ter acesso ao que eles ouvem|Baixa|To do|
 |RF 29| usuário| fazer login na minha conta do spotify | eu possa acessar funcionalidades do spotify|Alta|To do|
 |RF 31|usuário|salvar músicas na minha biblioteca|eu possa acessa-las quando quiser|Alta|To do|
 |RF 32|usuário|baixar playlists|ouvi-las sem precisar estar  conectado à internet|Alta|To do|
+|RF 36|usuário| mudar minha senha|eu possa modificar minha senha anterior|Alta|To do|
 |RF 39|usuário|procurar por playlists|eu possa ouvi-las|Alta|To do|
->>>>>>> 97c555df0289aa82fcf890f76a1e17934664f6aa
