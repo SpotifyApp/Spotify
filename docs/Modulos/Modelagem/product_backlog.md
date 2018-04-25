@@ -20,7 +20,7 @@
 |RF 12|usuário|Criar playlist|eu possa gerar playlist que eu desejaria criar|Must|To do|
 |RF 13|usuário|Comprar plano de divulgação de música|eu possa fazer minha chegar a um número maior de pessoas|Should|To do|
 |RF 14|usuário|editar foto de perfil de conta|eu possa atualizar a foto de perfil|Should|To do|
-|RF 15|usuário artista|excluir uma playlist|eu possa me desfazer de uma playlist indesejada ou que não é mais usada|Alta|To do|
+|RF 15|usuário|excluir uma playlist|eu possa me desfazer de uma playlist indesejada ou que não é mais usada|Alta|To do|
 |RF 19|usuário|mudar meu tipo de perfil|eu possa ter acesso a funcionalidades especificas do tipo de usuário|Alta|To do|
 |RF 24|usuário|compartilhar playlists|meus amigos possam ter acesso as mesmas playlists que estou ouvindo|Baixa|To do|
 |RF 25|usuário|seguir artistas|eu possa acompanhar seus lançamentos e informações|Baixa|To do|

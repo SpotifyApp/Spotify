@@ -37,6 +37,8 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 # 2. Funcionalidade
 <p align="justify">Abaixo apresentamos uma lista com os requisitos funcionais,  alguns desses serão abordados nos diagramas de caso de uso.
 
+## Requisitos funcionais
+
  Identificador | Funcionalidade
  --- | ---
 RF 01 | Acessar biblioteca
@@ -71,16 +73,28 @@ RF 22 | Ouvir lançamentos
 RF 18 | Ocultar playlist
 RF 23 | Postar uma música
 RF 39 | Procurar playlist
-RF 24 |
-RF 25 | 
+RF 24 | Compartilhar playlists
+RF 25 | Seguir artistas
 RF 26 | Renomear playlists
 RF 27 | Sair do aplicativo
 RF 28 | Seguir amigos para conhecer o que eles ouvem
-RF 29 | Verificar a autenticidade do perfil de artista
+RF ## | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
 RF 31 | Salvar músicas
 RF 32 | Download de playlists
 
+
+## Requisitos não funcionais
+
+Identificador | Descrição
+--- | --- 
+|RNF 01|sistema de autenticação de usuário
+|RNF 02|serviço de busca
+|RNF 03|telas de interação responsivas
+|RNF 04|integrarcão spotify e facebook
+
+
+## Requisitos para plataformas específicas
 
 Identificador | Dispositivos | Modelo | Sistema operacional
 --- | --- | --- | ---
