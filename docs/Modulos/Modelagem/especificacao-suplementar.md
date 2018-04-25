@@ -151,10 +151,13 @@ O sistema estará disponível no modo 24/7.
 O sistema deve suportar 4 bilhões de usuários ativos simultaneamente.
 
 ## 4.3 Direitos autorais
-O sistema deve garantir que os direitos autorais dos artistas seja preservado
+* O sistema deve garantir que os direitos autorais dos artistas seja preservado;
+* O sistema deve oferecer suporte para que o usuário possa realizar denúncias ao se deparar com conteúdos que violem direitos de propriedade intelectual ou conteúdos que sejam ofensivos.
 
-## 4.4 Segurança
-A senha do usuário deverá ser guardada de forma segura, além de dados pessoais em geral.
+## 4.4 Segurança e Privacidade
+* O sistema deve assegurar a segurança e privacidade dos dados gerados, armazenando senhas e dados sensiveis de forma segura.
+* O sistema deve ser transparente quanto as informações coletadas referentes a dados pessoais do usuário e preferencias de conteudo e fornecer ao usuario a possibilidade de ajustar a visibilidade de tais informações.
+* O sistema deve fornecer ao usuário controle sobre o conteúdo de comunicação que irá receber, como notificações e e-mails.
 
 # 5. Desempenho
 ## 5.1 Tempo de resposta
