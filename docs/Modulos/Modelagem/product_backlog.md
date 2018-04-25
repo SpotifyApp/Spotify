@@ -6,6 +6,7 @@
 |RNF 02|Desenvolvedor|desenvolver serviço de busca|conteúdos possam ser procurados na aplicação|Alta|To do|
 |RNF 03|Desenvolvedor|desenvolver telas de interação responsivas|o layout seja ajustado de acordo com o dispositivo|Alta|To do|
 |RNF 04|desenvolvedor|integrar spotify com  facebook|músicas e playlists possam ser compartilhadas entre as duas aplicações|Baixa|To do|
+|RNF 05|desenvolvedor|interface simples e intuitiva|o usuário tenha facilidade em usar o serviço, para retenção de usuários e baixo suporte técnico|Alta|To do|
 |RF 01|usuário|acessar a biblioteca|possa acessar todo o conteúdo de música relacionado ao meu perfil |Alta|To do|
 |RF 02|usuário|acessar opções de busca|possa achar o conteúdo de música relacionado ao que eu digitei|Alta|To do|
 |RF 03|usuário|acessar playlists|possa ver todo o conteúdo das playlists que eu sigo ou que eu criei|Média|To do|
@@ -33,3 +34,4 @@
 |RF 36|usuário|mudar minha senha|eu possa modificar minha senha anterior|Alta|To do|
 |RF 37|usuário|Editar dados de conta|eu possa modificar e atualizar meus dados|Alta|To do|
 |RF 39|usuário|procurar por playlists|eu possa ouvi-las|Alta|To do|
+|RF 40|usuário|facilidade em comunicação com o suporte técnico|ter informações e relatar problemas|Alta|To do|

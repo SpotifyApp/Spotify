@@ -82,16 +82,18 @@ RF ## | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
 RF 31 | Salvar músicas
 RF 32 | Download de playlists
-
+RF 40 | Suporte técnico
 
 ## Requisitos não funcionais
 
 Identificador | Descrição
---- | --- 
+--- | ---
 |RNF 01|sistema de autenticação de usuário
 |RNF 02|serviço de busca
 |RNF 03|telas de interação responsivas
 |RNF 04|integrarcão spotify e facebook
+|RNF 05|Interface simples e interativa ao usuário (Marketing)
+
 
 
 ## Requisitos para plataformas específicas
