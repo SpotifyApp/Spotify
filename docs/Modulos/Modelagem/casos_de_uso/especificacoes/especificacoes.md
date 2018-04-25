@@ -12,6 +12,8 @@
 * [Cadastro de usuário comum](#cadastro-de-usuario-comum)
 * [Adquirir o plano premiun](#adquirir-o-plano-premiun)
 * [Ficar em modo offline](#ficar-em-modo-offline)
+* [Postar uma música](#postar-uma-musica)
+* [Colocar a agenda de shows](#colocar-a-agenda-de-shows)
 
 
 ---
@@ -552,3 +554,78 @@ O aplicativo não possui essa funcionalidade.
 
 ### 6 Mensagens
 - Não existe
+
+---
+
+## Postar uma música
+
+### 1. Nome do Caso de Uso
+- postar uma música
+
+### 2.  Breve descrição
+- Usuário artista deseja postar uma música no aplicativo spotify.
+
+### 3.  Atores
+- Usuário artista.
+
+### 4.  Pré-Condição
+- O usuário deve ser ter o perfil artista.
+- Ter o aplicativo do Spotify instalado.
+- Ter colocado a música no site da gravadora que ela tem contrato.
+
+### 5.  Fluxo de eventos
+
+#### 5.1 Fluxo básico
+
+- O usuário artista instala o spotify.
+- O usuário abre o aplicativa e faz o login.
+- O usuário vai no site da gravadora(distribuidora) e posta a música no site deles.
+- A gravadora direciona a música pro aplicativo spotify.
+
+### 5.2 Fluxos alternativos
+
+- Não existe
+
+### 5.3 Fluxos de Exceção
+- [FE01]Tentar postar uma música que já existe.
+
+### 6 Mensagens
+- [M1]Esta música já existe ou não de sua autoria.
+
+---
+
+## Colocar a agenda de shows
+
+### 1. Nome do Caso de Uso
+- colocar a agenda de shows
+
+### 2.  Breve descrição
+- Usuário artista deseja divulgara agenda de shows no seu perfil.
+
+### 3.  Atores
+- Usuário artista.
+
+### 4.  Pré-Condição
+- O usuário deve ter o perfil artista.
+- Ter o aplicativo do Spotify instalado.
+- Ter feito o login.
+
+### 5.  Fluxo de eventos
+
+#### 5.1 Fluxo básico
+
+- O usuário instala o spotify.
+- O usuário abre o aplicativa e faz o login.
+- O usuário vai na parte de adicionar agenda de shows.
+- Usuário coloca as informações necessárias(data e cidade).
+
+#### 5.2 Fluxos alternativos
+
+- [FA01]Adicionar uma data e um local por cima de outro, devido a algum imprevisto.
+
+#### 5.3 Fluxos de Exceção
+- [FE01] Tentar adicionar alguma agenda de shows não possuindo o perfil de artista.
+- [FE02] Faltar com alguma informação da parte de shows.
+
+### 6 Mensagens
+- [M1] está faltanto um campo obrigatório.
