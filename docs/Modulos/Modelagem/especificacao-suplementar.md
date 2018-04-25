@@ -57,6 +57,7 @@ RF 10 | Controle de reprodução.
 RF 11 | Criar estação
 RF 12 | Criar playlist
 RF 13 | Comprar plano de divulgação de músicas próprias
+RF 24 | Compartilhar playlists
 RF 34 | Configurar o volume
 RF 14 | Editar foto de pefil conta
 RF 37 | Editar dados de conta
@@ -73,16 +74,15 @@ RF 22 | Ouvir lançamentos
 RF 18 | Ocultar playlist
 RF 23 | Postar uma música
 RF 39 | Procurar playlist
-RF 24 | Compartilhar playlists
 RF 25 | Seguir artistas
 RF 26 | Renomear playlists
 RF 27 | Sair do aplicativo
 RF 28 | Seguir amigos para conhecer o que eles ouvem
+RF 40 | Suporte técnico
 RF ## | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
 RF 31 | Salvar músicas
 RF 32 | Download de playlists
-RF 40 | Suporte técnico
 
 ## Requisitos não funcionais
 
