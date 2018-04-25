@@ -7,6 +7,9 @@
 |RNF 03|Desenvolvedor|desenvolver telas de interação responsivas|o layout seja ajustado de acordo com o dispositivo|Alta|To do|
 |RNF 04|desenvolvedor|integrar spotify com  facebook|músicas e playlists possam ser compartilhadas entre as duas aplicações|Baixa|To do|
 |RNF 05|desenvolvedor|interface simples e intuitiva|o usuário tenha facilidade em usar o serviço, para retenção de usuários e baixo suporte técnico|Alta|To do|
+|RNF 06|desenvolvedor|adicionar vinhetas durante a programação musical para quem está no modelo “Free”|o usuário tenha o intuito de migrar para o plano pago, além de forma de levantar capital com anúncios|Alta|To do|
+|RNF 07|desenvolvedor|Limitações de uso ao plano gratuito|o usuário tenha o intuito de migrar para o plano pago|Alta|To do|
+|RNF 08|desenvolvedor|Limitações de Passagens de música (6 por hora) no modelo “Free”|o usuário tenha o intuito de migrar para o plano pago|Alta|To do|
 |RF 01|usuário|acessar a biblioteca|possa acessar todo o conteúdo de música relacionado ao meu perfil |Alta|To do|
 |RF 02|usuário|acessar opções de busca|possa achar o conteúdo de música relacionado ao que eu digitei|Alta|To do|
 |RF 03|usuário|acessar playlists|possa ver todo o conteúdo das playlists que eu sigo ou que eu criei|Média|To do|

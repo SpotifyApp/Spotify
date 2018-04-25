@@ -93,8 +93,9 @@ Identificador | Descrição
 |RNF 03|telas de interação responsivas
 |RNF 04|integrarcão spotify e facebook
 |RNF 05|Interface simples e interativa ao usuário (Marketing)
-
-
+|RNF 06|vinhetas durante a programação musical para quem está no modelo “Free”
+|RNF 07|Limitações de uso ao plano gratuito
+|RNF 08|Limitações de Passagens de música (6 por hora) no modelo “Free”
 
 ## Requisitos para plataformas específicas
 
