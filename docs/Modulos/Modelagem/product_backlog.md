@@ -22,3 +22,4 @@
 |RF 25|usuário|seguir artistas|eu possa acompanhar seus lançamentos e informações|Baixa|To do|
 |RF 32|usuário|baixar playlists|ouvi-las sem precisar estar  conectado à internet|Alta|To do|
 |RF 36|usuário| mudar minha senha|eu possa modificar minha senha anterior|Alta|To do|
+|RF|usuário| adicionar amigos|eu possa compartilhar meu gosto musical com meus amigos|Alta|to do|
