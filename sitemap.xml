@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,25 +13,19 @@
         
     <url>
      <loc>/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usuário/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-artistas/</loc>
-     <lastmod>2018-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <loc>/Modulos/Pre_rastreabilidade/Argumentacao/argumentacao/</loc>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -41,37 +35,37 @@
         
     <url>
      <loc>/Modulos/Elicitacao/Plano-de-Elicitação-de-Requisitos-Música/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/Modulos/Elicitacao/Elicitação-Módulo-Integração-do-uso-do-Spotify-em-diferentes-Hardwares/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Modulos/Elicitacao/Plano-de-elicitação-de-requisitos/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <loc>/Modulos/Elicitacao/Plano-de-elicitação-de-requisitos-de-usuário/</loc>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/Modulos/Elicitacao/Plano-de-Elicitação-de-Requisitos-de-Marketing/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/Modulos/Elicitacao/Elicitação-de-requisitos-de-monetização/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/Modulos/Elicitacao/Elicitação-de-requisitos-de-design/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -81,55 +75,43 @@
         
     <url>
      <loc>/Modulos/Modelagem/especificacao-suplementar/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Modulos/Modelagem/especificacao-caso-biblioteca/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <loc>/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/</loc>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Modulos/Modelagem/gerenciarPlaylists/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <loc>/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/</loc>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Modulos/Modelagem/gerenciarArtistas/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <loc>/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/</loc>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Modulos/Modelagem/caso-usuario/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <loc>/Modulos/Modelagem/casos_de_uso/RF37-editar_dados_de_conta/</loc>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Modulos/Modelagem/especificacao-caso-editar_dados_de_conta/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <loc>/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/</loc>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Modulos/Modelagem/IntegracaoRedesSociais/</loc>
-     <lastmod>2018-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Modulos/Modelagem/especificacao-caso-planos/</loc>
-     <lastmod>2018-04-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Modulos/Modelagem/Especificacao_de_caso_plano_premium/</loc>
-     <lastmod>2018-04-18</lastmod>
+     <loc>/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/</loc>
+     <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
