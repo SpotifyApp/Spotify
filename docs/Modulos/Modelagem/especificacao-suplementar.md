@@ -91,7 +91,7 @@ Identificador | Descrição
 |RNF 01|sistema de autenticação de usuário
 |RNF 02|serviço de busca
 |RNF 03|telas de interação responsivas
-|RNF 04|integrarcão spotify e facebook
+|RNF 04|integração spotify e facebook
 |RNF 05|Interface simples e interativa ao usuário (Marketing)
 |RNF 06|vinhetas durante a programação musical para quem está no modelo “Free”
 |RNF 07|Limitações de uso ao plano gratuito
