@@ -80,37 +80,7 @@
     </url>
         
     <url>
-     <loc>/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/</loc>
-     <lastmod>2018-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/</loc>
-     <lastmod>2018-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/</loc>
-     <lastmod>2018-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Modulos/Modelagem/casos_de_uso/RF37-editar_dados_de_conta/</loc>
-     <lastmod>2018-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/</loc>
-     <lastmod>2018-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/</loc>
+     <loc>/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/</loc>
      <lastmod>2018-04-25</lastmod>
      <changefreq>daily</changefreq>
     </url>

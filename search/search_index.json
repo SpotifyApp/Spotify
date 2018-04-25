@@ -416,283 +416,568 @@
             "title": "Gerenciar artistas salvos"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/", 
-            "text": "\u2705 [UC01] - Gerenciar playlists\n\n\n\n\n1. Nome do Caso de Uso\n\n\n\n\nGerenciar playlists\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nGerenciar minhas playlists salvas\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio\n\n\n\n\n4.  Fluxo de eventos\n\n\n4.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio abre o aplicativo\n\n\nO aplicativo exibe a tela inicial\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d\n\n\nO aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cplaylists\u201d\n\n\nO aplicativo lista todas as playlists salvas\n\n\nO usu\u00e1rio pode compartilhar, excluir, renomear ou reproduzir suas playlists\n\n\n\n\n4.2 Fluxos alternativos\n\n\n\n\nO usu\u00e1rio n\u00e3o possui nenhuma playlist salva\n\n\nO aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhuma playlist salva, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).\n\n\nO aplicativo apresenta a op\u00e7\u00e3o de \u201cCriar sua primeira playlist\u201d\n\n\nAo criar uma nova playlists, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.\n\n\nO fluxo principal \u00e9 retomado.\n\n\n\n\n4.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n5. Pr\u00e9-condi\u00e7\u00f5es\n\n\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nPossuir conta de usu\u00e1rio no Spotify", 
-            "title": "Caso de Uso RF01-Gerenciar Playlists"
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/", 
+            "text": "Especifica\u00e7\u00f5es de Casos de Uso\n\n\n\n\nIntegra\u00e7\u00e3o com Redes Sociais\n\n\nGerenciar playlists salvas\n\n\nGerenciar artistas salvos\n\n\nCadastro como perfil de artista\n\n\nFazer login\n\n\nEditar dados de conta\n\n\nAtualizar biografia do artista\n\n\nSair do aplicativo\n\n\nMudar o tipo de perfil\n\n\nCadastro de usu\u00e1rio comum\n\n\nAdquirir o plano premiun\n\n\nFicar em modo offline\n\n\n\n\n\n\nIntegra\u00e7\u00e3o com Redes Sociais\n\n\n1. Descri\u00e7\u00e3o\n\n\nDescri\u00e7\u00e3o - Este caso de uso permite ao usu\u00e1rio facilidade de compartilhamento, usabilidade, podendo compartilhar playlists e m\u00fasicas, entre outras funcioalidades.\n\n\n2. Fluxo de Eventos\n\n\n2.1 Fluxo B\u00e1sico\n\n\n\n\nO fluxo b\u00e1sico come\u00e7a quando o usu\u00e1rio acessa a plataforma Spotify e come\u00e7a a utilizar o aplicativo (#R21 \u2013 Navegar (de acordo com o documento de Especifica\u00e7\u00e3o suplementar)) .\n\n\nO usu\u00e1rio acessa o Aplicativo.\n\n\nO usu\u00e1rio navega dentro do aplicativo. [RF 21]\n\n\nO usu\u00e1rio tem diversas op\u00e7\u00f5es dentro das funcionalidades dispon\u00edveis.\n\n\nO usu\u00e1rio acessa uma playlist [RF 03] ou uma m\u00fasica\n\n\nDentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.\n\n\n\n\n2.2 Fluxo Alternativo\n\n\n\n\nBuscar uma m\u00fasica sem necessariamente acessar uma playlist.\n\n\nO usu\u00e1rio acessa o Aplicativo.\n\n\nO usu\u00e1rio navega dentro do aplicativo. [RF 21]\n\n\nO busca por uma m\u00fasica em especifica.\n\n\nDentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.\n\n\n\n\n\n\n\n\n2.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nErro na integra\u00e7\u00e3o com outra rede social\n\n\nO usu\u00e1rio solicita alguma funcionalidade que exige dados de outra rede social.\n\n\nO sistema tenta o acesso e apresenta erro.\n\n\nO sistema volta para a p\u00e1gina anterior.\n\n\n\n\n\n\n\n\n3. Requisitos Especiais\n\n\n\n\nNenhum requisito especial identificado.\n\n\n\n\n4. Condi\u00e7\u00f5es Pr\u00e9vias\n\n\n\n\nEstar conectado com a internet.\n\n\nPossuir acesso as outras redes sociais.\n\n\n\n\n5. Mensagens\n\n\n[MES01] \u201cErro ao conectar ao aplicativo\u201d.\n\n\n\n\nGerenciar playlists salvas\n\n\n1. Nome do Caso de Uso\n\n\n\n\nGerenciar playlists\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nGerenciar minhas playlists salvas\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio\n\n\n\n\n4.  Fluxo de eventos\n\n\n4.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio abre o aplicativo\n\n\nO aplicativo exibe a tela inicial\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d\n\n\nO aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cplaylists\u201d\n\n\nO aplicativo lista todas as playlists salvas\n\n\nO usu\u00e1rio pode compartilhar, excluir, renomear ou reproduzir suas playlists\n\n\n\n\n4.2 Fluxos alternativos\n\n\n\n\nO usu\u00e1rio n\u00e3o possui nenhuma playlist salva\n\n\nO aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhuma playlist salva, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).\n\n\nO aplicativo apresenta a op\u00e7\u00e3o de \u201cCriar sua primeira playlist\u201d\n\n\nAo criar uma nova playlists, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.\n\n\nO fluxo principal \u00e9 retomado.\n\n\n\n\n4.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n5. Pr\u00e9-condi\u00e7\u00f5es\n\n\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nPossuir conta de usu\u00e1rio no Spotify\n\n\n\n\n\n\nGerenciar artistas salvos\n\n\n1. Nome do Caso de Uso\n\n\n\n\nGerenciar artistas salvos\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nGerenciar meus artistas salvos\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio\n\n\n\n\n4.  Fluxo de eventos\n\n\n4.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio abre o aplicativo\n\n\nO aplicativo exibe a tela inicial\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d\n\n\nO aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cartistas\u201d\n\n\nO aplicativo lista todas os artistas salvas    \n\n\nO usu\u00e1rio pode ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou adicionar perfil do artista \u00e0 tela inicial do celular\n\n\n\n\n4.2 Fluxos alternativos\n\n\n\n\nO usu\u00e1rio n\u00e3o possui nenhum artista salvo\n\n\nO aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhum artista salvo, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de artistas salvos (ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou reproduzir suas playlists).\n\n\nO aplicativo apresenta a op\u00e7\u00e3o de salvar m\u00fasicas de artistas\n\n\nAo salvar m\u00fasicas de um artista ou seguir um perfil de artista, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.\n\n\nO fluxo principal \u00e9 retomado.\n\n\n\n\n4.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n5. Pr\u00e9-condi\u00e7\u00f5es\n\n\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nPossuir conta de usu\u00e1rio no Spotify\n\n\n\n\n\n\nCadastro como perfil de artista\n\n\n1. Nome do Caso de Uso\n\n\n\n\nCadastro como perfil de artista\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deseja ter o perfil de artista para postar as pr\u00f3prias m\u00fasicas.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio n\u00e3o cadastrado.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve ser n\u00e3o cadastrado.\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify for artists.\n\n\nO usu\u00e1rio abre o aplicativo.\n\n\nO usu\u00e1rio clica em fazer cadastro.\n\n\nUsu\u00e1rio coloca as informa\u00e7\u00f5es necess\u00e1rias para adquirir o perfil.\n\n\nUsu\u00e1rio faz um contrato com um distribuidor para a rede streaming.\n\n\nO usu\u00e1rio espera a certifica\u00e7\u00e3o do aplicativo, para liberar o perfil de artista.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\nN\u00e3o existe.\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\n[FE01]\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n\n\n[FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:\n\n\n\n\nO sistema identifica a resposta inv\u00e1lida .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\n\n\nO sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.\n\n\n\n\n\n\n[FE03] Usu\u00e1rio n\u00e3o possui contrato com uma distribuidora de streaming:\n\n\n\n\n\n\nO sistema mostra permanece na p\u00e1gina de cadastro.\n\n\n\n\n\n\n[FE04] Usu\u00e1rio tenta criar um perfil de artista falso ou existente:\n\n\n\n\nO sistema ir\u00e1 validar as informa\u00e7\u00f5es e n\u00e3o permitir\u00e1 a cria\u00e7\u00e3o do perfil com informa\u00e7\u00f5es incorretas.\n\n\n\n\n6 Mensagens\n\n\n\n\n[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.\n\n\n[M2] Perfil n\u00e3o autorizado, tente se cadastras novamente.\n\n\n\n\n\n\nFazer login\n\n\n1. Nome do Caso de Uso\n\n\n\n\nFazer Login\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nUsu\u00e1rio faz o login.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio cadastrado.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve possuir uma conta no spotify.\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify.\n\n\nO usu\u00e1rio clica em fazer login.\n\n\nO usu\u00e1rio p\u00f5em as informa\u00e7\u00f5es de endere\u00e7o de email e senha.\n\n\nClica em entrar.\n\n\nO sistema vai para o template de usu\u00e1rio cadastrado.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\n[FA01] Usu\u00e1rio faz o login pela sua conta no facebook:\n\n\nO usu\u00e1rio entra no aplicativo.\n\n\nO usu\u00e1rio clica em entrar pela conta do facebook.\n\n\nColoca as informa\u00e7\u00f5es da conta.\n\n\nClica em confirmar.\n\n\nE direcionado a parte do aplicativo de funcionalidades para cadastrados.\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\n[FE01] Errar algum dos dados de login:\n\n\nO sistema identifica o dado inv\u00e1lido(endere\u00e7o de email ou senha) .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\n\n\nO sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.\n\n\n\n\n\n\n[FE02] Usu\u00e1rio coloca dados de rede social inv\u00e1lido:\n\n\n\n\nO sistema identifica a informa\u00e7\u00e3o inv\u00e1lida .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\nO sistema destaca a informa\u00e7\u00e3o inv\u00e1lida.\n\n\n\n\n6. Mensagens\n\n\n\n\n[M1] O email n\u00e3o existe.\n\n\n[M2] Senha incorreta.\n\n\n[M3]Dados de rede social inv\u00e1lidos.\n\n\n\n\n\n\nEditar dados de conta\n\n\n1. Descri\u00e7\u00e3o\n\n\nEditar as informa\u00e7\u00f5es pessoais do usu\u00e1rio.\n\n\n2. Atores\n\n\nUsu\u00e1rio cadastrado\n\n\n3. Pr\u00e9-condi\u00e7\u00e3o:\n\n\nO usu\u00e1rio deve possuir uma conta no spotify.\n\n\n4. Fluxo Principal:\n\n\n\n  \nFaz o login.\n\n  \nO usu\u00e1rio vai na p\u00e1gina web do site.\n\n  \nO usu\u00e1rio clica em editar perfil.\n\n  \nModifica os dados.\n\n  \nClica em salvar.\n\n\n\n\n5. Fluxos Alternativos\n\n\n[FA01]Usu\u00e1rio clica em modificar somente senha:\n\nO usu\u00e1rio entra no site spotify.\n\nO usu\u00e1rio faz o login.\n\nO usu\u00e1rio clica em modificar somente senha.\n\nModifica o dado.\n\nClica em salvar.\n\n\n[FA02]Usu\u00e1rio modifica a foto do perfil pelo aplicativo:\n\nO usu\u00e1rio entra no aplicativo spotify.\n\nvai no seu perfil.\n\nO usu\u00e1rio modifica sua foto de perfil.\n\n\n6. Fluxo de Exce\u00e7\u00e3o:\n\n\n[FE01] Tenta modificar os dados que n\u00e3o sejam a foto de perfil pelo aplicativo:\n\nO aplicativo n\u00e3o possui essa funcionalidade.\n\n\n\n\nAtualizar biografia do artista\n\n\n1. Nome do Caso de Uso\n\n\n\n\natualizar biografia do artista\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nO artista deseja mudar o conte\u00fado da biografia que est\u00e1 presente no seu perfil de artista.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio artista.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve ser usu\u00e1rio artista.\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nTer feito o login.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify.\n\n\nO usu\u00e1rio abre o aplicativa e faz o login.\n\n\nO usu\u00e1rio vai na aba de biografia eclica em editar.\n\n\nUsu\u00e1rio faz a modifica\u00e7\u00e3o e salva.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\nN\u00e3o existe.\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\n[FE01]\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n\n\n[FE02] Usu\u00e1rio ainda n\u00e3o tem perfil de artista autenticado:\n\n\n\n\nO sistema n\u00e3o deixar\u00e1 o usu\u00e1rio fazer nenhum a\u00e7\u00e3o que envolva o perfil artista at\u00e9 ser validado.\n\n\n\n\n6 Mensagens\n\n\n\n\n[M1] A modifica\u00e7\u00e3o da biografia n\u00e3o foi efetuada, sua conex\u00e3o caiu.\n\n\n\n\n\n\nSair do aplicativo\n\n\n1. Nome do Caso de Uso\n\n\n\n\nSair do aplicativo\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nUsu\u00e1rio sai da conta atual.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve possuir uma conta no spotify.\n\n\nEstar logado no aplicativo.\n\n\nTer o aplicativo do Spotify instalado\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio faz o login spotify.\n\n\nO usu\u00e1rio \u00e9 direcionado a parte de usu\u00e1rio.\n\n\nO usu\u00e1rio sai da conta.\n\n\n\n\n\n\nMudar o tipo de perfil\n\n\n1. Nome do Caso de Uso\n\n\n\n\nMudar o tipo de perfil\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio comum deseja se tornar usu\u00e1rio artista.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio comum.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve ser comum.\n\n\nTer o aplicativo desktop do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify.\n\n\nO usu\u00e1rio abre o aplicativa e faz o login.\n\n\nO usu\u00e1rio clica em requerir o perfil artista.\n\n\nUsu\u00e1rio coloca as informa\u00e7\u00f5es necess\u00e1rias, tais como a ag\u00eancia que ir\u00e1 distribuir a m\u00fasica para o aplicativo, o Twitter e outros.\n\n\nO usu\u00e1rio espera o aplicativo autenticar o perfil requerido para usar as funcionalidades novas.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\nN\u00e3o existe.\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\n[FE01]\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n\n\n[FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:\n\n\n\n\nO sistema identifica a resposta inv\u00e1lida .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\n\n\nO sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.\n\n\n\n\n\n\n[FE03] Usu\u00e1rio tenta criar um perfil fake:\n\n\n\n\nO sistema n\u00e3o ir\u00e1 autorizar o requerimento do perfil.\n\n\n\n\n6 Mensagens\n\n\n\n\n[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.\n\n\n[M2] O requerimento do perfil n\u00e3o foi autorizado.\n\n\n\n\n\n\nCadastro de usu\u00e1rio comum\n\n\n1. Nome do Caso de Uso\n\n\n\n\nCadastro de usu\u00e1rio comum\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nCriar um cadastro de usu\u00e1rio.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio n\u00e3o cadastrado\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve possuir um endere\u00e7o de email, conta no Facebook ou conta no Google+.\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify.\n\n\nO usu\u00e1rio abre o aplicativa e clica em \"Cadastrar\".\n\n\nO usu\u00e1rio coloca as informa\u00e7\u00f5es de endere\u00e7o de email, senha, data de nascimento e g\u00eanero.\n\n\nUsu\u00e1rio aceito os termos do aplicativo.\n\n\nO sistema vai para o template de usu\u00e1rio cadastrado.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\n[FA01] Seria o requisito RF07 .\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\n[FE01]\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n\n\n[FE02] Usu\u00e1rio coloca a data de nascimento que comprova menor idade:\n\n\n\n\nO sistema identifica a idade inv\u00e1lida .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\n\n\nO sistema destaca o box com a informa\u00e7\u00e3o de idade inv\u00e1lida.\n\n\n\n\n\n\n[FE03] Usu\u00e1rio coloca senha com menos de 8 caracteres:\n\n\n\n\nO sistema identifica a senha inv\u00e1lida .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\nO sistema destaca o box com a informa\u00e7\u00e3o de idade inv\u00e1lida.\n\n\n\n\n6 Mensagens\n\n\n\n\n[M1] Idade n\u00e3o permitida para uso do aplicativo.\n\n\n[M2] Senha com tamanho n\u00e3o permitido, m\u00ednimo 8 caracteres.\n\n\n\n\n\n\nAdquirir o plano premiun\n\n\n1. Nome do Caso de Uso\n\n\n\n\nAdquirir o plano premiun\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nComprar o plano premiun, com mais funcionalidades.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio free.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve ser free.\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify.\n\n\nO usu\u00e1rio abre o aplicativa e faz o login.\n\n\nO usu\u00e1rio clica em adquirir plano premiun.\n\n\nUsu\u00e1rio coloca as informa\u00e7\u00f5es para o contrato do plano ser firmado.\n\n\nO usu\u00e1rio escolhe a forma de pagamento.\n\n\nO usu\u00e1rio paga a fatura e mude do plano free para o plano premiun de imediato.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\n[FA01]\n\n\n\n\nAdquirir um plano premiun, pelo pacote estudantil.\n\n\n\n\n\n\n[FA02]\n\n\n\n\nAdquirir um plano premiun, pelo pacote fam\u00edlia.\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\n[FE01]\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n\n\n[FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:\n\n\n\n\nO sistema identifica a resposta inv\u00e1lida .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\n\n\nO sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.\n\n\n\n\n\n\n[FE03] Usu\u00e1rio n\u00e3o paga a fatura:\n\n\n\n\nO sistema n\u00e3o muda de free para premiun .\n\n\n\n\n6 Mensagens\n\n\n\n\n[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.\n\n\n\n\n\n\nFicar em modo offline\n\n\n1. Nome do Caso de Uso\n\n\n\n\nficar em modo offline\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nUsu\u00e1rio faz login no aplicativo e deseja reproduzir as m\u00fasicas em modo offline para n\u00e3o gastar pacote de internet.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio comum.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve ser comum.\n\n\nTer o aplicativo do Spotify instalado.\n\n\nTer feito o login.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify.\n\n\nO usu\u00e1rio abre o aplicativa e faz o login.\n\n\nO usu\u00e1rio vai na parte de configura\u00e7\u00f5es.\n\n\nUsu\u00e1rio ativa o modo offline.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\nN\u00e3o existe\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nN\u00e3o existe\n\n\n\n\n6 Mensagens\n\n\n\n\nN\u00e3o existe", 
+            "title": "Especifica\u00e7\u00f5es de Caso de Uso"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#uc01-gerenciar-playlists", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#especificacoes-de-casos-de-uso", 
+            "text": "Integra\u00e7\u00e3o com Redes Sociais  Gerenciar playlists salvas  Gerenciar artistas salvos  Cadastro como perfil de artista  Fazer login  Editar dados de conta  Atualizar biografia do artista  Sair do aplicativo  Mudar o tipo de perfil  Cadastro de usu\u00e1rio comum  Adquirir o plano premiun  Ficar em modo offline", 
+            "title": "Especifica\u00e7\u00f5es de Casos de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#integracao-com-redes-sociais", 
             "text": "", 
-            "title": "\u2705 [UC01] - Gerenciar playlists"
+            "title": "Integra\u00e7\u00e3o com Redes Sociais"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#1-nome-do-caso-de-uso", 
-            "text": "Gerenciar playlists", 
-            "title": "1. Nome do Caso de Uso"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#2-breve-descricao", 
-            "text": "Gerenciar minhas playlists salvas", 
-            "title": "2.  Breve descri\u00e7\u00e3o"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#3-atores", 
-            "text": "Usu\u00e1rio", 
-            "title": "3.  Atores"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#4-fluxo-de-eventos", 
-            "text": "", 
-            "title": "4.  Fluxo de eventos"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#41-fluxo-basico", 
-            "text": "O usu\u00e1rio abre o aplicativo  O aplicativo exibe a tela inicial  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d  O aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cplaylists\u201d  O aplicativo lista todas as playlists salvas  O usu\u00e1rio pode compartilhar, excluir, renomear ou reproduzir suas playlists", 
-            "title": "4.1 Fluxo b\u00e1sico"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#42-fluxos-alternativos", 
-            "text": "O usu\u00e1rio n\u00e3o possui nenhuma playlist salva  O aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhuma playlist salva, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).  O aplicativo apresenta a op\u00e7\u00e3o de \u201cCriar sua primeira playlist\u201d  Ao criar uma nova playlists, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.  O fluxo principal \u00e9 retomado.", 
-            "title": "4.2 Fluxos alternativos"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#43-fluxos-de-excecao", 
-            "text": "Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.  As funcionalidades n\u00e3o podem ser acessadas.", 
-            "title": "4.3 Fluxos de Exce\u00e7\u00e3o"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF01-gerenciar_playlist/#5-pre-condicoes", 
-            "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
-            "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/", 
-            "text": "Gerenciar artistas salvos\n\n\n\n\n1. Nome do Caso de Uso\n\n\n\n\nGerenciar artistas salvos\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nGerenciar meus artistas salvos\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio\n\n\n\n\n4.  Fluxo de eventos\n\n\n4.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio abre o aplicativo\n\n\nO aplicativo exibe a tela inicial\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d\n\n\nO aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es\n\n\nO usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cartistas\u201d\n\n\nO aplicativo lista todas os artistas salvas    \n\n\nO usu\u00e1rio pode ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou adicionar perfil do artista \u00e0 tela inicial do celular\n\n\n\n\n4.2 Fluxos alternativos\n\n\n\n\nO usu\u00e1rio n\u00e3o possui nenhum artista salvo\n\n\nO aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhum artista salvo, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de artistas salvos (ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou reproduzir suas playlists).\n\n\nO aplicativo apresenta a op\u00e7\u00e3o de salvar m\u00fasicas de artistas\n\n\nAo salvar m\u00fasicas de um artista ou seguir um perfil de artista, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.\n\n\nO fluxo principal \u00e9 retomado.\n\n\n\n\n4.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n5. Pr\u00e9-condi\u00e7\u00f5es\n\n\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\nPossuir conta de usu\u00e1rio no Spotify", 
-            "title": "Caso de Uso Gerenciar Artistas"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#gerenciar-artistas-salvos", 
-            "text": "", 
-            "title": "Gerenciar artistas salvos"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#1-nome-do-caso-de-uso", 
-            "text": "Gerenciar artistas salvos", 
-            "title": "1. Nome do Caso de Uso"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#2-breve-descricao", 
-            "text": "Gerenciar meus artistas salvos", 
-            "title": "2.  Breve descri\u00e7\u00e3o"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#3-atores", 
-            "text": "Usu\u00e1rio", 
-            "title": "3.  Atores"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#4-fluxo-de-eventos", 
-            "text": "", 
-            "title": "4.  Fluxo de eventos"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#41-fluxo-basico", 
-            "text": "O usu\u00e1rio abre o aplicativo  O aplicativo exibe a tela inicial  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d  O aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cartistas\u201d  O aplicativo lista todas os artistas salvas      O usu\u00e1rio pode ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou adicionar perfil do artista \u00e0 tela inicial do celular", 
-            "title": "4.1 Fluxo b\u00e1sico"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#42-fluxos-alternativos", 
-            "text": "O usu\u00e1rio n\u00e3o possui nenhum artista salvo  O aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhum artista salvo, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de artistas salvos (ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou reproduzir suas playlists).  O aplicativo apresenta a op\u00e7\u00e3o de salvar m\u00fasicas de artistas  Ao salvar m\u00fasicas de um artista ou seguir um perfil de artista, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.  O fluxo principal \u00e9 retomado.", 
-            "title": "4.2 Fluxos alternativos"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#43-fluxos-de-excecao", 
-            "text": "Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.  As funcionalidades n\u00e3o podem ser acessadas.", 
-            "title": "4.3 Fluxos de Exce\u00e7\u00e3o"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/gerenciar_artistas/#5-pre-condicoes", 
-            "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
-            "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/", 
-            "text": "Data\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\n\n\n\n\n\n\n\n\n21/04/2018\n\n\nGeovanne Santos\n\n\n1.0\n\n\n\n\n\n\n\n\n\u2705 [UC06] - Adquirir o plano premiun\n\n\n1. Nome do Caso de Uso\n\n\n\n\nAdquirir o plano premiun\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nComprar o plano premiun, com mais funcionalidades.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio free.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve ser free.\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify.\n\n\nO usu\u00e1rio abre o aplicativa e faz o login.\n\n\nO usu\u00e1rio clica em adquirir plano premiun.\n\n\nUsu\u00e1rio coloca as informa\u00e7\u00f5es para o contrato do plano ser firmado.\n\n\nO usu\u00e1rio escolhe a forma de pagamento.\n\n\nO usu\u00e1rio paga a fatura e mude do plano free para o plano premiun de imediato.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\n[FA01]\n\n\n\n\nAdquirir um plano premiun, pelo pacote estudantil.\n\n\n\n\n\n\n[FA02]\n\n\n\n\nAdquirir um plano premiun, pelo pacote fam\u00edlia.\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\n[FE01]\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n\n\n[FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:\n\n\n\n\nO sistema identifica a resposta inv\u00e1lida .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\n\n\nO sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.\n\n\n\n\n\n\n[FE03] Usu\u00e1rio n\u00e3o paga a fatura:\n\n\n\n\nO sistema n\u00e3o muda de free para premiun .\n\n\n\n\n6 Mensagens\n\n\n\n\n[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.", 
-            "title": "Caso de Uso RF06-Adquirir Plano Premiun"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#uc06-adquirir-o-plano-premiun", 
-            "text": "", 
-            "title": "\u2705 [UC06] - Adquirir o plano premiun"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#1-nome-do-caso-de-uso", 
-            "text": "Adquirir o plano premiun", 
-            "title": "1. Nome do Caso de Uso"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#2-breve-descricao", 
-            "text": "Comprar o plano premiun, com mais funcionalidades.", 
-            "title": "2.  Breve descri\u00e7\u00e3o"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#3-atores", 
-            "text": "Usu\u00e1rio free.", 
-            "title": "3.  Atores"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#4-pre-condicao", 
-            "text": "O usu\u00e1rio deve ser free.  Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.", 
-            "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#5-fluxo-de-eventos", 
-            "text": "", 
-            "title": "5.  Fluxo de eventos"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#51-fluxo-basico", 
-            "text": "O usu\u00e1rio instala o spotify.  O usu\u00e1rio abre o aplicativa e faz o login.  O usu\u00e1rio clica em adquirir plano premiun.  Usu\u00e1rio coloca as informa\u00e7\u00f5es para o contrato do plano ser firmado.  O usu\u00e1rio escolhe a forma de pagamento.  O usu\u00e1rio paga a fatura e mude do plano free para o plano premiun de imediato.", 
-            "title": "5.1 Fluxo b\u00e1sico"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#52-fluxos-alternativos", 
-            "text": "[FA01]   Adquirir um plano premiun, pelo pacote estudantil.    [FA02]   Adquirir um plano premiun, pelo pacote fam\u00edlia.", 
-            "title": "5.2 Fluxos alternativos"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#53-fluxos-de-excecao", 
-            "text": "[FE01]  Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.   As funcionalidades n\u00e3o podem ser acessadas.    [FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:   O sistema identifica a resposta inv\u00e1lida .  O sistema permanece na mesma p\u00e1gina.   O sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.    [FE03] Usu\u00e1rio n\u00e3o paga a fatura:   O sistema n\u00e3o muda de free para premiun .", 
-            "title": "5.3 Fluxos de Exce\u00e7\u00e3o"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF06-adquirir_o_plano_premiun/#6-mensagens", 
-            "text": "[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.", 
-            "title": "6 Mensagens"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF37-editar_dados_de_conta/", 
-            "text": "Data\n\n\nVers\u00e3o\n\n\nDescri\u00e7\u00e3o\n\n\nAutor\n\n\n\n\n\n\n\n\n\n\n18/04/2018\n\n\n1.0\n\n\nEspecifica\u00e7\u00e3o da UC08\n\n\nGeovanne Santos\n\n\n\n\n\n\n\n\nRF14 - Editar dados de conta\n\n\n\nDescri\u00e7\u00e3o:\n\n\n\nEditar as informa\u00e7\u00f5es pessoais do usu\u00e1rio.\n\n\nAtores:\n\nUsu\u00e1rio cadastrado\n\n\nPr\u00e9-condi\u00e7\u00e3o:\n\nO usu\u00e1rio deve possuir uma conta no spotify.\n\n\nFluxo Principal:\n\n\n\n\n  \nFaz o login.\n\n  \nO usu\u00e1rio vai na p\u00e1gina web do site.\n\n  \nO usu\u00e1rio clica em editar perfil.\n\n  \nModifica os dados.\n\n  \nClica em salvar.\n\n\n\n\n\nFluxos Alternativos\n\n\n\n[FA01]Usu\u00e1rio clica em modificar somente senha:\n\n\n\nO usu\u00e1rio entra no site spotify.\n\nO usu\u00e1rio faz o login.\n\nO usu\u00e1rio clica em modificar somente senha.\n\nModifica o dado.\n\nClica em salvar.\n\n\n[FA02]Usu\u00e1rio modifica a foto do perfil pelo aplicativo:\n\nO usu\u00e1rio entra no aplicativo spotify.\n\nvai no seu perfil.\n\nO usu\u00e1rio modifica sua foto de perfil.\n\n\nFluxo de Exce\u00e7\u00e3o:\n\n\n\n[FE01] Tenta modificar os dados que n\u00e3o sejam a foto de perfil pelo aplicativo:\n\n\n\nO aplicativo n\u00e3o possui essa funcionalidade .", 
-            "title": "Caso de Uso RF38-Editar Dados De Conta"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/", 
-            "text": "Integra\u00e7\u00e3o com redes Sociais\n\n\n\n\nIndice Anal\u00edtico\n\n\n\n\nNome do Caso de Uso\n\n\nBreve descri\u00e7\u00e3o\n\n\n\n\n\n\nFluxo de eventos\n\n\nFluxo B\u00e1sico\n\n\nFluxos Alternativos\n\n\nVisualizar Caderno de Acordo com a Cronologia e Categoria das Tarefas\n\n\n\n\n\n\nFluxos de Exce\u00e7\u00e3o\n\n\nVisualizar Caderno Inexistente\n\n\n\n\n\n\n\n\n\n\nRequisitos Especiais\n\n\nPrimeiro Requisito Especial\n\n\n\n\n\n\nCondi\u00e7\u00f5es Pr\u00e9vias   \n\n\nCondi\u00e7\u00e3o Pr\u00e9via Um\n\n\n\n\n\n\nMensagens\n\n\n\n\nEspecifica\u00e7\u00e3o de Caso de Uso \n\n\n1. #UC1 \u2013 Integra\u00e7\u00e3o de Redes sociais\n\n\n1.1 Breve Descri\u00e7\u00e3o\n\n\nDescri\u00e7\u00e3o - Este caso de uso permite ao usu\u00e1rio facilidade de compartilhamento, usabilidade, podendo compartilhar playlists e m\u00fasicas, entre outras funcioalidades.\n\n\n2. Fluxo de Eventos\n\n\n2.1 Fluxo B\u00e1sico\n\n\n\n\nO fluxo b\u00e1sico come\u00e7a quando o usu\u00e1rio acessa a plataforma Spotify e come\u00e7a a utilizar o aplicativo (#R21 \u2013 Navegar (de acordo com o documento de Especifica\u00e7\u00e3o suplementar)) .\n\n\nO usu\u00e1rio acessa o Aplicativo.\n\n\nO usu\u00e1rio navega dentro do aplicativo. [RF 21]\n\n\nO usu\u00e1rio tem diversas op\u00e7\u00f5es dentro das funcionalidades dispon\u00edveis.\n\n\nO usu\u00e1rio acessa uma playlist [RF 03] ou uma m\u00fasica\n\n\nDentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.\n\n\n\n\n2.2 Fluxo Alternativo\n\n\n\n\nBuscar uma m\u00fasica sem necessariamente acessar uma playlist.\n\n\nO usu\u00e1rio acessa o Aplicativo.\n\n\nO usu\u00e1rio navega dentro do aplicativo. [RF 21]\n\n\nO busca por uma m\u00fasica em especifica.\n\n\nDentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.\n\n\n\n\n\n\n\n\n2.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\nErro na integra\u00e7\u00e3o com outra rede social\n\n\nO usu\u00e1rio solicita alguma funcionalidade que exige dados de outra rede social.\n\n\nO sistema tenta o acesso e apresenta erro.\n\n\nO sistema volta para a p\u00e1gina anterior.\n\n\n\n\n\n\n\n\n3. Requisitos Especiais\n\n\n\n\nNenhum requisito especial identificado.\n\n\n\n\n4. Condi\u00e7\u00f5es Pr\u00e9vias\n\n\n\n\nEstar conectado com a internet.\n\n\nPossuir acesso as outras redes sociais.\n\n\n\n\n5. Mensagens\n\n\n[MES01] \u201cErro ao conectar ao aplicativo\u201d.", 
-            "title": "Caso de Uso RF21-Integra\u00e7\u00e3o Redes Sociais"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#integracao-com-redes-sociais", 
-            "text": "", 
-            "title": "Integra\u00e7\u00e3o com redes Sociais"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#indice-analitico", 
-            "text": "Nome do Caso de Uso  Breve descri\u00e7\u00e3o    Fluxo de eventos  Fluxo B\u00e1sico  Fluxos Alternativos  Visualizar Caderno de Acordo com a Cronologia e Categoria das Tarefas    Fluxos de Exce\u00e7\u00e3o  Visualizar Caderno Inexistente      Requisitos Especiais  Primeiro Requisito Especial    Condi\u00e7\u00f5es Pr\u00e9vias     Condi\u00e7\u00e3o Pr\u00e9via Um    Mensagens", 
-            "title": "Indice Anal\u00edtico"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#especificacao-de-caso-de-uso", 
-            "text": "", 
-            "title": "Especifica\u00e7\u00e3o de Caso de Uso "
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#1-uc1-integracao-de-redes-sociais", 
-            "text": "", 
-            "title": "1. #UC1 \u2013 Integra\u00e7\u00e3o de Redes sociais"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#11-breve-descricao", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-descricao", 
             "text": "Descri\u00e7\u00e3o - Este caso de uso permite ao usu\u00e1rio facilidade de compartilhamento, usabilidade, podendo compartilhar playlists e m\u00fasicas, entre outras funcioalidades.", 
-            "title": "1.1 Breve Descri\u00e7\u00e3o"
+            "title": "1. Descri\u00e7\u00e3o"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#2-fluxo-de-eventos", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-fluxo-de-eventos", 
             "text": "", 
             "title": "2. Fluxo de Eventos"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#21-fluxo-basico", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#21-fluxo-basico", 
             "text": "O fluxo b\u00e1sico come\u00e7a quando o usu\u00e1rio acessa a plataforma Spotify e come\u00e7a a utilizar o aplicativo (#R21 \u2013 Navegar (de acordo com o documento de Especifica\u00e7\u00e3o suplementar)) .  O usu\u00e1rio acessa o Aplicativo.  O usu\u00e1rio navega dentro do aplicativo. [RF 21]  O usu\u00e1rio tem diversas op\u00e7\u00f5es dentro das funcionalidades dispon\u00edveis.  O usu\u00e1rio acessa uma playlist [RF 03] ou uma m\u00fasica  Dentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.", 
             "title": "2.1 Fluxo B\u00e1sico"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#22-fluxo-alternativo", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#22-fluxo-alternativo", 
             "text": "Buscar uma m\u00fasica sem necessariamente acessar uma playlist.  O usu\u00e1rio acessa o Aplicativo.  O usu\u00e1rio navega dentro do aplicativo. [RF 21]  O busca por uma m\u00fasica em especifica.  Dentro dessa funcionalidade ele pode compartilhar uma playlist ou m\u00fasicas entre as redes sociais integradas, como o whatsapp e facebook.", 
             "title": "2.2 Fluxo Alternativo"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#23-fluxos-de-excecao", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#23-fluxos-de-excecao", 
             "text": "Erro na integra\u00e7\u00e3o com outra rede social  O usu\u00e1rio solicita alguma funcionalidade que exige dados de outra rede social.  O sistema tenta o acesso e apresenta erro.  O sistema volta para a p\u00e1gina anterior.", 
             "title": "2.3 Fluxos de Exce\u00e7\u00e3o"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#3-requisitos-especiais", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-requisitos-especiais", 
             "text": "Nenhum requisito especial identificado.", 
             "title": "3. Requisitos Especiais"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#4-condicoes-previas", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-condicoes-previas", 
             "text": "Estar conectado com a internet.  Possuir acesso as outras redes sociais.", 
             "title": "4. Condi\u00e7\u00f5es Pr\u00e9vias"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF21-integracao_redes_sociais/#5-mensagens", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-mensagens", 
             "text": "[MES01] \u201cErro ao conectar ao aplicativo\u201d.", 
             "title": "5. Mensagens"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/", 
-            "text": "Data\n\n\nRespons\u00e1vel\n\n\nVers\u00e3o\n\n\n\n\n\n\n\n\n\n\n21/04/2018\n\n\nGeovanne Santos\n\n\n1.0\n\n\n\n\n\n\n\n\n\u2705 [UC06] - cadastro como perfil de artista\n\n\n1. Nome do Caso de Uso\n\n\n\n\nCadastro como perfil de artista\n\n\n\n\n2.  Breve descri\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deseja ter o perfil de artista para postar as pr\u00f3prias m\u00fasicas.\n\n\n\n\n3.  Atores\n\n\n\n\nUsu\u00e1rio n\u00e3o cadastrado.\n\n\n\n\n4.  Pr\u00e9-Condi\u00e7\u00e3o\n\n\n\n\nO usu\u00e1rio deve ser n\u00e3o cadastrado.\n\n\nTer o aplicativo do Spotify instalado\n\n\nEstar conectado \u00e0 internet.\n\n\n\n\n5.  Fluxo de eventos\n\n\n5.1 Fluxo b\u00e1sico\n\n\n\n\nO usu\u00e1rio instala o spotify for artists.\n\n\nO usu\u00e1rio abre o aplicativo.\n\n\nO usu\u00e1rio clica em fazer cadastro.\n\n\nUsu\u00e1rio coloca as informa\u00e7\u00f5es necess\u00e1rias para adquirir o perfil.\n\n\nUsu\u00e1rio faz um contrato com um distribuidor para a rede streaming.\n\n\nO usu\u00e1rio espera a certifica\u00e7\u00e3o do aplicativo, para liberar o perfil de artista.\n\n\n\n\n5.2 Fluxos alternativos\n\n\n\n\nN\u00e3o existe.\n\n\n\n\n5.3 Fluxos de Exce\u00e7\u00e3o\n\n\n\n\n[FE01]\n\n\nAplicativo perder conex\u00e3o com a internet\n\n\nO sistema informa que o aplicativo est\u00e1 offline.\n\n\n\n\nAs funcionalidades n\u00e3o podem ser acessadas.\n\n\n\n\n\n\n[FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:\n\n\n\n\nO sistema identifica a resposta inv\u00e1lida .\n\n\nO sistema permanece na mesma p\u00e1gina.\n\n\n\n\nO sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.\n\n\n\n\n\n\n[FE03] Usu\u00e1rio n\u00e3o possui contrato com uma distribuidora de streaming:\n\n\n\n\n\n\nO sistema mostra permanece na p\u00e1gina de cadastro.\n\n\n\n\n\n\n[FE04] Usu\u00e1rio tenta criar um perfil de artista falso ou existente:\n\n\n\n\nO sistema ir\u00e1 validar as informa\u00e7\u00f5es e n\u00e3o permitir\u00e1 a cria\u00e7\u00e3o do perfil com informa\u00e7\u00f5es incorretas.\n\n\n\n\n6 Mensagens\n\n\n\n\n[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.\n\n\n[M2] Perfil n\u00e3o autorizado, tente se cadastras novamente.", 
-            "title": "Caso de Uso RF07-Cadastro Como Perfil De Artista"
-        }, 
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#uc06-cadastro-como-perfil-de-artista", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#gerenciar-playlists-salvas", 
             "text": "", 
-            "title": "\u2705 [UC06] - cadastro como perfil de artista"
+            "title": "Gerenciar playlists salvas"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#1-nome-do-caso-de-uso", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso", 
+            "text": "Gerenciar playlists", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao", 
+            "text": "Gerenciar minhas playlists salvas", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores", 
+            "text": "Usu\u00e1rio", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-fluxo-de-eventos", 
+            "text": "", 
+            "title": "4.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#41-fluxo-basico", 
+            "text": "O usu\u00e1rio abre o aplicativo  O aplicativo exibe a tela inicial  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d  O aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cplaylists\u201d  O aplicativo lista todas as playlists salvas  O usu\u00e1rio pode compartilhar, excluir, renomear ou reproduzir suas playlists", 
+            "title": "4.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#42-fluxos-alternativos", 
+            "text": "O usu\u00e1rio n\u00e3o possui nenhuma playlist salva  O aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhuma playlist salva, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de playlists (excluir, compartilhar, renomear ou reproduzir suas playlists).  O aplicativo apresenta a op\u00e7\u00e3o de \u201cCriar sua primeira playlist\u201d  Ao criar uma nova playlists, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.  O fluxo principal \u00e9 retomado.", 
+            "title": "4.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#43-fluxos-de-excecao", 
+            "text": "Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.  As funcionalidades n\u00e3o podem ser acessadas.", 
+            "title": "4.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-pre-condicoes", 
+            "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
+            "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#gerenciar-artistas-salvos", 
+            "text": "", 
+            "title": "Gerenciar artistas salvos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_1", 
+            "text": "Gerenciar artistas salvos", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_1", 
+            "text": "Gerenciar meus artistas salvos", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_1", 
+            "text": "Usu\u00e1rio", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-fluxo-de-eventos_1", 
+            "text": "", 
+            "title": "4.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#41-fluxo-basico_1", 
+            "text": "O usu\u00e1rio abre o aplicativo  O aplicativo exibe a tela inicial  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cSua biblioteca\u201d  O aplicativo apresenta um menu com v\u00e1rias op\u00e7\u00f5es  O usu\u00e1rio seleciona a op\u00e7\u00e3o \u201cartistas\u201d  O aplicativo lista todas os artistas salvas      O usu\u00e1rio pode ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou adicionar perfil do artista \u00e0 tela inicial do celular", 
+            "title": "4.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#42-fluxos-alternativos_1", 
+            "text": "O usu\u00e1rio n\u00e3o possui nenhum artista salvo  O aplicativo informa que o usu\u00e1rio n\u00e3o possui nenhum artista salvo, logo ele n\u00e3o tem acesso \u00e0s op\u00e7\u00f5es de gerenciamento de artistas salvos (ver o perfil do artista, acessar r\u00e1dio do artista, compartilhar perfil do artista ou reproduzir suas playlists).  O aplicativo apresenta a op\u00e7\u00e3o de salvar m\u00fasicas de artistas  Ao salvar m\u00fasicas de um artista ou seguir um perfil de artista, as op\u00e7\u00f5es de gerenciamento ficam novamente dispon\u00edveis.  O fluxo principal \u00e9 retomado.", 
+            "title": "4.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#43-fluxos-de-excecao_1", 
+            "text": "Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.  As funcionalidades n\u00e3o podem ser acessadas.", 
+            "title": "4.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-pre-condicoes_1", 
+            "text": "Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Possuir conta de usu\u00e1rio no Spotify", 
+            "title": "5. Pr\u00e9-condi\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#cadastro-como-perfil-de-artista", 
+            "text": "", 
+            "title": "Cadastro como perfil de artista"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_2", 
             "text": "Cadastro como perfil de artista", 
             "title": "1. Nome do Caso de Uso"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#2-breve-descricao", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_2", 
             "text": "O usu\u00e1rio deseja ter o perfil de artista para postar as pr\u00f3prias m\u00fasicas.", 
             "title": "2.  Breve descri\u00e7\u00e3o"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#3-atores", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_2", 
             "text": "Usu\u00e1rio n\u00e3o cadastrado.", 
             "title": "3.  Atores"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#4-pre-condicao", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-pre-condicao", 
             "text": "O usu\u00e1rio deve ser n\u00e3o cadastrado.  Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.", 
             "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#5-fluxo-de-eventos", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxo-de-eventos", 
             "text": "", 
             "title": "5.  Fluxo de eventos"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#51-fluxo-basico", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#51-fluxo-basico", 
             "text": "O usu\u00e1rio instala o spotify for artists.  O usu\u00e1rio abre o aplicativo.  O usu\u00e1rio clica em fazer cadastro.  Usu\u00e1rio coloca as informa\u00e7\u00f5es necess\u00e1rias para adquirir o perfil.  Usu\u00e1rio faz um contrato com um distribuidor para a rede streaming.  O usu\u00e1rio espera a certifica\u00e7\u00e3o do aplicativo, para liberar o perfil de artista.", 
             "title": "5.1 Fluxo b\u00e1sico"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#52-fluxos-alternativos", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#52-fluxos-alternativos", 
             "text": "N\u00e3o existe.", 
             "title": "5.2 Fluxos alternativos"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#53-fluxos-de-excecao", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#53-fluxos-de-excecao", 
             "text": "[FE01]  Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.   As funcionalidades n\u00e3o podem ser acessadas.    [FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:   O sistema identifica a resposta inv\u00e1lida .  O sistema permanece na mesma p\u00e1gina.   O sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.    [FE03] Usu\u00e1rio n\u00e3o possui contrato com uma distribuidora de streaming:    O sistema mostra permanece na p\u00e1gina de cadastro.    [FE04] Usu\u00e1rio tenta criar um perfil de artista falso ou existente:   O sistema ir\u00e1 validar as informa\u00e7\u00f5es e n\u00e3o permitir\u00e1 a cria\u00e7\u00e3o do perfil com informa\u00e7\u00f5es incorretas.", 
             "title": "5.3 Fluxos de Exce\u00e7\u00e3o"
         }, 
         {
-            "location": "/Modulos/Modelagem/casos_de_uso/RF07-cadastro_como_perfil_de_artista/#6-mensagens", 
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#6-mensagens", 
             "text": "[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.  [M2] Perfil n\u00e3o autorizado, tente se cadastras novamente.", 
+            "title": "6 Mensagens"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#fazer-login", 
+            "text": "", 
+            "title": "Fazer login"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_3", 
+            "text": "Fazer Login", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_3", 
+            "text": "Usu\u00e1rio faz o login.", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_3", 
+            "text": "Usu\u00e1rio cadastrado.", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-pre-condicao_1", 
+            "text": "O usu\u00e1rio deve possuir uma conta no spotify.  Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.", 
+            "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxo-de-eventos_1", 
+            "text": "", 
+            "title": "5.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#51-fluxo-basico_1", 
+            "text": "O usu\u00e1rio instala o spotify.  O usu\u00e1rio clica em fazer login.  O usu\u00e1rio p\u00f5em as informa\u00e7\u00f5es de endere\u00e7o de email e senha.  Clica em entrar.  O sistema vai para o template de usu\u00e1rio cadastrado.", 
+            "title": "5.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#52-fluxos-alternativos_1", 
+            "text": "[FA01] Usu\u00e1rio faz o login pela sua conta no facebook:  O usu\u00e1rio entra no aplicativo.  O usu\u00e1rio clica em entrar pela conta do facebook.  Coloca as informa\u00e7\u00f5es da conta.  Clica em confirmar.  E direcionado a parte do aplicativo de funcionalidades para cadastrados.", 
+            "title": "5.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#53-fluxos-de-excecao_1", 
+            "text": "[FE01] Errar algum dos dados de login:  O sistema identifica o dado inv\u00e1lido(endere\u00e7o de email ou senha) .  O sistema permanece na mesma p\u00e1gina.   O sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.    [FE02] Usu\u00e1rio coloca dados de rede social inv\u00e1lido:   O sistema identifica a informa\u00e7\u00e3o inv\u00e1lida .  O sistema permanece na mesma p\u00e1gina.  O sistema destaca a informa\u00e7\u00e3o inv\u00e1lida.", 
+            "title": "5.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#6-mensagens_1", 
+            "text": "[M1] O email n\u00e3o existe.  [M2] Senha incorreta.  [M3]Dados de rede social inv\u00e1lidos.", 
+            "title": "6. Mensagens"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#editar-dados-de-conta", 
+            "text": "", 
+            "title": "Editar dados de conta"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-descricao_1", 
+            "text": "Editar as informa\u00e7\u00f5es pessoais do usu\u00e1rio.", 
+            "title": "1. Descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-atores", 
+            "text": "Usu\u00e1rio cadastrado", 
+            "title": "2. Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-pre-condicao", 
+            "text": "O usu\u00e1rio deve possuir uma conta no spotify.", 
+            "title": "3. Pr\u00e9-condi\u00e7\u00e3o:"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-fluxo-principal", 
+            "text": "Faz o login. \n   O usu\u00e1rio vai na p\u00e1gina web do site. \n   O usu\u00e1rio clica em editar perfil. \n   Modifica os dados. \n   Clica em salvar.", 
+            "title": "4. Fluxo Principal:"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxos-alternativos", 
+            "text": "", 
+            "title": "5. Fluxos Alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#6-fluxo-de-excecao", 
+            "text": "", 
+            "title": "6. Fluxo de Exce\u00e7\u00e3o:"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#atualizar-biografia-do-artista", 
+            "text": "", 
+            "title": "Atualizar biografia do artista"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_4", 
+            "text": "atualizar biografia do artista", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_4", 
+            "text": "O artista deseja mudar o conte\u00fado da biografia que est\u00e1 presente no seu perfil de artista.", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_4", 
+            "text": "Usu\u00e1rio artista.", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-pre-condicao_2", 
+            "text": "O usu\u00e1rio deve ser usu\u00e1rio artista.  Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.  Ter feito o login.", 
+            "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxo-de-eventos_2", 
+            "text": "", 
+            "title": "5.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#51-fluxo-basico_2", 
+            "text": "O usu\u00e1rio instala o spotify.  O usu\u00e1rio abre o aplicativa e faz o login.  O usu\u00e1rio vai na aba de biografia eclica em editar.  Usu\u00e1rio faz a modifica\u00e7\u00e3o e salva.", 
+            "title": "5.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#52-fluxos-alternativos_2", 
+            "text": "N\u00e3o existe.", 
+            "title": "5.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#53-fluxos-de-excecao_2", 
+            "text": "[FE01]  Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.   As funcionalidades n\u00e3o podem ser acessadas.    [FE02] Usu\u00e1rio ainda n\u00e3o tem perfil de artista autenticado:   O sistema n\u00e3o deixar\u00e1 o usu\u00e1rio fazer nenhum a\u00e7\u00e3o que envolva o perfil artista at\u00e9 ser validado.", 
+            "title": "5.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#6-mensagens_2", 
+            "text": "[M1] A modifica\u00e7\u00e3o da biografia n\u00e3o foi efetuada, sua conex\u00e3o caiu.", 
+            "title": "6 Mensagens"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#sair-do-aplicativo", 
+            "text": "", 
+            "title": "Sair do aplicativo"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_5", 
+            "text": "Sair do aplicativo", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_5", 
+            "text": "Usu\u00e1rio sai da conta atual.", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_5", 
+            "text": "Usu\u00e1rio.", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-pre-condicao_3", 
+            "text": "O usu\u00e1rio deve possuir uma conta no spotify.  Estar logado no aplicativo.  Ter o aplicativo do Spotify instalado", 
+            "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxo-de-eventos_3", 
+            "text": "", 
+            "title": "5.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#51-fluxo-basico_3", 
+            "text": "O usu\u00e1rio faz o login spotify.  O usu\u00e1rio \u00e9 direcionado a parte de usu\u00e1rio.  O usu\u00e1rio sai da conta.", 
+            "title": "5.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#mudar-o-tipo-de-perfil", 
+            "text": "", 
+            "title": "Mudar o tipo de perfil"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_6", 
+            "text": "Mudar o tipo de perfil", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_6", 
+            "text": "O usu\u00e1rio comum deseja se tornar usu\u00e1rio artista.", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_6", 
+            "text": "Usu\u00e1rio comum.", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-pre-condicao_4", 
+            "text": "O usu\u00e1rio deve ser comum.  Ter o aplicativo desktop do Spotify instalado  Estar conectado \u00e0 internet.", 
+            "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxo-de-eventos_4", 
+            "text": "", 
+            "title": "5.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#51-fluxo-basico_4", 
+            "text": "O usu\u00e1rio instala o spotify.  O usu\u00e1rio abre o aplicativa e faz o login.  O usu\u00e1rio clica em requerir o perfil artista.  Usu\u00e1rio coloca as informa\u00e7\u00f5es necess\u00e1rias, tais como a ag\u00eancia que ir\u00e1 distribuir a m\u00fasica para o aplicativo, o Twitter e outros.  O usu\u00e1rio espera o aplicativo autenticar o perfil requerido para usar as funcionalidades novas.", 
+            "title": "5.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#52-fluxos-alternativos_3", 
+            "text": "N\u00e3o existe.", 
+            "title": "5.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#53-fluxos-de-excecao_3", 
+            "text": "[FE01]  Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.   As funcionalidades n\u00e3o podem ser acessadas.    [FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:   O sistema identifica a resposta inv\u00e1lida .  O sistema permanece na mesma p\u00e1gina.   O sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.    [FE03] Usu\u00e1rio tenta criar um perfil fake:   O sistema n\u00e3o ir\u00e1 autorizar o requerimento do perfil.", 
+            "title": "5.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#6-mensagens_3", 
+            "text": "[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.  [M2] O requerimento do perfil n\u00e3o foi autorizado.", 
+            "title": "6 Mensagens"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#cadastro-de-usuario-comum", 
+            "text": "", 
+            "title": "Cadastro de usu\u00e1rio comum"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_7", 
+            "text": "Cadastro de usu\u00e1rio comum", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_7", 
+            "text": "Criar um cadastro de usu\u00e1rio.", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_7", 
+            "text": "Usu\u00e1rio n\u00e3o cadastrado", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-pre-condicao_5", 
+            "text": "O usu\u00e1rio deve possuir um endere\u00e7o de email, conta no Facebook ou conta no Google+.  Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.", 
+            "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxo-de-eventos_5", 
+            "text": "", 
+            "title": "5.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#51-fluxo-basico_5", 
+            "text": "O usu\u00e1rio instala o spotify.  O usu\u00e1rio abre o aplicativa e clica em \"Cadastrar\".  O usu\u00e1rio coloca as informa\u00e7\u00f5es de endere\u00e7o de email, senha, data de nascimento e g\u00eanero.  Usu\u00e1rio aceito os termos do aplicativo.  O sistema vai para o template de usu\u00e1rio cadastrado.", 
+            "title": "5.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#52-fluxos-alternativos_4", 
+            "text": "[FA01] Seria o requisito RF07 .", 
+            "title": "5.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#53-fluxos-de-excecao_4", 
+            "text": "[FE01]  Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.   As funcionalidades n\u00e3o podem ser acessadas.    [FE02] Usu\u00e1rio coloca a data de nascimento que comprova menor idade:   O sistema identifica a idade inv\u00e1lida .  O sistema permanece na mesma p\u00e1gina.   O sistema destaca o box com a informa\u00e7\u00e3o de idade inv\u00e1lida.    [FE03] Usu\u00e1rio coloca senha com menos de 8 caracteres:   O sistema identifica a senha inv\u00e1lida .  O sistema permanece na mesma p\u00e1gina.  O sistema destaca o box com a informa\u00e7\u00e3o de idade inv\u00e1lida.", 
+            "title": "5.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#6-mensagens_4", 
+            "text": "[M1] Idade n\u00e3o permitida para uso do aplicativo.  [M2] Senha com tamanho n\u00e3o permitido, m\u00ednimo 8 caracteres.", 
+            "title": "6 Mensagens"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#adquirir-o-plano-premiun", 
+            "text": "", 
+            "title": "Adquirir o plano premiun"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_8", 
+            "text": "Adquirir o plano premiun", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_8", 
+            "text": "Comprar o plano premiun, com mais funcionalidades.", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_8", 
+            "text": "Usu\u00e1rio free.", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-pre-condicao_6", 
+            "text": "O usu\u00e1rio deve ser free.  Ter o aplicativo do Spotify instalado  Estar conectado \u00e0 internet.", 
+            "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxo-de-eventos_6", 
+            "text": "", 
+            "title": "5.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#51-fluxo-basico_6", 
+            "text": "O usu\u00e1rio instala o spotify.  O usu\u00e1rio abre o aplicativa e faz o login.  O usu\u00e1rio clica em adquirir plano premiun.  Usu\u00e1rio coloca as informa\u00e7\u00f5es para o contrato do plano ser firmado.  O usu\u00e1rio escolhe a forma de pagamento.  O usu\u00e1rio paga a fatura e mude do plano free para o plano premiun de imediato.", 
+            "title": "5.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#52-fluxos-alternativos_5", 
+            "text": "[FA01]   Adquirir um plano premiun, pelo pacote estudantil.    [FA02]   Adquirir um plano premiun, pelo pacote fam\u00edlia.", 
+            "title": "5.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#53-fluxos-de-excecao_5", 
+            "text": "[FE01]  Aplicativo perder conex\u00e3o com a internet  O sistema informa que o aplicativo est\u00e1 offline.   As funcionalidades n\u00e3o podem ser acessadas.    [FE02] Usu\u00e1rio coloca alguma informa\u00e7\u00e3o errada:   O sistema identifica a resposta inv\u00e1lida .  O sistema permanece na mesma p\u00e1gina.   O sistema destaca o box com a informa\u00e7\u00e3o inv\u00e1lida.    [FE03] Usu\u00e1rio n\u00e3o paga a fatura:   O sistema n\u00e3o muda de free para premiun .", 
+            "title": "5.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#6-mensagens_5", 
+            "text": "[M1] O dado da mensagem est\u00e1 inv\u00e1lido, por favor insira novamente o dado da mensagem.", 
+            "title": "6 Mensagens"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#ficar-em-modo-offline", 
+            "text": "", 
+            "title": "Ficar em modo offline"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#1-nome-do-caso-de-uso_9", 
+            "text": "ficar em modo offline", 
+            "title": "1. Nome do Caso de Uso"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#2-breve-descricao_9", 
+            "text": "Usu\u00e1rio faz login no aplicativo e deseja reproduzir as m\u00fasicas em modo offline para n\u00e3o gastar pacote de internet.", 
+            "title": "2.  Breve descri\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#3-atores_9", 
+            "text": "Usu\u00e1rio comum.", 
+            "title": "3.  Atores"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#4-pre-condicao_7", 
+            "text": "O usu\u00e1rio deve ser comum.  Ter o aplicativo do Spotify instalado.  Ter feito o login.", 
+            "title": "4.  Pr\u00e9-Condi\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#5-fluxo-de-eventos_7", 
+            "text": "", 
+            "title": "5.  Fluxo de eventos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#51-fluxo-basico_7", 
+            "text": "O usu\u00e1rio instala o spotify.  O usu\u00e1rio abre o aplicativa e faz o login.  O usu\u00e1rio vai na parte de configura\u00e7\u00f5es.  Usu\u00e1rio ativa o modo offline.", 
+            "title": "5.1 Fluxo b\u00e1sico"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#52-fluxos-alternativos_6", 
+            "text": "N\u00e3o existe", 
+            "title": "5.2 Fluxos alternativos"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#53-fluxos-de-excecao_6", 
+            "text": "N\u00e3o existe", 
+            "title": "5.3 Fluxos de Exce\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/#6-mensagens_6", 
+            "text": "N\u00e3o existe", 
             "title": "6 Mensagens"
         }
     ]
