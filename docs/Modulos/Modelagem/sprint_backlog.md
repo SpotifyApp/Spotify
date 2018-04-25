@@ -1,10 +1,12 @@
 # Sprint Backlog Spotify
 
-|ID|Tema|Sprint|Pontos|
-|--|--|--|--|
-|[1](https://github.com/SpotifyApp/Spotify/blob/master/docs/Modulos/Modelagem/product_backlog.md)|Autenticação|1|8|
-|[4](https://github.com/SpotifyApp/Spotify/blob/master/docs/Modulos/Modelagem/product_backlog.md)|Busca|1|5|
-|[7](https://github.com/SpotifyApp/Spotify/blob/master/docs/Modulos/Modelagem/product_backlog.md)|Usabilidade|1|13|
+|Tipo|Nome|Tema|Sprint|Pontos|
+|--|--|--|--|--|
+|RNF 01|Sistema de autenticação de usuário|usuário|1||
+|RNF 02|Serviços de busca|Música|1||
+|RNF 03|Telas de interação responsivas|Design|1||
+|RF 02|Acessar opção de busca|Música|1|
+|RF 34|Configurar volume|Integração|1||
 
 
 
