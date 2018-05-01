@@ -16,7 +16,6 @@ Data | Responsável | Versão|
 ## 4.  Pré-Condição
 - O usuário deve ser cadastrado.
 - Estar conectado à internet.
-- Ter feito login na versão site do spotify.
 
 ## 5.  Fluxo de eventos
 
@@ -30,7 +29,9 @@ Data | Responsável | Versão|
 ## 5.2 Fluxos alternativos
 
 - [FA01]
-- O usuário acessa o site do spotify, na parte de redefinir senha.
+- O usuário não consegue fazer o login no spotify, com as informações que colocou.
+- O usuário clica no botão de ajuda do spotify.
+- O usuário é direcionado a uma nova tela de redefenir senha.
 - Digita o email da sua conta spotify.
 - Vá no seu email e clique no email que o spotify te enviou, ele te direcionará para uma página.
 - Coloque as informações necessárias(nova senha, confirmação de nova senha).
