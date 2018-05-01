@@ -1,3 +1,7 @@
+Data | Responsável | Versão|
+--------- | ------| --------|
+25/04/2018 | Eduardo Júnio |   1.0   |
+
 # ✅ [UC01] - Gerenciar playlists
 
 <object width="700" height="600" data="../diagrama_de_uso/caso-gerenciar_playlist.png"></object>
