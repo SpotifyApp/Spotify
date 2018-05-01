@@ -15,10 +15,10 @@
 |RF 03|usuário|acessar playlists|possa ver todo o conteúdo das playlists que eu sigo ou que eu criei|Should|To do|
 |RF 04|usuário|acessar rádio|possa ouvir o conteúdo das diversas rádios que o spotify irá indicar|Should|To do|
 |RF 05|usuário|adicionar músicas às minhas playlists|ouvir uma playlist personalizada e quando eu quiser|Should|To do|
-|RF 06|usuário free|adquirir um plano premiun|possa utilizar mais funcionalidades, como passar músicas e voltar músicas|Must|To do|
+|RF 06|usuário free|adquirir um plano premiun|possa utilizar mais funcionalidades, como passar músicas e voltar músicas|Should|To do|
 |RF 07|usuário não cadastrado|me cadastrar como perfil de artista|possa postar músicas|Must|To do|
 |RF 08|usuário não cadastrado|me cadastrar como usuário comum|possa usar funcionalidades que se limitam em ouvir música|Must|To do|
-|RF 09|usuário|colocar a agenda de shows|para divulgar os locais dos próximos shows|Must|To do|
+|RF 09|usuário|colocar a agenda de shows|para divulgar os locais dos próximos shows|Could|To do|
 |RF 10|usuário|controlar a reprodução das músicas|eu possar pausar, passar e voltar música|Must|To do|
 |RF 11|usuário|criar estação|eu possa ouvir músicas parecidas com as que esteja na playlist, sem ter adicionado elas|Could|To do|
 |RF 12|usuário|criar playlist|eu possa gerar playlist que eu desejaria criar|Must|To do|
@@ -28,7 +28,7 @@
 |RF 16|usuario premium|ficar em modo ofline|eu possa ouvir musica sem internet|Should|To do|
 |RF 17|usuário|ver Informações de reprodução|eu possa saber sobre o que estou ouvindo|Could|To do|
 |RF 18|usuário|ocultar playlist|organizar melhor minhas playlists|Could|To do|
-|RF 19|usuário|mudar meu tipo de perfil|eu possa ter acesso a funcionalidades especificas do tipo de usuário|Must|To do|
+|RF 19|usuário|mudar meu tipo de perfil|eu possa ter acesso a funcionalidades especificas do tipo de usuário|Should|To do|
 |RF 20|usuário|mudar reprodução ativa|eu possa ouvir outra musica|Must|To do|
 |RF 21|usuário|me integrar com redes sociais|eu possa compartilhar conteudo do spotify em uma rede social e facilitar na criação de uma conta|Could|To do|
 |RF 22|usuário|ouvir lançamentos|ouça as musicas mais populares do momento|Should|To do|
@@ -43,6 +43,7 @@
 |RF 34|usuário|configurar o volume|eu possa adequar ao volume que desejo|Must|To do|
 |RF 36|usuário|mudar minha senha|eu possa modificar minha senha anterior|Must|To do|
 |RF 37|usuário|editar dados de conta|eu possa modificar e atualizar meus dados|Must|To do|
+|RF 38|usuário|editar minha biografia|eu possa deixá-la a mais atualizada possível|Should|To do|
 |RF 39|usuário|procurar por playlists|eu possa ouvi-las|Must|To do|
 |RF 40|usuário|facilidade em comunicação com o suporte técnico|ter informações e relatar problemas|Must|To do|
 | RF 41 | usuário | seguir podcasts | possa adiciona-los a minha biblioteca e acessa-los quando quiser | Could |To do|
@@ -54,4 +55,4 @@
 | RF 47 | usuário | acessar podcasts na biblioteca | possa visualizar os episodios de podcasts que eu sigo | Could |To do|
 | RF 48 | usuário | acessar videos na biblioteca | possa visualizar os videos de programas que eu sigo | Could |To do|
 | RF 49 | usuário | listar dispositivos disponíveis | possa visualizar onde posso reproduzir as músicas | Should | To do
-| RF 50 | usuário | 
+| RF 50 | usuário |
