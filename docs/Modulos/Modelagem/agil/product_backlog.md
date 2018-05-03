@@ -26,7 +26,7 @@
 |RF 14|usuário|editar foto de perfil de conta|eu possa atualizar a foto de perfil|Should|To do|
 |RF 15|usuário|excluir uma playlist|eu possa me desfazer de uma playlist indesejada ou que não é mais usada|Must|To do|
 |RF 16|usuario premium|ficar em modo ofline|eu possa ouvir musica sem internet|Should|To do|
-|RF 17|usuário|ver Informações de reprodução|eu possa saber sobre o que estou ouvindo|Could|To do|
+|RF 17|usuário|ver Informações de reprodução|eu possa saber sobre o que estou ouvindo|Should|To do|
 |RF 18|usuário|ocultar playlist|organizar melhor minhas playlists|Could|To do|
 |RF 19|usuário|mudar meu tipo de perfil|eu possa ter acesso a funcionalidades especificas do tipo de usuário|Should|To do|
 |RF 20|usuário|mudar reprodução ativa|eu possa ouvir outra musica|Must|To do|
@@ -41,7 +41,9 @@
 |RF 30| usuário| ver gráfico de redimento sobre meus albuns| eu planeje melhorar meus próximos albuns|should|To do|
 |RF 31|usuário|salvar músicas na minha biblioteca|eu possa acessa-las quando quiser|Must|To do|
 |RF 32|usuário|baixar playlists|ouvi-las sem precisar estar  conectado à internet|Must|To do|
+|RF 33|usuário|Atualizar a foto do meu album|Meus amigos possam me reconhecer pelo meu rosto|Should|To do|
 |RF 34|usuário|configurar o volume|eu possa adequar ao volume que desejo|Must|To do|
+|RF 35|usuário|importar musicas do meu celular para minha conta no spotify|eu possa desfrutar dessa musica em qualquer dispositivo que eu me conectar ao spotify|Could|To do|
 |RF 36|usuário|mudar minha senha|eu possa modificar minha senha anterior|Must|To do|
 |RF 37|usuário|editar dados de conta|eu possa modificar e atualizar meus dados|Must|To do|
 |RF 38|usuário|editar minha biografia|eu possa deixá-la a mais atualizada possível|Should|To do|
@@ -57,3 +59,5 @@
 | RF 48 | usuário | acessar videos na biblioteca | possa visualizar os videos de programas que eu sigo | Could |To do|
 | RF 49 | usuário | listar dispositivos disponíveis | possa visualizar onde posso reproduzir as músicas | Should | To do
 | RF 50 | usuário | receber alertas de reproduções ativas em outros dispositivos com minha conta | eu possa montorar a segurança da minha conta | must | To do
+|RF 51|usuário|controlar musicas/playlists através de outros dispositivos|possa acessar o spotify remotamente através de outro dispositivo|should|To do|
+|RF 53|usuário|controlar volume de outro dispositivo remotamente conectado ao spotify|diminuir ou aumentar o volume de um dispositivo sem a necessidade de ir até esse dispositivo|could|To do|
