@@ -38,6 +38,7 @@
 |RF 26|usuário|renomear minhas playlists|eu possa modificar o nome atual|Should|To do|
 |RF 28 |usuário|seguir amigos|para conhecer/ter acesso ao que eles ouvem|Could|To do|
 |RF 29| usuário| fazer login na minha conta do spotify | eu possa acessar funcionalidades do spotify|Must|To do|
+|RF 30| usuário| ver gráfico de redimento sobre meus albuns| eu planeje melhorar meus próximos albuns|should|To do|
 |RF 31|usuário|salvar músicas na minha biblioteca|eu possa acessa-las quando quiser|Must|To do|
 |RF 32|usuário|baixar playlists|ouvi-las sem precisar estar  conectado à internet|Must|To do|
 |RF 34|usuário|configurar o volume|eu possa adequar ao volume que desejo|Must|To do|
@@ -55,4 +56,4 @@
 | RF 47 | usuário | acessar podcasts na biblioteca | possa visualizar os episodios de podcasts que eu sigo | Could |To do|
 | RF 48 | usuário | acessar videos na biblioteca | possa visualizar os videos de programas que eu sigo | Could |To do|
 | RF 49 | usuário | listar dispositivos disponíveis | possa visualizar onde posso reproduzir as músicas | Should | To do
-| RF 50 | usuário |
+| RF 50 | usuário | receber alertas de reproduções ativas em outros dispositivos com minha conta | eu possa montorar a segurança da minha conta | must | To do
