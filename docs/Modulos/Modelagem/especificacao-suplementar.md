@@ -95,7 +95,6 @@ RF 31 | Salvar músicas
 RF 41 | Seguir podcasts
 RF 42 | Seguir programas de videos
 RF 40 | Suporte técnico
-RF ## | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
 
 
@@ -103,15 +102,14 @@ RF 30 | Ver gráficos de rendimento sobre seus álbuns
 
 |Identificador | Descrição
 |--- | ---
-|RNF 01|sistema de autenticação de usuário
-|RNF 02|serviço de busca
-|RNF 03|telas de interação responsivas
-|RNF 04|integração spotify e facebook
-|RNF 05|Interface simples e interativa ao usuário (Marketing)
+|RNF 01|sistema de autenticação de usuário(Segurança)
+|RNF 02|serviço de busca(base de dados)
+|RNF 03|telas de interação responsivas(usabilidade)
+|RNF 04|integração spotify e facebook()
+|RNF 05|Interface simples e interativa ao usuário (usabilidade)
 |RNF 06|vinhetas durante a programação musical para quem está no modelo “Free”
-|RNF 07|Limitações de uso ao plano gratuito
-|RNF 08|Limitações de Passagens de música (6 por hora) no modelo “Free”
-|RNF 09| Vincular contas com PSN.
+|RNF 07|Limitações de uso ao plano gratuito(usabilidade-controle de liberdade de usuário)
+|RNF 08| Vincular contas com PSN.
 
 ## Requisitos para plataformas específicas
 
