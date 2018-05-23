@@ -119,6 +119,12 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>/Modulos/Analise/pontodevista/</loc>
+     <lastmod>2018-05-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
