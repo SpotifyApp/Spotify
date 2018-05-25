@@ -9,14 +9,14 @@
 
 ## Strategic Dependency Model
 ### Versão 1.0
-<object width="700" height="600" data="../sd1.png"></object>
+<a href="../sd1.png"><img src="../sd1.png"></a>
 
 ### Versão 2.0
-<object width="700" height="600" data="../sd2.png"></object>
+<a href="../sd2.png"><img src="../sd2.png"></a>
 
 ## Strategic Rationale Model
 ### Versão 1.0
-<object width="700" height="600" data="../sr1.jpg"></object>
+<a href="../sr1.jpg"><img src="../sr1.jpg"></a>
 
 ### Versão 2.0
-<object width="700" height="600" data="../sr2.png"></object>
+<a href="../sr2.png"><img src="../sr2.png"></a>

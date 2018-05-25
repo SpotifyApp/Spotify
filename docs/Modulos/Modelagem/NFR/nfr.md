@@ -7,10 +7,10 @@
 | 05/05/2018 | 1.0 | Criação de NFR de Segurança | Lucas Carvalho |
 
 ## NFR Segurança
-<object width="1073" height="560" data="../nfr-seguranca.jpg"></object>
+<a href="../nfr-seguranca.jpg"><img src="../nfr-seguranca.jpg"></a>
 
 ## NFR Usabilidade
-<object width="1602" height="710" data="../nfr-usabilidade.png"></object>
+<a href="../nfr-usabilidade.png"><img src="../nfr-usabilidade.png"></a>
 
 ## NFR Portabilidade
-<object width="916" height="775" data="../nfr-portabilidade.png"></object>
+<a href="../nfr-portabilidade.png"><img src="../nfr-portabilidade.png"></a>
