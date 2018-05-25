@@ -4,6 +4,7 @@
 Data | Responsável | Versão| Mudança realizada|
 :--------- | :------:| :--------:| :------------ |
 02/04/2018     | Rodrigo Dadamos |   1.0   |  Primeira versão |
+25/05/2018     | Geovanne e Eduardo |   2.0   |  Segunda versão(montagem do moscow e das técnicas de elicitação) |
 
 <h3> Introdução </h3>
 <p> Este documento descreve os requisitos de Design e Experiência do Usuário (UX) do Spotify para a diciplina de Requisitos de Software utilizando técnicas de elicitação vistas em sala de aula. </p>
@@ -40,13 +41,38 @@ Ainda em 2014, depois dos alinhamentos, o desafio era manter a consistência a p
   <li>Emotivo. É bom usá-lo? Parece como que alguém se importa?</li>
 </ul>
 
-
 <p>
   A Spotify disponibiliza uma página com seus recursos de design para seus parceiros juntamente com um guia para logos, cores e até mesmo mensagens.
 </p>
 
 ![Design](https://raw.githubusercontent.com/wiki/SpotifyApp/Spotify/design_guideline_1.png)
 
+<h3>Introspecção</h3>
+Consiste em entender quais propriedades o sistema deve possuir para ser um sucesso, deve-se imaginar o que o usuário gostaria, se lhe tivesse dado uma respectiva tarefa, neste caso será analisado o usuário padrão e artista do aplicativo spotify. <br />
+<h4>Relato de introspecção: design do aplicativo</h4>
+<h5>Relator: Geovanne Santos e Eduardo</h5>
+1.  RNF de usabilidade<br />
+  * Fácil navegação entre as telas.
+  * Fácil utilização das funcionalidades.
+  * Design simples e minimalista.
+  * Flexibilidade de uso.
+  * Ajuda e documentação.
+2. RNF restrição de design
+  * Elementos visuais chamativos.
+
+<h3>🔍 Observação Participativa</h3>
+
+<p align="justify">A observação é uma técnica que possibilita observar, no próprio ambiente no qual o software será implementado, as tarefas sendo executadas pelos interessados, sem interferir no ambiente. Obtém-se os requisitos com base nas tarefas realizadas pelos interessados.</p>
+<p> A partir da utilização do spotify percebemos o quanto o design é fundamental para suprir os requisitos não funcionais de qualidade e usabilidade</p>
+
+  Requisitos|Must(deve ter)|Should(deveria ter)  |Could(poderia ter)  |Would(seria legal ter)|
+  ---------------- |---------------- | ---------------| ------------------| ---------------------- |
+  Fácil navegação entre as telas | X | | | |
+  Fácil utilização das funcionalidades | X | | | |
+  Design simples e minimalista | X | | | |
+  Flexibilidade de uso | X | | | |
+  Ajuda e documentação | X | | | |
+  Elementos visuais chamativos | | X | | |
 <h3> Referências </h3>
 
 * [1][Open Access] Wood, Stanley. Design Doesn’t Scale. [Disponível Aqui.](https://medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e) Acesso em: 02 de Abril de 2018.
