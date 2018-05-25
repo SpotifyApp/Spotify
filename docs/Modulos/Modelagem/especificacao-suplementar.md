@@ -1,4 +1,4 @@
-# Histórico da Revisão
+4# Histórico da Revisão
 
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
@@ -95,7 +95,6 @@ RF 31 | Salvar músicas
 RF 41 | Seguir podcasts
 RF 42 | Seguir programas de videos
 RF 40 | Suporte técnico
-RF ## | Verificar a autenticidade do perfil de artista
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
 
 
@@ -103,15 +102,14 @@ RF 30 | Ver gráficos de rendimento sobre seus álbuns
 
 |Identificador | Descrição
 |--- | ---
-|RNF 01|sistema de autenticação de usuário
-|RNF 02|serviço de busca
-|RNF 03|telas de interação responsivas
-|RNF 04|integração spotify e facebook
-|RNF 05|Interface simples e interativa ao usuário (Marketing)
+|RNF 01|sistema de autenticação de usuário(Segurança)
+|RNF 02|serviço de busca(base de dados)
+|RNF 03|telas de interação responsivas(usabilidade)
+|RNF 04|integração spotify e facebook()
+|RNF 05|Interface simples e interativa ao usuário (usabilidade)
 |RNF 06|vinhetas durante a programação musical para quem está no modelo “Free”
-|RNF 07|Limitações de uso ao plano gratuito
-|RNF 08|Limitações de Passagens de música (6 por hora) no modelo “Free”
-|RNF 09| Vincular contas com PSN.
+|RNF 07|Limitações de uso ao plano gratuito(usabilidade-controle de liberdade de usuário)
+|RNF 08| Vincular contas com PSN.
 
 ## Requisitos para plataformas específicas
 
@@ -158,10 +156,13 @@ O sistema estará disponível no modo 24/7.
 O sistema deve suportar 4 bilhões de usuários ativos simultaneamente.
 
 ## 4.3 Direitos autorais
-O sistema deve garantir que os direitos autorais dos artistas seja preservado
+* O sistema deve garantir que os direitos autorais dos artistas seja preservado;
+* O sistema deve oferecer suporte para que o usuário possa realizar denúncias ao se deparar com conteúdos que violem direitos de propriedade intelectual ou conteúdos que sejam ofensivos.
 
-## 4.4 Segurança
-A senha do usuário deverá ser guardada de forma segura, além de dados pessoais em geral.
+## 4.4 Segurança e Privacidade
+* O sistema deve assegurar a segurança e privacidade dos dados gerados, armazenando senhas e dados sensiveis de forma segura.
+* O sistema deve ser transparente quanto as informações coletadas referentes a dados pessoais do usuário e preferencias de conteudo e fornecer ao usuario a possibilidade de ajustar a visibilidade de tais informações.
+* O sistema deve fornecer ao usuário controle sobre o conteúdo de comunicação que irá receber, como notificações e e-mails.
 
 # 5. Desempenho
 ## 5.1 Tempo de resposta
