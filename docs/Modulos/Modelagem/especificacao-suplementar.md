@@ -69,7 +69,7 @@ RF 34 | Configurar o volume
 RF 32 | Download de playlists
 RF 14 | Editar foto de pefil conta
 RF 37 | Editar dados de conta
-RF 55 | Efetuar Login por dispositivo secundário
+RF 54 | Efetuar Login por dispositivo secundário
 RF 15 | Excluir playlist
 RF 29 | Fazer login
 RF 16 | Ficar em modo offline
