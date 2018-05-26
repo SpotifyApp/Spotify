@@ -30,11 +30,22 @@ Eduardo Júnio |2.0|
 
 ## Versão 3
 
+### Mão livre
+
 Participantes| Versão|
 -|-|
 Eduardo Júnio, Geovanne e Amanda Bezerra|3.0|
 
 ![Imgur](https://i.imgur.com/G25cP4y.jpg)
+
+
+### Ferramenta gráfica
+
+Participantes| Versão|
+-|-|
+Eduardo Júnio| 3.0|
+
+![img](https://github.com/SpotifyApp/Spotify/blob/master/docs/Modulos/Pre_rastreabilidade/Rich%20picture/img/Rich%20picture_v2_usu%C3%A1rio.png)
 
 ## Versão 4 
 
