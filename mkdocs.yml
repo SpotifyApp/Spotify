@@ -22,6 +22,11 @@ pages:
         - Especificações de Caso de Uso: Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes.md
         - Product Backlog: Modulos/Modelagem/agil/product_backlog.md
         - Sprint Backlog: Modulos/Modelagem/agil/sprint_backlog.md
+        - NFR Framework: Modulos/Modelagem/NFR/nfr.md
+        - iStar: Modulos/Modelagem/iStar/istar.md
+    - Análise:
+        - Inspeção: Modulos/Analise/inspecao.md
+        - Ponto de vista: Modulos/Analise/pontodevista.md
 
 
 markdown_extensions:
