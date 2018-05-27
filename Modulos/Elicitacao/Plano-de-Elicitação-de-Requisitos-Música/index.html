@@ -173,17 +173,6 @@
     
       
 <li class=" toctree-l1">
-  <a href="../Plano-de-Elicitação-de-Requisitos-de-Marketing/" title="Elicitação de Marketing"
-      class="">
-    Elicitação de Marketing
-  </a>
-
-  
-  
-</li>
-    
-      
-<li class=" toctree-l1">
   <a href="../Elicitação-de-requisitos-de-monetização/" title="Elicitação de Monetização"
       class="">
     Elicitação de Monetização
@@ -227,8 +216,19 @@
   <p class="caption">Modelagem</p>
 
 
-<ul class="" href="Modulos/Modelagem/especificacao-suplementar">
+<ul class="" href="Modulos/Modelagem/Cenários/cenarios_lexicos">
   
+    
+      
+<li class=" toctree-l1">
+  <a href="../../Modelagem/Cenários/cenarios_lexicos/" title="Cenários e Léxicos"
+      class="">
+    Cenários e Léxicos
+  </a>
+
+  
+  
+</li>
     
       
 <li class=" toctree-l1">
@@ -427,6 +427,12 @@
 <td>2.0</td>
 <td>Segunda versão do plano de elicitação</td>
 </tr>
+<tr>
+<td>25/05/2018</td>
+<td>Eduardo e Geovanne</td>
+<td>3.0</td>
+<td>Terceira versão do plano de elicitação (Atualizar Moscow)</td>
+</tr>
 </tbody>
 </table>
 <h2> 🎧 Introdução </h2>
@@ -472,10 +478,10 @@ Os vídeos utilizados durante esta técnica podem ser acessados <a href="https:/
     <li>Reproduzir playlist de modo aleatório</li>
     <li>Acessar rádio de uma playlist</li>
     <li>Buscar playlist</li>
-  <li>Tornar playlist secreta</li>
+    <li>Tornar playlist secreta</li>
     <li>Reproduzir música</li>
     <li>Adicionar música a uma playlist</li>
-  <li>Remover música de uma playlist</li>
+    <li>Remover música de uma playlist</li>
     <li>Adicionar música à fila de reprodução</li>
     <li>Acessar rádio de uma música</li>
     <li>Salvar música</li>
@@ -506,7 +512,8 @@ Os vídeos utilizados durante esta técnica podem ser acessados <a href="https:/
     <li>Reproduzir um vídeo</li>
     <li>Acessar lista de vídeos não reproduzidos</li>
     <li>Buscar vídeos</li>
-  <li>Recuperar playlist</li>
+    <li>Recuperar playlist</li>
+    <li>Fazer download de músicas</li>
 </ul>
 
 <h3>🎭 Storytelling</h3>
@@ -522,33 +529,51 @@ Os vídeos utilizados durante esta técnica podem ser acessados <a href="https:/
 <p align="justify">A seguir, está listado todos os requisitos elicitados durante esta técnica:</p>
 
 <ul>
-    <li>Músicas regionais</li>
-    <li>Músicas nacionais</li>
-    <li>Top 50 mais tocadas no mundo</li>
-    <li>Top 50 nacionais mais tocadas</li>
-    <li>Top virais do país</li>
-    <li>Top virais global</li>
-    <li>Novidade da semana</li>
-    <li>Podcasts de músicas</li>
-    <li>Playlists nacionais</li>
-    <li>Informações sobre músicas</li>
-    <li>Álbuns</li>
-    <li>Daily music: playlists automáticas que vão se formando e adaptando a medida que os gostos mudam.</li>
-    <li>Autoplay: Quando termina a reprodução de um álbum, uma playlist ou uma seleção de faixas, o Spotify vai tocar automaticamente músicas parecidas para que o som não pare nunca.</li>
-    <li>Lista de músicas tocadas recentemente</li>
+    <li>Acessar Músicas regionais</li>
+    <li>Acessar Músicas nacionais</li>
+    <li>Acessar Top 50 mais tocadas no mundo</li>
+    <li>Acessar Top 50 nacionais mais tocadas</li>
+    <li>Acessar Top virais do país</li>
+    <li>Acessar Top virais global</li>
+    <li>Acessar Novidade da semana</li>
+    <li>Acessar Podcasts de músicas</li>
+    <li>Acessar Playlists nacionais</li>
+    <li>Acessar Informações sobre músicas</li>
+    <li>Acessar Álbuns</li>
+    <li>Acessar Daily music: playlists automáticas que vão se formando e adaptando a medida que os gostos mudam.</li>
+    <li>Ativar ou desativar autoplay: Quando termina a reprodução de um álbum, uma playlist ou uma seleção de faixas, o Spotify vai tocar automaticamente músicas parecidas para que o som não pare nunca.</li>
+    <li>Listar as músicas tocadas recentemente</li>
     <li>Recomendações de músicas</li>
     <li>Playlist de músicas</li>
     <li>Rádio de músicas</li>
     <li>Playlists Fresh finds: playlist de artistas independentes e emergentes</li>
     <li>Salvar músicas</li>
+    <li>Importar músicas do seu celular para o aplicativo</li>
 </ul>
 
 <h2>🎧 Moscow (priorização de requisitos)</h2>
 
 <p>A partir das técnicas de elicitação apresentadas anteriormente foi construído o seguinte Moscow:</p>
+<p>
+- Must: O que acontece se esse requisito não for atendido? ”Se a resposta for cancelar o projeto então deve se usar o must, não é possível entregar na data prevista sem isso, Inseguro sem isso.
+</p>
+
+<p>
+- Should: Importante, mas não vital, pode ser doloroso deixar de fora, mas a solução ainda é viável.
+</p>
+
+<p>
+- Could: Os requisitos rotulados como Could são desejáveis, mas não necessários, e podem melhorar a experiência do usuário ou a satisfação do cliente por um pequeno custo de desenvolvimento. Estes serão tipicamente incluídos se o tempo e os recursos permitirem..
+</p>
+
+<p>
+- Would: Requisitos rotulados como Would terão que ser acordados pelas partes interessadas como os itens menos críticos e de menor retorno, ou não são apropriados naquele momento. Como resultado, os requisitos não serão planejados no cronograma do próximo timebox de entrega. Os requisitos não serão eliminados ou reconsiderados para inclusão em um timebox posterior..
+</p>
+
 <table>
 <thead>
 <tr>
+<th>Requisitos</th>
 <th>Must(deve ter)</th>
 <th>Should(deveria ter)</th>
 <th>Could(poderia ter)</th>
@@ -557,43 +582,435 @@ Os vídeos utilizados durante esta técnica podem ser acessados <a href="https:/
 </thead>
 <tbody>
 <tr>
-<td>Playlist de músicas</td>
-<td>Lista de músicas tocadas recentemente</td>
-<td>Rádio de músicas</td>
+<td>Acessar a biblioteca</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Criar playlist</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Excluir playlist</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Renomear playlist</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Seguir playlist</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar lista de playlists</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reproduzir playlist de modo aleatório</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar rádio de uma playlist</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Buscar playlist</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tornar playlist secreta</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Reproduzir música</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Adicionar música a uma playlist</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Remover música de uma playlist</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Adicionar música à fila de reprodução</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar rádio de uma música</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Salvar música</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Remover música salva</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Buscar música</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Salvar álbuns completos</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Remover álbum salvo</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar lista de álbuns salvos</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reproduzir um álbum</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar rádio de um álbum</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Buscar álbum</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Visualizar perfil de um artista</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Seguir artista</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar lista de artistas seguidos</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Buscar artista</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar lista de artistas relacionados a um artista</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Seguir podcast</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Acessar lista de podcasts seguidos</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Deixar de seguir podcast</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar lista de episódios de um podcast</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reproduzir um episódio de podcast</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Acessar lista de episódios de podcast não reproduzidos</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Buscar podcast</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Seguir programas de vídeos</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Acessar lista de programas seguidos</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Deixar de seguir um programa</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar lista de vídeos de um programa</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reproduzir um vídeo</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar lista de vídeos não reproduzidos</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Buscar vídeos</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Recuperar playlist</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Músicas regionais</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Músicas nacionais</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Top 50 mais tocadas no mundo</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Top 50 nacionais mais tocadas</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Top virais do país</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Top virais global</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Novidade da semana</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Podcasts de músicas</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Playlists nacionais</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Informações sobre músicas</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Álbuns</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acessar Daily music</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Ativar ou desativar autoplay</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Listar as músicas tocadas recentemente</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>Recomendações de músicas</td>
-</tr>
-<tr>
-<td>Músicas regionais</td>
-<td>Novidade da semana</td>
-<td>Daily music</td>
-<td>Playlists Fresh finds: playlist de artistas independentes e emergentes</td>
-</tr>
-<tr>
-<td>Informações sobre músicas</td>
-<td>Top virais do país</td>
-<td>Top 50 mais tocadas no mundo</td>
-<td>Autoplay</td>
-</tr>
-<tr>
-<td>Playlists nacionais</td>
-<td>Top virais global</td>
-<td>Top 50 nacionais mais tocadas</td>
-<td>Podcasts de músicas</td>
-</tr>
-<tr>
-<td>Salvar músicas</td>
 <td></td>
+<td>X</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Álbuns</td>
+<td>Fazer download de músicas</td>
+<td></td>
+<td>X</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td>Importar músicas do seu celular para o aplicativo</td>
+<td></td>
+<td></td>
+<td>X</td>
 <td></td>
 </tr>
 </tbody>
 </table>
+<p>48 requisitos de músicas elicitados nesse módulo.</p>
               
             </div>
           </div>
