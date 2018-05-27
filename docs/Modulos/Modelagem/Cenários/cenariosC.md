@@ -143,7 +143,7 @@ O cadastro é efetivado
                 </td> 
             </tr> 
         </tbody></table>
-        
+
 ##  controle de reprodução
 
 <table> 
@@ -183,7 +183,7 @@ Perder sinal da internet.<br>
 <th>Episódios:</th><td class="Estilo">
 usuário inicia o aplicativo. <br>
 Restrição: Não estar com  dispositivo em uso. <br>
-usuário acessa  span style="font-variant: small-caps">informações de reprodução.</span>  <br>
+usuário acessa  <span style="font-variant: small-caps"><b>informações de reprodução.</b></span>  <br>
 usuário altera volume da reprodução ativa.<br>
 usuário muda a música da reprodução ativa.	  	
 </td> 
@@ -221,7 +221,7 @@ aplicativo parar de funcionar<br>
 Celular desligar                </td> 
 </tr> 
 <tr> 
-<th>Episódios:</th><td class="Estilo">Após  span style="font-variant: small-caps">acessar rádio</span><br>
+<th>Episódios:</th><td class="Estilo">Após  <span style="font-variant: small-caps">  <b>acessar rádio</b></span><br>
 <br>
 O usuário clica na opção "Nova estação"<br>
 O usuário insere o nome de uma música, um artista, um álbum ou uma playlist no campo de busca<br>
