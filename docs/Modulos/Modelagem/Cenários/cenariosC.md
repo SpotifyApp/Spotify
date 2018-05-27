@@ -47,11 +47,11 @@ Já ter um <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> com o 
 <table> 
     
 
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Titulo:</th><td class="Estilo">
         colocar a agenda de shows                 </td> 
 
-            </tr> 
+</tr> 
             <tr> 
                 <th>Objetivo:</th><td class="Estilo">
 		postar a <a title="Léxico" href="main.php?t=l&amp;id=12190">agenda de shows</a> de um <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> no próprio <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a>.				</td> 
@@ -61,7 +61,7 @@ Já ter um <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> com o 
 		Estar <a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> no spotify<br>
 Ter <a title="Léxico" href="main.php?t=l&amp;id=12135">perfil de artista</a><br>
 		 
-				</td> 
+</td> 
             </tr> 
             <tr> 
                 <th>Atores:</th><td class="Estilo">
@@ -107,11 +107,11 @@ Inseri as datas e os locais<br>
 
     
 
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Titulo:</th><td class="Estilo">
         cadastro de usuário                </td> 
 
-            </tr> 
+</tr> 
             <tr> 
                 <th>Objetivo:</th><td class="Estilo">
 		Criar um <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> de <a title="Léxico" href="main.php?t=l&amp;id=12126">usuário padrão</a>				</td> 
@@ -242,7 +242,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> passa a ter a
                 <th>Titulo:</th><td class="Estilo">
         criar playlist                </td> 
 
-            </tr> 
+</tr> 
             <tr> 
                 <th>Objetivo:</th><td class="Estilo">
 		criar uma <a title="Léxico" href="main.php?t=l&amp;id=12132">lista</a> de musicas				</td> 
