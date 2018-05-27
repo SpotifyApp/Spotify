@@ -42,7 +42,7 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 
  Identificador | Funcionalidade
  --- | ---
-RF 01 | Acessar biblioteca        (03, 47, 48, 12, 15, 22, 18, 26, 55, 56)
+RF 01 | Acessar biblioteca       
 RF 02 | Acessar opções de busca
 RF 03 | Acessar playlists
 RF 47 | Acessar podcasts na biblioteca
