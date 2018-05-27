@@ -470,3 +470,417 @@ A <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a> é reproduzida
                 </td> 
             </tr> 
         </tbody></table>
+
+********************************Cenario postar uma música***************
+<table> 
+
+
+
+
+<!--                     SEGUNDA PARTE                                     --> 
+
+
+   
+
+
+
+<!-- CENÁRIO --> 
+
+    
+
+            <tbody><tr> 
+                <th>Titulo:</th><td class="Estilo">
+        postar uma música                </td> 
+
+            </tr> 
+            <tr> 
+                <th>Objetivo:</th><td class="Estilo">
+		o <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> cria uma <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a> ou um <a title="Léxico" href="main.php?t=l&amp;id=12151">álbum</a>, e tem o objetivo de postar no spotify.				</td> 
+            </tr> 
+            <tr> 
+                <th>Contexto:</th><td class="Estilo">
+		Estar conectado a <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+Ter um <a title="Léxico" href="main.php?t=l&amp;id=12135">perfil de artista</a> no spotify<br>
+Ter uma gravadora para postar a <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a> pelo <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a>		 
+				</td> 
+            </tr> 
+            <tr> 
+                <th>Atores:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12135">usuário artista</a>                </td>  
+            </tr> 
+            <tr> 
+                <th>Recursos:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+Gravadora<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12135">perfil de artista</a> no spotify                </td> 
+            </tr> 
+            <tr> 
+                <th>Exceção:</th><td class="Estilo">
+		Perder sinal da <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+Não ter o <a title="Léxico" href="main.php?t=l&amp;id=12135">perfil de artista</a> no spotify                </td> 
+            </tr> 
+            <tr> 
+                <th>Episódios:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> faz o cadastro de <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a><br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> avalia o <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> para ver se é autêntico<br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> procura uma gravadora<br>
+Manda a <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a> para a gravadora<br>
+A gravadora manda a <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a> pro spotify	  	
+                </td> 
+            </tr> 
+        </tbody></table>
+
+********************************Cenario propagandas durante a programação musical para quem está no modelo “free”***************
+<table> 
+
+
+
+
+<!--                     SEGUNDA PARTE                                     --> 
+
+
+   
+
+
+
+<!-- CENÁRIO --> 
+
+    
+
+            <tbody><tr> 
+                <th>Titulo:</th><td class="Estilo">
+        propagandas durante a programação musical para quem está no modelo “free”                </td> 
+
+            </tr> 
+            <tr> 
+                <th>Objetivo:</th><td class="Estilo">
+		Propagandas durante a programação musical para quem está no modelo “Free”. Forma de migração para plano "Premium" 				</td> 
+            </tr> 
+            <tr> 
+                <th>Contexto:</th><td class="Estilo">
+		Ser <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> "Free"<br>
+Ter acesso a <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>.<br>
+Estar <a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> no <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>.<br>
+Ter o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> Instalado.		 
+				</td> 
+            </tr> 
+            <tr> 
+                <th>Atores:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+            </tr> 
+            <tr> 
+                <th>Recursos:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a><br>
+Dispositivos de que suportem o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>                </td> 
+            </tr> 
+            <tr> 
+                <th>Exceção:</th><td class="Estilo">
+		Perca de Sinal de <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>                </td> 
+            </tr> 
+            <tr> 
+                <th>Episódios:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>&nbsp;acessa Spotify<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>&nbsp;começa a usar o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> e ouvir as <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a><br>
+<br>
+	  	
+                </td> 
+            </tr> 
+        </tbody></table>
+
+********************************Cenario propagandas de tempo em tempo***************
+<table> 
+
+
+
+
+<!--                     SEGUNDA PARTE                                     --> 
+
+
+   
+
+
+
+<!-- CENÁRIO --> 
+
+    
+
+            <tbody><tr> 
+                <th>Titulo:</th><td class="Estilo">
+        propagandas de tempo em tempo                </td> 
+
+            </tr> 
+            <tr> 
+                <th>Objetivo:</th><td class="Estilo">
+		Propagandas de tempo em tempo no modelo “Free” é um modelo de marketing para que o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> migre para o plano "premium".				</td> 
+            </tr> 
+            <tr> 
+                <th>Contexto:</th><td class="Estilo">
+		Ter acesso a <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>.<br>
+Ter <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> instalado.<br>
+Estar <a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> ao <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>.<br>
+Ser <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> "Free".<br>
+Estar passando <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a>.		 
+				</td> 
+            </tr> 
+            <tr> 
+                <th>Atores:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+            </tr> 
+            <tr> 
+                <th>Recursos:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>.<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>.<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12183">dispositivo</a> compatível com o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>.                 </td> 
+            </tr> 
+            <tr> 
+                <th>Exceção:</th><td class="Estilo">
+		Perca de sinal de <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>.<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> "Premium".                </td> 
+            </tr> 
+            <tr> 
+                <th>Episódios:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> estar ouvindo <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a>.<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> passar de <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a>.	  	
+                </td> 
+            </tr> 
+        </tbody></table>
+
+********************************Cenario publicidade usando figuras públicas***************
+<table> 
+
+
+
+<!--                     SEGUNDA PARTE                                     --> 
+
+
+   
+
+
+
+<!-- CENÁRIO --> 
+
+    
+
+            <tbody><tr> 
+                <th>Titulo:</th><td class="Estilo">
+        publicidade usando figuras públicas                </td> 
+
+            </tr> 
+            <tr> 
+                <th>Objetivo:</th><td class="Estilo">
+		O uso de figuras públicas é uma forma de marketing que atraem pessoas.				</td> 
+            </tr> 
+            <tr> 
+                <th>Contexto:</th><td class="Estilo">
+		Figura pública		 
+				</td> 
+            </tr> 
+            <tr> 
+                <th>Atores:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a><br>
+Figura Pública                </td>  
+            </tr> 
+            <tr> 
+                <th>Recursos:</th><td class="Estilo">
+		Acesso aos meios de comunicação<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a><br>
+Dispositivos de que suportem o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a><br>
+                </td> 
+            </tr> 
+            <tr> 
+                <th>Exceção:</th><td class="Estilo">
+		Perca de Sinal de <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>                </td> 
+            </tr> 
+            <tr> 
+                <th>Episódios:</th><td class="Estilo">
+		Publicidade usando ícones públicos 	  	
+                </td> 
+            </tr> 
+        </tbody></table>
+
+********************************Cenario realizar busca por código***************
+<table> 
+
+
+
+
+<!--                     SEGUNDA PARTE                                     --> 
+
+
+   
+
+
+
+<!-- CENÁRIO --> 
+
+    
+
+            <tbody><tr> 
+                <th>Titulo:</th><td class="Estilo">
+        realizar busca por código                </td> 
+
+            </tr> 
+            <tr> 
+                <th>Objetivo:</th><td class="Estilo">
+		Encontrar <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a>, <a title="Léxico" href="main.php?t=l&amp;id=12151">álbuns</a>, <a title="Léxico" href="main.php?t=l&amp;id=12135">artistas</a>, <a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a>, <a title="Léxico" href="main.php?t=l&amp;id=12204">podcasts</a> e <a title="Léxico" href="main.php?t=l&amp;id=0">vídeos</a> através de um <a title="Léxico" href="main.php?t=l&amp;id=12219">código</a>				</td> 
+            </tr> 
+            <tr> 
+                <th>Contexto:</th><td class="Estilo">
+		Conectado à <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+<a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> na <a title="Léxico" href="main.php?t=l&amp;id=12178">conta</a>		 
+				</td> 
+            </tr> 
+            <tr> 
+                <th>Atores:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+            </tr> 
+            <tr> 
+                <th>Recursos:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> instalado no celular<br>
+                </td> 
+            </tr> 
+            <tr> 
+                <th>Exceção:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a> parar de funcionar<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> parar de funcionar<br>
+Celular desligar                </td> 
+            </tr> 
+            <tr> 
+                <th>Episódios:</th><td class="Estilo">
+		Após  <a title="Cenário" href="main.php?t=c&amp;id=2866"><span style="font-variant: small-caps">acessar opções de busca</span></a><br>
+<br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> clica no ícone de câmera<br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> aponta a câmera do celular para o <a title="Léxico" href="main.php?t=l&amp;id=12219">código</a> ou escolhe em seu celular uma foto com o <a title="Léxico" href="main.php?t=l&amp;id=12219">código</a> do que se deseja <a title="Léxico" href="main.php?t=l&amp;id=12216">buscar</a><br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> passa a ver no <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> o item relacionado ao <a title="Léxico" href="main.php?t=l&amp;id=12219">código</a> inserido	  	
+                </td> 
+            </tr> 
+        </tbody></table>
+
+********************************Cenario realizar busca por texto***************
+<table> 
+
+
+
+
+<!--                     SEGUNDA PARTE                                     --> 
+
+
+   
+
+
+
+<!-- CENÁRIO --> 
+
+    
+
+            <tbody><tr> 
+                <th>Titulo:</th><td class="Estilo">
+        realizar busca por texto                </td> 
+
+            </tr> 
+            <tr> 
+                <th>Objetivo:</th><td class="Estilo">
+		Encontrar <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a>, <a title="Léxico" href="main.php?t=l&amp;id=12151">álbuns</a>, <a title="Léxico" href="main.php?t=l&amp;id=12135">artistas</a>, <a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a>, <a title="Léxico" href="main.php?t=l&amp;id=12204">podcasts</a>, <a title="Léxico" href="main.php?t=l&amp;id=0">vídeos</a>, <a title="Léxico" href="main.php?t=l&amp;id=12210">gêneros</a>, <a title="Léxico" href="main.php?t=l&amp;id=12211">momentos</a> ou outros <a title="Léxico" href="main.php?t=l&amp;id=12125">usuários</a> digitando uma frase ou palavra correspondente ao que se quer <a title="Léxico" href="main.php?t=l&amp;id=12216">buscar</a>				</td> 
+            </tr> 
+            <tr> 
+                <th>Contexto:</th><td class="Estilo">
+		Conectado à <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+<a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> na <a title="Léxico" href="main.php?t=l&amp;id=12178">conta</a>		 
+				</td> 
+            </tr> 
+            <tr> 
+                <th>Atores:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+            </tr> 
+            <tr> 
+                <th>Recursos:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> instalado no celular                </td> 
+            </tr> 
+            <tr> 
+                <th>Exceção:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a> parar de funcionar<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> parar de funcionar<br>
+Celular desligar                </td> 
+            </tr> 
+            <tr> 
+                <th>Episódios:</th><td class="Estilo">
+		Após  <a title="Cenário" href="main.php?t=c&amp;id=2866"><span style="font-variant: small-caps">acessar opções de busca</span></a><br>
+<br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> clica no campo "<a title="Léxico" href="main.php?t=l&amp;id=12216">buscar</a>"<br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> digita uma palavra ou frase<br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> seleciona um dos resultados disponibilizados pelo <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>	  	
+                </td> 
+            </tr> 
+        </tbody></table>
+
+********************************Cenario renomear  playlists***************
+<table> 
+
+
+
+
+<!--                     SEGUNDA PARTE                                     --> 
+
+
+   
+
+
+
+<!-- CENÁRIO --> 
+
+    
+
+            <tbody><tr> 
+                <th>Titulo:</th><td class="Estilo">
+        renomear  playlists                </td> 
+
+            </tr> 
+            <tr> 
+                <th>Objetivo:</th><td class="Estilo">
+		Modificar nome de uma <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a> já existente.<br>
+				</td> 
+            </tr> 
+            <tr> 
+                <th>Contexto:</th><td class="Estilo">
+		O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> desbloqueou o celular, abriu o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> e acessou a <a title="Léxico" href="main.php?t=l&amp;id=12160">biblioteca</a>(acessar <a title="Léxico" href="main.php?t=l&amp;id=12160">biblioteca</a>).<br>
+<br>
+Pré-condição: Estar conectado à <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+Celular com bateria carregada<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> do spotify instalado<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a> existente		 
+				</td> 
+            </tr> 
+            <tr> 
+                <th>Atores:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+            </tr> 
+            <tr> 
+                <th>Recursos:</th><td class="Estilo">
+		Celular<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> do spotify                </td> 
+            </tr> 
+            <tr> 
+                <th>Exceção:</th><td class="Estilo">
+		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a> parar de funcionar<br>
+<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> fechar<br>
+Celular desligar                </td> 
+            </tr> 
+            <tr> 
+                <th>Episódios:</th><td class="Estilo">
+		O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>  clica em <a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a> (acessar <a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a>)<br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> seleciona uma <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a><br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> clica em renomear<br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> insere o novo nome que deseja dar à <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a><br>
+O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> clica em renomear<br>
+A <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a> é <a title="Léxico" href="main.php?t=l&amp;id=12202">salva</a>.<br>
+	  	
+                </td> 
+            </tr> 
+        </tbody></table>
+
+***********************************************
