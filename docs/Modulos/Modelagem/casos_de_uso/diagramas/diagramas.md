@@ -41,7 +41,3 @@
 ## Gerenciar artistas salvos
 <object width="700" height="600" data="../GerenciarArtistasSalvos.jpg"></object>
 
----
-
-## Acessar Opções de busca
-<object width="700" height="600" data="../acessar_opcaos_de_buscas.jpg"></object>
