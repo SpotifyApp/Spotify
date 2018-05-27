@@ -52,7 +52,7 @@ Estar <a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> no <a title
             </tr> 
         </tbody></table>
         
-        ********************************Cenario dispositivos disponíveis ***************
+********************************Cenario dispositivos disponíveis ***************
         
         <table> 
 
@@ -112,7 +112,7 @@ Estar <a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> no Spotify.
         </tbody></table>
         
         
-        ********************************Cenario divulgação de músicas próprias ***************
+********************************Cenario divulgação de músicas próprias ***************
         
         <table> 
 
@@ -175,7 +175,7 @@ Gravadora divulga suas <a title="Léxico" href="main.php?t=l&amp;id=12221">músi
             </tr> 
         </tbody></table>
         
-        ********************************Cenario editar dados de conta ***************
+********************************Cenario editar dados de conta ***************
         
         
         <table> 
