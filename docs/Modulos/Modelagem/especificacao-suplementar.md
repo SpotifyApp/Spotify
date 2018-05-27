@@ -6,6 +6,7 @@
 | 17/04/2018 | 0.2 | Finalidade, Definições e acrônimos e abreviações | Renato Valério |
 | 17/04/2018 | 0.3 | Requisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observações Legais, de Direitos Autorais etc | Amanda Bezerra |
 | 17/04/2018 | 0.4 | --- | Geovanne Santos |
+| 27/05/2018 | 0.5 | Atualização de requisitos funcionais de biblioteca | Eduardo Júnio |
 
 # 1.Introdução
 ## 1.1 Finalidade
@@ -41,7 +42,7 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 
  Identificador | Funcionalidade
  --- | ---
-RF 01 | Acessar biblioteca
+RF 01 | Acessar biblioteca        (03, 47, 48, 12, 15, 22, 18, 26, 55, 56)
 RF 02 | Acessar opções de busca
 RF 03 | Acessar playlists
 RF 47 | Acessar podcasts na biblioteca
@@ -96,7 +97,10 @@ RF 41 | Seguir podcasts
 RF 42 | Seguir programas de videos
 RF 40 | Suporte técnico
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
-
+RF 55 | Acessar álbuns salvos na biblioteca
+RF 56 | Acessar artistas seguidos na biblioteca
+RF 57 | Acessar mídias tocadas recentemente (biblioteca)
+RF 58 | Acessar Daily Mix (biblioteca)
 
 ## Requisitos não funcionais
 
