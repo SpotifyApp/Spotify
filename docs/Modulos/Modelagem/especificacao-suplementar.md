@@ -1,4 +1,4 @@
-# Histórico da Revisão
+4# Histórico da Revisão
 
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
@@ -37,12 +37,17 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 # 2. Funcionalidade
 <p align="justify">Abaixo apresentamos uma lista com os requisitos funcionais,  alguns desses serão abordados nos diagramas de caso de uso.
 
+## Requisitos funcionais
+
  Identificador | Funcionalidade
  --- | ---
 RF 01 | Acessar biblioteca
 RF 02 | Acessar opções de busca
 RF 03 | Acessar playlists
+RF 47 | Acessar podcasts na biblioteca
 RF 04 | Acessar rádio
+RF 48 | Acessar videos na biblioteca
+RF 50 | Alertar Reprodução Ativa
 RF 38 | Atualizar biografia do artista
 RF 05 | Adicionar música a uma playlist
 RF 06 | Adquirir o plano premiun
@@ -51,36 +56,62 @@ RF 33 | Atualizar a foto do álbum
 RF 07 | Cadastro com perfil de artista
 RF 08 | Cadastro de usuário comum
 RF 09 | Colocar a agenda de shows
+RF 51 | Controlar Músicas/Playlists através de outros Dispositivos
+RF 52 | Controlar Reprodução Ativa
+RF 53 | Controlar Volume em dispositivo secundário
 RF 10 | Controle de reprodução.
 RF 11 | Criar estação
 RF 12 | Criar playlist
+RF 43 | Compartilhar podcasts
+RF 44 | Compartilhar programas de videos
 RF 13 | Comprar plano de divulgação de músicas próprias
 RF 34 | Configurar o volume
+RF 32 | Download de playlists
 RF 14 | Editar foto de pefil conta
 RF 37 | Editar dados de conta
+RF 54 | Efetuar Login por dispositivo secundário
 RF 15 | Excluir playlist
 RF 29 | Fazer login
 RF 16 | Ficar em modo offline
-RF 17 | Informações de reprodução.
+RF 17 | Informações de reprodução
 RF 35 | Importar músicas do seu celular para o aplicativo
 RF 21 | Integração redes sociais
+RF 49 | Listar Dispositivos Disponíveis
 RF 19 | Mudar o tipo de perfil
 RF 36 | Mudar senha
-RF 20 | Mudar reprodução ativa.
+RF 20 | Mudar reprodução ativa
 RF 22 | Ouvir lançamentos
 RF 18 | Ocultar playlist
 RF 23 | Postar uma música
 RF 39 | Procurar playlist
-RF 24 |
-RF 25 | 
+RF 24 | Compartilhar playlists
+RF 25 | Seguir artistas
 RF 26 | Renomear playlists
+RF 45 | Reproduzir episodios de podcasts
+RF 46 | Reproduzir videos
 RF 27 | Sair do aplicativo
 RF 28 | Seguir amigos para conhecer o que eles ouvem
-RF 29 | Verificar a autenticidade do perfil de artista
-RF 30 | Ver gráficos de rendimento sobre seus álbuns
 RF 31 | Salvar músicas
-RF 32 | Download de playlists
+RF 41 | Seguir podcasts
+RF 42 | Seguir programas de videos
+RF 40 | Suporte técnico
+RF 30 | Ver gráficos de rendimento sobre seus álbuns
 
+
+## Requisitos não funcionais
+
+|Identificador | Descrição
+|--- | ---
+|RNF 01|sistema de autenticação de usuário(Segurança)
+|RNF 02|serviço de busca(base de dados)
+|RNF 03|telas de interação responsivas(usabilidade)
+|RNF 04|integração spotify e facebook()
+|RNF 05|Interface simples e interativa ao usuário (usabilidade)
+|RNF 06|vinhetas durante a programação musical para quem está no modelo “Free”
+|RNF 07|Limitações de uso ao plano gratuito(usabilidade-controle de liberdade de usuário)
+|RNF 08| Vincular contas com PSN.
+
+## Requisitos para plataformas específicas
 
 Identificador | Dispositivos | Modelo | Sistema operacional
 --- | --- | --- | ---
@@ -97,6 +128,7 @@ RNF 10 | Google Chrome | Qualquer dispositivo | Última versão
 RNF 11 | Mozilla Firefox | Qualquer dispositivo | versão mais recente ou imediatamente anterior
 RNF 12 | Opera | Qualquer dispositivo| 12 ou superior.
 RNF 13 | Yandex | Qualquer dispositivo | 1 ou superior.
+RNF 14 | PS4 | 94 MB de espaço livre.
 
 
 # 3. Usabilidade
@@ -124,10 +156,13 @@ O sistema estará disponível no modo 24/7.
 O sistema deve suportar 4 bilhões de usuários ativos simultaneamente.
 
 ## 4.3 Direitos autorais
-O sistema deve garantir que os direitos autorais dos artistas seja preservado
+* O sistema deve garantir que os direitos autorais dos artistas seja preservado;
+* O sistema deve oferecer suporte para que o usuário possa realizar denúncias ao se deparar com conteúdos que violem direitos de propriedade intelectual ou conteúdos que sejam ofensivos.
 
-## 4.4 Segurança
-A senha do usuário deverá ser guardada de forma segura, além de dados pessoais em geral.
+## 4.4 Segurança e Privacidade
+* O sistema deve assegurar a segurança e privacidade dos dados gerados, armazenando senhas e dados sensiveis de forma segura.
+* O sistema deve ser transparente quanto as informações coletadas referentes a dados pessoais do usuário e preferencias de conteudo e fornecer ao usuario a possibilidade de ajustar a visibilidade de tais informações.
+* O sistema deve fornecer ao usuário controle sobre o conteúdo de comunicação que irá receber, como notificações e e-mails.
 
 # 5. Desempenho
 ## 5.1 Tempo de resposta
