@@ -13,15 +13,20 @@ pages:
         - Elicitação de Música: Modulos/Elicitacao/Plano-de-Elicitação-de-Requisitos-Música.md
         - Elicitação de Integração: Modulos/Elicitacao/Elicitação-Módulo-Integração-do-uso-do-Spotify-em-diferentes-Hardwares.md
         - Elicitação de Usuário: Modulos/Elicitacao/Plano-de-elicitação-de-requisitos-de-usuário.md
-        - Elicitação de Marketing: Modulos/Elicitacao/Plano-de-Elicitação-de-Requisitos-de-Marketing.md
         - Elicitação de Monetização: Modulos/Elicitacao/Elicitação-de-requisitos-de-monetização.md
         - Elicitação de Design: Modulos/Elicitacao/Elicitação-de-requisitos-de-design.md
     - Modelagem:
+        - Cenários e Léxicos: Modulos/Modelagem/Cenários/cenarios_lexicos.md
         - Especificação Suplementar: Modulos/Modelagem/especificacao-suplementar.md
         - Diagramas de Caso de Uso: Modulos/Modelagem/casos_de_uso/diagramas/diagramas.md/
         - Especificações de Caso de Uso: Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes.md
         - Product Backlog: Modulos/Modelagem/agil/product_backlog.md
         - Sprint Backlog: Modulos/Modelagem/agil/sprint_backlog.md
+        - NFR Framework: Modulos/Modelagem/NFR/nfr.md
+        - iStar: Modulos/Modelagem/iStar/istar.md
+    - Análise:
+        - Inspeção: Modulos/Analise/inspecao.md
+        - Ponto de vista: Modulos/Analise/pontodevista.md
 
 
 markdown_extensions:
