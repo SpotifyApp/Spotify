@@ -4,7 +4,7 @@
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">agenda de shows				</td> 
             </tr> 
             <tr> 
@@ -22,13 +22,13 @@
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			calendário de shows.    
+calendário de shows.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 
@@ -38,7 +38,7 @@
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">álbum				</td> 
             </tr> 
             <tr> 
@@ -56,13 +56,13 @@
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			álbuns.    
+álbuns.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## aplicativo
@@ -70,7 +70,7 @@
 <table> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">aplicativo				</td> 
             </tr> 
             <tr> 
@@ -88,13 +88,13 @@
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			app.    
+app.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## arquivos locais 
@@ -114,7 +114,7 @@
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">arquivos locais				</td> 
             </tr> 
             <tr> 
@@ -133,13 +133,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquiv
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## 	banimento da conta 
@@ -159,7 +159,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquiv
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">banimento da conta				</td> 
             </tr> 
             <tr> 
@@ -177,13 +177,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquiv
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## biblioteca
@@ -203,7 +203,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquiv
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">biblioteca				</td> 
             </tr> 
             <tr> 
@@ -222,13 +222,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			estante.    
+estante.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## buscar
@@ -248,7 +248,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">buscar				</td> 
             </tr> 
             <tr> 
@@ -266,13 +266,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			procurar, pesquisar.    
+procurar, pesquisar.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## classificar
@@ -292,7 +292,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">classificar				</td> 
             </tr> 
             <tr> 
@@ -310,13 +310,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## código
@@ -336,7 +336,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">código				</td> 
             </tr> 
             <tr> 
@@ -354,13 +354,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## compartilhar musica 
@@ -380,7 +380,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">compartilhar musica				</td> 
             </tr> 
             <tr> 
@@ -398,13 +398,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## conta
@@ -424,7 +424,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">conta				</td> 
             </tr> 
             <tr> 
@@ -442,13 +442,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			perfil, perfis.    
+perfil, perfis.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## daily mix 
@@ -468,7 +468,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">daily mix				</td> 
             </tr> 
             <tr> 
@@ -486,13 +486,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			daily mixes.    
+daily mixes.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## dispositivo
@@ -512,7 +512,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">dispositivo				</td> 
             </tr> 
             <tr> 
@@ -530,13 +530,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## dispositivo em uso 
@@ -556,7 +556,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">dispositivo em uso				</td> 
             </tr> 
             <tr> 
@@ -568,20 +568,20 @@ Coleção que se dispõe de maneira ordenada.				</td>
             <tr> 
                 <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> recebe as informações de <a title="Léxico" href="main.php?t=l&amp;id=12213">reprodução ativa </a> no <a title="Léxico" href="main.php?t=l&amp;id=12183">dispositivo</a> de uso.<br>
  
-				</td>
+</td>
             </tr> 
             <tr> 
             <th>Sinônimo(s):</th> 
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## download
@@ -590,7 +590,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">download				</td> 
             </tr> 
             <tr> 
@@ -608,13 +608,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			transferência, descarregamento, cópia, baixar..    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## estação
@@ -634,7 +634,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">estação				</td> 
             </tr> 
             <tr> 
@@ -652,13 +652,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			estações.    
+estações.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## excluir
@@ -678,7 +678,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">excluir				</td> 
             </tr> 
             <tr> 
@@ -691,20 +691,20 @@ Coleção que se dispõe de maneira ordenada.				</td>
                 <th>Impacto(s):</th><td class="Estilo">Um <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> pode excluir <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a>, <a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a>, <a title="Léxico" href="main.php?t=l&amp;id=12215">vídeos</a> e etc.<br>
 Um <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> pode excluir sua <a title="Léxico" href="main.php?t=l&amp;id=12178">conta</a>.<br>
  
-				</td>
+</td>
             </tr> 
             <tr> 
             <th>Sinônimo(s):</th> 
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			eliminar, omitir, apagar, suprimir, deletar..    
+eliminar, omitir, apagar, suprimir, deletar..    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## faixa
@@ -713,7 +713,7 @@ Um <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> pode excluir
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">faixa 				</td> 
             </tr> 
             <tr> 
@@ -733,13 +733,13 @@ Há uma faixa em reprodução no <a title="Léxico" href="main.php?t=l&amp;id=12
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			track.    
+track.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## fila
@@ -759,7 +759,7 @@ Há uma faixa em reprodução no <a title="Léxico" href="main.php?t=l&amp;id=12
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">fila				</td> 
             </tr> 
             <tr> 
@@ -773,20 +773,20 @@ Há uma faixa em reprodução no <a title="Léxico" href="main.php?t=l&amp;id=12
 O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> altera a ordem de reprodução da fila.<br>
 O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faixas ou <a title="Léxico" href="main.php?t=l&amp;id=0">álbuns</a> à fila de reprodução.<br>
  
-				</td>
+</td>
             </tr> 
             <tr> 
             <th>Sinônimo(s):</th> 
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			fila de reprodução.    
+fila de reprodução.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## filtrar
@@ -806,7 +806,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">filtrar				</td> 
             </tr> 
             <tr> 
@@ -824,13 +824,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			limitar resultados, busca avançada.    
+limitar resultados, busca avançada.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## freemium
@@ -839,7 +839,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">freemium				</td> 
             </tr> 
             <tr> 
@@ -851,20 +851,20 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
             <tr> 
                 <th>Impacto(s):</th><td class="Estilo">Modelo de negócio baseado em sub-modelos, onde existe um geral que é uma forma de captação de <a title="Léxico" href="main.php?t=l&amp;id=12125">usuários</a>, e atrai para um plano "Premium".<br>
  
-				</td>
+</td>
             </tr> 
             <tr> 
             <th>Sinônimo(s):</th> 
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			freemium.    
+freemium.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## gênero
@@ -884,7 +884,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">gênero				</td> 
             </tr> 
             <tr> 
@@ -902,13 +902,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			categoria, gêneros.    
+categoria, gêneros.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## interface
@@ -928,7 +928,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">interface				</td> 
             </tr> 
             <tr> 
@@ -946,13 +946,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			tela da aplicação, layout.    
+tela da aplicação, layout.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## internet
@@ -972,7 +972,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">internet				</td> 
             </tr> 
             <tr> 
@@ -991,13 +991,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> precisa ter
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			rede, web, net..    
+rede, web, net..    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## lançamentos
@@ -1005,7 +1005,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> precisa ter
 <table> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">lançamentos				</td> 
             </tr> 
             <tr> 
@@ -1025,13 +1025,13 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			divulgação, lançar.    
+divulgação, lançar.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## logado
@@ -1051,7 +1051,7 @@ Tornar algo público.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">logado				</td> 
             </tr> 
             <tr> 
@@ -1069,13 +1069,13 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## mídia
@@ -1087,7 +1087,7 @@ Tornar algo público.				</td>
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">mídia				</td> 
             </tr> 
             <tr> 
@@ -1105,13 +1105,13 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			mídia, mídias.    
+mídia, mídias.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## momentos
@@ -1131,7 +1131,7 @@ Tornar algo público.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">momentos				</td> 
             </tr> 
             <tr> 
@@ -1149,13 +1149,13 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## música
@@ -1175,7 +1175,7 @@ Tornar algo público.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">música				</td> 
             </tr> 
             <tr> 
@@ -1193,11 +1193,11 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			músicas.    
+músicas.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
