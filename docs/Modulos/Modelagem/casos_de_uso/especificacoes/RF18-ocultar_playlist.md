@@ -1,14 +1,15 @@
 Data | Responsável | Versão|
 --------- | ------| --------|
-26/04/2018 | Eduardo Júnio |   1.0   |
-27/05/2018 | Eduardo Júnio |   2.0   |
+27/05/2018 | Eduardo Júnio |   1.0   |
 
-# ✅ [UC15] - Excluir playlists
+
+# ✅ [UC18] - Tornar Playlist secreta
+
 ## 1. Nome do Caso de Uso
-- Excluir playlists
+- Tornar playlist secreta
 
-## 2. Breve descrição
-- Permite a exclusão de uma playlist selecionada pelo usuário.
+## 2.  Breve descrição
+- Permite ao usuário tornar uma playlist secreta para que apenas o mesmo possa visualiza-la
 
 ## 3.  Atores
 - Usuário.
@@ -26,20 +27,25 @@ Data | Responsável | Versão|
 2. O sistema exibe a tela inicial do aplicativo.
 3. O usuário seleciona a opção Acessar biblioteca.
 4. O sistema exibe as opções de funcionalidades disponíveis na biblioteca.
-5. O usuário seleciona uma playlist.[FA01]
-6. O sistema apresenta as músicas salvas na playlist.
-7. O usuário seleciona a opção apagar.[FA01]
-8. O sistema exclui a playlist.
+5. O usuário seleciona a opção Playlists.[FA02]
+6. O sistema lista todos as playlists salvas na biblioteca do usuário [FA01]
+7. O usuário seleciona a playlist que deseja tornar secreta.
+8. O sistema apresenta o conteúdo da playlist e o menu de gerenciamento da playlist.
+9. O usuário seleciona a opção Tornar secreta.
 
 ## 5.2 Fluxos alternativos
 
-FA01 - O usuário cancela a operação
+FA01 - O usuário não possui playlists
+1. O sistema apresenta a opção "Criar playist".
+2. O usuário seleciona a opção apresentada.
+3. O sistema apresenta músicas em destaque e categorias.
+4. O usuário seleciona alguma das opções e a adiciona à sua playlist.
+5. O fluxo básico pode ser retomado.
+
+FA02 - O usuário cancela a operação
 1. O usuário cancela a operação corrente.
 2. O sistema redireciona o usuário para outra tela.
 
-FA02 - O usuário não possui playlists salvas.
-1. O usuário não possui playlists.
-2. O sistema apresenta ao usuário a opção criar playlist.
 
 ## 5.3 Fluxos de Exceção
 

@@ -1,4 +1,4 @@
-ata | Responsável | Versão|
+Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
