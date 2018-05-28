@@ -41,7 +41,7 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 ## Requisitos funcionais
 
  Identificador | Funcionalidade
- --- | --- 
+ --- | ---
 RF 01 | Acessar biblioteca 
 RF 02 | Acessar opções de busca
 RF 03 | Acessar playlists
@@ -98,9 +98,9 @@ RF 42 | Seguir programas de videos
 RF 40 | Suporte técnico
 RF 30 | Ver gráficos de rendimento sobre seus álbuns
 RF 55 | Acessar álbuns salvos na biblioteca
-RF 56 | Acessar artistas seguidos na biblioteca
-RF 57 | Acessar mídias tocadas recentemente (biblioteca)
-RF 58 | Acessar Daily Mix (biblioteca)
+RF 56 | Acessar artistas seguidos
+RF 57 | Acessar mídias tocadas recentemente
+RF 58 | Acessar Daily Mix
 RF 59 | Compartilhar música
 
 ## Requisitos não funcionais
