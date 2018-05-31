@@ -1,14 +1,14 @@
 Data | Responsável | Versão|
 --------- | ------| --------|
-26/04/2018 | Eduardo Júnio |   1.0   |
-27/05/2018 | Eduardo Júnio |   2.0   |
+27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC15] - Excluir playlists
+# ✅ [UC56] - Acessar artistas seguidos
+
 ## 1. Nome do Caso de Uso
-- Excluir playlists
+- Acessar artistas seguidos
 
-## 2. Breve descrição
-- Permite a exclusão de uma playlist selecionada pelo usuário.
+## 2.  Breve descrição
+- Permite ao usuário acessar a lista de artistas que estão sendo seguidos.
 
 ## 3.  Atores
 - Usuário.
@@ -22,24 +22,26 @@ Data | Responsável | Versão|
 
 ### 5.1 Fluxo básico
 
-1. O caso de uso começa quando o ator abre o aplicativo.
+1. O caso de uso inicia quando o ator abre o aplicativo.
 2. O sistema exibe a tela inicial do aplicativo.
 3. O usuário seleciona a opção Acessar biblioteca.
 4. O sistema exibe as opções de funcionalidades disponíveis na biblioteca.
-5. O usuário seleciona uma playlist.[FA01]
-6. O sistema apresenta as músicas salvas na playlist.
-7. O usuário seleciona a opção apagar.[FA01]
-8. O sistema exclui a playlist.
+5. O usuário seleciona a opção Artistas.[FA02]
+6. O sistema lista todos os Artistas que estão sendo seguidos.[FA01]
 
 ## 5.2 Fluxos alternativos
 
-FA01 - O usuário cancela a operação
+FA01 - O usuário não possui artistas salvos
+1. O sistema apresenta a opção Ir para navegar.
+2. O usuário seleciona a opção apresentada.
+3. O sistema apresenta sugestões de artistas.
+4. O usuário seleciona um artista ou usa a funcionalidade para buscar o artista desejado.
+5. O usuário ativa a funcionalidade seguir artista.
+6. O fluxo básico pode ser retomado.
+
+FA02 - O usuário cancela a operação
 1. O usuário cancela a operação corrente.
 2. O sistema redireciona o usuário para outra tela.
-
-FA02 - O usuário não possui playlists salvas.
-1. O usuário não possui playlists.
-2. O sistema apresenta ao usuário a opção criar playlist.
 
 ## 5.3 Fluxos de Exceção
 

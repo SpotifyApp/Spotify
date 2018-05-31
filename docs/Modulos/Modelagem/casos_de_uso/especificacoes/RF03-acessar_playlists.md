@@ -1,14 +1,15 @@
 Data | Responsável | Versão|
 --------- | ------| --------|
-26/04/2018 | Eduardo Júnio |   1.0   |
-27/05/2018 | Eduardo Júnio |   2.0   |
+27/05/2018 | Eduardo Júnio |   1.0   |
 
-# ✅ [UC15] - Excluir playlists
+
+# ✅ [UC03] - Acessar playlists
+
 ## 1. Nome do Caso de Uso
-- Excluir playlists
+- Acessar playlists
 
-## 2. Breve descrição
-- Permite a exclusão de uma playlist selecionada pelo usuário.
+## 2.  Breve descrição
+- Apresenta playlists contendo músicas que foram adicionadas à elas.
 
 ## 3.  Atores
 - Usuário.
@@ -26,23 +27,22 @@ Data | Responsável | Versão|
 2. O sistema exibe a tela inicial do aplicativo.
 3. O usuário seleciona a opção Acessar biblioteca.
 4. O sistema exibe as opções de funcionalidades disponíveis na biblioteca.
-5. O usuário seleciona uma playlist.[FA01]
-6. O sistema apresenta as músicas salvas na playlist.
-7. O usuário seleciona a opção apagar.[FA01]
-8. O sistema exclui a playlist.
+5. O usuário seleciona a opção playlists
+6. O sistema lista todas as playlists do usuário [FA01]
 
 ## 5.2 Fluxos alternativos
 
-FA01 - O usuário cancela a operação
-1. O usuário cancela a operação corrente.
-2. O sistema redireciona o usuário para outra tela.
+FA01 - O usuário não possui playlists salvas
+1. O sistema apresenta uma mensagem [M1] informando ao usuário que o mesmo não possui playlists salvas e mostra-lhe a opção de criar playlist ou cancelar a operação[FA02].
+2. O usuário seleciona uma das opções apresentadas, se selecionado cancelar, [FA02].
+3. O usuário cria uma playlist com o nome desejado.
+4. O sistema apresenta segestões de músicas para salvar na playlist.
+5. O fluxo básico pode ser retomado.
 
-FA02 - O usuário não possui playlists salvas.
-1. O usuário não possui playlists.
-2. O sistema apresenta ao usuário a opção criar playlist.
+FA02 - O usuário cancela a operação
+1. O sistema redireciona o usuário para a tela inicial.
 
 ## 5.3 Fluxos de Exceção
-
 FE01 - Não ter acesso a Internet durante o procedimento
 1. O sistema informa "O spotify está offline"[M1].
 2. A operação é interrompida.

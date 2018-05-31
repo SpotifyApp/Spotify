@@ -6,6 +6,7 @@
 | 17/04/2018 | 0.2 | Finalidade, Definições e acrônimos e abreviações | Renato Valério |
 | 17/04/2018 | 0.3 | Requisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observações Legais, de Direitos Autorais etc | Amanda Bezerra |
 | 17/04/2018 | 0.4 | --- | Geovanne Santos |
+| 27/05/2018 | 0.5 | Atualização de requisitos funcionais de biblioteca | Eduardo Júnio |
 
 # 1.Introdução
 ## 1.1 Finalidade
@@ -39,6 +40,7 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 
 ## Requisitos funcionais
 
+<<<<<<< HEAD
 Identificador | documento de elicitação correspondente | Funcionalidade |
  --- | --- | --- |
 RF 01 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Acessar biblioteca|  
@@ -96,6 +98,70 @@ RF 41 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-
 RF 42 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Seguir programas de videos|
 RF 40 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/) | Suporte técnico|
 RF 30 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Ver gráficos de rendimento sobre seus álbuns|
+=======
+ Identificador | Funcionalidade
+ --- | ---
+RF 01 | Acessar biblioteca 
+RF 02 | Acessar opções de busca
+RF 03 | Acessar playlists
+RF 47 | Acessar podcasts na biblioteca
+RF 04 | Acessar rádio
+RF 48 | Acessar videos na biblioteca
+RF 50 | Alertar Reprodução Ativa
+RF 38 | Atualizar biografia do artista
+RF 05 | Adicionar música a uma playlist
+RF 06 | Adquirir o plano premiun
+RF 32 | Ativar o status de transmissão(permitir outros apps verificarem o que está ouvindo)
+RF 33 | Atualizar a foto do álbum
+RF 07 | Cadastro com perfil de artista
+RF 08 | Cadastro de usuário comum
+RF 09 | Colocar a agenda de shows
+RF 51 | Controlar Músicas/Playlists através de outros Dispositivos
+RF 52 | Controlar Reprodução Ativa
+RF 53 | Controlar Volume em dispositivo secundário
+RF 10 | Controle de reprodução.
+RF 11 | Criar estação
+RF 12 | Criar playlist
+RF 43 | Compartilhar podcasts
+RF 44 | Compartilhar programas de videos
+RF 13 | Comprar plano de divulgação de músicas próprias
+RF 34 | Configurar o volume
+RF 32 | Download de playlists
+RF 14 | Editar foto de pefil conta
+RF 37 | Editar dados de conta
+RF 54 | Efetuar Login por dispositivo secundário
+RF 15 | Excluir playlist
+RF 29 | Fazer login
+RF 16 | Ficar em modo offline
+RF 17 | Informações de reprodução
+RF 35 | Importar músicas do seu celular para o aplicativo
+RF 21 | Integração redes sociais
+RF 49 | Listar Dispositivos Disponíveis
+RF 19 | Mudar o tipo de perfil
+RF 36 | Mudar senha
+RF 20 | Mudar reprodução ativa
+RF 22 | Ouvir lançamentos
+RF 18 | Ocultar playlist
+RF 23 | Postar uma música
+RF 39 | Procurar playlist
+RF 24 | Compartilhar playlists
+RF 25 | Seguir artistas
+RF 26 | Renomear playlists
+RF 45 | Reproduzir episodios de podcasts
+RF 46 | Reproduzir videos
+RF 27 | Sair do aplicativo
+RF 28 | Seguir amigos para conhecer o que eles ouvem
+RF 31 | Salvar músicas
+RF 41 | Seguir podcasts
+RF 42 | Seguir programas de videos
+RF 40 | Suporte técnico
+RF 30 | Ver gráficos de rendimento sobre seus álbuns
+RF 55 | Acessar álbuns salvos na biblioteca
+RF 56 | Acessar artistas seguidos
+RF 57 | Acessar mídias tocadas recentemente
+RF 58 | Acessar Daily Mix
+RF 59 | Compartilhar música
+>>>>>>> 6430d101cec515d816a7f8befa894b4fe90941ec
 
 ## Requisitos não funcionais
 

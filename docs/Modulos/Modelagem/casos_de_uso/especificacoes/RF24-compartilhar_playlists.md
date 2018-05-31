@@ -1,15 +1,14 @@
 Data | Responsável | Versão|
 --------- | ------| --------|
-23/04/2018 | Geovanne Santos |   1.0   |
-27/05/2018 | Eduardo Júnio |   2.0   |
+27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC26] - Renomear playlists
+# ✅ [UC24] - Compartilhar playlists
 
 ## 1. Nome do Caso de Uso
-- Renomear playlists
+-  Compartilhar playlists
 
 ## 2.  Breve descrição
-- Permite ao usuário modificar o nome de uma playlist criada por ele.
+- Permite ao usuário compartilhar playlists de músicas com outras redes sociais.
 
 ## 3.  Atores
 - Usuário.
@@ -18,37 +17,38 @@ Data | Responsável | Versão|
 - O usuário deve possuir uma conta no spotify.
 - Ter o aplicativo do Spotify instalado
 - Estar conectado à internet.
+- Possuir conta na rede social que deseja compartilhar o programa.
 
 ## 5.  Fluxo de eventos
 
 ### 5.1 Fluxo básico
 
-1. O caso de uso começa quando o ator abre o aplicativo.
+1. O caso de uso inicia quando o ator abre o aplicativo.
 2. O sistema exibe a tela inicial do aplicativo.
 3. O usuário seleciona a opção Acessar biblioteca.
 4. O sistema exibe as opções de funcionalidades disponíveis na biblioteca.
-5. O usuário seleciona a opção playlists.
-6. O sistema lista todas as playlists salvas na biblioteca do usuário [FA01]
-7. O usuário seleciona a playlist que deseja renomear.[FA02]
-8. O sistema apresenta o conteúdo da playlist e o menu de gerenciamento da playlist.
-9. O usuário seleciona a opção Editar detalhes.
-10. O sistema apresenta ao usuário uma tela solicitando o novo nome que será dado à playlist.
-11. O usuário insere o nome da playlist.
-12. O sistema salva o novo nome da playlist.
+5. O usuário seleciona a opção Playlists.[FA02]
+6. O sistema apresenta todas as playlists salvas na biblioteca.[FA01]
+7. O usuário seleciona a playlist que deseja compartilhar e seleciona a opção compartilhar.[FA02]
+8. O sistema apresenta as opções de compartilhamento.[FA02]
+9. O usuário seleciona a rede social que deseja compartilhar a playlist.[FA02]
+10. O sistema compartilha a playlist.
 
 ## 5.2 Fluxos alternativos
 
-FA01 - O usuário não possui playlists
-1. O sistema apresenta a opção "Criar playist".
+FA01 - Usuário não possui playlists salvas
+1. O sistema apresenta a opção Criar playlist.
 2. O usuário seleciona a opção apresentada.
-3. O sistema apresenta músicas em destaque e categorias.
-4. O usuário seleciona alguma das opções e a adiciona à sua playlist.
-5. O fluxo básico pode ser retomado.
+3. O sistema solicita o nome, imagem e descrição da playlist.[FA02]
+4. O usuário seleciona a opção Criar.
+5. O sistema cria a playlist.
+6. O sistema apresenta sugestões de músicas que podem ser adicionadas à playlist e playlists que podem ser salvas pelo usuário.
+7. O usuário seleciona o conteúdo desejado e o salva em sua playlist.
+8. O fluxo básico pode ser retomado.
 
 FA02 - O usuário cancela a operação
 1. O usuário cancela a operação corrente.
 2. O sistema redireciona o usuário para outra tela.
-
 
 ## 5.3 Fluxos de Exceção
 
@@ -63,6 +63,5 @@ FE02 - Aplicativo parar de funcionar
 3. O caso de uso se encerra.
 
 ## 6 Mensagens
-
 - [M1] O spotify está offline.
 - [M2] O aplicativo encerrou inesperadamente.
