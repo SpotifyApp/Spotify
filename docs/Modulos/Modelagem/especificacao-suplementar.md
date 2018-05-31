@@ -39,64 +39,63 @@ O software de música permitirá que os assinantes possam ouvir qualquer álbum 
 
 ## Requisitos funcionais
 
- Identificador | Funcionalidade
- --- | ---
-RF 01 | Acessar biblioteca
-RF 02 | Acessar opções de busca
-RF 03 | Acessar playlists
-RF 47 | Acessar podcasts na biblioteca
-RF 04 | Acessar rádio
-RF 48 | Acessar videos na biblioteca
-RF 50 | Alertar Reprodução Ativa
-RF 38 | Atualizar biografia do artista
-RF 05 | Adicionar música a uma playlist
-RF 06 | Adquirir o plano premiun
-RF 32 | Ativar o status de transmissão(permitir outros apps verificarem o que está ouvindo)
-RF 33 | Atualizar a foto do álbum
-RF 07 | Cadastro com perfil de artista
-RF 08 | Cadastro de usuário comum
-RF 09 | Colocar a agenda de shows
-RF 51 | Controlar Músicas/Playlists através de outros Dispositivos
-RF 52 | Controlar Reprodução Ativa
-RF 53 | Controlar Volume em dispositivo secundário
-RF 10 | Controle de reprodução.
-RF 11 | Criar estação
-RF 12 | Criar playlist
-RF 43 | Compartilhar podcasts
-RF 44 | Compartilhar programas de videos
-RF 13 | Comprar plano de divulgação de músicas próprias
-RF 34 | Configurar o volume
-RF 32 | Download de playlists
-RF 14 | Editar foto de pefil conta
-RF 37 | Editar dados de conta
-RF 54 | Efetuar Login por dispositivo secundário
-RF 15 | Excluir playlist
-RF 29 | Fazer login
-RF 16 | Ficar em modo offline
-RF 17 | Informações de reprodução
-RF 35 | Importar músicas do seu celular para o aplicativo
-RF 21 | Integração redes sociais
-RF 49 | Listar Dispositivos Disponíveis
-RF 19 | Mudar o tipo de perfil
-RF 36 | Mudar senha
-RF 20 | Mudar reprodução ativa
-RF 22 | Ouvir lançamentos
-RF 18 | Ocultar playlist
-RF 23 | Postar uma música
-RF 39 | Procurar playlist
-RF 24 | Compartilhar playlists
-RF 25 | Seguir artistas
-RF 26 | Renomear playlists
-RF 45 | Reproduzir episodios de podcasts
-RF 46 | Reproduzir videos
-RF 27 | Sair do aplicativo
-RF 28 | Seguir amigos para conhecer o que eles ouvem
-RF 31 | Salvar músicas
-RF 41 | Seguir podcasts
-RF 42 | Seguir programas de videos
-RF 40 | Suporte técnico
-RF 30 | Ver gráficos de rendimento sobre seus álbuns
-
+Identificador | documento de elicitação correspondente | Funcionalidade |
+ --- | --- | --- |
+RF 01 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Acessar biblioteca|  
+RF 02 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Acessar opções de busca|
+RF 03 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Acessar playlists|
+RF 47 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Acessar podcasts na biblioteca|
+RF 04 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Acessar rádio|
+RF 48 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Acessar videos na biblioteca|
+RF 50 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Alertar Reprodução Ativa|
+RF 38 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/)| Atualizar biografia do artista|
+RF 05 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Adicionar música a uma playlist|
+RF 06 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-de-requisitos-de-monetiza%C3%A7%C3%A3o/) | Adquirir o plano premium|
+RF 32 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/) | Ativar o status de transmissão(permitir outros apps verificarem o que está ouvindo)|
+RF 33 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Atualizar a foto do álbum|
+RF 07 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Disponibilizar um perfil de artista|
+RF 08 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Cadastro de usuário comum|
+RF 09 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Manter a agenda de shows|
+RF 51 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Controlar Músicas/Playlists através de outros Dispositivos|
+RF 52 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/)| Controlar Reprodução Ativa|
+RF 53 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/)| Controlar Volume em dispositivo secundário|
+RF 10 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/)| Controle de reprodução.|
+RF 11 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Criar estação|
+RF 12 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Criar playlist|
+RF 43 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Compartilhar podcasts|
+RF 44 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Compartilhar programas de videos|
+RF 34 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Configurar o volume|
+RF 32 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Download de playlists|
+RF 14 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Editar foto de pefil conta|
+RF 37 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Editar dados de conta|
+RF 55 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/)| Efetuar Login por dispositivo secundário|
+RF 15 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Excluir playlist|
+RF 29 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Fazer login|
+RF 16 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Ficar em modo offline|
+RF 13 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Gerar recomendações|
+RF 17 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Informações de reprodução|
+RF 35 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Importar músicas do seu celular para o aplicativo|
+RF 21 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/)| Integração redes sociais|
+RF 49 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/)| Listar Dispositivos Disponíveis|
+RF 19 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Afirmação do perfil artista|
+RF 36 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Mudar senha|
+RF 20 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Mudar reprodução ativa|
+RF 22 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Radar de novidades|
+RF 18 |[aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/) | Ocultar playlist|
+RF 23 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Enviar uma música para o spotify|
+RF 39 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Procurar playlist|
+RF 24 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Compartilhar playlists|
+RF 25 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Seguir artistas|
+RF 26 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Renomear playlists|
+RF 45 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Reproduzir episodios de podcasts|
+RF 46 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Reproduzir videos|
+RF 27 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Sair do aplicativo|
+RF 28 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/)| Seguir amigos para conhecer o que eles ouvem|
+RF 31 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Salvar músicas|
+RF 41 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Seguir podcasts|
+RF 42 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-Elicita%C3%A7%C3%A3o-de-Requisitos-M%C3%BAsica/)| Seguir programas de videos|
+RF 40 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Elicita%C3%A7%C3%A3o-M%C3%B3dulo-Integra%C3%A7%C3%A3o-do-uso-do-Spotify-em-diferentes-Hardwares/) | Suporte técnico|
+RF 30 | [aqui](https://spotifyapp.github.io/Spotify/Modulos/Elicitacao/Plano-de-elicita%C3%A7%C3%A3o-de-requisitos-de-usu%C3%A1rio/) | Ver gráficos de rendimento sobre seus álbuns|
 
 ## Requisitos não funcionais
 
