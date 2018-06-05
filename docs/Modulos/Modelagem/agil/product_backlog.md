@@ -2,7 +2,6 @@
 
 |Tipo|Eu como|Desejo|Para que|Prioridade|Status|
 |--|--|--|--|--|--|
-
 |RNF 01|desenvolvedor|desenvolver sistema de autenticação de usuário|os usuário possam ser autenticados no sistema|Must|To do|
 |RNF 02|desenvolvedor|desenvolver serviço de busca|conteúdos possam ser procurados na aplicação|Must|To do|
 |RNF 03|desenvolvedor|desenvolver telas de interação responsivas|o layout seja ajustado de acordo com o dispositivo|Must|To do|

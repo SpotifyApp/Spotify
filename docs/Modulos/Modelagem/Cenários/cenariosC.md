@@ -33,7 +33,7 @@ Já ter um perfil com o mesmo perfil que está desejando criar                </
 </tr> 
 <tr> 
 <th>Episódios:</th><td class="Estilo">
-usuário abre o Léxico">usuário clica em fazer cadastro<br>
+usuário abre o Léxico usuário clica em fazer cadastro<br>
 usuário coloca as informações necessárias para se cadastrar<br>
     O cadastro é efetivado	  	
 </td> 
