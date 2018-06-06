@@ -17,7 +17,7 @@
 |RF 06|usuário free|adquirir um plano premiun|possa utilizar mais funcionalidades, como passar músicas e voltar músicas|Should|To do|
 |RF 07|usuário não cadastrado|me cadastrar como perfil de artista|possa postar músicas|Must|To do|
 |RF 08|usuário não cadastrado|me cadastrar como usuário comum|possa usar funcionalidades que se limitam em ouvir música|Must|To do|
-|RF 09|usuário|colocar a agenda de shows|para divulgar os locais dos próximos shows|Could|To do|
+|RF 09|usuário artista|colocar a agenda de shows|para divulgar os locais dos próximos shows|Could|To do|
 |RF 10|usuário|controlar a reprodução das músicas|eu possar pausar, passar e voltar música|Must|To do|
 |RF 11|usuário|criar estação|eu possa ouvir músicas parecidas com as que esteja na playlist, sem ter adicionado elas|Could|To do|
 |RF 12|usuário|criar playlist|eu possa gerar playlist que eu desejaria criar|Must|To do|
