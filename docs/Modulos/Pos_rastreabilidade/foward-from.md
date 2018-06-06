@@ -3,10 +3,10 @@ Data | Responsável | Versão| Mudança realizada|
 05/06/2018 | Amanda Bezerra | 1.0 | Criação de rastro de cenários e léxicos |
 
 
-ID | Referência | Requisito | Cenário  | Léxicos |                   
+ID | Referência | Requisito | Cenário  | Léxicos | Casos de Uso | Histórias de Usuário | NFR | I*                 
 :--: | :--: | :--: | :--: |:--: |      
 01 | RF 01	| Acessar biblioteca | [Acessar Biblioteca](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#acessar-biblioteca) | [Biblioteca](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#biblioteca)      
-02 | RF 02	|	Acessar opções de busca | [Acessar opções de busca](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#acessar-opcoes-de-busca) | [Buscar](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#buscar)        
+02 | RF 02	|	Acessar opções de busca | [Acessar opções de busca](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#acessar-opcoes-de-busca) | [Buscar](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#buscar)  
 03 | RF 03	|	Acessar playlists | [Acessar playlists](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#acessar-playlists) | [Playlist](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#playlist)       
 04 | RF 47	|	Acessar podcasts na biblioteca | [Acessar Biblioteca](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#acessar-biblioteca) | [Podcast](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#podcast)     
 05| RF 04	|	Acessar rádio | [Acessar rádio](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#acessar-radio) | [Rádio](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cenários/cenarios_lexicos/#radio)
