@@ -4,17 +4,17 @@
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">agenda de shows				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">uma programação dos shows que o <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> irá realizar no qual o <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> posta em seu <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a>				</td> 
+                <th>Noção:</th><td class="Estilo">uma programação dos shows que o artista irá realizar no qual o artista posta em seu perfil				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">o <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> posta a agenda de shows em seu <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> para que os <a title="Léxico" href="main.php?t=l&amp;id=12125">usuários</a> que seguem este <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> ficarem sabendo quando acontecerá um <a title="Léxico" href="main.php?t=l&amp;id=12214">show</a> deste <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a>. 
+                <th>Impacto(s):</th><td class="Estilo">o artista posta a agenda de shows em seu perfil para que os usuários que seguem este artista ficarem sabendo quando acontecerá um show deste artista. 
 				</td>
             </tr> 
             <tr> 
@@ -22,13 +22,13 @@
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			calendário de shows.    
+calendário de shows.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 
@@ -38,17 +38,17 @@
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">álbum				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Coleção de <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> de um <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> lançada digitalmente com fins comerciais ou de <a title="Léxico" href="main.php?t=l&amp;id=12162">divulgação</a>				</td> 
+                <th>Noção:</th><td class="Estilo">Coleção de músicas de um artista lançada digitalmente com fins comerciais ou de divulgação				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> ouve as <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> de um álbum 
+                <th>Impacto(s):</th><td class="Estilo">O usuário ouve as músicas de um álbum 
 				</td>
             </tr> 
             <tr> 
@@ -56,13 +56,13 @@
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			álbuns.    
+álbuns.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## aplicativo
@@ -70,17 +70,17 @@
 <table> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">aplicativo				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Tipo de programa de computador desenvolvido para processar dados de modo eletrônico, de forma a facilitar e reduzir o tempo do <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> ao executar uma tarefa.				</td> 
+                <th>Noção:</th><td class="Estilo">Tipo de programa de computador desenvolvido para processar dados de modo eletrônico, de forma a facilitar e reduzir o tempo do usuário ao executar uma tarefa.				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> acessa o sptify pelo aplicativo 
+                <th>Impacto(s):</th><td class="Estilo">o usuário acessa o sptify pelo aplicativo 
 				</td>
             </tr> 
             <tr> 
@@ -88,13 +88,13 @@
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			app.    
+app.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## arquivos locais 
@@ -114,18 +114,18 @@
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">arquivos locais				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo"><a title="Léxico" href="main.php?t=l&amp;id=12152">mídias</a> armazenadas no computador ou <a title="Léxico" href="main.php?t=l&amp;id=12183">dispositivo</a> do <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>				</td> 
+                <th>Noção:</th><td class="Estilo"> mídias armazenadas no computador ou dispositivo do usuário				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> <a title="Léxico" href="main.php?t=l&amp;id=12202">salva</a> arquivos locais em sua <a title="Léxico" href="main.php?t=l&amp;id=12160">biblioteca</a> do Spotify<br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquivos locais no Spotify 
+                <th>Impacto(s):</th><td class="Estilo">O usuário salva arquivos locais em sua biblioteca do Spotify<br>
+O usuário escuta arquivos locais no Spotify 
 				</td>
             </tr> 
             <tr> 
@@ -133,13 +133,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquiv
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## 	banimento da conta 
@@ -159,17 +159,17 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquiv
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">banimento da conta				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">exclusão da <a title="Léxico" href="main.php?t=l&amp;id=12178">conta</a> quando o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> realiza algo que vai contra as normas do spotify				</td> 
+                <th>Noção:</th><td class="Estilo">exclusão da conta quando o usuário realiza algo que vai contra as normas do spotify				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">estado				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> não tem mais acesso ao spotify e pode sofrer processo judicial 
+                <th>Impacto(s):</th><td class="Estilo">o usuário não tem mais acesso ao spotify e pode sofrer processo judicial 
 				</td>
             </tr> 
             <tr> 
@@ -177,13 +177,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquiv
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## biblioteca
@@ -203,7 +203,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> escuta arquiv
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">biblioteca				</td> 
             </tr> 
             <tr> 
@@ -214,7 +214,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">Um <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> pode acessar sua biblioteca e por meio dela gerenciar <a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a>, rádios, <a title="Léxico" href="main.php?t=l&amp;id=12151">álbum</a>, <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> e etc. 
+                <th>Impacto(s):</th><td class="Estilo">Um usuário pode acessar sua biblioteca e por meio dela gerenciar lists, rádios, álbum, músicas e etc. 
 				</td>
             </tr> 
             <tr> 
@@ -222,13 +222,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			estante.    
+estante.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## buscar
@@ -248,17 +248,17 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">buscar				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Achar no <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> algo que se deseja visualizar ou ouvir				</td> 
+                <th>Noção:</th><td class="Estilo">Achar no aplicativo algo que se deseja visualizar ou ouvir				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">verbo				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> busca <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> dentro do <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> 
+                <th>Impacto(s):</th><td class="Estilo">O usuário busca músicas dentro do aplicativo 
 				</td>
             </tr> 
             <tr> 
@@ -266,13 +266,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			procurar, pesquisar.    
+procurar, pesquisar.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## classificar
@@ -292,17 +292,17 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">classificar				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Reordenar a listagem de <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a>, <a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a>, <a title="Léxico" href="main.php?t=l&amp;id=12151">álbuns</a> e <a title="Léxico" href="main.php?t=l&amp;id=12135">artistas</a> no Spotify				</td> 
+                <th>Noção:</th><td class="Estilo">Reordenar a listagem de músicas, lists, álbuns e artistas no Spotify				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">verbo				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo"><a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> classifica como são exibidas e reproduzidas as <a title="Léxico" href="main.php?t=l&amp;id=12152">mídias</a> 
+                <th>Impacto(s):</th><td class="Estilo"> usuário classifica como são exibidas e reproduzidas as mídias 
 				</td>
             </tr> 
             <tr> 
@@ -310,13 +310,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## código
@@ -336,17 +336,17 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">código				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Imagem gerada pelo <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> que identifica unicamente uma <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a>, <a title="Léxico" href="main.php?t=l&amp;id=12151">álbum</a>, <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a>, <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a>, <a title="Léxico" href="main.php?t=l&amp;id=12204">podcast</a> ou <a title="Léxico" href="main.php?t=l&amp;id=12215">vídeo</a>				</td> 
+                <th>Noção:</th><td class="Estilo">Imagem gerada pelo aplicativo que identifica unicamente uma música, álbum, perfil, playlist, podcast ou vídeo				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> visualiza o código de uma <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a>  
+                <th>Impacto(s):</th><td class="Estilo">O usuário visualiza o código de uma música  
 				</td>
             </tr> 
             <tr> 
@@ -354,13 +354,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## compartilhar musica 
@@ -380,17 +380,17 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">compartilhar musica				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Quando o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> envia uma sugestão de musica para algum amigo no spotify				</td> 
+                <th>Noção:</th><td class="Estilo">Quando o usuário envia uma sugestão de musica para algum amigo no spotify				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">verbo				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">o amigo do <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> recebe uma sugestão de musica do <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> e ele escolhe se vai ou não ouvir essa musica 
+                <th>Impacto(s):</th><td class="Estilo">o amigo do usuário recebe uma sugestão de musica do usuário e ele escolhe se vai ou não ouvir essa musica 
 				</td>
             </tr> 
             <tr> 
@@ -398,13 +398,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## conta
@@ -424,17 +424,17 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">conta				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">registro o qual contém todas as informações do <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>				</td> 
+                <th>Noção:</th><td class="Estilo">registro o qual contém todas as informações do usuário				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> precisa estar <a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> em sua conta para acessar o spotify 
+                <th>Impacto(s):</th><td class="Estilo">o usuário precisa estar logado em sua conta para acessar o spotify 
 				</td>
             </tr> 
             <tr> 
@@ -442,13 +442,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			perfil, perfis.    
+perfil, perfis.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## daily mix 
@@ -468,17 +468,17 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">daily mix				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Combinação de <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> criada de acordo com o estilo musical do <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> prontas para ouvir, com <a title="Léxico" href="main.php?t=l&amp;id=12135">artistas</a> que o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> conhece, além de novas descobertas				</td> 
+                <th>Noção:</th><td class="Estilo">Combinação de músicas criada de acordo com o estilo musical do usuário prontas para ouvir, com artistas que o usuário conhece, além de novas descobertas				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> busca, escuta e <a title="Léxico" href="main.php?t=l&amp;id=12202">salva</a> <a title="Léxico" href="main.php?t=l&amp;id=0">daily mixes</a> 
+                <th>Impacto(s):</th><td class="Estilo">O usuário busca, escuta e salva y mixes 
 				</td>
             </tr> 
             <tr> 
@@ -486,13 +486,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			daily mixes.    
+daily mixes.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## dispositivo
@@ -512,17 +512,17 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">dispositivo				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">equipamento onde o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> possa utilizar o spotify(nesse projeto em especifico) direto do <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> ou remotamente pelo <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> de outro dispositivo				</td> 
+                <th>Noção:</th><td class="Estilo">equipamento onde o usuário possa utilizar o spotify(nesse projeto em especifico) direto do aplicativo ou remotamente pelo aplicativo de outro dispositivo				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> pode usar o dispositivo para ouvir musica no spotify 
+                <th>Impacto(s):</th><td class="Estilo">o usuário pode usar o dispositivo para ouvir musica no spotify 
 				</td>
             </tr> 
             <tr> 
@@ -530,13 +530,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## dispositivo em uso 
@@ -556,32 +556,32 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">dispositivo em uso				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo"><a title="Léxico" href="main.php?t=l&amp;id=12183">dispositivo</a> que está acontecendo interação do <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>.				</td> 
+                <th>Noção:</th><td class="Estilo"> dispositivo que está acontecendo interação do usuário.				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">sujeito				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> recebe as informações de <a title="Léxico" href="main.php?t=l&amp;id=12213">reprodução ativa </a> no <a title="Léxico" href="main.php?t=l&amp;id=12183">dispositivo</a> de uso.<br>
+                <th>Impacto(s):</th><td class="Estilo">O usuário recebe as informações de reprodução ativa  no dispositivo de uso.<br>
  
-				</td>
+</td>
             </tr> 
             <tr> 
             <th>Sinônimo(s):</th> 
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## download
@@ -590,7 +590,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">download				</td> 
             </tr> 
             <tr> 
@@ -600,7 +600,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> premium pode fazer downloads de <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a>. 
+                <th>Impacto(s):</th><td class="Estilo">O usuário premium pode fazer downloads de músicas. 
 				</td>
             </tr> 
             <tr> 
@@ -608,13 +608,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			transferência, descarregamento, cópia, baixar..    
+transferência, descarregamento, cópia, baixar..    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## estação
@@ -634,17 +634,17 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">estação				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo"><a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a> de <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> parecidas com uma determinada <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a>, <a title="Léxico" href="main.php?t=l&amp;id=12210">gênero</a>, <a title="Léxico" href="main.php?t=l&amp;id=12151">álbum</a> ou <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a>				</td> 
+                <th>Noção:</th><td class="Estilo"> playlist de músicas parecidas com uma determinada música, gênero, álbum ou artista				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> ouve uma estação 
+                <th>Impacto(s):</th><td class="Estilo">O usuário ouve uma estação 
 				</td>
             </tr> 
             <tr> 
@@ -652,13 +652,13 @@ Coleção que se dispõe de maneira ordenada.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			estações.    
+estações.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## excluir
@@ -678,7 +678,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">excluir				</td> 
             </tr> 
             <tr> 
@@ -688,23 +688,23 @@ Coleção que se dispõe de maneira ordenada.				</td>
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">Um <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> pode excluir <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a>, <a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a>, <a title="Léxico" href="main.php?t=l&amp;id=12215">vídeos</a> e etc.<br>
-Um <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> pode excluir sua <a title="Léxico" href="main.php?t=l&amp;id=12178">conta</a>.<br>
+                <th>Impacto(s):</th><td class="Estilo">Um usuário pode excluir músicas, lists, vídeos e etc.<br>
+Um usuário pode excluir sua conta.<br>
  
-				</td>
+</td>
             </tr> 
             <tr> 
             <th>Sinônimo(s):</th> 
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			eliminar, omitir, apagar, suprimir, deletar..    
+eliminar, omitir, apagar, suprimir, deletar..    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## faixa
@@ -713,19 +713,19 @@ Um <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> pode excluir
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">faixa 				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">cada uma das <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> gravadas separadamente.				</td> 
+                <th>Noção:</th><td class="Estilo">cada uma das músicas gravadas separadamente.				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona uma faixa a <a title="Léxico" href="main.php?t=l&amp;id=12217">fila</a>.<br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> reproduz uma faixa no <a title="Léxico" href="main.php?t=l&amp;id=12183">dispositivo</a>.<br>
-Há uma faixa em reprodução no <a title="Léxico" href="main.php?t=l&amp;id=12183">dispositivo</a> ativo.  
+                <th>Impacto(s):</th><td class="Estilo">O usuário adiciona uma faixa a fila.<br>
+O usuário reproduz uma faixa no dispositivo.<br>
+Há uma faixa em reprodução no dispositivo ativo.  
 				</td>
             </tr> 
             <tr> 
@@ -733,13 +733,13 @@ Há uma faixa em reprodução no <a title="Léxico" href="main.php?t=l&amp;id=12
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			track.    
+track.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## fila
@@ -759,34 +759,34 @@ Há uma faixa em reprodução no <a title="Léxico" href="main.php?t=l&amp;id=12
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">fila				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">sequência de <a title="Léxico" href="main.php?t=l&amp;id=0">mídias</a> para reprodução. 				</td> 
+                <th>Noção:</th><td class="Estilo">sequência de as para reprodução. 				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">A Fila de reprodução permite editar com antecedência a ordem das <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> que você quer ouvir.<br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> altera a ordem de reprodução da fila.<br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faixas ou <a title="Léxico" href="main.php?t=l&amp;id=0">álbuns</a> à fila de reprodução.<br>
+                <th>Impacto(s):</th><td class="Estilo">A Fila de reprodução permite editar com antecedência a ordem das músicas que você quer ouvir.<br>
+O usuário altera a ordem de reprodução da fila.<br>
+O usuário adiciona faixas ou ns à fila de reprodução.<br>
  
-				</td>
+</td>
             </tr> 
             <tr> 
             <th>Sinônimo(s):</th> 
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			fila de reprodução.    
+fila de reprodução.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## filtrar
@@ -806,11 +806,11 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">filtrar				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">quando o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> limita os resultados de uma busca. 				</td> 
+                <th>Noção:</th><td class="Estilo">quando o usuário limita os resultados de uma busca. 				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">verbo				</td> 
@@ -824,13 +824,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			limitar resultados, busca avançada.    
+limitar resultados, busca avançada.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## freemium
@@ -839,7 +839,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">freemium				</td> 
             </tr> 
             <tr> 
@@ -849,22 +849,22 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">Modelo de negócio baseado em sub-modelos, onde existe um geral que é uma forma de captação de <a title="Léxico" href="main.php?t=l&amp;id=12125">usuários</a>, e atrai para um plano "Premium".<br>
+                <th>Impacto(s):</th><td class="Estilo">Modelo de negócio baseado em sub-modelos, onde existe um geral que é uma forma de captação de usuários, e atrai para um plano "Premium".<br>
  
-				</td>
+</td>
             </tr> 
             <tr> 
             <th>Sinônimo(s):</th> 
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			freemium.    
+freemium.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## gênero
@@ -884,17 +884,17 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">gênero				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Categorias que agrupam e classificam <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> de acordo com elementos em comum				</td> 
+                <th>Noção:</th><td class="Estilo">Categorias que agrupam e classificam músicas de acordo com elementos em comum				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> ouve <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> de um gênero para ter uma experiência musical baseada em um ou mais elementos a seu gosto 
+                <th>Impacto(s):</th><td class="Estilo">O usuário ouve músicas de um gênero para ter uma experiência musical baseada em um ou mais elementos a seu gosto 
 				</td>
             </tr> 
             <tr> 
@@ -902,13 +902,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			categoria, gêneros.    
+categoria, gêneros.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## interface
@@ -928,17 +928,17 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">interface				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">tela no qual o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> visualiza a aplicação				</td> 
+                <th>Noção:</th><td class="Estilo">tela no qual o usuário visualiza a aplicação				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> interage com a interface para utilizar o spotify 
+                <th>Impacto(s):</th><td class="Estilo">o usuário interage com a interface para utilizar o spotify 
 				</td>
             </tr> 
             <tr> 
@@ -946,13 +946,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			tela da aplicação, layout.    
+tela da aplicação, layout.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## internet
@@ -972,7 +972,7 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">internet				</td> 
             </tr> 
             <tr> 
@@ -982,8 +982,8 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona faix
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> precisa ter conexão com a internet para ter acesso às funcionalidade do <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>.<br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> precisa ter acesso à internet para funcionar. 
+                <th>Impacto(s):</th><td class="Estilo">O usuário precisa ter conexão com a internet para ter acesso às funcionalidade do aplicativo.<br>
+O aplicativo precisa ter acesso à internet para funcionar. 
 				</td>
             </tr> 
             <tr> 
@@ -991,13 +991,13 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> precisa ter
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			rede, web, net..    
+rede, web, net..    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## lançamentos
@@ -1005,19 +1005,19 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> precisa ter
 <table> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">lançamentos				</td> 
             </tr> 
             <tr> 
                 <th>Noção:</th><td class="Estilo">Algo que é novidade.<br>
-Ato de divulgar, estreiar, <a title="Léxico" href="main.php?t=l&amp;id=0">lançar</a>.<br>
+Ato de divulgar, estreiar, ar.<br>
 Tornar algo público.				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> acessar e ouve lançamentos. 
+                <th>Impacto(s):</th><td class="Estilo">O usuário acessar e ouve lançamentos. 
 				</td>
             </tr> 
             <tr> 
@@ -1025,13 +1025,13 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			divulgação, lançar.    
+divulgação, lançar.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## logado
@@ -1051,17 +1051,17 @@ Tornar algo público.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">logado				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">quando o <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> tem acesso ao spotify após preencher os campos de login e senha				</td> 
+                <th>Noção:</th><td class="Estilo">quando o usuário tem acesso ao spotify após preencher os campos de login e senha				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">estado				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">após estar logado ele poderá ouvir musica, criar <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a>, adicionar amigo. 
+                <th>Impacto(s):</th><td class="Estilo">após estar logado ele poderá ouvir musica, criar playlist, adicionar amigo. 
 				</td>
             </tr> 
             <tr> 
@@ -1069,13 +1069,13 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## mídia
@@ -1087,17 +1087,17 @@ Tornar algo público.				</td>
 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">mídia				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Conjunto de meios de comunicação, meios de difusão de informação, meios de <a title="Léxico" href="main.php?t=l&amp;id=0">divulgação</a> de informação, meios de veiculação de mensagens.				</td> 
+                <th>Noção:</th><td class="Estilo">Conjunto de meios de comunicação, meios de difusão de informação, meios de lgação de informação, meios de veiculação de mensagens.				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> acessa e utiliza as <a title="Léxico" href="main.php?t=l&amp;id=0">mídias</a> (<a title="Léxico" href="main.php?t=l&amp;id=0">playlists</a>, <a title="Léxico" href="main.php?t=l&amp;id=0">vídeos</a>, <a title="Léxico" href="main.php?t=l&amp;id=12204">podcasts</a> e etc). 
+                <th>Impacto(s):</th><td class="Estilo">O usuário acessa e utiliza as as  lists, os, podcasts e etc). 
 				</td>
             </tr> 
             <tr> 
@@ -1105,13 +1105,13 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			mídia, mídias.    
+mídia, mídias.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## momentos
@@ -1131,17 +1131,17 @@ Tornar algo público.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">momentos				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Categorias que agrupam <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> com intuito de induzir ou sugerir um sentimento particular ou estado de espírito				</td> 
+                <th>Noção:</th><td class="Estilo">Categorias que agrupam músicas com intuito de induzir ou sugerir um sentimento particular ou estado de espírito				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> ouve <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> de um Momento para ter uma experiência musical baseada no seu humor 
+                <th>Impacto(s):</th><td class="Estilo">O usuário ouve músicas de um Momento para ter uma experiência musical baseada no seu humor 
 				</td>
             </tr> 
             <tr> 
@@ -1149,13 +1149,13 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
 			    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>
         
 ## música
@@ -1175,17 +1175,17 @@ Tornar algo público.				</td>
 <!-- CENÁRIO --> 
 
     
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Nome:</th><td class="Estilo">música				</td> 
             </tr> 
             <tr> 
-                <th>Noção:</th><td class="Estilo">Combinação de sons com uma determinada duração de tempo que é lançada por um ou mais <a title="Léxico" href="main.php?t=l&amp;id=12135">artistas</a>				</td> 
+                <th>Noção:</th><td class="Estilo">Combinação de sons com uma determinada duração de tempo que é lançada por um ou mais artistas				</td> 
             </tr> 
             <tr> 
                 <th>Classificação:</th><td class="Estilo">objeto				</td> 
             </tr> 
             <tr> 
-                <th>Impacto(s):</th><td class="Estilo">O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> ouve música 
+                <th>Impacto(s):</th><td class="Estilo">O usuário ouve música 
 				</td>
             </tr> 
             <tr> 
@@ -1193,11 +1193,11 @@ Tornar algo público.				</td>
 
 			    
                
-			   <td class="Estilo">
+<td class="Estilo">
 			
-			músicas.    
+músicas.    
 
-            </td> 
+</td> 
 
-            </tr> 
+</tr> 
         </tbody></table>

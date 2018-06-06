@@ -7,34 +7,34 @@
 <th>Titulo:</th><td class="Estilo">cadastro com perfil de artista </td>  
 </tr> 
 <tr> 
-<th>Objetivo:</th><td class="Estilo">Fazer o cadastro do <a title="Léxico" href="main.php?t=l&amp;id=12135">usuário artista</a>, que deseja ter as funcionalidades de <a title="Léxico" href="main.php?t=l&amp;id=12136">usuário premiun</a> e postar as próprias <a title="Léxico" href="main.php?t=l&amp;id=12221">músicas</a> no <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> spotify.				</td> 
+<th>Objetivo:</th><td class="Estilo">Fazer o cadastro do usuário artista, que deseja ter as funcionalidades de usuário premiun e postar as próprias músicas no aplicativo spotify.				</td> 
 </tr> 
 <tr> 
 <th>Contexto:</th><td class="Estilo">
-Ter acesso a <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
-    Ter <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> instalado<br>
-    Ainda não possuir um <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> no spotify		 
+Ter acesso a internet<br>
+    Ter aplicativo instalado<br>
+    Ainda não possuir um perfil no spotify		 
 </td> 
 </tr> 
 <tr> 
 <th>Atores:</th><td class="Estilo">
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+usuário                </td>  
 </tr> 
 <tr> 
 <th>Recursos:</th><td class="Estilo">
-Ter <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
-ter instalado o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a><br>
+Ter internet<br>
+ter instalado o aplicativo<br>
 Ter uma gravadora para intermediar sua relação com o spotify                </td> 
 </tr> 
 <tr> 
 <th>Exceção:</th><td class="Estilo">
-Não estar com acesso a <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>.<br>
-Já ter um <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> com o mesmo <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> que está desejando criar                </td> 
+Não estar com acesso a internet.<br>
+Já ter um perfil com o mesmo perfil que está desejando criar                </td> 
 </tr> 
 <tr> 
 <th>Episódios:</th><td class="Estilo">
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> abre o <a title="Léxico" href="main.php?t=l&amp;<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> clica em fazer cadastro<br>
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> coloca as informações necessárias para se cadastrar<br>
+usuário abre o Léxico usuário clica em fazer cadastro<br>
+usuário coloca as informações necessárias para se cadastrar<br>
     O cadastro é efetivado	  	
 </td> 
 </tr> 
@@ -47,50 +47,47 @@ Já ter um <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> com o 
 <table> 
     
 
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Titulo:</th><td class="Estilo">
         colocar a agenda de shows                 </td> 
 
-            </tr> 
+</tr> 
             <tr> 
                 <th>Objetivo:</th><td class="Estilo">
-		postar a <a title="Léxico" href="main.php?t=l&amp;id=12190">agenda de shows</a> de um <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> no próprio <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a>.				</td> 
+		postar a agenda de shows de um artista no próprio perfil.				</td> 
             </tr> 
             <tr> 
                 <th>Contexto:</th><td class="Estilo">
-		Estar <a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> no spotify<br>
-Ter <a title="Léxico" href="main.php?t=l&amp;id=12135">perfil de artista</a><br>
+		Estar logado no spotify<br>
+Ter perfil de artista<br>
 		 
-				</td> 
+</td> 
             </tr> 
             <tr> 
                 <th>Atores:</th><td class="Estilo">
-		<a title="Léxico" href="main.php?t=l&amp;id=12135">usuário artista</a>                </td>  
+		usuário artista                </td>  
             </tr> 
             <tr> 
                 <th>Recursos:</th><td class="Estilo">
-		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+		internet<br>
 Spotify <br>
-<a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a>                </td> 
+perfil artista                </td> 
             </tr> 
             <tr> 
                 <th>Exceção:</th><td class="Estilo">
-		Não ter o <a title="Léxico" href="main.php?t=l&amp;id=12135">perfil de artista</a>                </td> 
+		Não ter o perfil de artista                </td> 
             </tr> 
             <tr> 
                 <th>Episódios:</th><td class="Estilo">
-		O <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a> entra na sua <a title="Léxico" href="main.php?t=l&amp;id=12178">conta</a> spotify<br>
-Coloca em adicionar <a title="Léxico" href="main.php?t=l&amp;id=12190">agenda de shows</a><br>
+		O artista entra na sua conta spotify<br>
+Coloca em adicionar agenda de shows<br>
 Inseri as datas e os locais<br>
-<a title="Léxico" href="main.php?t=l&amp;id=12202">salva</a> as informações no <a title="Léxico" href="main.php?t=l&amp;id=12135">perfil de artista</a>	  	
+salva as informações no perfil de artista	  	
                 </td> 
             </tr> 
         </tbody></table>
 
- 
-
 ## cadastro de usuário 
-
 <table> 
 
 
@@ -107,45 +104,46 @@ Inseri as datas e os locais<br>
 
     
 
-            <tbody><tr> 
+<tbody><tr> 
                 <th>Titulo:</th><td class="Estilo">
         cadastro de usuário                </td> 
 
-            </tr> 
+</tr> 
             <tr> 
                 <th>Objetivo:</th><td class="Estilo">
-		Criar um <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a> de <a title="Léxico" href="main.php?t=l&amp;id=12126">usuário padrão</a>				</td> 
+		Criar um perfil de usuário padrão				</td> 
             </tr> 
             <tr> 
                 <th>Contexto:</th><td class="Estilo">
-		Ter acesso a <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
-Ter <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> instalado<br>
-Não ter um <a title="Léxico" href="main.php?t=l&amp;id=12178">perfil</a>		 
+		Ter acesso a internet<br>
+Ter aplicativo instalado<br>
+Não ter um perfil		 
 				</td> 
             </tr> 
             <tr> 
                 <th>Atores:</th><td class="Estilo">
-		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+		usuário                </td>  
             </tr> 
             <tr> 
                 <th>Recursos:</th><td class="Estilo">
-		Estar com conexão com a <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
-<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a><br>
+		Estar com conexão com a internet<br>
+aplicativo<br>
                 </td> 
             </tr> 
             <tr> 
                 <th>Exceção:</th><td class="Estilo">
-		Não ter <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>.                </td> 
+		Não ter internet.                </td> 
             </tr> 
             <tr> 
                 <th>Episódios:</th><td class="Estilo">
-		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> abre o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a><br>
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> clica em fazer cadastro<br>
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> coloca as informações necessárias para se cadastrar<br>
+		usuário abre o aplicativo<br>
+usuário clica em fazer cadastro<br>
+usuário coloca as informações necessárias para se cadastrar<br>
 O cadastro é efetivado	  	
                 </td> 
             </tr> 
         </tbody></table>
+
 ##  controle de reprodução
 
 <table> 
@@ -159,35 +157,35 @@ Ter controle reprodução que esta ativa em outros dispositivos. 				</td>
 </tr> 
 <tr> 
 <th>Contexto:</th><td class="Estilo">
-Ter acesso à <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>.<br>
-Ter <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> instalado.<br>
-Estar <a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> no <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>.<br>
-em outro <a title="Léxico" href="main.php?t=l&amp;id=12183">dispositivo</a>.<br>
-Ter <a title="Léxico" href="main.php?t=l&amp;id=12179">conta premium</a> do Spotify<br>	 
+Ter acesso à internet.<br>
+Ter aplicativo instalado.<br>
+Estar logado no aplicativo.<br>
+em outro dispositivo.<br>
+Ter conta premium do Spotify<br>	 
 </td> 
 </tr> 
 <tr> 
 <th>Atores:</th><td class="Estilo">
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                 </td>  
+usuário                 </td>  
 </tr> 
 <tr> 
 <th>Recursos:</th><td class="Estilo">
-<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
-<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a><br>
-Dispositivos de hardwares que suportem <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>.                 </td> 
+internet<br>
+aplicativo<br>
+Dispositivos de hardwares que suportem aplicativo.                 </td> 
 </tr> 
 <tr> 
 <th>Exceção:</th><td class="Estilo">
-Perder sinal da <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a>.<br>
+Perder sinal da internet.<br>
 </td> 
 </tr> 
 <tr> 
 <th>Episódios:</th><td class="Estilo">
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> inicia o <a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a>. <br>
-Restrição: Não estar com  <a title="Léxico" href="main.php?t=l&amp;id=12220">dispositivo em uso</a>. <br>
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> acessa  <a title="Cenário" href="main.php?t=c&amp;id=2794"><span style="font-variant: small-caps">informações de reprodução.</span></a>  <br>
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> altera volume da reprodução ativa.<br>
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> muda a <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a> da reprodução ativa.	  	
+usuário inicia o aplicativo. <br>
+Restrição: Não estar com  dispositivo em uso. <br>
+usuário acessa  <span style="font-variant: small-caps"><b>informações de reprodução.</b></span>  <br>
+usuário altera volume da reprodução ativa.<br>
+usuário muda a música da reprodução ativa.	  	
 </td> 
 </tr> 
 </tbody></table>
@@ -199,37 +197,37 @@ Restrição: Não estar com  <a title="Léxico" href="main.php?t=l&amp;id=12220"
 <th>Titulo:</th><td class="Estilo">criar estação                </td> 
 </tr> 
 <tr> 
-<th>Objetivo:</th><td class="Estilo">Encontrar e <a title="Léxico" href="main.php?t=l&amp;id=12212">seguir</a> uma <a title="Léxico" href="main.php?t=l&amp;id=12150">estação</a>				</td> 
+<th>Objetivo:</th><td class="Estilo">Encontrar e seguir uma estação				</td> 
 </tr> 
 <tr> 
 <th>Contexto:</th><td class="Estilo">
-Conectado à <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
-<a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> na <a title="Léxico" href="main.php?t=l&amp;id=12178">conta</a>		 
+Conectado à internet<br>
+logado na conta		 
 </td> 
 </tr> 
 <tr> 
 <th>Atores:</th><td class="Estilo">
-<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+usuário                </td>  
 </tr> 
 <tr> 
 <th>Recursos:</th><td class="Estilo">
-<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
-<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> instalado no celular                </td> 
+internet<br>
+aplicativo instalado no celular                </td> 
 </tr> 
 <tr> 
 <th>Exceção:</th><td class="Estilo">
-<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a> parar de funcionar<br>
-<a title="Léxico" href="main.php?t=l&amp;id=12170">aplicativo</a> parar de funcionar<br>
+internet parar de funcionar<br>
+aplicativo parar de funcionar<br>
 Celular desligar                </td> 
 </tr> 
 <tr> 
-<th>Episódios:</th><td class="Estilo">Após  <a title="Cenário" href="main.php?t=c&amp;id=2847"><span style="font-variant: small-caps">acessar rádio</span></a><br>
+<th>Episódios:</th><td class="Estilo">Após  <span style="font-variant: small-caps">  <b>acessar rádio</b></span><br>
 <br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> clica na opção "Nova <a title="Léxico" href="main.php?t=l&amp;id=12150">estação</a>"<br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> insere o nome de uma <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a>, um <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a>, um <a title="Léxico" href="main.php?t=l&amp;id=12151">álbum</a> ou uma <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a> no campo de busca<br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> seleciona a <a title="Léxico" href="main.php?t=l&amp;id=12221">música</a>, <a title="Léxico" href="main.php?t=l&amp;id=12135">artista</a>, <a title="Léxico" href="main.php?t=l&amp;id=12151">álbum</a> ou <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a> a qual gostaria de começar a <a title="Léxico" href="main.php?t=l&amp;id=12150">estação</a><br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> tem acesso a <a title="Léxico" href="main.php?t=l&amp;id=12150">estação</a><br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> passa a ter a <a title="Léxico" href="main.php?t=l&amp;id=12150">estação</a> <a title="Léxico" href="main.php?t=l&amp;id=12202">salva</a> em sua <a title="Léxico" href="main.php?t=l&amp;id=12160">biblioteca</a>	  	
+O usuário clica na opção "Nova estação"<br>
+O usuário insere o nome de uma música, um artista, um álbum ou uma playlist no campo de busca<br>
+O usuário seleciona a música, artista, álbum ou playlist a qual gostaria de começar a estação<br>
+O usuário tem acesso a estação<br>
+O usuário passa a ter a estação salva em sua biblioteca	  	
 </td> 
 </tr> 
 </tbody></table>
@@ -242,40 +240,40 @@ O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> passa a ter a
                 <th>Titulo:</th><td class="Estilo">
         criar playlist                </td> 
 
-            </tr> 
+</tr> 
             <tr> 
                 <th>Objetivo:</th><td class="Estilo">
-		criar uma <a title="Léxico" href="main.php?t=l&amp;id=12132">lista</a> de musicas				</td> 
+		criar uma lista de musicas				</td> 
             </tr> 
             <tr> 
                 <th>Contexto:</th><td class="Estilo">
-		Conectado à <a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
-<a title="Léxico" href="main.php?t=l&amp;id=12134">logado</a> na <a title="Léxico" href="main.php?t=l&amp;id=12178">conta</a> de <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> no spotify		 
+		Conectado à internet<br>
+logado na conta de usuário no spotify		 
 				</td> 
             </tr> 
             <tr> 
                 <th>Atores:</th><td class="Estilo">
-		<a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a>                </td>  
+		usuário                </td>  
             </tr> 
             <tr> 
                 <th>Recursos:</th><td class="Estilo">
-		<a title="Léxico" href="main.php?t=l&amp;id=12163">internet</a><br>
+		internet<br>
 acesso ao spotify                </td> 
             </tr> 
             <tr> 
                 <th>Exceção:</th><td class="Estilo">
-		<a title="Léxico" href="main.php?t=l&amp;id=12133">banimento da conta</a><br>
+		banimento da conta<br>
 tragédia na equipe de desenvolvimento do spotify<br>
                 </td> 
             </tr> 
             <tr> 
                 <th>Episódios:</th><td class="Estilo">
-		O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> se loga no spotify<br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> vai até a seção de criar <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a><br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> cria um nome para a <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a><br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> decide se insere uma imagem na <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a><br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> decide se adiciona uma descrição à <a title="Léxico" href="main.php?t=l&amp;id=12132">playlist</a><br>
-O <a title="Léxico" href="main.php?t=l&amp;id=12125">usuário</a> adiciona musicas das recomendações ou ele pesquisa pelas musicas que ele quer colocar	  	
+		O usuário se loga no spotify<br>
+O usuário vai até a seção de criar playlist<br>
+O usuário cria um nome para a playlist<br>
+O usuário decide se insere uma imagem na playlist<br>
+O usuário decide se adiciona uma descrição à playlist<br>
+O usuário adiciona musicas das recomendações ou ele pesquisa pelas musicas que ele quer colocar	  	
                 </td> 
             </tr> 
         </tbody></table>

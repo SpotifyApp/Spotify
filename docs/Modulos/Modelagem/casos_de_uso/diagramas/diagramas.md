@@ -53,3 +53,4 @@ Eduardo Júnio|2.0|
 
 ## Gerenciar artistas salvos
 <object width="700" height="600" data="../GerenciarArtistasSalvos.jpg"></object>
+
