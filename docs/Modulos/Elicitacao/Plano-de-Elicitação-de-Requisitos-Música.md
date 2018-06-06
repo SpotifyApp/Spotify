@@ -6,6 +6,7 @@ Data | Responsável | Versão| Mudança realizada|
 31/03/2018     | Eduardo Júnio |   1.0   |  Primeira versão do plano de elicitação   |
 02/04/2018     | Amanda Bezerra |   2.0   |  Segunda versão do plano de elicitação   |
 25/05/2018     | Eduardo e Geovanne |   3.0   |  Terceira versão do plano de elicitação (Atualizar Moscow)   |
+05/06/2018     | Eduardo Júnio|   2.1  |  Adicionando novos requisitos identificados na especificação suplementar |
 
 
 <h2> 🎧 Introdução </h2>
@@ -88,6 +89,7 @@ Os vídeos utilizados durante esta técnica podem ser acessados [aqui](https://d
     <li>Acessar lista de vídeos não reproduzidos</li>
     <li>Buscar vídeos</li>
     <li>Recuperar playlist</li>
+    <li>Compartilhar playlists</>
     <li>Fazer download de músicas</li>
 </ul>
 
@@ -205,7 +207,11 @@ Listar as músicas tocadas recentemente | | X | | |
 Recomendações de músicas | | X | | |
 Fazer download de músicas | | X | | |
 Importar músicas do seu celular para o aplicativo | | | X | |
+<<<<<<< HEAD
 Compartilhar Podcasts | | | x | |
 Compartilhar Vídeos | | | x | |
+=======
+Compartilhar playlists | X | | | |
+>>>>>>> 259e7bf347c4bdb54119c5e6ed99f8d932fb5ce9
 
 50 requisitos de músicas elicitados nesse módulo.

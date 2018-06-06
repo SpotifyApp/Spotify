@@ -8,6 +8,8 @@ Data | Responsável | Versão| Mudança realizada|
 03/04/2018     | Geovanne Saraiva |   1.2   |  Terceira versão do plano de elicitação   |
 20/04/2018     | Geovanne Saraiva |   1.3   |  Terceira versão do plano de elicitação   |
 25/05/2018     | Eduardo e Geovanne |   2.0  |  Quarta versão do plano de elicitação(Atualizando requisitos e moscow)   |
+05/06/2018     | Eduardo Júnio|   2.1  |  Adicionando novos requisitos identificados na especificação suplementar |
+
 
 
 <h3> Introdução </h3>
@@ -53,6 +55,8 @@ Por orientação dos professores que estão acompanhando a elicitação dos requ
   * Editar foto de perfil.
   * Ajustar o volume de acordo com o seu ambiente.
   * Mudar o perfil padrão para perfil de artista.
+  * Mudar reprodução ativa
+  * Sair do aplicativo
 
 <h3>Introspecção</h3>
 Consiste em entender quais propriedades o sistema deve possuir para ser um sucesso, deve-se imaginar o que o usuário gostaria, se lhe tivesse dado uma respectiva tarefa, neste caso será analisado o usuário padrão e artista do aplicativo spotify. <br />
@@ -107,6 +111,8 @@ Seguir amigos para conhecer o que eles ouvem | | | x | |
 Sair da conta | x | | | |
 Ver os relatórios de informações sobre seus álbuns | | x | | |
 Verificar a autenticidade do perfil de artista | x | | | |
+Mudar reprodução ativa | x | | | |
+Sair do aplicativo | x | | | |
 
 21 requisitos de usuário foram elicitados neste módulo.
 
