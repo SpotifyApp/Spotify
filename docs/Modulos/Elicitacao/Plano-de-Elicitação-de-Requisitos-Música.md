@@ -43,6 +43,8 @@ Os vídeos utilizados durante esta técnica podem ser acessados [aqui](https://d
 <p align="justify">A seguir, está listado todos os requisitos elicitados durante esta técnica:</p>
 <ul>
     <li>Acessar a biblioteca</li>
+    <li>Compartilhar podcast</li>
+    <li>Compartilhar vídeos</li>
     <li>Criar playlist</li>
     <li>Excluir playlist</li>
     <li>Renomear playlist</li>
@@ -203,5 +205,7 @@ Listar as músicas tocadas recentemente | | X | | |
 Recomendações de músicas | | X | | |
 Fazer download de músicas | | X | | |
 Importar músicas do seu celular para o aplicativo | | | X | |
+Compartilhar Podcasts | | | x | |
+Compartilhar Vídeos | | | x | |
 
-48 requisitos de músicas elicitados nesse módulo.
+50 requisitos de músicas elicitados nesse módulo.

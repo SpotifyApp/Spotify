@@ -34,14 +34,13 @@ A observação participante é uma técnica de investigação social em que o ob
 Por orientação dos professores que estão acompanhando a elicitação dos requisitos, foi feito um video no qual gravamos a utilização do aplicativo, por um usuário(Geovanne Saraiva) e depois analisamos o video e levantamos os requisitos do mesmo, que foram:<br />
 
 * Perfil de artista
-  * Distribuidor cria o perfil de artista do seu cliente(artista)
   * Postar músicas
   * Receber royalties pagos pelo aplicativo spotify
   * Ver o relatório de informações sobre suas músicas e seus respectivos álbuns, um feedback que mostra a frequência com que os álbuns são acessados.
   * Verificar a autenticidade do perfil de artista.
 
-* Perfil de usuário padrão
-  * Cadastro como perfil de usuário padrão
+* Perfil de usuário comum
+  * Cadastro como perfil de usuário comum
   * Adquirir o plano premium como: plano família, plano estudantil e plano tradicional.
   * Seguir amigos para conhecer o que eles ouvem.
   * Escolher as notificações que deseja receber.
@@ -66,6 +65,7 @@ Consiste em entender quais propriedades o sistema deve possuir para ser um suces
 5. Atualizar sua foto de perfil, ou do seu álbum.<br />
 6. Controlar a música na parte superior do perfil do artista. É uma ótima maneira de informar aos fãs sobre uma faixa em que você participa, anunciar sua próxima turnê, exibir uma nova playlist. Escolha qualquer faixa, álbum ou lista de reprodução e adicione uma imagem legal dos bastidores e uma breve mensagem sobre por que você adora isso. <br />
 7. Permitir o artista colocar os locais onde serão feitos os shows, no próprio profile.
+8. Distribuidor cria o perfil de artista do seu cliente(artista)
 
 <h2>🎧 Moscow (priorização de requisitos)</h2>
 Os requisitos listados abaixo foram obtidos a partir das técnicas de elicitação apresentadas anteriormente. Os videos de observação que serviram para elicitar os requisitos de usuário foram gravados por Eduardo e Amanda e podem ser vistos  [aqui](https://drive.google.com/drive/folders/1AO_csKjmjIGtgCR_OSzN0olOFou4VTwR)
