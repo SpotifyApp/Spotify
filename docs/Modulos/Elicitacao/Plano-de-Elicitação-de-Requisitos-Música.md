@@ -7,6 +7,7 @@ Data | Responsável | Versão| Mudança realizada|
 02/04/2018     | Amanda Bezerra |   2.0   |  Segunda versão do plano de elicitação   |
 25/05/2018     | Eduardo e Geovanne |   3.0   |  Terceira versão do plano de elicitação (Atualizar Moscow)   |
 05/06/2018     | Eduardo Júnio|   2.1  |  Adicionando novos requisitos identificados na especificação suplementar |
+05/06/2018     | Geovanne Santos|   2.1  |  Adicionando novos requisitos identificados na especificação suplementar |
 
 
 <h2> 🎧 Introdução </h2>

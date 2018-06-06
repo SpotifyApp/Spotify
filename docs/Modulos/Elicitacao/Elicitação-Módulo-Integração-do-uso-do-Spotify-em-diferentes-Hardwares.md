@@ -6,6 +6,8 @@ Data | Responsável | Versão| Mudança realizada|
 01/04/2018    | Lucas Filipe |   1.0   |  Construção do corpo do documento.   |
 01/04/2018    | Lucas Filipe |   1.1   | Preenchimento de Conceitos e metodologia realizada para elicitação.  |
 05/06/2018 | Eduardo Júnio| 1.2 | Adicionado requisitos identificados na especificação suplementar|
+05/06/2018 | Geovanne Santos| 1.3 | Adicionado requisitos identificados na especificação suplementar|
+
 
 <h2> 1.Introdução </h2>
 <p> A palavra Elicitar significa : <i>descobrir, tornar explicito, obter o máximo de informações para o conhecimento do objetivo em questão</i>. De acordo com Júlio Leite em Livro Vivo:Engenharia de Requisitos[1]: "Dentro da engenharia de requisitos cabe a Elicitação a tarefa de identificar os fatos que compõe os requisitos do sistema, de forma a prover o mais correto e mais completo entendimento do que é demandado daquele software." As tarefas que compõe a Elicitação são: Identificação das fontes de informação dentro do Universo de Informações(UdI), emprego de técnicas de coletas de fatos e plano de comunicação.  </p>
