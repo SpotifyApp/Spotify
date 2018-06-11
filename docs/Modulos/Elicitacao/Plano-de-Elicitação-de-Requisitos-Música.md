@@ -208,11 +208,8 @@ Listar as músicas tocadas recentemente | | X | | |
 Recomendações de músicas | | X | | |
 Fazer download de músicas | | X | | |
 Importar músicas do seu celular para o aplicativo | | | X | |
-<<<<<<< HEAD
 Compartilhar Podcasts | | | x | |
 Compartilhar Vídeos | | | x | |
-=======
 Compartilhar playlists | X | | | |
->>>>>>> 259e7bf347c4bdb54119c5e6ed99f8d932fb5ce9
 
 50 requisitos de músicas elicitados nesse módulo.
