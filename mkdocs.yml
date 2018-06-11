@@ -27,6 +27,8 @@ pages:
     - Análise:
         - Inspeção: Modulos/Analise/inspecao.md
         - Ponto de vista: Modulos/Analise/pontodevista.md
+    - Rastreabilidade:
+        - Matriz de rastreabilidade: Modulos/Pos_rastreabilidade/rastreabilidade.md
 
 
 markdown_extensions:
