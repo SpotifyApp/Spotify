@@ -1,5 +1,9 @@
 # Product Backlog Spotify
 
+Data| Responsável | Versão| Mudança realizada|      
+----|------| --------| ------------ |         
+05/04/2018| Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas, José Aquiles  |   1.0   |  Criação de histórias de usuário  |      
+
 Número|Tipo|Eu como|Desejo|Para que|Prioridade|Status|
 |--|--|--|--|--|--|--|
 01|RNF 01|desenvolvedor|desenvolver sistema de autenticação de usuário|os usuário possam ser autenticados no sistema|Must|To do|

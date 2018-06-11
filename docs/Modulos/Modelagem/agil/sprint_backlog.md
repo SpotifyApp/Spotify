@@ -1,5 +1,9 @@
 # Sprint Backlog Spotify
 
+Data| Responsável | Versão| Mudança realizada         
+:----: | :------: | :--------: | :------------:  
+05/04/2018| Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas, José Aquiles  |   1.0   |  Criação e pontuação de sprint backlog
+
 | Tipo | Nome | Tema | Sprint | Pontos |
 | -- | -- | -- | -- | -- |
 | RNF 01 | Sistema de autenticação de usuário | Usuário | 1 | 13 |
