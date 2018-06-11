@@ -30,6 +30,6 @@ Data | Responsável | Versão|
 2. usuário começa a usar o aplicativo
 3. Gravadora divulga suas músicas
 
-## 5.3 Fluxos de Exceção
+## 5.2 Fluxos de Exceção
 FE01 - Perca de sinal com a internet
 FE02 - Problemas com a gravadora
