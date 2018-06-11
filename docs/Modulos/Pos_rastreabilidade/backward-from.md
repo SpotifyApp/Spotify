@@ -1,7 +1,7 @@
 
-Data | Responsável | Versão| Mudança realizada|
-:--------- | :------:| :--------:| :------------ |
-05/06/2018 | Eduardo Júnio e Geovanne| 1.0 | Primeira versão do documento|
+Data | Responsável | Versão| Mudança realizada
+:--------- | :------:| :--------:| :------------:
+05/06/2018 | Eduardo Júnio e Geovanne| 1.0 | Primeira versão do documento
 
 ID | Referência | Atividade de Elicitação | Requisito Funcional | Fontes de Informação |
  --- | --- | --- |  --- | --- |
