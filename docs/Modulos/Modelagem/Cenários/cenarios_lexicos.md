@@ -1655,7 +1655,7 @@ calendário de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/C
 </tr>
 </tbody></table>
 
-## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">Aplicativo</a>s
 
 <table>
 <tbody><tr>
