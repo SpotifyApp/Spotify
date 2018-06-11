@@ -1,20 +1,5 @@
 # Especificações de Casos de Uso
 
-* [Integração com Redes Sociais](#integracao-com-redes-sociais)
-* [Gerenciar playlists salvas](#gerenciar-playlists-salvas)
-* [Gerenciar artistas salvos](#gerenciar-artistas-salvos)
-* [Cadastro como perfil de artista](#cadastro-como-perfil-de-artista)
-* [Fazer login](#fazer-login)
-* [Editar dados de conta](#editar-dados-de-conta)
-* [Atualizar biografia do artista](#atualizar-biografia-do-artista)
-* [Sair do aplicativo](#sair-do-aplicativo)
-* [Mudar o tipo de perfil](#mudar-o-tipo-de-perfil)
-* [Cadastro de usuário comum](#cadastro-de-usuario-comum)
-* [Adquirir o plano premiun](#adquirir-o-plano-premiun)
-* [Ficar em modo offline](#ficar-em-modo-offline)
-* [Postar uma música](#postar-uma-musica)
-* [Colocar a agenda de shows](#colocar-a-agenda-de-shows)
-
 Data | Responsável | Versão|
 --------- | ------| --------|
 25/04/2018 | Eduardo Júnio |   1.0   |
