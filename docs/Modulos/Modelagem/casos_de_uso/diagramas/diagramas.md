@@ -18,12 +18,12 @@ Eduardo Júnio|2.0|
 
 ### Versão 1
 
-<object width="700" height="500" data="../acessar_biblioteca1.0.png"></object>
+<object width="600" height="500" data="../acessar_biblioteca1.0.png"></object>
 
   
 ### Versão 2
 
-<object width="700" height="900" data="../UC01-Acessar_biblioteca.png"></object>
+<object width="1000" height="900" data="../UC01-Acessar_biblioteca.png"></object>
 
 
 ## Gerenciar playlists salvas
@@ -35,32 +35,32 @@ Eduardo Júnio|2.0|
 
 ### Versão 1
 
-<object width="700" height="500" data="../UC03-Gerenciar_playlists salvas.jpg"></object>
+<object width="600" height="500" data="../UC03-Gerenciar_playlists salvas.jpg"></object>
 
 ### Versão 2
 
-<object width="700" height="500" data="../Gerenciar_playlists_salvas.png"></object>
+<object width="600" height="500" data="../Gerenciar_playlists_salvas.png"></object>
 
 ## Integração com Redes Sociais
-<object width="700" height="500" data="../caso-integracao_redes.png"></object>
+<object width="600" height="500" data="../caso-integracao_redes.png"></object>
 
 ---
 
 ## Usuário Artista
-<object width="700" height="500" data="../diagrama_usuario_artista.png"></object>
+<object width="600" height="500" data="../diagrama_usuario_artista.png"></object>
 
 ---
 
 ## Usuário comum
-<object width="700" height="500" data="../diagrama_usuario_comum.png"></object>
+<object width="600" height="500" data="../diagrama_usuario_comum.png"></object>
 
 ---
 
 ## Usuário Não Cadastrado
-<object width="700" height="500" data="../diagrama_usuário_nao_cadastrado.png"></object>
+<object width="600" height="500" data="../diagrama_usuário_nao_cadastrado.png"></object>
 
 ---
 
 ## Gerenciar artistas salvos
-<object width="700" height="500" data="../GerenciarArtistasSalvos.jpg"></object>
+<object width="600" height="500" data="../GerenciarArtistasSalvos.jpg"></object>
 
