@@ -27,7 +27,7 @@ logado na conta
 </tr>
 <tr>
 <th>Atores:</th><td class="Estilo">
-usuário                </td>  
+[usuário](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario)                </td>  
 </tr>
 <tr>
 <th>Recursos:</th><td class="Estilo">
