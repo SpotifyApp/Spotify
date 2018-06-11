@@ -792,7 +792,7 @@
         },
         {
             "location": "/Modulos/Modelagem/casos_de_uso/diagramas/diagramas/",
-            "text": "Diagramas de Caso de Uso\n\u00b6\n\n\n\n\nAcessar Biblioteca\n                                   \n\n\nIntegra\u00e7\u00e3o com Redes Sociais\n                         \n\n\nUsu\u00e1rio Artista\n                                   \n\n\nUsu\u00e1rio comum\n                                 \n\n\nUsu\u00e1rio N\u00e3o Cadastrado\n                             \n\n\nGerenciar Playlists Salvas\n                         \n\n\nGerenciar Artistas Salvos\n                             \n\n\n\n\nAcessar Biblioteca\n\u00b6\n\n\n\n\n\n\n\n\nAutor\n\n\nVers\u00e3o\n\n\n\n\n\n\n\n\n\n\nEduardo J\u00fanio\n\n\n1.0\n\n\n\n\n\n\nEduardo J\u00fanio\n\n\n2.0\n\n\n\n\n\n\n\n\nVers\u00e3o 1\n\u00b6\n\n\n\n\nVers\u00e3o 2\n\u00b6\n\n\n\n\nGerenciar playlists salvas\n\u00b6\n\n\n\n\n\n\n\n\nAutor\n\n\nVers\u00e3o\n\n\n\n\n\n\n\n\n\n\nEduardo J\u00fanio\n\n\n1.0\n\n\n\n\n\n\nEduardo J\u00fanio\n\n\n2.0\n\n\n\n\n\n\n\n\nVers\u00e3o 1\n\u00b6\n\n\n\n\nVers\u00e3o 2\n\u00b6\n\n\n\n\nIntegra\u00e7\u00e3o com Redes Sociais\n\u00b6\n\n\n\n\n\n\nUsu\u00e1rio Artista\n\u00b6\n\n\n\n\n\n\nUsu\u00e1rio comum\n\u00b6\n\n\n\n\n\n\nUsu\u00e1rio N\u00e3o Cadastrado\n\u00b6\n\n\n\n\n\n\nGerenciar playlists salvas\n\u00b6\n\n\n\n\n\n\nGerenciar artistas salvos\n\u00b6",
+            "text": "Diagramas de Caso de Uso\n\u00b6\n\n\n\n\nAcessar Biblioteca\n                                   \n\n\nIntegra\u00e7\u00e3o com Redes Sociais\n                         \n\n\nUsu\u00e1rio Artista\n                                   \n\n\nUsu\u00e1rio comum\n                                 \n\n\nUsu\u00e1rio N\u00e3o Cadastrado\n                             \n\n\nGerenciar Playlists Salvas\n                         \n\n\nGerenciar Artistas Salvos\n                             \n\n\n\n\nAcessar Biblioteca\n\u00b6\n\n\n\n\n\n\n\n\nAutor\n\n\nVers\u00e3o\n\n\n\n\n\n\n\n\n\n\nEduardo J\u00fanio\n\n\n1.0\n\n\n\n\n\n\nEduardo J\u00fanio\n\n\n2.0\n\n\n\n\n\n\n\n\nVers\u00e3o 1\n\u00b6\n\n\n\n\nVers\u00e3o 2\n\u00b6\n\n\n\n\nGerenciar playlists salvas\n\u00b6\n\n\n\n\n\n\n\n\nAutor\n\n\nVers\u00e3o\n\n\n\n\n\n\n\n\n\n\nEduardo J\u00fanio\n\n\n1.0\n\n\n\n\n\n\nEduardo J\u00fanio\n\n\n2.0\n\n\n\n\n\n\n\n\nVers\u00e3o 1\n\u00b6\n\n\n\n\nVers\u00e3o 2\n\u00b6\n\n\n\n\nIntegra\u00e7\u00e3o com Redes Sociais\n\u00b6\n\n\n\n\n\n\nUsu\u00e1rio Artista\n\u00b6\n\n\n\n\n\n\nUsu\u00e1rio comum\n\u00b6\n\n\n\n\n\n\nUsu\u00e1rio N\u00e3o Cadastrado\n\u00b6\n\n\n\n\n\n\nGerenciar artistas salvos\n\u00b6",
             "title": "Diagramas de Caso de Uso"
         },
         {
@@ -849,11 +849,6 @@
             "location": "/Modulos/Modelagem/casos_de_uso/diagramas/diagramas/#usuario-nao-cadastrado",
             "text": "",
             "title": "Usu\u00e1rio N\u00e3o Cadastrado"
-        },
-        {
-            "location": "/Modulos/Modelagem/casos_de_uso/diagramas/diagramas/#gerenciar-playlists-salvas_1",
-            "text": "",
-            "title": "Gerenciar playlists salvas"
         },
         {
             "location": "/Modulos/Modelagem/casos_de_uso/diagramas/diagramas/#gerenciar-artistas-salvos",
