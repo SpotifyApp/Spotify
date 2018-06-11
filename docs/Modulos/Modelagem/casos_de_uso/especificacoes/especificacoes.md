@@ -19,7 +19,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 25/04/2018 | Eduardo Júnio |   1.0   |
 
-# ✅ [UC01] - Gerenciar playlists
+#  [UC01] - Gerenciar playlists
 
 <object width="700" height="600" data="../diagrama_de_uso/caso-gerenciar_playlist.png"></object>
 
@@ -71,7 +71,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC02] - Acessar opções de busca
+#  [UC02] - Acessar opções de busca
 
 ## 1. Nome do Caso de Uso
 - Acessar opções de busca
@@ -122,7 +122,7 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-# ✅ [UC03] - Acessar playlists
+#  [UC03] - Acessar playlists
 
 ## 1. Nome do Caso de Uso
 - Acessar playlists
@@ -183,7 +183,7 @@ Data | Responsável | Versão|
 27/05/2018 | Geovanne Santos |   1.0   |
 
 
-# ✅ [UC03] - Acessar rádio
+#  [UC03] - Acessar rádio
 
 ## 1. Nome do Caso de Uso
 - Acessar rádio
@@ -249,7 +249,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC02] - Adicionar música a uma playlist.
+#  [UC02] - Adicionar música a uma playlist.
 
 ## 1. Nome do Caso de Uso
 - Adicionar música a uma playlist.
@@ -297,7 +297,7 @@ Data | Responsável | Versão| Modificações |
 21/04/2018 | Geovanne Santos |   1.0   | Criação do caso de uso |
 27/05/2018 | Geovanne Santos |   2.0   | refatorar o fluxo alternativo e básico, criação das regras de negócio |
 
-# ✅ [UC06] - Adquirir o plano premiun
+#  [UC06] - Adquirir o plano premiun
 
 ## 1. Nome do Caso de Uso
 - Adquirir o plano premiun
@@ -449,7 +449,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC06] - cadastro como perfil de artista
+#  [UC06] - cadastro como perfil de artista
 
 ## 1. Nome do Caso de Uso
 - Cadastro como perfil de artista
@@ -507,7 +507,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC08] - Cadastro de usuário comum
+#  [UC08] - Cadastro de usuário comum
 
 ## 1. Nome do Caso de Uso
 - Cadastro de usuário comum
@@ -563,7 +563,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC09] - colocar a agenda de shows
+#  [UC09] - colocar a agenda de shows
 
 ## 1. Nome do Caso de Uso
 - colocar a agenda de shows
@@ -605,7 +605,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 10/06/2018 | José Aquiles |   1.0   |
 
-# ✅ [UC10] - controle de reprodução
+#  [UC10] - controle de reprodução
 
 ## 1. Nome do Caso de Uso
 - controle de reprodução
@@ -642,7 +642,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 10/06/2018 | José Aquiles |   1.0   |
 
-# ✅ [UC11] - criar estação
+#  [UC11] - criar estação
 
 ## 1. Nome do Caso de Uso
 - criar estação
@@ -680,7 +680,7 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-# ✅ [UC12] - Criar playlist
+#  [UC12] - Criar playlist
 
 ## 1. Nome do Caso de Uso
 - Criar playlist
@@ -755,7 +755,7 @@ Data | Responsável | Versão|
 11/08/2018 | José Aquiles |   1.0   |
 
 
-# ✅ [UC13] - divulgação de musicas próprias
+#  [UC13] - divulgação de musicas próprias
 
 ## 1. Nome do Caso de Uso
 - divulgação de musicas próprias
@@ -793,7 +793,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC14] - Editar foto de perfil de conta
+#  [UC14] - Editar foto de perfil de conta
 
 ## 1. Nome do Caso de Uso
 - Editar foto de perfil de conta
@@ -839,7 +839,7 @@ Data | Responsável | Versão|
 26/04/2018 | Eduardo Júnio |   1.0   |
 27/05/2018 | Eduardo Júnio |   2.0   |
 
-# ✅ [UC15] - Excluir playlists
+#  [UC15] - Excluir playlists
 ## 1. Nome do Caso de Uso
 - Excluir playlists
 
@@ -900,7 +900,7 @@ Data | Responsável | Versão| Modificações |
 21/04/2018 | Geovanne Santos |   1.0   | criação do caso de uso |
 26/05/2018 | Geovanne Santos |   2.0   | refatoração do caso de uso |
 
-# ✅ [UC06] - Ficar em modo offline
+#  [UC06] - Ficar em modo offline
 
 ## 1. Nome do Caso de Uso
 - ficar em modo offline
@@ -951,7 +951,7 @@ Data | Responsável | Versão|
 11/06/2018 | José Aquiles |   1.0   |
 
 
-# ✅ [UC17] - Informações de reprodução
+#  [UC17] - Informações de reprodução
 
 ## 1. Nome do Caso de Uso
 - informações de reprodução
@@ -1000,7 +1000,7 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-# ✅ [UC18] - Tornar Playlist secreta
+#  [UC18] - Tornar Playlist secreta
 
 ## 1. Nome do Caso de Uso
 - Tornar playlist secreta
@@ -1066,7 +1066,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC06] - Mudar o tipo de perfil
+#  [UC06] - Mudar o tipo de perfil
 
 ## 1. Nome do Caso de Uso
 - Mudar o tipo de perfil
@@ -1122,7 +1122,7 @@ Data | Responsável | Versão|
 11/06/2018 | José Aquiles |   1.0   |
 
 
-# ✅ [UC17] - Mudar Reprodução ativa
+#  [UC17] - Mudar Reprodução ativa
 
 ## 1. Nome do Caso de Uso
 - Mudar reprodução ativa
@@ -1235,7 +1235,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC23] - postar uma música
+#  [UC23] - postar uma música
 
 ## 1. Nome do Caso de Uso
 - postar uma música
@@ -1276,7 +1276,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC24] - Compartilhar playlists
+#  [UC24] - Compartilhar playlists
 
 ## 1. Nome do Caso de Uso
 -  Compartilhar playlists
@@ -1347,7 +1347,7 @@ Data | Responsável | Versão|
 23/04/2018 | Geovanne Santos |   1.0   |
 27/05/2018 | Eduardo Júnio |   2.0   |
 
-# ✅ [UC26] - Renomear playlists
+#  [UC26] - Renomear playlists
 
 ## 1. Nome do Caso de Uso
 - Renomear playlists
@@ -1417,7 +1417,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC27] - Sair do aplicativo
+#  [UC27] - Sair do aplicativo
 
 ## 1. Nome do Caso de Uso
 - Sair do aplicativo
@@ -1448,7 +1448,7 @@ Data | Responsável | Versão|
 21/04/2018 | Geovanne Santos |   1.0   |
 25/05/2018 | Lucas Cunha | 2.0 |
 
-# ✅ [UC29] - Fazer login
+#  [UC29] - Fazer login
 
 ## 1. Nome do Caso de Uso
 - Fazer Login
@@ -1522,7 +1522,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC30] - Ver gráficos de rendimento sobre seus álbuns
+#  [UC30] - Ver gráficos de rendimento sobre seus álbuns
 
 ## 1. Nome do Caso de Uso
 - Ver gráficos de rendimento sobre seus álbuns.
@@ -1567,7 +1567,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 26/04/2018 | Eduardo Júnio |   1.0   |
 
-# ✅ [UC32] - Download de playlists
+#  [UC32] - Download de playlists
 ## 1. Nome do Caso de Uso
 - Download de playlists
 
@@ -1625,7 +1625,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC02] - mudar de senha
+#  [UC02] - mudar de senha
 
 ## 1. Nome do Caso de Uso
 - Mudar de senha
@@ -1718,7 +1718,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-# ✅ [UC39] - atualizar biografia do artista
+#  [UC39] - atualizar biografia do artista
 
 ## 1. Nome do Caso de Uso
 - atualizar biografia do artista
@@ -1766,7 +1766,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC43] - Compartilhar podcasts
+#  [UC43] - Compartilhar podcasts
 
 ## 1. Nome do Caso de Uso
 -  Compartilhar podcasts
@@ -1833,7 +1833,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC44] - Compartilhar programa de vídeo
+#  [UC44] - Compartilhar programa de vídeo
 
 ## 1. Nome do Caso de Uso
 -  Compartilhar programa de vídeo
@@ -1901,7 +1901,7 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-# ✅ [UC47] - Acessar podcasts na biblioteca
+#  [UC47] - Acessar podcasts na biblioteca
 
 ## 1. Nome do Caso de Uso
 - Acessar podcasts na biblioteca
@@ -1964,7 +1964,7 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-# ✅ [UC48] - Acessar podcasts na biblioteca
+#  [UC48] - Acessar podcasts na biblioteca
 
 ## 1. Nome do Caso de Uso
 - Acessar vídeos na biblioteca
@@ -2027,7 +2027,7 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-# ✅ [UC55] - Acessar álbuns salvos na biblioteca
+#  [UC55] - Acessar álbuns salvos na biblioteca
 
 ## 1. Nome do Caso de Uso
 - Acessar álbuns salvos na biblioteca
@@ -2090,7 +2090,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC56] - Acessar artistas seguidos
+#  [UC56] - Acessar artistas seguidos
 
 ## 1. Nome do Caso de Uso
 - Acessar artistas seguidos
@@ -2154,7 +2154,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC57] - Acessar mídias tocadas recentemente
+#  [UC57] - Acessar mídias tocadas recentemente
 
 ## 1. Nome do Caso de Uso
 - Acessar mídias tocadas recentemente
@@ -2216,7 +2216,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC58] - Acessar Daily Mix
+#  [UC58] - Acessar Daily Mix
 
 ## 1. Nome do Caso de Uso
 -  Acessar Daily Mix
@@ -2279,7 +2279,7 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-# ✅ [UC59] - Compartilhar música
+#  [UC59] - Compartilhar música
 
 ## 1. Nome do Caso de Uso
 -  Compartilhar música
