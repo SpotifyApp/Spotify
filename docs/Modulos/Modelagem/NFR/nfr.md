@@ -6,6 +6,8 @@
 | 05/05/2018 | 1.0 | Criação de NFR de Usabilidade | Amanda Bezerra |
 | 05/05/2018 | 1.0 | Criação de NFR de Segurança | Lucas Carvalho |
 | 06/05/2018 | 1.0 | Criação de NFR de Recomendações | Amanda Bezerra |
+| 06/05/2018 | 1.0 | Criação de NFR de Usabilidade e segurança | Eduardo Júnio |
+
 
 
 ## NFR Segurança
@@ -19,3 +21,6 @@
 
 ## NFR Recomendações
 <a href="../nfr-recomendacao.png"><img src="../nfr-recomendacao.png"></a>
+
+## NFR Usabilidade e segurança
+<a href="../nfr-recomendacao.png"><img src="../NFR.jpeg"></a>
