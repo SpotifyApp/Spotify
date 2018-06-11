@@ -1,3 +1,8 @@
+| Responsável | Versão| Mudança realizada|
+ ------| --------| ------------ |
+| Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas, José Aquile e Renato Valério |   1.0   |  Primeira versão  |
+
+
 # Cenários
 
 ## Acessar Biblioteca
