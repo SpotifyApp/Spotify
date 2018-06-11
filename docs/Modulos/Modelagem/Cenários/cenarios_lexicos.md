@@ -619,7 +619,7 @@ Perder sinal da internet.                </td>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> inicia o aplicativo.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> inicia uma música.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> seleciona dispositivos disponíveis.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> visualiza dispositivos disponíveis na mesma rede wi-fi . 	  	
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> visualiza dispositivos disponíveis na mesma rede  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#wi-fi">Wi-fi</a>   . 	  	
 </td>
 </tr>
 </tbody></table>
@@ -2091,7 +2091,7 @@ estações.
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">Um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> pode excluir músicas, lists, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">Vídeo</a>  e etc.<br>
+<th>Impacto(s):</th><td class="Estilo">Um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> pode excluir músicas, lists, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">Vídeos</a>  e etc.<br>
 Um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> pode excluir sua conta.<br>
 
 </td>
@@ -3053,18 +3053,18 @@ utilizador, utente, cliente, desfrutador, usuários.
 
 <td class="Estilo">
 
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">Vídeo</a> .    
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">Vídeos</a> .    
 
 </td>
 
 </tr>
 </tbody></table>
 
-## Wi-fi
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/# </a> 
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo">wi-fi				</td>
+<th>Nome:</th><td class="Estilo"> <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/# <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#wi-fi">Wi-fi</a>  "> <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#wi-fi">Wi-fi</a>  </a>  				</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">uma forma de se conectar a internet sem necessidade de cabos				</td>
@@ -3073,7 +3073,7 @@ utilizador, utente, cliente, desfrutador, usuários.
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">o usuario pode usar wi-fi para se conectar à internet para utilizar o spotify
+<th>Impacto(s):</th><td class="Estilo">o usuario pode usar  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#wi-fi">Wi-fi</a>   para se conectar à internet para utilizar o spotify
 </td>
 </tr>
 <tr>
