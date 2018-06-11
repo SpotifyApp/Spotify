@@ -10,6 +10,7 @@
 
 
 ## Acessar Biblioteca
+
 Autor| Versão|
 -|-|
 Eduardo Júnio| 1.0|
@@ -17,14 +18,28 @@ Eduardo Júnio|2.0|
 
 ### Versão 1
 
-<p align="center"><a href="image" target="_blank"><img width="600" src="https://github.com/SpotifyApp/Spotify/blob/master/docs/Modulos/Modelagem/casos_de_uso/diagramas/acessar_biblioteca1.0.png"></a></p>
-<p align="center">
+<object width="700" height="600" data="../acessar_biblioteca1.0.png"></object>
+
   
 ### Versão 2
 
-<p align="center"><a href="image" target="_blank"><img width="600" src="https://github.com/SpotifyApp/Spotify/blob/master/docs/Modulos/Modelagem/casos_de_uso/diagramas/UC01-Acessar_biblioteca.png"></a></p>
-<p align="center">
+<object width="700" height="600" data="../UC01-Acessar_biblioteca.png"></object>
 
+
+## Gerenciar playlists salvas
+
+Autor| Versão|
+-|-|
+Eduardo Júnio| 1.0|
+Eduardo Júnio|2.0|
+
+### Versão 1
+
+<object width="700" height="600" data="../UC03-Gerenciar_playlists salvas.jpg"></object>
+
+### Versão 2
+
+<object width="700" height="600" data="../Gerenciar_playlists_salvas.png"></object>
 
 ## Integração com Redes Sociais
 <object width="700" height="600" data="../caso-integracao_redes.png"></object>
