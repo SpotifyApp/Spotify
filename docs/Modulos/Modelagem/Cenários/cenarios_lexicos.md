@@ -1844,7 +1844,7 @@ procurar, pesquisar.
 <th>Nome:</th><td class="Estilo">código				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">Imagem gerada pelo aplicativo que identifica unicamente uma música, álbum, perfil, playlist, podcast ou vídeo				</td>
+<th>Noção:</th><td class="Estilo">Imagem gerada pelo aplicativo que identifica unicamente uma música, álbum, perfil, playlist, podcast ou <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">Vídeo</a> 				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">objeto				</td>
@@ -3030,11 +3030,11 @@ utilizador, utente, cliente, desfrutador, usuários.
 </tr>
 </tbody></table>
 
-## Vídeo
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">Vídeo</a> 
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo">vídeo				</td>
+<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">Vídeo</a> 				</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">Arquivos de mídia voltados para transmissão de conteúdo.				</td>
