@@ -23,4 +23,4 @@
 <a href="../nfr-recomendacao.png"><img src="../nfr-recomendacao.png"></a>
 
 ## NFR Usabilidade e segurança
-<a href="../nfr-recomendacao.png"><img src="../NFR.jpeg"></a>
+<a href="../NFR.jpeg"><img src="../NFR.jpeg"></a>
