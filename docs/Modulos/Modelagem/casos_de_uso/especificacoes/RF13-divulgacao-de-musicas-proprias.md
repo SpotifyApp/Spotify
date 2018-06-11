@@ -32,4 +32,5 @@ Data | Responsável | Versão|
 
 ## 5.2 Fluxos de Exceção
 FE01 - Perca de sinal com a internet
+
 FE02 - Problemas com a gravadora
