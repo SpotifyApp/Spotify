@@ -1,3 +1,10 @@
+Data| Responsável | Versão| Mudança realizada|      
+----|------| --------| ------------ |         
+05/04/2018| Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas, José Aquile e Renato Valério |   1.0   |  Adição de novos cenários e léxicos  |      
+06/04/2018 | Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas, José Aquile e Renato Valério |   1.0   |  Adição de novos cenários e léxicos  |      
+07/04/2018 | Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas, José Aquile e Renato Valério |   1.0   |  Adição de novos cenários e léxicos |     
+08/04/2018 | Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas, José Aquile e Renato Valério |   1.0   |  Adição de novos cenários e léxicos |     
+
 # Cenários
 
 ## Acessar Biblioteca
