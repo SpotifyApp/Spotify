@@ -39,7 +39,7 @@ Eduardo Júnio|2.0|
 
 ### Versão 2
 
-<object width="700" height="600" data="../Gerenciar_playlists_salvas.png"></object>
+<object width="700" height="800" data="../Gerenciar_playlists_salvas.png"></object>
 
 ## Integração com Redes Sociais
 <object width="700" height="600" data="../caso-integracao_redes.png"></object>
@@ -58,11 +58,6 @@ Eduardo Júnio|2.0|
 
 ## Usuário Não Cadastrado
 <object width="700" height="600" data="../diagrama_usuário_nao_cadastrado.png"></object>
-
----
-
-## Gerenciar playlists salvas
-<object width="700" height="600" data="../Gerenciar_playlists_salvas.png"></object>
 
 ---
 
