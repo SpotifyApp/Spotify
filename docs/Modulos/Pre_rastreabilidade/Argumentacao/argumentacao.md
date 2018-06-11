@@ -17,6 +17,8 @@ Data| Responsável | Versão| Mudança realizada|
 
 ![Argumentacao](https://i.imgur.com/lxblHYZ.png)
 
+----
+
 ## Argumentação Pagamento
 
 ### Versão 1
