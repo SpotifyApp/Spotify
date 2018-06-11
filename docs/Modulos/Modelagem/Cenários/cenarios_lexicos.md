@@ -33,18 +33,18 @@ logado na conta
 <th>Recursos:</th><td class="Estilo">
 internet<br>
 Celular<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 Celular desligar                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 O oqueia o celular<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> seleciona a opção biblioteca<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> tem acesso ao conteúdo o em sua biblioteca	  	
 </td>
@@ -62,7 +62,7 @@ acessar opções de busca                </td>
 </tr>
 <tr>
 <th>Objetivo:</th><td class="Estilo">
-Ter acesso as diferentes formas de buscar conteúdo no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s				</td>
+Ter acesso as diferentes formas de buscar conteúdo no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
@@ -77,18 +77,18 @@ logado na conta
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado no celular                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado no celular                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 Celular desligar                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> desbloqueia o celular<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> seleciona a opção busca<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> tem acesso as opções de busca	  	
 </td>
@@ -122,7 +122,7 @@ logado na conta de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelag
 <th>Recursos:</th><td class="Estilo">
 internet<br>
 Celular<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do Spotify instalado                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do Spotify instalado                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -151,7 +151,7 @@ acessar rádio                </td>
 </tr>
 <tr>
 <th>Objetivo:</th><td class="Estilo">
-Encontrar estações recomendadas pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s com base no gosto do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a>				</td>
+Encontrar estações recomendadas pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s com base no gosto do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a>				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
@@ -166,18 +166,18 @@ logado na conta
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado no celular                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado no celular                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 Celular desligar                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> desbloqueia o celular<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> seleciona a opção rádio<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> tem acesso ao conteúdo da sua rádio	  	
 </td>
@@ -210,18 +210,18 @@ logado na conta de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelag
 <th>Recursos:</th><td class="Estilo">
 internet<br>
 Celular<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do Spotify instalado                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do Spotify instalado                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 Celular desligar                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> desbloqueia o celular<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do Spotify<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do Spotify<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> seleciona uma música<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> seleciona a opção adicionar música a uma <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a><br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> seleciona a <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> em que deseja adicionar a música	  	
@@ -244,7 +244,7 @@ Pagar pelo plano premiun, para ter diversas funções extras, como passar músic
 <tr>
 <th>Contexto:</th><td class="Estilo">
 Estar conectado com a internet<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 
 </td>
 </tr>
@@ -265,7 +265,7 @@ Não ter sinal de internet                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> clica em adquirir pacote premiun<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> coloca as informações do cartão de crédito ou informações pra gerar boleto<br>
 O usuáriopaga a mensalidade ou paga por forma trimestral e semestral<br>
@@ -282,12 +282,12 @@ O usuáriose torna <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelag
 <th>Titulo:</th><td class="Estilo">cadastro com perfil de artista </td>  
 </tr>
 <tr>
-<th>Objetivo:</th><td class="Estilo">Fazer o cadastro do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> artista, que deseja ter as funcionalidades de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> premiun e postar as próprias músicas no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s spotify.				</td>
+<th>Objetivo:</th><td class="Estilo">Fazer o cadastro do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> artista, que deseja ter as funcionalidades de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> premiun e postar as próprias músicas no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s spotify.				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
 Ter acesso a internet<br>
-Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado<br>
+Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado<br>
 Ainda não possuir um perfil no spotify		 
 </td>
 </tr>
@@ -298,7 +298,7 @@ Ainda não possuir um perfil no spotify
 <tr>
 <th>Recursos:</th><td class="Estilo">
 Ter internet<br>
-ter instalado o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+ter instalado o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 Ter uma gravadora para intermediar sua relação com o spotify                </td>
 </tr>
 <tr>
@@ -377,7 +377,7 @@ Criar um perfil de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelag
 <tr>
 <th>Contexto:</th><td class="Estilo">
 Ter acesso a internet<br>
-Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado<br>
+Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado<br>
 Não ter um perfil		 
 </td>
 </tr>
@@ -388,7 +388,7 @@ Não ter um perfil
 <tr>
 <th>Recursos:</th><td class="Estilo">
 Estar com conexão com a internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 </td>
 </tr>
 <tr>
@@ -397,7 +397,7 @@ Não ter internet.                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> clica em fazer cadastro<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> coloca as informações necessárias para se cadastrar<br>
 O cadastro é efetivado	  	
@@ -419,8 +419,8 @@ Ter controle reprodução que esta ativa em outros dispositivos. 				</td>
 <tr>
 <th>Contexto:</th><td class="Estilo">
 Ter acesso à internet.<br>
-Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado.<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
+Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado.<br>
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
 em outro dispositivo.<br>
 Ter conta premium do Spotify<br>	 
 </td>
@@ -432,8 +432,8 @@ Ter conta premium do Spotify<br>
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Dispositivos de hardwares que suportem <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.                 </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Dispositivos de hardwares que suportem <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.                 </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -442,7 +442,7 @@ Perder sinal da internet.<br>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s. <br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s. <br>
 Restrição: Não estar com  dispositivo em uso. <br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> acessa  <span style="font-variant: small-caps"><b>informações de reprodução.</b></span>  <br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> altera volume da <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#reproducao-ativa">Reprodução ativa</a>.<br>
@@ -473,12 +473,12 @@ logado na conta
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado no celular                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado no celular                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 Celular desligar                </td>
 </tr>
 <tr>
@@ -554,9 +554,9 @@ interface simples e interativa ao <a href="https://spotifyapp.github.io/Spotify/
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado.<br>
+Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado.<br>
 Possuir internet.<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.		 
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.		 
 </td>
 </tr>
 <tr>
@@ -566,7 +566,7 @@ Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado.                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado.                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -574,7 +574,7 @@ Sem sinal de internet                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessa o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessa o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> consegue usar com as informações da interface, sem muitas dificuldades.	  	
 </td>
 </tr>
@@ -596,7 +596,7 @@ Listar os dispositivos disponíveis para reprodução de músicas através do Sp
 <th>Contexto:</th><td class="Estilo">
 Estar Conectado na internet.<br>
 Estar logado no Spotify.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s estar atualizado.<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s estar atualizado.<br>
 
 </td>
 </tr>
@@ -616,7 +616,7 @@ Perder sinal da internet.                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> inicia uma música.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> seleciona dispositivos disponíveis.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> visualiza dispositivos disponíveis na mesma rede <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#wi-fi">Wi-fi</a> . 	  	
@@ -642,9 +642,9 @@ Para poder divulgar suas músicas tem que ser <a href="https://spotifyapp.github
 <th>Contexto:</th><td class="Estilo">
 Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "artista".<br>
 Ter acesso a internet.<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
 Ter contrato com a gravadora.<br>
-Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s Instalado. 		 
+Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s Instalado. 		 
 </td>
 </tr>
 <tr>
@@ -655,8 +655,8 @@ Gravadora                </td>
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -667,7 +667,7 @@ Problemas com a gravadora<br>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessa Spotify<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 Gravadora divulga suas músicas	  	
 </td>
 </tr>
@@ -746,7 +746,7 @@ acesso ao Spotify                </td>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 celular desligar                </td>
 </tr>
 <tr>
@@ -786,7 +786,7 @@ Ter feito o download de músicas<br>
 </tr>
 <tr>
 <th>Recursos:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado<br>
 Ter adquirido o pacote premiun                </td>
 </tr>
 <tr>
@@ -795,7 +795,7 @@ Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rio
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premiun inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premiun inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premiun ativa o modo offline<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premiun escuta as músicas que fez download	  	
 </td>
@@ -817,7 +817,7 @@ Trazer informações sobre reprodução de músicas em andamento.				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s Instalado.<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s Instalado.<br>
 Estar logado no Spotify.<br>
 Ter acesso à internet.<br>
 Spotify reproduzindo música em outro dispositivo.		 
@@ -829,7 +829,7 @@ Spotify reproduzindo música em outro dispositivo.
 </tr>
 <tr>
 <th>Recursos:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s Instalado<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s Instalado<br>
 internet <br>
 </td>
 </tr>
@@ -839,8 +839,8 @@ Sem sinal de internet                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s alerta sobre wzzxkkxy0em outro dispositivo.<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> inicia o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s alerta sobre wzzxkkxy0em outro dispositivo.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> clica em música.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acompanha <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#reproducao-ativa">Reprodução ativa</a>. 	  	
 </td>
@@ -863,12 +863,12 @@ Cadastrar novo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/C
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> desbloqueou o celular e abriu o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do spotify. <br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> desbloqueou o celular e abriu o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do spotify. <br>
 <br>
 Pré-condição: Celular com bateria carregada <br>
 Celular com acesso à internet <br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do spotify instalado <br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s deslogado de qualquer <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>		 
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do spotify instalado <br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s deslogado de qualquer <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>		 
 </td>
 </tr>
 <tr>
@@ -879,13 +879,13 @@ Celular com acesso à internet <br>
 <th>Recursos:</th><td class="Estilo">
 Celular <br>
 Acesso à internet <br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do spotify instalado                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do spotify instalado                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet não estiver funcionando <br>
 Celular desligar <br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar                 </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar                 </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
@@ -903,8 +903,8 @@ O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/
 A conta é criada<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> seleciona no mínimo quatro artistas que lhes são apresentados<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> clica em pronto<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s cria algumas lists com base nos artistas escolhidos no passo anterior<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s apresenta ao <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> a tela inicial.	  	
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s cria algumas lists com base nos artistas escolhidos no passo anterior<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s apresenta ao <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> a tela inicial.	  	
 </td>
 </tr>
 </tbody></table>
@@ -926,9 +926,9 @@ Integração com redes sociais facilitam compartilhamentos de <a href="https://s
 <th>Contexto:</th><td class="Estilo">
 Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>.<br>
 Ter acesso a internet.<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
-Estar logado a <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>ss que estão integrados com o Spotify, por exemplo "instagram" e "facebook".<br>
-Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s Instalado.		 
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
+Estar logado a <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>ss que estão integrados com o Spotify, por exemplo "instagram" e "facebook".<br>
+Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s Instalado.		 
 </td>
 </tr>
 <tr>
@@ -938,8 +938,8 @@ Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1r
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -948,7 +948,7 @@ Perca de Sinal de internet                </td>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;acessa Spotify, tendo opções de fazer login. usando conta de outra rede social.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s e ouvir as músicas.<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s e ouvir as músicas.<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> compartilha suas músicas e <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> usando rede social como "Whatsapp". 	  	
 </td>
 </tr>
@@ -971,8 +971,8 @@ Forma de fazer com que o <a href="https://spotifyapp.github.io/Spotify/Modulos/M
 <th>Contexto:</th><td class="Estilo">
 Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Free"<br>
 Ter acesso a internet<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado<br>
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado<br>
 Ter passado de música 6 vezes dentre uma hora, para ter restrição de passagem		 
 </td>
 </tr>
@@ -983,8 +983,8 @@ Ter passado de música 6 vezes dentre uma hora, para ter restrição de passagem
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 </td>
 </tr>
 <tr>
@@ -994,7 +994,7 @@ Perca de Sinal de internet                </td>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessa Spotify<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s e ouvir as músicas<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s e ouvir as músicas<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> passa as músicas 6 vezes<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> tem restrição de passagens por ser "Free"<br>
 
@@ -1019,8 +1019,8 @@ Limitações de uso ao plano "Free" , baseado no plano de marketing chamado "fre
 <th>Contexto:</th><td class="Estilo">
 Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Free".<br>
 Ter acesso a internet.<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
-Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s Instalado.		 
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
+Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s Instalado.		 
 </td>
 </tr>
 <tr>
@@ -1030,8 +1030,8 @@ Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1r
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -1041,7 +1041,7 @@ Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rio
 <tr>
 <th>Episódios:</th><td class="Estilo">
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;acessa Spotify<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s e ouvir as músicas<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s e ouvir as músicas<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;não pode baixar músicas, ouvir offline<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;tem restrição de passagens por ser "Free"	  	
 </td>
@@ -1064,7 +1064,7 @@ Se o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1ri
 <tr>
 <th>Contexto:</th><td class="Estilo">
 Ter acesso a internet<br>
-Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado<br>
+Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado<br>
 Estar logado <br>
 Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão		 
 </td>
@@ -1076,7 +1076,7 @@ Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rio
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 conta de perfil padrão<br>
 Ter uma gravadora para intermediar sua relação profissional com o spotify                </td>
 </tr>
@@ -1088,11 +1088,11 @@ o spotify não autorizar sua migração de <a href="https://spotifyapp.github.io
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-Instala o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+Instala o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 Faz o cadastro de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão<br>
 Deseja mudar de perfil padrão para perfil de artista<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> coloca os dados adicionais e manda o formulário pro spotify avaliar a autenticidade, <br>
-o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s manda um símbolo na tela de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>, que seria um símbolo de positivo.	  	
+o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s manda um símbolo na tela de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>, que seria um símbolo de positivo.	  	
 </td>
 </tr>
 </tbody></table>
@@ -1107,7 +1107,7 @@ navegar                </td>
 </tr>
 <tr>
 <th>Objetivo:</th><td class="Estilo">
-Descobrir conteúdos diversos oferecidos pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s				</td>
+Descobrir conteúdos diversos oferecidos pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
@@ -1123,18 +1123,18 @@ logado na conta
 <th>Recursos:</th><td class="Estilo">
 internet<br>
 Celular<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 Celular desligar                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> desbloqueia o celular<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> abre o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> seleciona a opção navegar<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> tem acesso as opções de navegação	  	
 </td>
@@ -1155,10 +1155,10 @@ Ouvir os últimos lançamentos pelo spotify				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> desbloqueou o celular, abriu o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s e acessou a opção  <span style="font-variant: small-caps"><b>navegar</b></span>.<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> desbloqueou o celular, abriu o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s e acessou a opção  <span style="font-variant: small-caps"><b>navegar</b></span>.<br>
 <br>
 Pré-condição: Estar conectado à internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do spotify instalado<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do spotify instalado<br>
 Celular com a bateria carregada		 
 </td>
 </tr>
@@ -1170,12 +1170,12 @@ Celular com a bateria carregada
 <th>Recursos:</th><td class="Estilo">
 Celular<br>
 Acesso a internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do spotify                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do spotify                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s fechar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s fechar<br>
 Celular desligar                 </td>
 </tr>
 <tr>
@@ -1225,7 +1225,7 @@ Não ter o perfil de artista no spotify                </td>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> faz o cadastro de artista<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s avalia o perfil para ver se é autêntico<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s avalia o perfil para ver se é autêntico<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> procura uma gravadora<br>
 Manda a música para a gravadora<br>
 A gravadora manda a música pro spotify	  	
@@ -1248,8 +1248,8 @@ Propagandas durante a programação musical para quem está no modelo “Free”
 <th>Contexto:</th><td class="Estilo">
 Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Free"<br>
 Ter acesso a internet.<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
-Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s Instalado.		 
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
+Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s Instalado.		 
 </td>
 </tr>
 <tr>
@@ -1259,8 +1259,8 @@ Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1r
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -1269,7 +1269,7 @@ Perca de Sinal de internet                </td>
 <tr>
 <th>Episódios:</th><td class="Estilo">
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;acessa Spotify<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s e ouvir as músicas<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>&nbsp;começa a usar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s e ouvir as músicas<br>
 <br>
 
 </td>
@@ -1290,8 +1290,8 @@ Propagandas de tempo em tempo no modelo “Free” é um modelo de marketing par
 <tr>
 <th>Contexto:</th><td class="Estilo">
 Ter acesso a internet.<br>
-Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado.<br>
-Estar logado ao <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
+Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado.<br>
+Estar logado ao <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
 Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Free".<br>
 Estar passando músicas.		 
 </td>
@@ -1303,8 +1303,8 @@ Estar passando músicas.
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
-dispositivo compatível com o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.                 </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
+dispositivo compatível com o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.                 </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -1345,8 +1345,8 @@ Figura Pública                </td>
 <th>Recursos:</th><td class="Estilo">
 Acesso aos meios de comunicação<br>
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 </td>
 </tr>
 <tr>
@@ -1385,13 +1385,13 @@ logado na conta
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado no celular<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado no celular<br>
 </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 Celular desligar                </td>
 </tr>
 <tr>
@@ -1400,7 +1400,7 @@ Após  <span style="font-variant: small-caps"><b>acessar opções de busca</b></
 <br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> clica no ícone de câmera<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> aponta a câmera do celular para o código ou escolhe em seu celular uma foto com o código do que se deseja buscar<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> passa a ver no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s o item relacionado ao código inserido	  	
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> passa a ver no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s o item relacionado ao código inserido	  	
 </td>
 </tr>
 </tbody></table>
@@ -1430,12 +1430,12 @@ logado na conta
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado no celular                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado no celular                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s parar de funcionar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s parar de funcionar<br>
 Celular desligar                </td>
 </tr>
 <tr>
@@ -1444,7 +1444,7 @@ Após  <span style="font-variant: small-caps"><b>acessar opções de busca</b></
 <br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> clica no campo "buscar"<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> digita uma palavra ou frase<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> seleciona um dos resultados disponibilizados pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s	  	
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> seleciona um dos resultados disponibilizados pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s	  	
 </td>
 </tr>
 </tbody></table>
@@ -1464,11 +1464,11 @@ Modificar nome de uma <a href="https://spotifyapp.github.io/Spotify/Modulos/Mode
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> desbloqueou o celular, abriu o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s e acessou a biblioteca(acessar biblioteca).<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> desbloqueou o celular, abriu o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s e acessou a biblioteca(acessar biblioteca).<br>
 <br>
 Pré-condição: Estar conectado à internet<br>
 Celular com bateria carregada<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do spotify instalado<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do spotify instalado<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> existente		 
 </td>
 </tr>
@@ -1480,12 +1480,12 @@ Celular com bateria carregada<br>
 <th>Recursos:</th><td class="Estilo">
 Celular<br>
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s do spotify                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s do spotify                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
 internet parar de funcionar<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s fechar<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s fechar<br>
 Celular desligar                </td>
 </tr>
 <tr>
@@ -1502,21 +1502,21 @@ A <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/
 </tbody></table>
 
 
-## Sair do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s
+## Sair do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s
 
 <table>
 <tbody><tr>
 <th>Titulo:</th><td class="Estilo">
-sair do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s                </td>
+sair do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s                </td>
 
 </tr>
 <tr>
 <th>Objetivo:</th><td class="Estilo">
-Sair do seu perfil no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.				</td>
+Sair do seu perfil no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado<br>
+Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado<br>
 Estar logado no spotify<br>
 
 </td>
@@ -1527,17 +1527,17 @@ Estar logado no spotify<br>
 </tr>
 <tr>
 <th>Recursos:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 Ter uma conta no spotify<br>
 </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
-Não ter uma conta no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s                </td>
+Não ter uma conta no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> instala o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> instala o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> faz o login]<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> clica em sair da conta	  	
 </td>
@@ -1561,8 +1561,8 @@ Com um suporte técnico os usuários conseguem se informar e mandar solicitaçõ
 <th>Contexto:</th><td class="Estilo">
 Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a><br>
 Possuir internet<br>
-Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
-Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s instalado<br>
+Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
+Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s instalado<br>
 Entrar em contato com o suporte		 
 </td>
 </tr>
@@ -1574,7 +1574,7 @@ suporte                </td>
 <tr>
 <th>Recursos:</th><td class="Estilo">
 internet<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s<br>
 dispositivo compatível<br>
 </td>
 </tr>
@@ -1655,11 +1655,11 @@ calendário de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/C
 </tr>
 </tbody></table>
 
-## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">Aplicativo</a>s
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s				</td>
+<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s				</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">Tipo de programa de computador desenvolvido para processar dados de modo eletrônico, de forma a facilitar e reduzir o tempo do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> ao executar uma tarefa.				</td>
@@ -1668,7 +1668,7 @@ calendário de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/C
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessa o sptify pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s
+<th>Impacto(s):</th><td class="Estilo">o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessa o sptify pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s
 </td>
 </tr>
 <tr>
@@ -1784,13 +1784,13 @@ estante.
 <th>Nome:</th><td class="Estilo">buscar				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">Achar no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s algo que se deseja visualizar ou ouvir				</td>
+<th>Noção:</th><td class="Estilo">Achar no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s algo que se deseja visualizar ou ouvir				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">verbo				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> busca músicas dentro do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s
+<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> busca músicas dentro do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s
 </td>
 </tr>
 <tr>
@@ -1844,7 +1844,7 @@ procurar, pesquisar.
 <th>Nome:</th><td class="Estilo">código				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">Imagem gerada pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s que identifica unicamente uma música, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s, perfil, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a>, podcast ou <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#video">Vídeo</a>				</td>
+<th>Noção:</th><td class="Estilo">Imagem gerada pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s que identifica unicamente uma música, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s, perfil, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a>, podcast ou <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#video">Vídeo</a>				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">objeto				</td>
@@ -1964,7 +1964,7 @@ daily mixes.
 <th>Nome:</th><td class="Estilo">dispositivo				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">equipamento onde o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> possa utilizar o spotify(nesse projeto em especifico) direto do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s ou remotamente pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s de outro dispositivo				</td>
+<th>Noção:</th><td class="Estilo">equipamento onde o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> possa utilizar o spotify(nesse projeto em especifico) direto do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s ou remotamente pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s de outro dispositivo				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">objeto				</td>
@@ -2310,8 +2310,8 @@ tela da aplicação, layout.
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> precisa ter conexão com a internet para ter acesso às funcionalidade do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s.<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s precisa ter acesso à internet para funcionar.
+<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> precisa ter conexão com a internet para ter acesso às funcionalidade do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s.<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s precisa ter acesso à internet para funcionar.
 </td>
 </tr>
 <tr>
@@ -2640,7 +2640,7 @@ podcasts.
 <th>Nome:</th><td class="Estilo">relação profissional				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">Quando o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> artista utiliza o spotify como meio de oferecer e divulgar seus <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbuns</a>s, ele necessita de uma gravadora para enviar suas música pro spotify, em troca o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s repassa parte dos lucros a gravadora do respectivo artista, e a gravadora passa parte pro artista, são os chamados royalties.				</td>
+<th>Noção:</th><td class="Estilo">Quando o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> artista utiliza o spotify como meio de oferecer e divulgar seus <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbuns</a>s, ele necessita de uma gravadora para enviar suas música pro spotify, em troca o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s repassa parte dos lucros a gravadora do respectivo artista, e a gravadora passa parte pro artista, são os chamados royalties.				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">verbo				</td>
@@ -2953,7 +2953,7 @@ utilizador, utente, cliente, desfrutador, usuários.
 <th>Classificação:</th><td class="Estilo">sujeito				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">tem algumas funções obrigatórias que ao utilizar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>s spotify ele não pode fugir, como ouvir as propagandas, ouvir músicas no modo aleatório, ouvir música somente com o uso de internet, entre outros.
+<th>Impacto(s):</th><td class="Estilo">tem algumas funções obrigatórias que ao utilizar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativos">aplicativo</a>s spotify ele não pode fugir, como ouvir as propagandas, ouvir músicas no modo aleatório, ouvir música somente com o uso de internet, entre outros.
 </td>
 </tr>
 <tr>
