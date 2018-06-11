@@ -15,7 +15,7 @@ Ferramenta: Mão livre
 ------
 
 ![Spotify_geral](https://i.imgur.com/5fKxpQU.png)
-Autor(es): Amanda Bezerra
+Autor(es): Amanda Bezerra               
 Ferramenta: Draw.io
 
 # Rich Picture Usuário
