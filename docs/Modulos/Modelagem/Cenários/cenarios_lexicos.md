@@ -1078,7 +1078,7 @@ Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rio
 internet<br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a><br>
 conta de perfil padrão<br>
-Ter uma gravadora para intermediar sua relação profissional com o spotify                </td>
+Ter uma gravadora para intermediar sua  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#relacao-profissional">Relação profissional</a>com o spotify                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -2633,11 +2633,11 @@ podcasts.
 </tr>
 </tbody></table>
 
-## Relação profissional
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#relacao-profissional">Relação profissional</a>
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo">relação profissional				</td>
+<th>Nome:</th><td class="Estilo"> <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#relacao-profissional">Relação profissional</a>				</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">Quando o  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-artista">usuário artista</a> utiliza o spotify como meio de oferecer e divulgar seus <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbuns</a>s, ele necessita de uma gravadora para enviar suas música pro spotify, em troca o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> repassa parte dos lucros a gravadora do respectivo artista, e a gravadora passa parte pro artista, são os chamados royalties.				</td>
@@ -2977,7 +2977,7 @@ utilizador, utente, cliente, desfrutador, usuários.
 <th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a> 			</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">Aquele <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> que não pode postar músicas e nem estabelecer uma relação profissional com o spotify, ou seja, que não é o perfil de artista. 				</td>
+<th>Noção:</th><td class="Estilo">Aquele <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> que não pode postar músicas e nem estabelecer uma  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#relacao-profissional">Relação profissional</a> com o spotify, ou seja, que não é o perfil de artista. 				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">sujeito				</td>
