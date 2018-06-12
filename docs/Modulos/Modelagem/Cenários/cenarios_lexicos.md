@@ -485,8 +485,8 @@ Celular desligar                </td>
 <th>Episódios:</th><td class="Estilo">Após  <span style="font-variant: small-caps"><b>acessar rádio</b></span><br>
 <br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> clica na opção "Nova estação"<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> insere o nome de uma música, um artista, um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s</a>s ou uma <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> no campo de busca<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> seleciona a música, artista, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s</a>s ou <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> a qual gostaria de começar a estação<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> insere o nome de uma música, um artista, um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a></a>s ou uma <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> no campo de busca<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> seleciona a música, artista, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a></a>s ou <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> a qual gostaria de começar a estação<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> tem acesso a estação<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> passa a ter a estação salva em sua biblioteca	  	
 </td>
@@ -1198,7 +1198,7 @@ postar uma música                </td>
 </tr>
 <tr>
 <th>Objetivo:</th><td class="Estilo">
-o artista cria uma música ou um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s</a>s, e tem o objetivo de postar no spotify.				</td>
+o artista cria uma música ou um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a></a>s, e tem o objetivo de postar no spotify.				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
@@ -1625,11 +1625,11 @@ calendário de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/C
 </tbody></table>
 
 
-## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">Álbum</a>s
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">Álbum</a>
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s				</td>
+<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>				</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">Coleção de músicas de um artista lançada digitalmente com fins comerciais ou de divulgação				</td>
@@ -1638,7 +1638,7 @@ calendário de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/C
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> ouve as músicas de um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s
+<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> ouve as músicas de um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>
 </td>
 </tr>
 <tr>
@@ -1760,7 +1760,7 @@ Coleção que se dispõe de maneira ordenada.				</td>
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">Um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> pode acessar sua biblioteca e por meio dela gerenciar lists, rádios, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s, músicas e etc.
+<th>Impacto(s):</th><td class="Estilo">Um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> pode acessar sua biblioteca e por meio dela gerenciar lists, rádios, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>, músicas e etc.
 </td>
 </tr>
 <tr>
@@ -1844,7 +1844,7 @@ procurar, pesquisar.
 <th>Nome:</th><td class="Estilo">código				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">Imagem gerada pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> que identifica unicamente uma música, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s, perfil, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a>, podcast ou <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#video">Vídeo</a>				</td>
+<th>Noção:</th><td class="Estilo">Imagem gerada pelo <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> que identifica unicamente uma música, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>, perfil, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a>, podcast ou <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#video">Vídeo</a>				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">objeto				</td>
@@ -2055,7 +2055,7 @@ transferência, descarregamento, cópia, baixar..
 <th>Nome:</th><td class="Estilo">estação				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> de músicas parecidas com uma determinada música, gênero, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s ou artista				</td>
+<th>Noção:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> de músicas parecidas com uma determinada música, gênero, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a> ou artista				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">objeto				</td>
@@ -2610,7 +2610,7 @@ podcasts.
 <th>Nome:</th><td class="Estilo">rádio				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">Sistema do spotify que seleciona músicas relacionadas a um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s, artista, música, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> ou gênero para gerar estações para o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>				</td>
+<th>Noção:</th><td class="Estilo">Sistema do spotify que seleciona músicas relacionadas a um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>, artista, música, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#playlist">Playlist</a> ou gênero para gerar estações para o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">objeto				</td>
@@ -2917,7 +2917,7 @@ utilizador, utente, cliente, desfrutador, usuários.
 <th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> artista				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">Aquele <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> que deseja lançar seu próprio <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a>s</a>s e compartilhar com a comunidade spotify				</td>
+<th>Noção:</th><td class="Estilo">Aquele <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> que deseja lançar seu próprio <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbum</a></a>s e compartilhar com a comunidade spotify				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">sujeito				</td>
