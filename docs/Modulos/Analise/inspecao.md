@@ -1,7 +1,7 @@
 # Inspeção
 
 Data| Responsável | Versão| Mudança realizada       
-----|------| --------| ------------ |         
+----|------| --------| ------------         
 05/04/2018| Eduardo Júnio e Geovanne |   1.0   |  Criação de questionário e inspeção de documentos de: rich picture, elicitação e iStar         
 05/04/2018| Amanda |   1.0   |  Inserção de links de  documentos de: rich picture, elicitação e iStar    
 05/04/2018| Amanda  |   1.0   |  Criação de questionário, inspeção e inserção de links de documentos de: especificação suplementar, ágil e NFR         
