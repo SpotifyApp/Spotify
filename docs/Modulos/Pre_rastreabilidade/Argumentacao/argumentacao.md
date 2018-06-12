@@ -54,4 +54,4 @@ Data| Responsável | Versão| Mudança realizada|
 
 ### Versão 1
 
-![Argumentacao](https://imgur.com/a/YxeZNwG)
+![Imgur](https://i.imgur.com/ABvNyKx.jpg)
