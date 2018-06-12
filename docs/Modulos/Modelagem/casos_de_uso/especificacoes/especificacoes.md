@@ -1951,10 +1951,10 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-# Acessar podcasts na biblioteca
+# Acessar vídeos na biblioteca
 
 ## 1. Nome do Caso de Uso
-- [UC48] - Acessar podcasts na biblioteca
+- [UC48] - Acessar vídeos na biblioteca
 
 ## 2.  Breve descrição
 - Apresenta a lista de vídeos salvos na biblioteca do usuário.
