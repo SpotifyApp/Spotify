@@ -2,13 +2,14 @@
 
 Data| Responsável | Versão| Mudança realizada|      
 ----|------| --------| ------------ |         
-15/04/2018| Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas e José Aquile |   1.0   |  Argumentação Artistas  | 
+15/04/2018| Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas e José Aquile |   1.0   |  Argumentação Artistas  |
 15/04/2018| Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas e José Aquile |   1.0   |  Argumentação Pagamento |
 15/04/2018| Eduardo Júnio, Amanda Bezerra, Geovanne, Lucas e José Aquile |   2.0   |  Argumentação Pagamento |
 24/04/2018| Eduardo Júnio | 1.0| Argumentação download de música|
 24/04/2018| Eduardo Júnio | 2.0| Argumentação download de música|
 24/04/2018| Eduardo Júnio | 1.0|  Argumentação interação entre usuários|
 24/04/2018| Eduardo Júnio | 2.0|  Argumentação interação entre usuários|
+24/04/2018| Geovanne Santos | 1.0| Argumentação passagem de música|
 
 
 ## Argumentação Artistas
@@ -48,3 +49,9 @@ Data| Responsável | Versão| Mudança realizada|
 ### Versão 2
 
 ![Imgur](https://i.imgur.com/wsPcgDQ.png)
+
+## Argumentação Passagem de música
+
+### Versão 1
+
+![Argumentacao](https://imgur.com/a/YxeZNwG)

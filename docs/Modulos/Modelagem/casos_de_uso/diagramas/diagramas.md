@@ -20,7 +20,7 @@ Eduardo Júnio|2.0|
 
 <object width="600" height="500" data="../acessar_biblioteca1.0.png"></object>
 
-  
+
 ### Versão 2
 
 <object width="1000" height="900" data="../UC01-Acessar_biblioteca.png"></object>
@@ -47,20 +47,34 @@ Eduardo Júnio|2.0|
 ---
 
 ## Usuário Artista
+
+Autor| Versão|
+-|-|
+Geovanne Santos| 1.0|
+
 <object width="600" height="500" data="../diagrama_usuario_artista.png"></object>
 
 ---
 
 ## Usuário comum
+
+Autor| Versão|
+-|-|
+Geovanne Santos| 1.0|
+
 <object width="600" height="500" data="../diagrama_usuario_comum.png"></object>
 
 ---
 
 ## Usuário Não Cadastrado
+
+Autor| Versão|
+-|-|
+Geovanne Santos| 1.0|
+
 <object width="600" height="500" data="../diagrama_usuário_nao_cadastrado.png"></object>
 
 ---
 
 ## Gerenciar artistas salvos
 <object width="600" height="500" data="../GerenciarArtistasSalvos.jpg"></object>
-
