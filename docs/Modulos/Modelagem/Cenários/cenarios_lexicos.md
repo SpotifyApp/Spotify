@@ -523,7 +523,7 @@ acesso ao spotify                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
-banimento da conta<br>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#banimento-da-conta">banimento de conta</a><br>
 tragédia na equipe de desenvolvimento do spotify<br>
 </td>
 </tr>
@@ -1685,11 +1685,11 @@ app.
 </tr>
 </tbody></table>
 
-## Arquivos locais
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#arquivos-locais">Arquivos locais</a>
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo">arquivos locais				</td>
+<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#arquivos-locais">arquivos locais</a>				</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">mídias armazenadas no computador ou dispositivo do <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>				</td>
@@ -1698,8 +1698,8 @@ app.
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> salva arquivos locais em sua biblioteca do Spotify<br>
-O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> escuta arquivos locais no Spotify
+<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> salva <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#arquivos-locais">arquivos locais</a> em sua biblioteca do Spotify<br>
+O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> escuta <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#arquivos-locais">arquivos locais</a> no Spotify
 </td>
 </tr>
 <tr>
@@ -1716,11 +1716,11 @@ O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/
 </tr>
 </tbody></table>
 
-## 	Banimento da conta
+## 	<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#banimento-da-conta">banimento de conta</a>
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo">banimento da conta				</td>
+<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#banimento-da-conta">banimento de conta</a>				</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">exclusão da conta quando o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> realiza algo que vai contra as normas do spotify				</td>
@@ -2734,7 +2734,7 @@ renomeado.
 <th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#salvar">Salvar</a>				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">É quando o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> adiciona artistas, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbuns</a>s, músicas, podcasts, lists, os, estações de rádio, arquivos locais e daily mixes em sua biblioteca				</td>
+<th>Noção:</th><td class="Estilo">É quando o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> adiciona artistas, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#album">álbuns</a>s, músicas, podcasts, lists, os, estações de rádio, <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#arquivos-locais">arquivos locais</a> e daily mixes em sua biblioteca				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">verbo				</td>
