@@ -8,7 +8,7 @@
 | 06/05/2018 | 1.0 | Criação de NFR de Recomendações | Amanda Bezerra |
 | 06/05/2018 | 1.0 | Criação de NFR de Usabilidade e segurança | Eduardo Júnio |
 | 06/05/2018 | 1.0 | Criação de NFR de Disponibilidade | Geovanne Santos |
-| 06/05/2018 | 1.0 | Criação de NFR | Renato Valério |
+| 06/05/2018 | 1.0 | Criação de NFR de Limitações de uso | Renato Valério |
 
 
 
@@ -31,3 +31,6 @@
 
 ## NFR Disponibilidade
 <a href="../nfr-Disponibilidade.png"><img src="../nfr-Disponibilidade.png"></a>
+
+## NFR Limitações de uso
+<a href="../nfr.jpg"><img src="../nfr.jpg"></a>
