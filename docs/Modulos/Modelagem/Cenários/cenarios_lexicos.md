@@ -1036,7 +1036,7 @@ Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Mod
 <tr>
 <th>Exceção:</th><td class="Estilo">
 Perca de Sinal de internet<br>
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Premium"                 </td>
+Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-premium">usuário Premium</a>                 </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
@@ -1309,7 +1309,7 @@ dispositivo compatível com o <a href="https://spotifyapp.github.io/Spotify/Modu
 <tr>
 <th>Exceção:</th><td class="Estilo">
 Perca de sinal de internet.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Premium".                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-premium">usuário Premium</a>.                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
@@ -2031,7 +2031,7 @@ daily mixes.
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premium pode fazer downloads de músicas.
+<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-premium">usuário Premium</a>  pode fazer downloads de músicas.
 </td>
 </tr>
 <tr>
@@ -3000,7 +3000,7 @@ utilizador, utente, cliente, desfrutador, usuários.
 </tr>
 </tbody></table>
 
-## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premium
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-premium">usuário Premium</a>    
 
 <table>
 <tbody><tr>
