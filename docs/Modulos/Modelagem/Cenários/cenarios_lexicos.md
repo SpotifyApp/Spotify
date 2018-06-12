@@ -452,7 +452,7 @@ Restrição: Não estar com <a href="https://spotifyapp.github.io/Spotify/Modulo
 </tr>
 </tbody></table>
 
-## Criar<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#estacao">estação</a>
+## Criar<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#estacao"> estação</a>
 
 <table>
 <tbody><tr>
@@ -1078,13 +1078,8 @@ Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rio
 <th>Recursos:</th><td class="Estilo">
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#internet">internet</a><br>
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a><br>
-<<<<<<< HEAD
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#conta">conta</a> de perfil padrão<br>
-Ter uma gravadora para intermediar sua relação profissional com o spotify                </td>
-=======
-conta de perfil padrão<br>
-Ter uma gravadora para intermediar sua  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#relacao-profissional">Relação profissional</a>com o spotify                </td>
->>>>>>> 01b914eb346b02f2d38ebef7e584f1fa69b569dd
+Ter uma gravadora para intermediar sua  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#relacao-profissional">Relação profissional</a> com o spotify                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
