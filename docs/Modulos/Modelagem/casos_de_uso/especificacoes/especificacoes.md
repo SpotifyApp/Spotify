@@ -1,15 +1,17 @@
 # Especificações de Casos de Uso
 
+---
+
 Data | Responsável | Versão|
 --------- | ------| --------|
 25/04/2018 | Eduardo Júnio |   1.0   |
 
-#  [UC01] - Gerenciar playlists
+# Gerenciar playlists
 
 <object width="700" height="600" data="../diagrama_de_uso/caso-gerenciar_playlist.png"></object>
 
 ## 1. Nome do Caso de Uso
-- Gerenciar playlists
+- [UC01] - Gerenciar playlists
 
 ## 2.  Breve descrição
 - Gerenciar minhas playlists salvas
@@ -56,10 +58,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC02] - Acessar opções de busca
+#  Acessar opções de busca
 
 ## 1. Nome do Caso de Uso
-- Acessar opções de busca
+- [UC02] - Acessar opções de busca
 
 ## 2.  Breve descrição
 - O usuário deseja procurar por alguma playlist, música ou artista, acessando a página de busca.
@@ -107,10 +109,10 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-#  [UC03] - Acessar playlists
+# Acessar playlists
 
 ## 1. Nome do Caso de Uso
-- Acessar playlists
+- [UC03] - Acessar playlists
 
 ## 2.  Breve descrição
 - Apresenta playlists contendo músicas que foram adicionadas à elas.
@@ -168,10 +170,10 @@ Data | Responsável | Versão|
 27/05/2018 | Geovanne Santos |   1.0   |
 
 
-#  [UC03] - Acessar rádio
+# Acessar rádio
 
 ## 1. Nome do Caso de Uso
-- Acessar rádio
+- [UC03] - Acessar rádio
 
 ## 2.  Breve descrição
 - O usuário deseja que o spotify escolha as músicas que serão tocadas, ou que possa criar qualquer estação de rádio escolhendo os artistas e playlists que irão basear a rádio.
@@ -234,10 +236,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC02] - Adicionar música a uma playlist.
+# Adicionar música a uma playlist.
 
 ## 1. Nome do Caso de Uso
-- Adicionar música a uma playlist.
+- [UC02] - Adicionar música a uma playlist.
 
 ## 2.  Breve descrição
 - O usuário deseja adicionar uma música a uma playlist que ele criou.
@@ -282,10 +284,10 @@ Data | Responsável | Versão| Modificações |
 21/04/2018 | Geovanne Santos |   1.0   | Criação do caso de uso |
 27/05/2018 | Geovanne Santos |   2.0   | refatorar o fluxo alternativo e básico, criação das regras de negócio |
 
-#  [UC06] - Adquirir o plano premiun
+# Adquirir o plano premium
 
 ## 1. Nome do Caso de Uso
-- Adquirir o plano premiun
+- [UC06] - Adquirir o plano premiun
 
 ## 2.  Breve descrição
 - O usuário deseja comprar o plano premiun, para ter acesso a mais funcionalidades.
@@ -434,10 +436,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC06] - cadastro como perfil de artista
+# Cadastro como perfil de artista
 
 ## 1. Nome do Caso de Uso
-- Cadastro como perfil de artista
+- [UC06] - cadastro como perfil de artista
 
 ## 2.  Breve descrição
 - O usuário deseja ter o perfil de artista para postar as próprias músicas.
@@ -492,10 +494,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC08] - Cadastro de usuário comum
+# Cadastro de usuário comum
 
 ## 1. Nome do Caso de Uso
-- Cadastro de usuário comum
+- [UC08] - Cadastro de usuário comum
 
 ## 2.  Breve descrição
 - Criar um cadastro de usuário.
@@ -548,10 +550,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC09] - colocar a agenda de shows
+# Colocar a agenda de shows
 
 ## 1. Nome do Caso de Uso
-- colocar a agenda de shows
+- [UC09] - colocar a agenda de shows
 
 ## 2.  Breve descrição
 - Usuário artista deseja divulgara agenda de shows no seu perfil.
@@ -582,7 +584,7 @@ Data | Responsável | Versão|
 - [FE02] Faltar com alguma informação da parte de shows.
 
 ## 6 Mensagens
-- [M1] está faltanto um campo obrigatório. 
+- [M1] está faltanto um campo obrigatório.
 
 ---
 
@@ -590,10 +592,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 10/06/2018 | José Aquiles |   1.0   |
 
-#  [UC10] - controle de reprodução
+# Controle de reprodução
 
 ## 1. Nome do Caso de Uso
-- controle de reprodução
+- [UC10] - controle de reprodução
 
 ## 2.  Breve descrição
 - O Usuario pode controlar a reprodução que esta ativa em outros dispositivos.
@@ -627,10 +629,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 10/06/2018 | José Aquiles |   1.0   |
 
-#  [UC11] - criar estação
+# Criar estação
 
 ## 1. Nome do Caso de Uso
-- criar estação
+- [UC11] - criar estação
 
 ## 2.  Breve descrição
 - O Usuario pode criar uma estação de rádio a partir de playlist, artista, musica entre outros
@@ -665,10 +667,10 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-#  [UC12] - Criar playlist
+# Criar playlist
 
 ## 1. Nome do Caso de Uso
-- Criar playlist
+- [UC12] - Criar playlist
 
 ## 2.  Breve descrição
 - Cria uma nova playlist que pode ser usada para adicionar músicas que o usuário desejar.
@@ -740,10 +742,10 @@ Data | Responsável | Versão|
 11/08/2018 | José Aquiles |   1.0   |
 
 
-#  [UC13] - divulgação de musicas próprias
+# Divulgação de musicas próprias
 
 ## 1. Nome do Caso de Uso
-- divulgação de musicas próprias
+- [UC13] - divulgação de musicas próprias
 
 ## 2.  Breve descrição
 - O spotify divulga musicas de artistas que tem contrato com gravadora que tem parceria com spotify.
@@ -757,7 +759,7 @@ Data | Responsável | Versão|
 - Ter acesso a internet.
 - Estar logado no aplicativo.
 - Ter contrato com a gravadora.
-- Ter o aplicativo Instalado. 
+- Ter o aplicativo Instalado.
 
 ## 5.  Fluxo de eventos
 
@@ -778,10 +780,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC14] - Editar foto de perfil de conta
+# Editar foto de perfil de conta
 
 ## 1. Nome do Caso de Uso
-- Editar foto de perfil de conta
+- [UC14] - Editar foto de perfil de conta
 
 ## 2.  Breve descrição
 - O usuário quer mudar a foto de perfil da sua conta.
@@ -824,9 +826,9 @@ Data | Responsável | Versão|
 26/04/2018 | Eduardo Júnio |   1.0   |
 27/05/2018 | Eduardo Júnio |   2.0   |
 
-#  [UC15] - Excluir playlists
+# Excluir playlists
 ## 1. Nome do Caso de Uso
-- Excluir playlists
+- [UC15] - Excluir playlists
 
 ## 2. Breve descrição
 - Permite a exclusão de uma playlist selecionada pelo usuário.
@@ -885,10 +887,10 @@ Data | Responsável | Versão| Modificações |
 21/04/2018 | Geovanne Santos |   1.0   | criação do caso de uso |
 26/05/2018 | Geovanne Santos |   2.0   | refatoração do caso de uso |
 
-#  [UC06] - Ficar em modo offline
+# Ficar em modo offline
 
 ## 1. Nome do Caso de Uso
-- ficar em modo offline
+-  [UC06] - Ficar em modo offline
 
 ## 2.  Breve descrição
 - Usuário faz login no aplicativo e deseja reproduzir as músicas em modo offline para não gastar pacote de internet.
@@ -936,10 +938,10 @@ Data | Responsável | Versão|
 11/06/2018 | José Aquiles |   1.0   |
 
 
-#  [UC17] - Informações de reprodução
+# Informações de reprodução
 
 ## 1. Nome do Caso de Uso
-- informações de reprodução
+- [UC17] - Informações de reprodução
 
 ## 2.  Breve descrição
 - Trazer informações sobre reprodução de músicas em andamento em outro dispositivo
@@ -951,7 +953,7 @@ Data | Responsável | Versão|
 - aplicativo Instalado.
 - Estar logado no Spotify.
 - Ter acesso à internet.
-- Spotify reproduzindo música em outro dispositivo. 
+- Spotify reproduzindo música em outro dispositivo.
 
 ## 5.  Fluxo de eventos
 
@@ -960,7 +962,7 @@ Data | Responsável | Versão|
 1. usuário inicia o aplicativo.
 2. aplicativo alerta sobre reprodução ativa em outro dispositivo. [FA01]
 3. usuário clica em música.
-4. usuário acompanha reprodução ativa. 
+4. usuário acompanha reprodução ativa.
 
 ## 5.2 Fluxos alternativos
 
@@ -985,10 +987,10 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-#  [UC18] - Tornar Playlist secreta
+# Tornar Playlist secreta
 
 ## 1. Nome do Caso de Uso
-- Tornar playlist secreta
+- [UC18] - Tornar Playlist secreta
 
 ## 2.  Breve descrição
 - Permite ao usuário tornar uma playlist secreta para que apenas o mesmo possa visualiza-la
@@ -1051,10 +1053,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC06] - Mudar o tipo de perfil
+# Mudar o tipo de perfil
 
 ## 1. Nome do Caso de Uso
-- Mudar o tipo de perfil
+- [UC06] - Mudar o tipo de perfil
 
 ## 2.  Breve descrição
 - O usuário comum deseja se tornar usuário artista.
@@ -1107,13 +1109,13 @@ Data | Responsável | Versão|
 11/06/2018 | José Aquiles |   1.0   |
 
 
-#  [UC17] - Mudar Reprodução ativa
+# Mudar Reprodução ativa
 
 ## 1. Nome do Caso de Uso
-- Mudar reprodução ativa
+- [UC17] - Mudar Reprodução ativa
 
 ## 2.  Breve descrição
-- Mudar o dispositivo com reprodução ativa. 
+- Mudar o dispositivo com reprodução ativa.
 
 ## 3.  Atores
 - Usuário.
@@ -1122,7 +1124,7 @@ Data | Responsável | Versão|
 - aplicativo Instalado.
 - Estar logado no Spotify.
 - Ter acesso à internet.
-- Spotify reproduzindo música em outro dispositivo. 
+- Spotify reproduzindo música em outro dispositivo.
 
 ## 5.  Fluxo de eventos
 
@@ -1132,7 +1134,7 @@ Data | Responsável | Versão|
 2. usuário acessa informações de reprodução.
 3. usuário acessa dispositivos disponíveis
 4. usuário seleciona dispositivo em uso [FA01].
-5. usuário ouve música no dispositivo em uso. 
+5. usuário ouve música no dispositivo em uso.
 
 ## 5.2 Fluxos alternativos
 
@@ -1220,10 +1222,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC23] - postar uma música
+#  Postar uma música
 
 ## 1. Nome do Caso de Uso
-- postar uma música
+- [UC23] - postar uma música
 
 ## 2.  Breve descrição
 - Usuário artista deseja postar uma música no aplicativo spotify.
@@ -1261,10 +1263,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-#  [UC24] - Compartilhar playlists
+# Compartilhar playlists
 
 ## 1. Nome do Caso de Uso
--  Compartilhar playlists
+-  [UC24] - Compartilhar playlists
 
 ## 2.  Breve descrição
 - Permite ao usuário compartilhar playlists de músicas com outras redes sociais.
@@ -1332,10 +1334,10 @@ Data | Responsável | Versão|
 23/04/2018 | Geovanne Santos |   1.0   |
 27/05/2018 | Eduardo Júnio |   2.0   |
 
-#  [UC26] - Renomear playlists
+# Renomear playlists
 
 ## 1. Nome do Caso de Uso
-- Renomear playlists
+- [UC26] - Renomear playlists
 
 ## 2.  Breve descrição
 - Permite ao usuário modificar o nome de uma playlist criada por ele.
@@ -1402,10 +1404,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC27] - Sair do aplicativo
+# Sair do aplicativo
 
 ## 1. Nome do Caso de Uso
-- Sair do aplicativo
+- [UC27] - Sair do aplicativo
 
 ## 2.  Breve descrição
 - Usuário sai da conta atual.
@@ -1433,10 +1435,10 @@ Data | Responsável | Versão|
 21/04/2018 | Geovanne Santos |   1.0   |
 25/05/2018 | Lucas Cunha | 2.0 |
 
-#  [UC29] - Fazer login
+# Fazer login
 
 ## 1. Nome do Caso de Uso
-- Fazer Login
+- [UC29] - Fazer login
 
 ## 2.  Breve descrição
 - Autentica o usuário no aplicativo dando a ele acesso às informações de sua conta e as funcionalidades.
@@ -1507,10 +1509,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC30] - Ver gráficos de rendimento sobre seus álbuns
+# Ver gráficos de rendimento sobre seus álbuns
 
 ## 1. Nome do Caso de Uso
-- Ver gráficos de rendimento sobre seus álbuns.
+- [UC30] - Ver gráficos de rendimento sobre seus álbuns
 
 ## 2.  Breve descrição
 - O usuário artista deseja acessar os gráficos que mostram o desempenho dos seus álbuns e músicas no aplicativo.
@@ -1552,9 +1554,9 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 26/04/2018 | Eduardo Júnio |   1.0   |
 
-#  [UC32] - Download de playlists
+# Download de playlists
 ## 1. Nome do Caso de Uso
-- Download de playlists
+- [UC32] - Download de playlists
 
 ## 2.  Breve descrição
 - Usuário faz o download de playlists que deseja.
@@ -1610,10 +1612,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 23/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC02] - mudar de senha
+# Mudar de senha
 
 ## 1. Nome do Caso de Uso
-- Mudar de senha
+- [UC02] - mudar de senha
 
 ## 2.  Breve descrição
 - O usuário deseja mudar de senha.
@@ -1664,7 +1666,7 @@ Data | Responsável | Versão|
 |----|-----|----|------|
 |18/04/2018|1.0|Especificação da UC08|Geovanne Santos|
 
-<h1>RF14 - Editar dados de conta</h1>
+# Editar dados de conta
 <h4>Descrição:</h4>
 Editar as informações pessoais do usuário.<br />
 <h4>Atores:</h4>
@@ -1703,10 +1705,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 21/04/2018 | Geovanne Santos |   1.0   |
 
-#  [UC39] - atualizar biografia do artista
+# Atualizar biografia do artista
 
 ## 1. Nome do Caso de Uso
-- atualizar biografia do artista
+- [UC39] - atualizar biografia do artista
 
 ## 2.  Breve descrição
 - O artista deseja mudar o conteúdo da biografia que está presente no seu perfil de artista.
@@ -1751,10 +1753,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-#  [UC43] - Compartilhar podcasts
+# Compartilhar podcasts
 
 ## 1. Nome do Caso de Uso
--  Compartilhar podcasts
+-  [UC43] - Compartilhar podcasts
 
 ## 2.  Breve descrição
 - Permite ao usuário compartilhar podcasts em outras redes sociais.
@@ -1818,10 +1820,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-#  [UC44] - Compartilhar programa de vídeo
+# Compartilhar programa de vídeo
 
 ## 1. Nome do Caso de Uso
--  Compartilhar programa de vídeo
+-  [UC44] - Compartilhar programa de vídeo
 
 ## 2.  Breve descrição
 - Permite ao usuário compartilhar programas de vídeo com outras redes sociais.
@@ -1886,10 +1888,10 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-#  [UC47] - Acessar podcasts na biblioteca
+# Acessar podcasts na biblioteca
 
 ## 1. Nome do Caso de Uso
-- Acessar podcasts na biblioteca
+- [UC47] - Acessar podcasts na biblioteca
 
 ## 2.  Breve descrição
 - Apresenta a lista de podcasts salvos na biblioteca do usuário.
@@ -1949,10 +1951,10 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-#  [UC48] - Acessar podcasts na biblioteca
+# Acessar podcasts na biblioteca
 
 ## 1. Nome do Caso de Uso
-- Acessar vídeos na biblioteca
+- [UC48] - Acessar podcasts na biblioteca
 
 ## 2.  Breve descrição
 - Apresenta a lista de vídeos salvos na biblioteca do usuário.
@@ -2012,10 +2014,10 @@ Data | Responsável | Versão|
 27/05/2018 | Eduardo Júnio |   1.0   |
 
 
-#  [UC55] - Acessar álbuns salvos na biblioteca
+# Acessar álbuns salvos na biblioteca
 
 ## 1. Nome do Caso de Uso
-- Acessar álbuns salvos na biblioteca
+- [UC55] - Acessar álbuns salvos na biblioteca
 
 ## 2.  Breve descrição
 - Permite ao usuário acessar os álbuns salvos por ele.
@@ -2075,10 +2077,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-#  [UC56] - Acessar artistas seguidos
+#  Acessar artistas seguidos
 
 ## 1. Nome do Caso de Uso
-- Acessar artistas seguidos
+- [UC56] - Acessar artistas seguidos
 
 ## 2.  Breve descrição
 - Permite ao usuário acessar a lista de artistas que estão sendo seguidos.
@@ -2139,10 +2141,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-#  [UC57] - Acessar mídias tocadas recentemente
+# Acessar mídias tocadas recentemente
 
 ## 1. Nome do Caso de Uso
-- Acessar mídias tocadas recentemente
+- [UC57] - Acessar mídias tocadas recentemente
 
 ## 2.  Breve descrição
 - Permite ao usuário acessar o conteúdo de mídia recentemente reproduzido.
@@ -2201,10 +2203,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-#  [UC58] - Acessar Daily Mix
+# Acessar Daily Mix
 
 ## 1. Nome do Caso de Uso
--  Acessar Daily Mix
+-  [UC58] - Acessar Daily Mix
 
 ## 2.  Breve descrição
 - Permite acessar conteúdos de mídia recomendados pelo spotify ao usuário.
@@ -2264,10 +2266,10 @@ Data | Responsável | Versão|
 --------- | ------| --------|
 27/05/2018 | Eduardo Júnio | 1.0 |
 
-#  [UC59] - Compartilhar música
+# Compartilhar música
 
 ## 1. Nome do Caso de Uso
--  Compartilhar música
+-  [UC59] - Compartilhar música
 
 ## 2.  Breve descrição
 - Permite ao usuário compartilhar músicas com outras redes sociais.
