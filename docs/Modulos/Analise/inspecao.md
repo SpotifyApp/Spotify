@@ -1,10 +1,24 @@
 # Inspeção
 
+Data| Responsável | Versão| Mudança realizada|      
+----|------| --------| ------------ |         
+05/04/2018| Eduardo Júnio e Geovanne |   1.0   |  Criação de questionário e inspeção de documentos de: rich picture, elicitação e iStar   |      
+05/04/2018| Amanda  |   1.0   |  Criação de questionário e inspeção de documentos de: especificação suplementar, ágil e NFR   |      
+05/04/2018| Lucas |   1.0   |  Criação de questionário e inspeção de documentos de casos de uso   |      
+10/06/2018| Amanda |   1.0   |  Criação de questionário e inspeção de documentos de modelo de argumentação   |      
+
 ## Inspeção de rich picture
 
-| Documento | Inspetor(es) | #1 O <br/>ddocumento <br/>apresenta <br/>uma <br/>idéia <br/>geral <br/>de como o <br/>app funciona? | #2 Todos <br/>os <br/>envolvidos<br/> no <br/>contexto <br/>do <br/>spotify <br/>foram <br/>representados <br/>corretamente? | #3 Nas <br/>atualizações <br/>do <br/>RichPicture <br/>houve <br/>melhorias <br/>significativas? | Observações |
+| Documento | Inspetor(es) | #1 O <br/>documento <br/>apresenta <br/>uma <br/>idéia <br/>geral <br/>de como o <br/>app funciona? | #2 Todos <br/>os <br/>envolvidos<br/> no <br/>contexto <br/>do <br/>spotify <br/>foram <br/>representados <br/>corretamente? | #3 Nas <br/>atualizações <br/>do <br/>RichPicture <br/>houve <br/>melhorias <br/>significativas? | Observações |
 | --- | --- | --- | --- | --- | --- |
 | [RichPicture Versão 2.0](https://spotifyapp.github.io/Spotify/Modulos/Pre_rastreabilidade/Rich%20picture/richpictures/#ferramenta-grafica) | Eduardo e Geovanne | 8	| 10	| 7	| Desenhar novos richpictures que detalhem mais a relação entre os módulos do spotify |
+
+## Inspeção de modelos de argumentação
+
+| Documento | Inspetor(es) | #1 Os <br/>argumentos <br/>estão <br/>descritos <br/>de <br/>forma <br/>clara <br/>e <br/>inequívoca? | #2 Todos <br/>os <br/>conflitos <br/>foram <br/>resolvidos <br/> de <br/> form <br/> satisfatória? | #3 O <br/>documento utiliza <br/>os <br/>elementos <br/>do <br/>Framework <br/>de <br/>Avaliação <br/>da <br/>Aceitabilidade <br/>de <br/>forma <br/>correta? | #4 AOs <br/>argumentos <br/>estão<br/>consistentes <br/>com <br/>o <br/>domínio <br/>da <br/>aplicação? | Observações
+| --- | --- | --- | --- | --- | --- | --- |
+| [Argumentação Artistas](https://spotifyapp.github.io/Spotify/Modulos/Pre_rastreabilidade/Argumentacao/argumentacao/#argumentacao-artistas) | Amanda | 10	| 9	| 10	| 10 | Enriquecer o modelo com mais argumentos, ampliando o debate; Adicionar mais modelos que cubram outros assuntos |
+| [Argumentação Pagamento](https://spotifyapp.github.io/Spotify/Modulos/Pre_rastreabilidade/Argumentacao/argumentacao/#argumentacao-pagamento) | Amanda | 10	| 9	| 10	| 10 | Enriquecer o modelo com mais argumentos, ampliando o debate; Adicionar mais modelos que cubram outros assuntos |
 
 ## Inspeção de documentos de elicitação
 
@@ -29,6 +43,16 @@
 | [Product Backlog](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/agil/product_backlog/) | Amanda | 10	|10	|0	|7	|0	|0	|0	|5	|7	|Adicionar títulos às histórias; Mudar a forma de priorização para ficar de acordo com o Moscow; Escrever critérios e tarefas pra as histórias; Escrever mais histórias|
 | [Sprint Backlog](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/agil/sprint_backlog/) | Amanda |10	|10	|0	|7	|N/A	|N/A	|8	|5	|N/A	|Melhorar títulos das histórias|
 
+## Inspeção de casos de uso
+Documentos inspecionados:
+
+* [Diagramas de Caso de Uso](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/casos_de_uso/diagramas/diagramas/)
+* [Especificações de Casos de Uso](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/)
+
+Inspeção:
+
+* [Inspeção dos casos de uso](https://docs.google.com/spreadsheets/d/1YQPuXqYPk38AuKlZt65KxKbBEDaPMV1MKZ0X4LOvruY/edit#gid=1739352626)
+
 ## Inspeção de NFR
 
 | Documento | Inspetor(es) | #1 Os <br/>softgoals<br/> possuem<br/> operacionalizações? | #2 As<br/> operacionalizações<br/> foram<br/> escritas<br/> de<br/> forma<br/> a<br/> expressar<br/> uma<br/> ação?	| #3 As<br/> ligações<br/> indicam<br/> corretamente<br/> as<br/> contribuições<br/> e<br/> decomposições?	| #4 As <br/>labels<br/> foram<br/> utilizadas<br/> de<br/> forma<br/> correta?	| #5 As <br/>correlações<br/> entre<br/> softgoals<br/> estão<br/> explícitas?	| #6 As<br/> informações<br/> foram<br/> detalhadas<br/> de<br/> forma<br/> clara<br/> e<br/> inequívoca?	| #7 As <br/>decisões<br/> de<br/> priorização<br/> foram<br/> bem<br/> justificadas? | Observações |
@@ -42,13 +66,3 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Strategic Rationale Model](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/iStar/istar/#versao-20_1) | Eduardo e Geovanne | 8	|9	|10	|10	|9	|9	|4	|Refatorar os links gerais e as relações entre as tarefas e metas.|
 | [Strategic Dependency Model](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/iStar/istar/#versao-20) | Eduardo e Geovanne |3	|N/A	|10	|N/A	|3	|9	|10	|Adicionar mais recursos, tarefas, atores, softgoals e dependências.|
-
-## Inspeção de casos de uso
-Documentos inspecionados:
-
-* [Diagramas de Caso de Uso](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/casos_de_uso/diagramas/diagramas/)
-* [Especificações de Casos de Uso](https://spotifyapp.github.io/Spotify/Modulos/Modelagem/casos_de_uso/especificacoes/especificacoes/)
-
-Inspeção:
-
-* [Inspeção dos casos de uso](https://docs.google.com/spreadsheets/d/1YQPuXqYPk38AuKlZt65KxKbBEDaPMV1MKZ0X4LOvruY/edit#gid=1739352626)
