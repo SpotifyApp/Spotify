@@ -551,7 +551,7 @@ design do produto                 </td>
 </tr>
 <tr>
 <th>Objetivo:</th><td class="Estilo">
-interface simples e interativa ao <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> é uma forma de atrair e reter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>.				</td>
+ <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#internet">interface</a> simples e interativa ao <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> é uma forma de atrair e reter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>.				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
@@ -576,7 +576,7 @@ Sem sinal de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen
 <tr>
 <th>Episódios:</th><td class="Estilo">
 <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessa o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> consegue usar com as informações da interface, sem muitas dificuldades.	  	
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> consegue usar com as informações da  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#internet">interface</a>, sem muitas dificuldades.	  	
 </td>
 </tr>
 </tbody></table>
@@ -2268,11 +2268,11 @@ categoria, gêneros.
 </tr>
 </tbody></table>
 
-## Interface
+##  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#internet">Interface</a>
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo">interface				</td>
+<th>Nome:</th><td class="Estilo"> <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#internet">interface</a>				</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">tela no qual o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> visualiza a aplicação				</td>
@@ -2281,7 +2281,7 @@ categoria, gêneros.
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> interage com a interface para utilizar o spotify
+<th>Impacto(s):</th><td class="Estilo">o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> interage com a  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#internet">interface</a> para utilizar o spotify
 </td>
 </tr>
 <tr>
