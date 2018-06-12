@@ -8,6 +8,9 @@
 | 06/05/2018 | 1.0 | Criação de NFR de Recomendações | Amanda Bezerra |
 | 06/05/2018 | 1.0 | Criação de NFR de Usabilidade e segurança | Eduardo Júnio |
 | 06/05/2018 | 1.0 | Criação de NFR de Disponibilidade | Geovanne Santos |
+| 06/05/2018 | 1.0 | Criação de NFR | Renato Valério |
+
+
 
 
 

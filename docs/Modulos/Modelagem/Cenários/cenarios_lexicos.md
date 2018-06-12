@@ -250,13 +250,13 @@ Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/
 </tr>
 <tr>
 <th>Atores:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> free                </td>  
+ <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a>               </td>  
 </tr>
 <tr>
 <th>Recursos:</th><td class="Estilo">
 Spotify<br>
 internet<br>
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> free                </td>
+Ser  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a>                 </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
@@ -372,7 +372,7 @@ cadastro de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%
 </tr>
 <tr>
 <th>Objetivo:</th><td class="Estilo">
-Criar um perfil de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a></a> padrão				</td>
+Criar um perfil de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a> 				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
@@ -791,7 +791,7 @@ Ter adquirido o pacote premiun                </td>
 </tr>
 <tr>
 <th>Exceção:</th><td class="Estilo">
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> free                </td>
+Ser <a  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a>                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
@@ -969,7 +969,7 @@ Forma de fazer com que o <a href="https://spotifyapp.github.io/Spotify/Modulos/M
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Free"<br>
+Ser  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a> <br>
 Ter acesso a internet<br>
 Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a><br>
 Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> instalado<br>
@@ -1017,7 +1017,7 @@ Limitações de uso ao plano "Free" , baseado no plano de marketing chamado "fre
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Free".<br>
+Ser  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a>.<br>
 Ter acesso a internet.<br>
 Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>.<br>
 Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> Instalado.		 
@@ -1036,7 +1036,7 @@ Dispositivos de que suportem o <a href="https://spotifyapp.github.io/Spotify/Mod
 <tr>
 <th>Exceção:</th><td class="Estilo">
 Perca de Sinal de internet<br>
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Premium"                 </td>
+Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-premium">usuário Premium</a>                 </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
@@ -1059,19 +1059,19 @@ mudar o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A
 </tr>
 <tr>
 <th>Objetivo:</th><td class="Estilo">
-Se o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> se cadastra como <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão e depois deseja migrar para artista isso é possível				</td>
+Se o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> se cadastra como <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a>  e depois deseja migrar para artista isso é possível				</td>
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
 Ter acesso a internet<br>
 Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> instalado<br>
 Estar logado <br>
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão		 
+Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a> 	 
 </td>
 </tr>
 <tr>
 <th>Atores:</th><td class="Estilo">
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão                </td>  
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a>                </td>  
 </tr>
 <tr>
 <th>Recursos:</th><td class="Estilo">
@@ -1089,7 +1089,7 @@ o spotify não autorizar sua migração de <a href="https://spotifyapp.github.io
 <tr>
 <th>Episódios:</th><td class="Estilo">
 Instala o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a><br>
-Faz o cadastro de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão<br>
+Faz o cadastro de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a> <br>
 Deseja mudar de perfil padrão para perfil de artista<br>
 O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> coloca os dados adicionais e manda o formulário pro spotify avaliar a autenticidade, <br>
 o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> manda um símbolo na tela de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a>, que seria um símbolo de positivo.	  	
@@ -1246,7 +1246,7 @@ Propagandas durante a programação musical para quem está no modelo “Free”
 </tr>
 <tr>
 <th>Contexto:</th><td class="Estilo">
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Free"<br>
+Ser  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a> <br>
 Ter acesso a internet.<br>
 Estar logado no <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>.<br>
 Ter o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> Instalado.		 
@@ -1292,7 +1292,7 @@ Propagandas de tempo em tempo no modelo “Free” é um modelo de marketing par
 Ter acesso a internet.<br>
 Ter <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a> instalado.<br>
 Estar logado ao <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#aplicativo">aplicativo</a>.<br>
-Ser <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Free".<br>
+Ser  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a>.<br>
 Estar passando músicas.		 
 </td>
 </tr>
@@ -1309,7 +1309,7 @@ dispositivo compatível com o <a href="https://spotifyapp.github.io/Spotify/Modu
 <tr>
 <th>Exceção:</th><td class="Estilo">
 Perca de sinal de internet.<br>
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> "Premium".                </td>
+<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-premium">usuário Premium</a>.                </td>
 </tr>
 <tr>
 <th>Episódios:</th><td class="Estilo">
@@ -2031,7 +2031,7 @@ daily mixes.
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premium pode fazer downloads de músicas.
+<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-premium">usuário Premium</a>  pode fazer downloads de músicas.
 </td>
 </tr>
 <tr>
@@ -2830,7 +2830,7 @@ renomeado.
 <th>Classificação:</th><td class="Estilo">objeto				</td>
 </tr>
 <tr>
-<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessando o Spotify , independente do tipo de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> , free ou premium, tem acesso ah chats e atributos para atendimento, tendo auxilio para tentar resolver seu problema.
+<th>Impacto(s):</th><td class="Estilo">O <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> acessando o Spotify , independente do tipo de  <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a>  ou premium, tem acesso ah chats e atributos para atendimento, tendo auxilio para tentar resolver seu problema.
 </td>
 </tr>
 <tr>
@@ -2854,7 +2854,7 @@ suporte.
 <th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#tipo-de-perfil">Tipo de perfil</a>				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">no spotify existem dois tipos de perfis, o de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão e o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> artista, onde em cada um terá funcionalidades específicas.				</td>
+<th>Noção:</th><td class="Estilo">no spotify existem dois tipos de perfis, o de <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a>  e o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> artista, onde em cada um terá funcionalidades específicas.				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">sujeito				</td>
@@ -2940,14 +2940,14 @@ utilizador, utente, cliente, desfrutador, usuários.
 </tr>
 </tbody></table>
 
-## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> free
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a> 
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> free 				</td>
+<th>Nome:</th><td class="Estilo"> <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a>  				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">é o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão básico, com funcionalidades básicas e limitadas				</td>
+<th>Noção:</th><td class="Estilo">é o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a>  básico, com funcionalidades básicas e limitadas				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">sujeito				</td>
@@ -2963,18 +2963,18 @@ utilizador, utente, cliente, desfrutador, usuários.
 
 <td class="Estilo">
 
-<a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> free.    
+ <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-free">usuário free</a> .    
 
 </td>
 
 </tr>
 </tbody></table>
 
-## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a> 
 
 <table>
 <tbody><tr>
-<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão				</td>
+<th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a> 			</td>
 </tr>
 <tr>
 <th>Noção:</th><td class="Estilo">Aquele <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> que não pode postar músicas e nem estabelecer uma relação profissional com o spotify, ou seja, que não é o perfil de artista. 				</td>
@@ -3000,14 +3000,14 @@ utilizador, utente, cliente, desfrutador, usuários.
 </tr>
 </tbody></table>
 
-## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premium
+## <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-premium">usuário Premium</a>    
 
 <table>
 <tbody><tr>
 <th>Nome:</th><td class="Estilo"><a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> premiun				</td>
 </tr>
 <tr>
-<th>Noção:</th><td class="Estilo">é o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> que comprou um pacote para ter todas as funcionalidades de um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> padrão.				</td>
+<th>Noção:</th><td class="Estilo">é o <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario">usuário</a> que comprou um pacote para ter todas as funcionalidades de um <a href="https://spotifyapp.github.io/Spotify/Modulos/Modelagem/Cen%C3%A1rios/cenarios_lexicos/#usuario-padrao">usuário padrão</a> 				</td>
 </tr>
 <tr>
 <th>Classificação:</th><td class="Estilo">sujeito				</td>
