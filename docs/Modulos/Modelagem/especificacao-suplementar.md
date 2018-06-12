@@ -5,7 +5,7 @@
 | 17/04/2018 | 0.1 | Criação, funcionalidade, interfaces de comunicações, interfaces de Software, interfaces de hardware, interfaces de usuário, usabilidade | Eduardo Júnio |
 | 17/04/2018 | 0.2 | Finalidade, Definições e acrônimos e abreviações | Renato Valério |
 | 17/04/2018 | 0.3 | Requisitos de usabilidade, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line, Componentes de Terceiros, Requisitos de Licenciamento, Observações Legais, de Direitos Autorais etc | Amanda Bezerra |
-| 17/04/2018 | 0.4 | --- | Geovanne Santos |
+| 17/04/2018 | 0.4 |refatorar a tabela suplementar, fazer os links com os documentos de elicitação, adicionar novo requisitos na tabela suplementar | Geovanne Santos |
 | 27/05/2018 | 0.5 | Atualização de requisitos funcionais de biblioteca | Eduardo Júnio |
 
 # 1.Introdução
